@@ -5,7 +5,7 @@
 
 <mark style="color:green;">Os webhooks são úteis para: Automatizar processos, Melhorar o fluxo de trabalho, Economizar recursos e custos do servidor, Integrar com serviços de terceiros e outras APIs externas.</mark>&#x20;
 
-<mark style="color:green;">Os webhooks são diferentes das APIs, que permitem a comunicação entre aplicativos, mas funcionam de forma diferente. Uma API é um conjunto de protocolos e rotinas para construir e interagir com aplicativos de software, enquanto um webhook é uma forma de um aplicativo notificar outro quando ocorre um evento específico.</mark>&#x20;
+<mark style="color:green;">Os webhooks são semelhantes as APIs, que permitem a comunicação entre aplicativos, mas funcionam de forma diferente. Uma API é um conjunto de protocolos e rotinas para construir e interagir com aplicativos de software, enquanto um webhook é uma forma de um aplicativo notificar outro quando ocorre um evento específico.</mark>&#x20;
 {% endhint %}
 
 Este menu permite ao cliente configurar Webhooks para acompanhar o andamento dos seus processos de assinaturas de documentos.
