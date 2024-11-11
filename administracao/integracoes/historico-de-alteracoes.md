@@ -12,6 +12,14 @@ Foi criado em [**Integrações o menu Webhook**](webhook.md). Seu objetivo é po
 
 <details>
 
+<summary>2.3.0 - 31/10/2024</summary>
+
+Foi criado em [**Integrações o menu Webhook**](webhook.md). Seu objetivo é possibilitar ao cliente acompanhar o andamento dos processos de assinaturas dos documentos. Conforme a configuração de webhook, o usuário receberá os dados de execução dos processos por meio dos eventos/gatilhos.
+
+</details>
+
+<details>
+
 <summary>06/09/2024</summary>
 
 Criada de nova rota para a API ArqSign.
