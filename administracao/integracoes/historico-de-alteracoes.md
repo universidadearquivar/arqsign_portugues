@@ -4,9 +4,21 @@
 
 <details>
 
-<summary>2.3.0 - 31/10/2024</summary>
+<summary>2.3.1 - 11/11/2024</summary>
 
-Foi criado em [**Integrações o menu Webhook**](webhook.md). Seu objetivo é possibilitar ao cliente acompanhar o andamento dos processos de assinaturas dos documentos. Conforme a configuração de webhook, o usuário receberá os dados de execução dos processos por meio dos eventos/gatilhos.
+Foi realizada a descontinuidade da V1 dos métodos:
+
+*   ## POST/api/v1/processo/enviar-documento-para-assinar
+
+
+*   ## GET/api/v1/processo/{idprocesso}
+
+
+*   ## PATCH/api/v1/processo/{idProcesso}/reenviar-processo
+
+
+
+Para mais detalhes, clique [aqui](api/metodos-disponiveis-na-api/).
 
 </details>
 
