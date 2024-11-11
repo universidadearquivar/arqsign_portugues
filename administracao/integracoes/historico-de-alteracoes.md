@@ -6,17 +6,11 @@
 
 <summary>2.3.1 - 11/11/2024</summary>
 
-Foi realizada a descontinuidade da V1 dos métodos:
+Foi realizada a descontinuidade da versão 1 (V1) dos métodos:
 
-*   ## POST/api/v1/processo/enviar-documento-para-assinar
-
-
-*   ## GET/api/v1/processo/{idprocesso}
-
-
-*   ## PATCH/api/v1/processo/{idProcesso}/reenviar-processo
-
-
+* POST/api/v1/processo/enviar-documento-para-assinar
+* GET/api/v1/processo/{idprocesso}
+* PATCH/api/v1/processo/{idProcesso}/reenviar-processo
 
 Para mais detalhes, clique [aqui](api/metodos-disponiveis-na-api/).
 
