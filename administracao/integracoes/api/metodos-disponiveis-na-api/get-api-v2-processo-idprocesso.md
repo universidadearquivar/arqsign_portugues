@@ -223,15 +223,15 @@ O sistema retorna informação de motivo da recusa da assinatura do(s) documento
 
 O sistema retorna dados de código de segurança somente se o signatário possuir estas configurações para acessar o(s) documento(s) do processo.
 
-**19.13.1. codigoSeguranca**
+* **codigoSeguranca**
 
 &#x20;O sistema retorna o código de segurança gerado ao enviar o processo par assinaturas.
 
-**19.13.2. codigoSegurancaEmail**
+* **codigoSegurancaEmail**
 
 O sistema retorna o e-mail quando o código de segurança foi enviado por **e-mail.**
 
-**19.13.3. codigoSegurancaTelefone**
+* **codigoSegurancaTelefone**
 
 O sistema retorna o telefone quando o código de segurança foi enviado por **WhatsApp** ou **SMS**.
 
@@ -239,11 +239,11 @@ O sistema retorna o telefone quando o código de segurança foi enviado por **Wh
 
 O sistema retorna o(s) papel(is) somente se o signatário possuir estas configurações.
 
-**19.14.1. pessoaFisica**
+* **pessoaFisica**
 
 O sistema retorna esta informação quando o signatário possui papel(is) como pessoa física.
 
-**19.14.2. pessoaJuridica**
+* **pessoaJuridica**
 
 O sistema retorna esta informação quando o signatário possui papel(is) como pessoa jurídica.
 
@@ -251,20 +251,20 @@ O sistema retorna esta informação quando o signatário possui papel(is) como p
 
 O sistema retorna dados de assinatura do signatário.
 
-**19.15.1. tipoAssinatura**
+* **tipoAssinatura**
 
 O sistema retorna o tipo de assinatura que o signatário executou ou executará. Este parâmetro pode ter o valor: **Assinatura Eletrônica** ou **Certificado Digital - ICP Brasil,** ou **Certificado Digital – Outros.**\
 Quando o **tipo de ação** do signatário for igual a **Receber uma cópia**, o parâmetro **tipoAssinatura** será **null**.
 
-**19.15.2. dataAssinatura**
+* **dataAssinatura**
 
 O sistema retorna a data que o signatário assinou o documento. Este parâmetro terá valor null quando o signatário não assinou o(s) documento(s) do processo.
 
-**19.15.3. ip**
+* **ip**
 
 O sistema retorna o IP do signatário que assinou o documento. Este parâmetro terá valor null quando o signatário não assinou o(s) documento(s) do processo.
 
-**19.15.5. geoLocalizacao**
+* **geoLocalizacao**
 
 O sistema retorna a geolocalização do signatário que assinou o documento. Este parâmetro terá valor null quando o signatário não assinou o(s) documento(s) do processo ou quando o signatário não permitiu capturar a sua localização.
 
@@ -272,19 +272,19 @@ O sistema retorna a geolocalização do signatário que assinou o documento. Est
 
 O sistema retorna os dados do certificado utilizado para assinatura do(s) documento(s) do processo. Estes parâmetros terão valor null quando o signatário não assinou o(s) documento(s) do processo.
 
-**19.16.1. nome**
+* **nome**
 
 O sistema retorna o nome do certificado.
 
-**19.16.2. emissor**
+* **emissor**
 
 O sistema retorna o emissor do certificado.
 
-**19.16.3. validadeInicio**
+* **validadeInicio**
 
 O sistema retorna o início da validade do certificado.
 
-**19.16.4. validadeFim**
+* **validadeFim**
 
 O sistema retorna o final da validade do certificado.
 
@@ -296,20 +296,20 @@ Estes dados serão retornados quando signatários com tipo de assinatura eletrô
 * O tipo de assinatura eletrônica e o signatário não informou os dados de pessoa física, ou
 * Signatário não assinou o(s) documento(s) do processo.
 
-**19.17.1. nomePessoaFisica**
+**nomePessoaFisica**
 
 O sistema retorna o nome informado pelo signatário ao assinar o(s) documento(s) do processo.
 
-**19.17.2. tipoDocumentoPessoaFisica**
+**tipoDocumentoPessoaFisica**
 
 O sistema retorna o tipo do documento de pessoa física do signatário. Este terá o valor definido no envio documento que pode ser **CPF, CNH, RG** ou **Outro**.\
 Quando o tipo do documento de pessoa física for definido como **Outro**, o sistema deve exibir o nome do tipo do documento definido pelo usuário/remetente do processo.
 
-**19.17.3. numeroDocumetoPessoaFisica**
+**numeroDocumetoPessoaFisica**
 
 O sistema retorna o número do documento de pessoa física informado pelo signatário ao assinar o(s) documento(s) do processo.
 
-**19.18. dadosPessoaJuridica**
+**dadosPessoaJuridica**
 
 Estes dados serão retornados quando signatários com tipo de assinatura eletrônica informar os dados de pessoa jurídica. Estes parâmetros terão valor null quando:
 
@@ -317,27 +317,27 @@ Estes dados serão retornados quando signatários com tipo de assinatura eletrô
 * O tipo de assinatura eletrônica e o signatário não informou os dados de pessoa jurídica, ou
 * Signatário não assinou o(s) documento(s) do processo.
 
-**19.18.1.nomeEmpresa**
+**nomeEmpresa**
 
 O sistema retorna o nome da empresa informado pelo signatário.
 
-**19.18.2. tipoDocumentoEmpresa**
+**tipoDocumentoEmpresa**
 
 O sistema retorna o tipo do documento de pessoa jurídica do signatário ao assinar o(s) documento(s) do processo. Este terá o valor definido no envio documento que pode ser **CNPJ** ou **Outro**. Quando o tipo do documento de pessoa jurídica for definido como **Outro**, o sistema deve exibir o nome do tipo do documento definido pelo usuário.
 
-**19.18.3. numeroDocumentoEmpresa**
+**numeroDocumentoEmpresa**
 
 O sistema retorna o número do documento da empresa informado pelo signatário ao assinar o(s) documento(s) do processo.
 
-**19.19. anexos**
+**anexos**
 
 O sistema retorna os dados de anexos quando o signatário que assinou o(s) documento(s) realizar upload de anexos, conforme a configuração do processo. Estes parâmetros terão valor null quando não houver anexos para o signatário.
 
-**19.19.1. id**
+* **id**
 
 O sistema retorna o id do anexo inserido pelo signatário.
 
-**19.19.2. anexoDocumentoNome**
+* **anexoDocumentoNome**
 
 O sistema retorna o nome do anexo do signatário.
 
@@ -345,32 +345,36 @@ O sistema retorna o nome do anexo do signatário.
 
 Um processo de assinatura poder conter um ou mais documentos para serem assinados.
 
-**20. documentos**
+**documentos**
 
 O sistema retorna o(s) documento(s) do processo de assinatura na ordem definida do parâmetro **"ordemDocumento"**, com seu respectivo registro de assinaturas.
 
-**20.1. ordemDocumento**&#x20;
+**id**&#x20;
+
+O sistema retorna o id do documento, em questão.
+
+**ordemDocumento**&#x20;
 
 O sistema retorna a ordem do documento definida no momento que o processo foi enviado.
 
-**20.2. nomeDocumento**
+**nomeDocumento**
 
 O sistema retorna o nome do documento.
 
-**20.3. base64Documento**
+**base64Documento**
 
 O sistema retorna o base64 do arquivo.
 
-**20.4. registroAssinaturas**
+**registroAssinaturas**
 
 O sistema retorna, para cada documento do processo, o respectivo registro de assinaturas.
 
-**20.4.1. nome**
+* **nome**
 
 O sistema retorna o nome do registro de assinaturas do documento. O nome do registro de assinatura deve conter o nome do documento mais a String “\_registro de assinaturas”.\
 Exemplo.: Contrato de Aluguel\_Registro de assinaturas.pdf
 
-**20.4.2. base64**
+* **base64**
 
 O sistema retorna o base64 do arquivo do registro de assinaturas do documento.
 
