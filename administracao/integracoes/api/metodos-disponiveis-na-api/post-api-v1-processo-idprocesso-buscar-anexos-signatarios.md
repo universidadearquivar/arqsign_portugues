@@ -24,7 +24,6 @@ Quando campo requerido estiver como “Talvez” = Em alguns casos ele será req
         "guid"
                 ]
 }
-
 ```
 
 ## Validações
@@ -137,18 +136,18 @@ O sistema retorna o nome do signatário.
 
 O sistema retorna os anexos do signatário, ordenados pelo nome.
 
-&#x20;**3.1- id**
-
+> **3.1- id**
+>
 > O sistema retorna o id do anexo do signatário.
 
-&#x20;**3.2- nome**
-
+> **3.2- nome**
+>
 > O sistema retorna o nome configuração + o nome anexo do signatário (com a extensão).
 
-&#x20;**3.3- arquivo**
-
+> **3.3- arquivo**
+>
 > O sistema retorna arquivo/anexo do signatário no formato base64, quando no parâmetro arquivoTipo for enviado o valor 1 (um).
-
+>
 > O sistema retorna o link para download do arquivo/anexo do signatário, quando no parâmetro arquivoTipo for enviado o valor 2(dois).
 
 ### Retorno - Exemplo Body
