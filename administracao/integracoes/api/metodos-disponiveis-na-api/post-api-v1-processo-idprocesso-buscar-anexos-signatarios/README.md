@@ -12,7 +12,7 @@ Quando campo requerido estiver como “Não” = Informação Opcional
 
 Quando campo requerido estiver como “Talvez” = Em alguns casos ele será requerido. Para saber estes casos, consultar a descrição do tópico, conforme o número de referência da linha na tabela.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_2 (2).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot_2 (2).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 #### Exemplo Body Request
 
@@ -120,7 +120,7 @@ Este erro é retornado quando:
 
 &#x20;Status 200 - Success
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_3 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot_3 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ### Anexos dos signatários do processo
 
