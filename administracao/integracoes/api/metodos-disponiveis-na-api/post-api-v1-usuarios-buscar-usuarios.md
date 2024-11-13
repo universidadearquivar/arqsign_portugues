@@ -12,7 +12,7 @@ Quando campo requerido estiver como “Não” = Informação Opcional
 
 Quando campo requerido estiver como “Talvez” = Em alguns casos ele será requerido. Para saber estes casos, consultar a descrição do tópico das validações específicas.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ### Exemplo Body Request
 

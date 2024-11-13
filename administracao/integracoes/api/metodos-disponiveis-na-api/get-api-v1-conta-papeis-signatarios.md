@@ -1,16 +1,16 @@
-# ✔️ GET api/v1/processo/{idArquivoProcesso}/registro-assinaturas
+# ✔️ GET api/v1/conta/papeis-signatarios
 
-Este serviço permite buscar o base64 do registro de assinatura de um arquivo processo.
+Este serviço permite buscar os papéis de signatário da conta.
+
+## Requisição
 
 ## Validações
 
-### Validações gerais
+### &#x20;Validações gerais
 
-&#x20;1- O usuário deve informar AppKey e SubscriptionKey (SubscriptionKey1 ou SubscriptionKey2) da conta.
+&#x20;1- Para autenticar na API da ArqSign, o usuário deve informar a  AppKey da conta que está buscando os dados dos papeis de signatários.
 
-&#x20;2- Somente conta com status Ativo pode permitir buscar o registro de assinatura de um ArquivoProcesso via integração ArqSign.
-
-&#x20;3- O sistema retorna o registro de assinatura somente para **processos com status diferente de criado.**
+&#x20;2- Somente conta com status Ativo pode buscar dados dos papeis de signatários da conta via integração ArqSign.
 
 ## Retorno validações
 
@@ -42,7 +42,7 @@ Este erro é retornado quando a chave de autenticação da API ArqSign está inc
 
 Este erro é retornado quando o recurso solicitado ou o _endpoint_ não foi localizado.
 
-### &#x20;Erro: 500 - Server Error
+### Erro: 500 - Server Error
 
 Este erro é retornado quando:
 
@@ -54,30 +54,33 @@ Este erro é retornado quando:
 
 Status 200 - Success
 
-&#x20;O sistema retorna o arquivo em formato base64 do registro de assinatura para o idArquivoProcesso informado.
+&#x20;O sistema retorna os papeis de signatários da conta.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
-### Dados do registro de assinaturas
+### Dados dos Papeis do signatário
 
-**1 - id**
+&#x20;**1 - id**
 
-O sistema retorna o id do arquivo processo a que se refere o registro de assinatura.
+O sistema retorna o id do papel signatário.
 
-**2 - nome**
+&#x20; **2 - nome**
 
-O sistema retorna o nome do documento a que se refere o registro de assinatura + a palavra “Registro de Assinaturas”. Exemplo: “Contrato\_Registro de Assinaturas.pdf”
+O sistema retorna o nome do papel signatário.
 
-**3 - base64**
+&#x20; **3 - padrao**
 
-O sistema retorna o base64 do registro de assinatura.
+O sistema retorna informação se o papel signatário é padrão ou não (true ou false).
 
-### Retorno - Exemplo Body Response
+### &#x20;Retorno - Exemplo Body Response
 
 ```json
-{
-  "idArquivoProcesso": "guid",
-  "nome": "string",
-  "base64": "base64",
-}
+[
+   {
+     "id": "guid",
+     "nome": "string",
+     "padrao": "booleano",
+   }
+]
 ```
+
