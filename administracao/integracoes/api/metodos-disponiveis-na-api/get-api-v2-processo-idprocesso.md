@@ -72,7 +72,7 @@ O sistema deve retornar os dados do processo, dados dos signatários, arquivo do
 * Dados dos signatários
 * Documentos do processo com seu respectivo registro de assinatura.
 
-<figure><img src="../../../../.gitbook/assets/GET v2 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Ativo 1.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ### Dados do processo
 
