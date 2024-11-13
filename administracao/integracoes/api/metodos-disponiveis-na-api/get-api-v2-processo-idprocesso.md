@@ -79,62 +79,62 @@ O sistema retorna os dados do processo, dados dos signatários, arquivo do proce
 
 Esta parte do JSON retorna os dados do processo de assinatura.
 
-#### 1. nomeProcesso
+#### nomeProcesso
 
 O sistema retorna o nome do processo.
 
-#### 2. idPasta
+#### idPasta
 
 O sistema retorna o id da pasta do processo.
 
-#### 3. caminhodaPasta
+#### caminhodaPasta
 
 O sistema retorna o caminho da pasta do processo.\
 Ex.:  Arquivar \\\Administração \\\ Contratos
 
-#### 4. idResponsavel
+#### idResponsavel
 
 O sistema retorna o id do responsável (remetente) do processo.
 
-#### 5. nomeResponsavel
+#### nomeResponsavel
 
 O sistema retorna o nome do responsável do processo.
 
-#### 6. status
+#### status
 
 O sistema retorna o status do processo **(Criado, Aguardando, Em processo, Concluído ou Cancelado).**
 
-#### 7. dataCadastro
+#### dataCadastro
 
 O sistema retorna a data de cadastro do processo.
 
-#### 8. dataEnvio
+#### dataEnvio
 
 O sistema retorna a data de envio do processo. O processo terá data de envio **(dataEnvio)** quando o status for diferente de **Criado**.
 
-#### 9. dataConclusao
+#### dataConclusao
 
 O sistema retorna a data de conclusão do processo. O processo terá data de conclusão **(dataConclusao)** quando o status for igual a **Concluído**.
 
-#### 10. dataRenovacao
+#### dataRenovacao
 
 O sistema retorna a data de renovação do processo. O processo terá data de renovação **(dataRenovacao)** quando houver configuração de renovação e o documento estiver com status **Concluído**.
 
-&#x20;O sistema deve calcular a data de renovação conforme a configuração de renovação e a data de conclusão do documento. **(dataRenovacao = dataConclusao + renovacaoMeses)**
+O sistema deve calcular a data de renovação conforme a configuração de renovação e a data de conclusão do documento. **(dataRenovacao = dataConclusao + renovacaoMeses)**
 
-#### 11. dataCancelamento
+#### dataCancelamento
 
 O sistema retorna a data de cancelamento do processo. O processo terá data de cancelamento **(dataCancelamento)** quando o status for igual a **Cancelado**.
 
-#### 12. usuarioCancelamento
+#### usuarioCancelamento
 
 O sistema retorna o nome do usuário quem cancelou o processo. O documento terá o nome do usuário quem cancelou o documento **(usuarioCancelamento)** quando houver data de cancelamento **(dataCancelamento)** e o status for igual a **Cancelado**.
 
-#### 13. dataReenvio
+#### dataReenvio
 
 O sistema retorna a data de reenvio do processo. O processo terá data de reenvio quando o remetente reenviar o processo para os signatários pendentes de assinaturas.
 
-#### 14. dataExpiracao:
+#### dataExpiracao:
 
 O sistema retorna a data de expiração do processo.
 
@@ -142,15 +142,15 @@ O sistema deve calcular a data de expiração conforme a configuração e a data
 Se **dataReenvio** for igual a null, então **dataExpiracao = dataEnvio + ExpiracaoDias.**\
 Se **dataReenvio** for diferente de null, então **dataExpiracao = dataReenvio + expiracaoDias.**
 
-#### 15. expiracaoDias
+#### expiracaoDias
 
 O sistema retorna os dias de expiração do processo.
 
-#### 16. avisoExpiracaoDias
+#### avisoExpiracaoDias
 
 O sistema retorna os dias para aviso de expiração do processo.
 
-#### 17. lembrete:
+#### lembrete:
 
 O sistema retorna o dado informando se o processo possui lembre de assinatura.
 
@@ -158,7 +158,7 @@ O sistema retorna o dado informando se o processo possui lembre de assinatura.
 1 - true = possui lembrete de assinatura.\
 0 - false = não possui lembrete de assinatura.
 
-#### &#x20;18. frequenciaLembrete
+#### frequenciaLembrete
 
 O sistema retorna a frequência de lembrete de assinatura do(s) documento(s) do processo.
 
@@ -168,58 +168,58 @@ O sistema retorna a frequência de lembrete de assinatura do(s) documento(s) do 
 
 Esta parte do JSON retorna os dados dos signatários participantes do processo de assinatura.
 
-#### 19. signatarios
+#### signatarios
 
-#### 19.1. ordemAssinatura
+#### ordemAssinatura
 
 O sistema retorna a ordem de assinatura do signatário, em questão.&#x20;
 
-**19.2. id**
+**id**
 
 O sistema retorna o id do processo destinatário.
 
-**19.3. nome**
+**nome**
 
 O sistema retorna o nome do signatário.
 
-**19.4. email**
+**email**
 
 O sistema retorna o e-mail do signatário quando o processo foi enviado por **e-mail.**
 
-**19.5. telefone**
+**telefone**
 
 O sistema retorna o telefone do signatário quando o processo foi enviado por **WhatsApp**.
 
-**19.6. aguardandoEnvio**
+**aguardandoEnvio**
 
 O sistema retorna informação de aguardando envio do processo que pode ser true ou false. Este parâmetro terá valor true quando o processo de assinatura possuir ordem de assinaturas e o signatário antecessor ao signatário, em questão, não concluiu a assinatura. Assim o signatário está aguardando o envio do documento para assinatura.
 
-**19.7. falhaEnvio**
+**falhaEnvio**
 
 O sistema retorna informação de falha no envio do processo que pode ser true ou false. Este parâmetro terá valor true quando ocorrer falha no envio do processo para o destinatário, em questão.
 
-**19.8. tipoAcao**
+**tipoAcao**
 
 O sistema retorna o tipo de ação do signatário no processo que pode ser **Assina Online** ou **Receber uma cópia.**
 
-**19.9. copiaEnviada**
+**copiaEnviada**
 
 O sistema retorna informação de cópia enviada quando o signatário possuir ação de **Receber uma cópia**. Este parâmetro terá valor true quando teve a cópia do processo enviada ou false quando não teve cópia enviada.
 
-**19.10. remetente**
+**remetente**
 
 O sistema retorna informação se o signatário é, também, o remetente do processo. Este parâmetro terá valor true quando teve o signatário é o remetente do processo ou false o signatário não é remetente do processo.\
 Obs.: O remetente do processo também pode participar do processo de assinatura como signatário.
 
-**19.11. assinaturaRecusada**
+**assinaturaRecusada**
 
 O sistema retorna informação de assinatura recusada quando um signatário recusar a assinatura do(s) documento(s). Este parâmetro terá valor true quando o signatário recusou a assinatura do(s) documento(s) ou false quando o signatário não recusou a assinatura do(s) documento(s) do processo.
 
-**19.12. motivoRecusa**
+**motivoRecusa**
 
 O sistema retorna informação de motivo da recusa da assinatura do(s) documento(s) do processo. Quando o parâmetro **assinaturaRecusada** for igual a **true**, o parâmetro **motivoRecusa** deve conter o motivo da recusa informado pelo signatário e o status do processo deve ser **“Cancelado”.**
 
-**19.13. seguranca**
+**seguranca**
 
 O sistema retorna dados de código de segurança somente se o signatário possuir estas configurações para acessar o(s) documento(s) do processo.
 
@@ -235,7 +235,7 @@ O sistema retorna o e-mail quando o código de segurança foi enviado por **e-ma
 
 O sistema retorna o telefone quando o código de segurança foi enviado por **WhatsApp** ou **SMS**.
 
-**19.14. papelSignatario**
+**papelSignatario**
 
 O sistema retorna o(s) papel(is) somente se o signatário possuir estas configurações.
 
@@ -247,7 +247,7 @@ O sistema retorna esta informação quando o signatário possui papel(is) como p
 
 O sistema retorna esta informação quando o signatário possui papel(is) como pessoa jurídica.
 
-**19.15. dadosAssinatura**
+**dadosAssinatura**
 
 O sistema retorna dados de assinatura do signatário.
 
@@ -268,7 +268,7 @@ O sistema retorna o IP do signatário que assinou o documento. Este parâmetro t
 
 O sistema retorna a geolocalização do signatário que assinou o documento. Este parâmetro terá valor null quando o signatário não assinou o(s) documento(s) do processo ou quando o signatário não permitiu capturar a sua localização.
 
-**19.16. dadosCertificado**
+**dadosCertificado**
 
 O sistema retorna os dados do certificado utilizado para assinatura do(s) documento(s) do processo. Estes parâmetros terão valor null quando o signatário não assinou o(s) documento(s) do processo.
 
@@ -288,7 +288,7 @@ O sistema retorna o início da validade do certificado.
 
 O sistema retorna o final da validade do certificado.
 
-**19.17. dadosPessoaFisica**
+**dadosPessoaFisica**
 
 Estes dados serão retornados quando signatários com tipo de assinatura eletrônica informar os dados de pessoa física. Estes parâmetros terão valor null quando:
 
