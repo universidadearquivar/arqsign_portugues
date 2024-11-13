@@ -4,6 +4,8 @@ Este serviço permite buscar os papéis de signatário da conta.
 
 ## Requisição
 
+A Requisição não se aplica pois a validação é feita pela AppKey.
+
 ## Validações
 
 ### &#x20;Validações gerais
