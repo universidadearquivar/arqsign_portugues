@@ -58,6 +58,7 @@
       * [✔️ POST api/v1/diretorio/buscar-pastas](administracao/integracoes/api/metodos-disponiveis-na-api/post-api-v1-diretorio-buscar-pastas.md)
       * [✔️ POST api/v1/usuarios/buscar-usuarios](administracao/integracoes/api/metodos-disponiveis-na-api/post-api-v1-usuarios-buscar-usuarios.md)
       * [✔️ GET api/v1/conta/papeis-signatarios](administracao/integracoes/api/metodos-disponiveis-na-api/get-api-v1-conta-papeis-signatarios.md)
+      * [✔️ POST api/v1/conta/buscar-consumo-itens-assinatura](administracao/integracoes/api/metodos-disponiveis-na-api/post-api-v1-conta-buscar-consumo-itens-assinatura.md)
     * [🔳 Fluxo ideal considerando alguns métodos disponíveis](administracao/integracoes/api/fluxo-ideal-considerando-alguns-metodos-disponiveis.md)
     * [🔳 URL da API ArqSign](administracao/integracoes/api/url-da-api-arqsign.md)
     * [🔳 Biblioteca para testes Postman](administracao/integracoes/api/biblioteca-para-testes-postman.md)

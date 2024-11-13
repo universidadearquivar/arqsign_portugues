@@ -357,7 +357,7 @@ As falhas de comunicação elegíveis para retransmissão poderão ocorrer de fo
 <mark style="color:blue;">Cada evento configurado no webhook que houver falha, terá no máximo 14 tentativas, contando com a primeira tentativa que ocorre no ato do evento.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Inativação automática do webhook por falhas
 
@@ -393,6 +393,6 @@ Em todos os casos, se um reenvio tiver sucesso, o registro é removido do GRID e
 
 Na coluna "Falha", é apresenta a mensagem da falha ocorrido. Ao clicar no ícone uma nova janela é aberta.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na nova janela, além da mensagem de detalhamento da falha, são apresentados outros dados do processo.&#x20;
