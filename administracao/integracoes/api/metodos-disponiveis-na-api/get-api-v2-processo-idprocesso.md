@@ -14,7 +14,8 @@ description: >-
 
 1. Para autenticar na API da ArqSign, o usuário deve informar a AppKey, válida, da conta que está buscando p processo.
 2. Somente conta com **status Ativo** e com **permissão de Integração ArqSign** pode buscar processos via integração ArqSign.
-3. O sistema valida se o **IdProcesso** pertence a conta da **AppKey**.
+3. É obrigatório informar o IdProcesso que deseja consultar os dados.
+4. O sistema valida se o **IdProcesso** pertence a conta da **AppKey**.
 
 ## Retorno Validações
 
@@ -34,9 +35,9 @@ Este erro é retornado quando não for possível interpretar a requisição e/ou
 
 **Mensagem: O(s) id(s) listado(s) não existe(m): “nome dos itens que são Ids de tabela, separados por vírgula”.**
 
-**d. Documento excluído:** Esta mensagem será exibida quando o processo retornar estive excluído.
+**d. Documento excluído:** Esta mensagem será exibida quando o documento retornar estive excluído.
 
-**Mensagem: Processo excluído.**
+**Mensagem: Documento excluído.**
 
 **e. Algum parâmetro está incorreto ou é inexistente:** Esta mensagem é exibida quando a chamada é feita com algum parâmetro escrito errado ou quando é enviado uma informação que não existe no método.
 
@@ -66,7 +67,7 @@ Este erro é retornado quando:
 
 Status 200 - Success
 
-O sistema deve retornar os dados do processo, dados dos signatários, arquivo do processo e registro de assinatura.
+O sistema retorna os dados do processo, dados dos signatários, arquivo do processo e registro de assinatura.
 
 * Dados do processo
 * Dados dos signatários
