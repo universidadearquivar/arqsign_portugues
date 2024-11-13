@@ -58,4 +58,26 @@ Status 200 - Success
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
-&#x20;
+### Dados do registro de assinaturas
+
+**1 - id**
+
+O sistema retorna o id do arquivo processo a que se refere o registro de assinatura.
+
+**2 - nome**
+
+O sistema retorna o nome do documento a que se refere o registro de assinatura + a palavra “Registro de Assinaturas”. Exemplo: “Contrato\_Registro de Assinaturas.pdf”
+
+**3 - base64**
+
+O sistema retorna o base64 do registro de assinatura.
+
+### Retorno - Exemplo Body Response
+
+```json
+{
+  "idArquivoProcesso": "guid",
+  "nome": "string",
+  "base64": "base64",
+}
+```
