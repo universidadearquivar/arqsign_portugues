@@ -73,3 +73,95 @@ Quando campo requerido estiver como “Talvez” = Em alguns casos ele será req
 1- O usuário deve informar a  AppKey da conta que está buscando os dados dos usuários.
 
 &#x20;2- Somente conta com status Ativo pode buscar dados dos usuários da conta via integração ArqSign.
+
+## Retorno Validações
+
+### Erro: 400 - Bad Request
+
+Este erro é retornado quando não for possível interpretar a requisição e/ou o servidor tenta processar a solicitação, mas algum parâmetro da solicitação não é válido, por exemplo, um recurso formatado incorretamente ou uma tentativa de requisição com dados faltantes. As informações sobre a solicitação são fornecidas no corpo da resposta e incluem um código de erro e uma mensagem de erro.
+
+**a- Item obrigatório:** Esta mensagem é exibida no singular ou plural quando um ou mais itens obrigatórios não tiver sido enviado na chamada da API.
+
+**Mensagem:** O(s) item(ns) listado(s) é(são) obrigatório(s): “nome dos itens separados por vírgula”.
+
+**b- Formato incorreto:** Esta mensagem é exibida no singular ou plural quando um ou mais itens estiverem sido enviados com formato incorreto.
+
+**Mensagem:** O(s) item(ns) listado(s) está(ão) com o formato incorreto: “nome dos itens separados por vírgula”.
+
+**c- Ids inexistente:** Esta mensagem é exibida no singular ou plural quando um ou mais Id enviado não existir.
+
+**Mensagem:** O(s) id(s) listado(s) não existe(m): “nome dos itens que são Ids de tabela, separados por vírgula”.
+
+**d- Algum parâmetro está incorreto ou é inexistente:** Esta mensagem é exibida quando a chamada é feita com algum parâmetro escrito errado ou quando é enviado uma informação que não existe no método.
+
+**Mensagem:** Algum parâmetro está incorreto ou é inexistente.
+
+### Erro: 401 – Unauthorized
+
+Este erro é retornado quando
+
+* A chave de autenticação da API ArqSign está incorreta ou não foi informada corretamente.
+* Conta está com status diferente de Ativo.
+
+### Erro: 404 - Not Found
+
+Este erro é retornado quando o recurso solicitado ou o _endpoint_ não foi localizado.
+
+### Erro: 500 - Server Error
+
+Este erro é retornado quando:
+
+* Ocorre um erro interno no servidor.
+* Ocorre uma falha na plataforma ArqSign.
+* Formato do parâmetro incorreto.
+* Formato do JSON incorreto.
+
+## Retorno de sucesso
+
+Status 200 - Success
+
+Quando **não informado id de usuário** no JSON, o sistema deve **retornar todos os usuários da conta**, ordenados alfabeticamente pelo nome, conforme o parâmetro **ativos**.
+
+* Se **ativos for 1 (true)**, o sistema deve retornar todos os **usuários ativos da conta**.
+* Se **ativos for 0 (false)** **ou não for enviado**, o sistema deve retornar todos os **usuários da conta (ativos, bloqueados, inativos)**, todos os status.
+
+&#x20;Quando **informado id de usuário** no JSON, o sistema deve **retornar os dados dos usuários informados**, ordenados alfabeticamente pelo nome.
+
+<figure><img src="../../../../.gitbook/assets/image (319).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+### Dados dos usuários
+
+**1- id**
+
+O sistema retorna o id do usuário.
+
+**2- nome**
+
+O sistema retorna o nome completo do usuário.
+
+**3- status**
+
+O sistema retorna o status do usuário na conta, conforme abaixo:
+
+* Ativo
+* Inativo
+* Bloqueado
+
+**4- remetente**
+
+O sistema retorna se o usuário é remetente de documentos ou não.
+
+Usuário com a permissão e enviar processo (**Enviar Documento para Assinar**).
+
+### Retorno - Exemplo Body
+
+```json
+[
+    {
+        "id": "guid",
+        "nome": "string",
+        "status": "tinyint",
+        "remetente": "booleano"
+    }
+]
+```
