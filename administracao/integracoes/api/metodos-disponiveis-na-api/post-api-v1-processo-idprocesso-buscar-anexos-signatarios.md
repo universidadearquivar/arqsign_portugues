@@ -2,11 +2,9 @@
 
 Este serviço permite buscar os **anexos dos signatários**, informando **um ou mais signatários específicos do processo**.
 
-### Requisição
+## Requisição
 
-&#x20;
-
-Orientações:
+#### **Orientações:**
 
 Quando campo requerido estiver como “Sim” = Sempre requerido
 
@@ -14,13 +12,42 @@ Quando campo requerido estiver como “Não” = Informação Opcional
 
 Quando campo requerido estiver como “Talvez” = Em alguns casos ele será requerido. Para saber estes casos, consultar a descrição do tópico, conforme o número de referência da linha na tabela.
 
-&#x20;
+<figure><img src="../../../../.gitbook/assets/Screenshot_2 (2).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
-| <p> </p><p>Ref</p><p> </p> | <p> </p><p>Parâmetro</p><p> </p> | <p> </p><p>Formato</p><p> </p> | <p> </p><p>Requerido</p><p> </p> |
-| -------------------------- | -------------------------------- | ------------------------------ | -------------------------------- |
-| 1                          | "arquivoTipo"                    | "byte"                         | Sim                              |
-| 2                          | “signatarios” \[]                | "guid"                         | Não                              |
+#### Exemplo Body Request
 
-&#x20;
+```json
+{
+    "arquivoTipo": "byte",
+    "signatarios": [
+        "guid",
+        "guid"
+                ]
+}
 
-#### 1.1.1       Exemplo Body Request
+```
+
+## Validações
+
+### Validações especificas
+
+O usuário deve informar o IdProcesso que deseja consultar os anexos dos signatários.
+
+O sistema retorna os anexos dos signatários do processo no formato link para download ou base64 do arquivo.
+
+#### **arquivoTipo**&#x20;
+
+**Descrição:** Parâmetro obrigatório informando se é para retornar **o link para download ou base64 do anexo** do signatário.
+
+**Formato:** Byte - 1 = base64, 2 = Link para download
+
+**Requerido: **<mark style="color:red;">**Sim**</mark>
+
+#### **Validação:**
+
+a- Somente é permitido valores iguais a 1 ou 2.
+
+* **Mensagem:** O parâmetro **arquivoTipo** permite somente valores 1 ou 2.
+* Quando for enviado o **valor 1** no parâmetro **arquivoTipo** significa que o sistema retorna os anexos dos signatários do processo de assinaturas em **formato base64**
+* Quando for enviado o **valor 2** no parâmetro **arquivoTipo** significa que o sistema **retorna o link para download dos anexos** dos signatários do processo de assinaturas.
+
