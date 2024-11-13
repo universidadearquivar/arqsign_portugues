@@ -56,6 +56,7 @@
       * [✔️ POST /api/v1/processo/{idProcesso}/buscar-anexos-signatarios](administracao/integracoes/api/metodos-disponiveis-na-api/post-api-v1-processo-idprocesso-buscar-anexos-signatarios.md)
       * [✔️ GET api/v1/processo/{idArquivoProcesso}/registro-assinaturas](administracao/integracoes/api/metodos-disponiveis-na-api/get-api-v1-processo-idarquivoprocesso-registro-assinaturas.md)
       * [✔️ POST api/v1/diretorio/buscar-pastas](administracao/integracoes/api/metodos-disponiveis-na-api/post-api-v1-diretorio-buscar-pastas.md)
+      * [✔️ POST api/v1/usuarios/buscar-usuarios](administracao/integracoes/api/metodos-disponiveis-na-api/post-api-v1-usuarios-buscar-usuarios.md)
     * [🔳 Fluxo ideal considerando alguns métodos disponíveis](administracao/integracoes/api/fluxo-ideal-considerando-alguns-metodos-disponiveis.md)
     * [🔳 URL da API ArqSign](administracao/integracoes/api/url-da-api-arqsign.md)
     * [🔳 Biblioteca para testes Postman](administracao/integracoes/api/biblioteca-para-testes-postman.md)
