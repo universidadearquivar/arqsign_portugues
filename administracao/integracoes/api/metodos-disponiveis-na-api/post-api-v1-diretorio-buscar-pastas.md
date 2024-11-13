@@ -200,3 +200,44 @@ O sistema retorna o status da pasta filha “**Ativa**” ou “**Excluída**”
 O sistema retorna  se o filho da pasta possui filho ou não.
 
 ### Retorno - Exemplo Body Response
+
+```json
+[
+    {
+        "id": "guid",
+        "nome": "string",
+        "caminhoCompleto": "string",
+        "status": "string",
+        "filhos": [
+            {
+                "id": "guid",
+                "nome": "string",
+                "caminhoCompleto": "string",
+                "status": "string",
+                "possuiFilhos": "bit"
+            }
+        ]
+    }
+]
+```
+
+Quando **o parâmetro buscarPor for igual a 1 (Caminho Completo)**, o objeto “**filhos**” é nulo.
+
+```json
+[
+   {
+     "id": "guid",
+     "nome": "string",
+     "caminhoCompleto": "string",
+     "status": "string",
+     "filhos":null
+   },
+   {
+     "id": "guid",
+     "nome": "string",
+     "caminhoCompleto": "string",
+     "status": "string",
+     "filhos":null
+   }
+]
+```
