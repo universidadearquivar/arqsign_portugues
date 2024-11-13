@@ -51,3 +51,120 @@ a- Somente é permitido valores iguais a 1 ou 2.
 * Quando for enviado o **valor 1** no parâmetro **arquivoTipo** significa que o sistema retorna os anexos dos signatários do processo de assinaturas em **formato base64**
 * Quando for enviado o **valor 2** no parâmetro **arquivoTipo** significa que o sistema **retorna o link para download dos anexos** dos signatários do processo de assinaturas.
 
+#### **Signatarios**
+
+Esta parte do JSON é **opcional** e o usuário poderá informar um ou mais id’s de signatários do processo de assinaturas para consultar os anexos, se houver.
+
+**Descrição:** Parâmetro informando um mais id’s de signatários do processo.
+
+**Formato:** Guid
+
+**Requerido: **<mark style="color:blue;">**Não**</mark>
+
+#### **Validação:**
+
+a- Quando **não for enviado id’s de signatários**, o sistema **retorna todos os anexos (públicos e privados) dos signatários do processo** informado, se houver, conforme o parâmetro **arquivoTipo**.
+
+b- Quando for enviado Id de signatário, o sistema validar se o signatário é do processo informado.
+
+Se ao menos um id de signatário pertencer ao processo informado, o sistema retorna os anexos (públicos e privados) do signatário, se houver.
+
+c- Quando o signatário do processo não possuir anexos, retorna o valor null no objeto **anexos**.
+
+### Validações gerais
+
+1-Para autenticar na API da ArqSign, o usuário deve informar a  AppKey da conta que está buscando os anexos dos signatários do processo.
+
+2-Somente conta com **status Ativo** pode buscar anexos dos signatários do processo via integração ArqSign.
+
+3-O sistema valida se o **IdProcesso** pertencer a conta da AppKey.
+
+## Retorno validações
+
+### Erro: 400 - Bad Request
+
+Este erro é retornado quando não for possível interpretar a requisição e/ou o servidor tenta processar a solicitação, mas algum parâmetro da solicitação não é válido, por exemplo, um recurso formatado incorretamente ou uma tentativa de requisição com dados faltantes. As informações sobre a solicitação são fornecidas no corpo da resposta e incluem um código de erro e uma mensagem de erro.
+
+**a- Item obrigatório:** Esta mensagem é exibida no singular ou plural quando um ou mais itens obrigatórios não tiver sido enviado na chamada da API.
+
+**Mensagem:** O(s) item(ns) listado(s) é(são) obrigatório(s): “nome dos itens separados por vírgula”.
+
+**b- Formato incorreto:** Esta mensagem é exibida no singular ou plural quando um ou mais itens estiverem sido enviados com formato incorreto.
+
+**Mensagem:** O(s) item(ns) listado(s) está(ão) com o formato incorreto: “nome dos itens separados por vírgula”.
+
+**c- Ids inexistente:** Esta mensagem é exibida no singular ou plural quando um ou mais Id enviado não existir.
+
+**Mensagem:** O(s) id(s) listado(s) não existe(m): “nome dos itens que são Ids de tabela, separados por vírgula”.
+
+**d- Algum parâmetro está incorreto ou é inexistente:** Esta mensagem é exibida quando a chamada é feita com algum parâmetro escrito errado ou quando é enviado uma informação que não existe no método.
+
+**Mensagem:** Algum parâmetro está incorreto ou é inexistente.
+
+### Erro: 401 – Unauthorized
+
+Este erro é retornado quando a chave de autenticação da API ArqSign está incorreta ou não foi informada corretamente.
+
+### Erro: 404 - Not Found
+
+Este erro é retornado quando o recurso solicitado ou o _endpoint_ não foi localizado.
+
+### Erro: 500 - Server Error
+
+Este erro é retornado quando:
+
+* Ocorre um erro interno no servidor;
+* Ocorre uma falha na plataforma ArqSign;
+* Formato do JSON incorreto.
+
+## Retorno de sucesso
+
+&#x20;Status 200 - Success
+
+<figure><img src="../../../../.gitbook/assets/Screenshot_3 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+### Anexos dos signatários do processo
+
+**1- idSignatario**
+
+O sistema retorna o id do signatário.
+
+&#x20;**2- nome**
+
+O sistema retorna o nome do signatário.
+
+&#x20;**3- anexos**
+
+O sistema retorna os anexos do signatário, ordenados pelo nome.
+
+&#x20;**3.1- id**
+
+> O sistema retorna o id do anexo do signatário.
+
+&#x20;**3.2- nome**
+
+> O sistema retorna o nome configuração + o nome anexo do signatário (com a extensão).
+
+&#x20;**3.3- arquivo**
+
+> O sistema retorna arquivo/anexo do signatário no formato base64, quando no parâmetro arquivoTipo for enviado o valor 1 (um).
+
+> O sistema retorna o link para download do arquivo/anexo do signatário, quando no parâmetro arquivoTipo for enviado o valor 2(dois).
+
+### Retorno - Exemplo Body
+
+```json
+[
+{
+    "idSignatario": "guid",
+    "nome": "string",
+    "anexos":[
+      {
+         "id": "guid",
+         "nome": "string",
+         "arquivo": "string"
+      }
+   ]
+}
+]
+```
