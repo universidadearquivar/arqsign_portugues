@@ -380,8 +380,7 @@ O sistema retorna o base64 do arquivo do registro de assinaturas do documento.
 
 ### Retorno - Exemplo Body Response
 
-```
-
+```json
 {
     "nomeProcesso": "string",
     "idPasta": "guid",
@@ -462,7 +461,8 @@ O sistema retorna o base64 do arquivo do registro de assinaturas do documento.
     ],
     "documentos": [
         {
-            "ordemDocumento": "tinyint",
+            "id": "guid",
+            "ordemDocumento ": "tinyint",
             "nomeDocumento": "string",
             "base64Documento": "string base64",
             "registroAssinaturas": {
@@ -471,6 +471,7 @@ O sistema retorna o base64 do arquivo do registro de assinaturas do documento.
             }
         },
         {
+            "id": "guid",
             "ordemDocumento": "tinyint",
             "nomeDocumento": "string",
             "base64Documento": "string base64",
@@ -481,5 +482,5 @@ O sistema retorna o base64 do arquivo do registro de assinaturas do documento.
         }
     ]
 }
-```
 
+```
