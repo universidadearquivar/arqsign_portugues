@@ -2,5 +2,5 @@
 description: Inserir descrição
 ---
 
-# 2. Diretórios
+# ✔️ 2. Diretórios
 
