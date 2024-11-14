@@ -26,7 +26,7 @@ Os métodos disponíveis são:
 
 [GET – Retorno do documento e registros após a conclusão da assinatura](../administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo.md)
 
-[GET - Acompanhamento dos dados dos signatários que possuem ação de assinar eletronicamente em um processo de assinatura](../administracao/integracoes/api/metodos-disponiveis-na-api/get-api-v1-processo-idprocesso-dados-signatarios.md)
+[GET - Acompanhamento dos dados dos signatários que possuem ação de assinar eletronicamente em um processo de assinatura](../administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.5.get-api-v1-processo-idprocesso-dados-signatarios.md)
 
 [PATCH – Reenvio de documento para assinatura](broken-reference)
 
