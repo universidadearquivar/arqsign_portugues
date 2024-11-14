@@ -6,12 +6,12 @@
 
 <summary>2.4.0 - 13/11/2024</summary>
 
-### Foi realizado um ajuste da API de buscar dados do processo.
+**Foi realizado um ajuste da API de buscar dados do processo.**
 
 * [GET/api/v2/processo/{idProcesso}](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.get-api-v2-processo-idprocesso)
   * Este serviço permite aos Clientes, via API, buscar um processo, com seus respectivos dados do processo, signatários e documentos do processo.
 
-### Foram também disponibilizados novos métodos:
+**Foram também disponibilizados novos métodos:**
 
 * [POST/api/v1/processo/{idProcesso}/buscar-anexos-signatarios](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.7.post-api-v1-processo-idprocesso-buscar-anexos-signatarios)
   * Este serviço permite buscar os anexos dos signatários, informando um ou mais signatários específicos do processo.
