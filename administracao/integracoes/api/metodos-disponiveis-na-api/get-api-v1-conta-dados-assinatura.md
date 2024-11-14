@@ -46,6 +46,146 @@ Este erro é retornado quando:
 * Ocorre uma falha na plataforma ArqSign,
 * Formato do JSON incorreto.
 
-&#x20;
+## Retorno de sucesso
 
-&#x20;
+Status 200 - Success
+
+O sistema deve retornar os dados da conta informada.
+
+<figure><img src="../../../../.gitbook/assets/image (321).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+### Dados da Conta
+
+**Conta**
+
+O sistema retorna os dados da conta identificado via AppKey.         &#x20;
+
+> **id**
+>
+> O sistema retorna o id da conta da AppKey informada.
+>
+> &#x20;**nome**  &#x20;
+>
+> &#x20;O sistema retorna o nome da conta.
+>
+> &#x20;**status**
+>
+> O sistema retorna o status da conta: Ativo, Inativo, Bloqueado e Pendente.
+>
+> &#x20;Retorna o status conforme o idioma da conta.
+
+**plano**
+
+O sistema retorna os dados do plano da última assinatura da conta.
+
+> **id**
+>
+> O sistema retorna o id do plano da última assinatura da conta.       &#x20;
+>
+> **tipoPlano**
+>
+> O sistema retorna o tipo do plano da última assinatura da conta.
+>
+> C = Corporativo
+>
+> P = Profissional/Empresarial
+>
+> G = Grátis
+>
+> **nome**
+>
+> O sistema retorna o nome do plano da última assinatura da conta, conforme o idioma da conta.
+>
+> **periodo**
+>
+> O sistema retorna o período do plano da última assinatura da conta.
+>
+> **valor**
+>
+> O sistema retornaro valor do plano da última assinatura da conta.   &#x20;
+
+**assinatura**
+
+O sistema retorna a última assinatura da conta.
+
+> **id**
+>
+> O sistema retorna o id da última assinatura da conta.   &#x20;
+>
+> **inicioVigencia**
+>
+> O sistema retorna o período inicial da última assinatura da conta.   &#x20;
+>
+> **fimVigencia**
+>
+> O sistema retorna o período final da última assinatura da conta.
+>
+> **trial**
+>
+> O sistema retorna se a última assinatura da conta está em período trial.
+>
+> **itens**
+>
+> O sistema retorna os itens da última assinatura da conta.
+>
+> > **id**
+> >
+> > O sistema retorna o id do item da última assinatura da conta.
+> >
+> > **nome**
+> >
+> > O sistema retorna o nome do item da última assinatura da conta.
+> >
+> > Retorna o nome conforme o idioma da conta.&#x20;
+> >
+> > **saldo**
+> >
+> > Retorna o saldo atual para o item em questão.
+> >
+> > Neste saldo está incluído saldo da assinatura vigente + saldo do item extra vigente.&#x20;
+> >
+> > Se a última assinatura da conta não estiver vigente, então retorna o saldo 0.
+> >
+> > **permiteExcedente**
+> >
+> > O sistema retorna se o item da última assinatura da conta permite excedente.
+
+### Retorno - Exemplo Body Response
+
+```json
+{
+    "Conta": {
+        "id": "guid",
+        "nome": "string",
+        "status": "string"
+        },
+    "plano": {
+        "id": "guid",
+        "tipoPlano": "char(1)",
+        "nome": "string",
+        "periodo": "char",
+        "valor": "decimal"
+    },
+    "assinatura": {
+        "id": "guid",
+        "inicioVigencia": "date",
+        "fimVigencia": "date",
+        "trial": "bit", // true ou false      
+        "itens": [
+            {
+                "id": "tinyint",
+                "nome": "string",
+                "saldo": "int", 
+                "permiteExcedente": "bit", // true ou false      
+            },
+            {
+                "id": "tinyint",
+                "nome": "string",
+                "saldo": "int", 
+                "permiteExcedente": "bit", // true ou false      
+            }
+        ]
+    }
+}
+```
+
