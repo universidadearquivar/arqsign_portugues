@@ -4,6 +4,21 @@
 
 <details>
 
+<summary>2.4.0 - 13/11/2024</summary>
+
+Foi realizado um ajuste da API de buscar dados do processo.
+
+* [GET/api/v2/processo/{idProcesso}](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.get-api-v2-processo-idprocesso)
+  * Este serviço permite aos Clientes, via API, buscar um processo, com seus respectivos dados do processo, signatários e documentos do processo.
+
+Foram também disponibilizados novos métodos:
+
+* método com link
+
+</details>
+
+<details>
+
 <summary>2.3.1 - 11/11/2024</summary>
 
 Foi realizada a descontinuidade da versão 1 (V1) dos métodos:
