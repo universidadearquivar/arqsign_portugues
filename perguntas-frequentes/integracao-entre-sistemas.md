@@ -30,7 +30,7 @@ Os métodos disponíveis são:
 
 [PATCH – Reenvio de documento para assinatura](broken-reference)
 
-[PATCH – Cancelamento do envio de documento para assinatura](../administracao/integracoes/api/metodos-disponiveis-na-api/patch-api-v1-processo-idprocesso-cancelar-processo.md)
+[PATCH – Cancelamento do envio de documento para assinatura](../administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.6.patch-api-v1-processo-idprocesso-cancelar-processo.md)
 
 </details>
 
