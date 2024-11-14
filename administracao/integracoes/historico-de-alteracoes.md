@@ -6,14 +6,31 @@
 
 <summary>2.4.0 - 13/11/2024</summary>
 
-Foi realizado um ajuste da API de buscar dados do processo.
+### Foi realizado um ajuste da API de buscar dados do processo.
 
 * [GET/api/v2/processo/{idProcesso}](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.get-api-v2-processo-idprocesso)
   * Este serviço permite aos Clientes, via API, buscar um processo, com seus respectivos dados do processo, signatários e documentos do processo.
 
-Foram também disponibilizados novos métodos:
+### Foram também disponibilizados novos métodos:
 
-* método com link
+* [POST/api/v1/processo/{idProcesso}/buscar-anexos-signatarios](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.7.post-api-v1-processo-idprocesso-buscar-anexos-signatarios)
+  * Este serviço permite buscar os anexos dos signatários, informando um ou mais signatários específicos do processo.
+* [GET/api/v1/processo/{idArquivoProcesso}/registro-assinaturas](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.8.get-api-v1-processo-idarquivoprocesso-registro-assinaturas)
+  * Este serviço permite buscar o base64 do registro de assinatura de um arquivo processo.
+* [POST/api/v1/diretorio/buscar-pastas](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/2.-diretorios/2.1.post-api-v1-diretorio-buscar-pastas)
+  * Este serviço permite buscar os dados das pastas da conta.
+* [POST/api/v1/usuarios/buscar-usuarios](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/3.-usuarios/3.1.post-api-v1-usuarios-buscar-usuarios)
+  * Este serviço permite buscar dados dos usuários da conta.
+* [GET/api/v1/conta/papeis-signatarios](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.1.get-api-v1-conta-papeis-signatarios)
+  * Este serviço permite buscar os papéis de signatário da conta.
+* [POST/api/v1/conta/buscar-consumo-itens-assinatura](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.2.post-api-v1-conta-buscar-consumo-itens-assinatura)
+  * Este serviço permite buscar a quantidade do item de envios (Envios, WhatsApp, SMS) que a conta usou em determinado período.
+* [GET/api/v1/conta/dados-assinatura](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.3.get-api-v1-conta-dados-assinatura)
+  * Este serviço permite buscar os dados de uma conta ArqSIGN.
+* [PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status)
+  * Este serviço permite alterar o status das configurações de webhook.
+* [POST/api/v1/confwebhook](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.2.post-api-v1-confwebhook)
+  * Este serviço permite cadastrar uma configuração de webhooks.
 
 </details>
 
