@@ -1,0 +1,377 @@
+# ✔️ POST api/v1/confwebhook
+
+Este serviço permite cadastrar uma configuração de webhooks.
+
+## Requisição
+
+&#x20;**Orientações:**
+
+* Quando campo requerido estiver como “Sim” = Sempre requerido
+* Quando campo requerido estiver como “Não” = Informação Opcional
+* Quando campo requerido estiver como “Talvez” = Em alguns casos ele será requerido. Para saber estes casos, consultar a descrição do tópico, conforme o número de referência da linha na tabela.
+
+<figure><img src="../../../../.gitbook/assets/image (322).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+### Exemplo Body Request
+
+```json
+{
+    "nome": "string",
+    "status": "tinyint",
+    "urlPublicar": "string",
+    "aguardarRetorno": "bit",    
+    "usuarios": [
+       "guid",
+       "guid"        
+      ],
+    "grupos": [
+       "guid",
+       "guid"        
+      ],    
+    "pastas": [
+       "guid",
+       "guid"        
+      ],
+    "gatilhos": [
+       "tinyint ",
+       "tinyint "        
+      ],
+    "dadosRetorno": {
+        "processo": "bit",
+        "signatarios": "bit",
+        "documentos": "bit",
+        "documentosTipo": "byte",
+        "linkDocCompartilhado": "bit",
+        "registrosAssinatura": "bit",
+        "registrosAssinaturaTipo": "byte"
+   }
+}
+```
+
+## Validações
+
+### Validações Específicas
+
+> **nome**
+>
+> **Descrição:** Parâmetro informando o nome do Webhook.
+>
+> **Formato:** String
+>
+> **Requerido: **<mark style="color:red;">**Sim**</mark>
+>
+> **Validação:**
+>
+> a- O sistema valida a obrigatoriedade e tamanho da String, permitindo até 150 caracteres no parâmetro **nome**.
+>
+> b- O sistema não permite cadastrar Webhook com mesmo nome na conta, em questão.
+
+> **status**
+>
+> **Descrição:** Parâmetro informando o status do Webhook.
+>
+> **Formato:** Tinyint - 1 = Ativo, 2 = Inativo
+>
+> **Requerido: **<mark style="color:red;">**Sim**</mark>
+>
+> **Validação:**
+>
+> a- Somente é permitido valores iguais a 1 ou 2.
+
+> **urlPublicar**
+>
+> **Descrição:** Parâmetro informando a URL que será chamada pelo o Webhook.
+>
+> **Formato:** String
+>
+> **Requerido:** <mark style="color:red;">**Sim**</mark>
+>
+> **Validação:**
+>
+> a- Caso seja informada uma URL com espaços, o sistema remove esses espaços.
+
+> **aguardarRetorno**
+>
+> **Descrição:** Parâmetro informando se o webhook deve aguardar retorno ou não.
+>
+> **Formato:** Bit - 1 = true ou 0 = False
+>
+> **Requerido:** <mark style="color:blue;">**Não**</mark>
+>
+> **Validação:**
+>
+> a- Quando a informação **não é enviada ou enviada como nula**, o sistema considera como **0 = false**.
+
+**usuarios**
+
+> Esta parte do json é **opcional** e o usuário poderá informar um ou mais id’s de usuários para restringir a execução do Webhook. Ou seja, o Webhook somente será executado caso o processo de assinatura de documentos tenha sido criado pelo usuário informado neste parâmetro.
+>
+> **Descrição:** Parâmetro informando um ou mais id’s de usuários da conta.
+>
+> **Formato:** Guid
+>
+> **Requerido:** <mark style="color:blue;">**Não**</mark>
+>
+> **Validação:**
+>
+> a- Quando for enviado id’s neste parâmetro, o sistema valida se pertence a conta e o status do usuário.
+>
+> Ao informar uma lista de usuário, o sistema **salva somente os pertencentes a conta com status ativos** e desconsidera os demais.
+>
+> Se **todos** os usuários informados **não pertencerem a conta**, o sistema exibe a mensagem: Usuário(s) não encontrado(s).
+>
+> Se os usuários informados pertencerem a conta e estiverem **com status diferente de ativo**, o sistema exibir a mensagem: Somente é permitido usuários com status ativo.
+>
+> Se informar uma lista de usuários, salva somente os ativos e desconsidera os demais.
+
+**grupos**
+
+> Esta parte do json é **opcional** e o usuário poderá informar um ou mais id’s de grupos para restringir a execução do Webhook. Ou seja, o Webhook somente será executado caso o processo de assinatura de documentos tenha sido criado pelo usuário do grupo informado neste parâmetro.
+>
+> **Descrição:** Parâmetro informando um ou mais id’s de grupos da conta.
+>
+> **Formato:** Guid
+>
+> **Requerido:** <mark style="color:blue;">**Não**</mark>
+>
+> **Validação:**
+>
+> a- Quando for enviado id’s neste parâmetro, o sistema valida se o grupo pertence a conta.
+>
+> Ao informar uma lista de grupos, o sistema **salva somente os pertencentes a conta** e desconsidera os demais.
+>
+> Se **todos** os grupos informados **não pertencerem a conta**, o sistema exibe a mensagem: Grupo(s) não encontrado(s).
+
+**pastas**
+
+> Esta parte do json é **opcional** e o usuário poderá informar um ou mais id’s de pastas para restringir a execução do Webhook. Ou seja, o Webhook somente será executado caso o processo de assinatura de documentos tenha sido criado em alguma pasta informada neste parâmetro.
+>
+> **Descrição:** Parâmetro informando um ou mais id’s de pastas.
+>
+> **Formato:** Guid
+>
+> **Requerido: **<mark style="color:blue;">**Não**</mark>
+>
+> **Validação:**
+>
+> a- Quando for enviado id’s neste parâmetro, o sistema valida se a **pasta** pertence a conta.
+>
+> Ao informar uma lista de pastas, o sistema **salva somente as pertencentes a conta** e desconsidera os demais.
+>
+> Se **todas** as pastas informadas **não pertencerem a conta**, o sistema exibe a mensagem: Pastas(s) não encontrada(s).
+
+&#x20;**gatilhos**
+
+> **Descrição:** Parâmetro informando o gatilho que vai disparar o Webhook.
+>
+> **Formato:** Tinyint
+>
+> **Requerido: **<mark style="color:red;">**Sim**</mark>
+>
+> **Validação:**
+>
+> a- É obrigatório informar ao menos um gatilho para o Webhook.
+>
+> b- O sistema valida o gatilho informado, permitindo uma das opções, abaixo.
+>
+> > 1- Processo enviado
+> >
+> > 2- Processo com falha de envio
+> >
+> > 3- Processo assinado por algum signatário
+> >
+> > 4- Processo recusado por algum signatário
+> >
+> > 5- Processo cancelado pelo remetente
+> >
+> > 6- Processo expirado
+> >
+> > 7- Processo reenviado
+> >
+> > 8- Processo assinado/concluído por todos os signatários
+
+**dadosRetorno**
+
+> Esta parte do json é opcional e o usuário poderá informar os dados de retorno do Webhook.
+>
+> Quando não for enviado estes parâmetros ou for enviado como null significa que o Webhook retornará na URL do parâmetro urlPublicar apenas os seguintes dados:
+>
+> ```json
+> {
+>     "evento": "string",
+>     "idProcesso": "guid",
+>     "idConta": "guid",
+>     "idWebhook": "guid",
+>     "dataHoraAtual": "dd/mm/aaaa hh:mm:ss"
+> }
+> ```
+>
+> > **processo**
+> >
+> > > **Descrição:** Parâmetro informando se o Webhook deve retornar os dados do processo de assinaturas.
+> > >
+> > > **Formato:** Bit - 1 = true ou 0 = False
+> > >
+> > > **Requerido: **<mark style="color:blue;">**Não**</mark>
+> > >
+> > > **Validação:**
+> > >
+> > > a. Quando a informação **não é enviada ou enviada como nula**, o sistema considera como **0 = false.**
+> >
+> > **signatarios**
+> >
+> > > **Descrição:** Parâmetro informando se o Webhook deve retornar os dados dos signatários do processo de assinaturas.
+> > >
+> > > **Formato:** Bit - 1 = true ou 0 = False
+> > >
+> > > **Requerido:** <mark style="color:blue;">**Não**</mark>
+> > >
+> > > Validação:
+> > >
+> > > a. Quando a informação **não é enviada ou enviada como nula**, o sistema considera como **0 = false.**
+> >
+> > **documentos**
+> >
+> > > **Descrição:** Parâmetro informando se o Webhook deve retornar os documentos do processo de assinaturas.
+> > >
+> > > **Formato:** Bit - 1 = true ou 0 = False
+> > >
+> > > **Requerido: **<mark style="color:blue;">**Não**</mark>
+> > >
+> > > **Validação:**
+> > >
+> > > a. Quando a informação **não é enviada ou enviada como nula**, o sistema considera como **0 = false.**
+> >
+> > &#x20;**documentosTipo**
+> >
+> > > **Descrição:** Parâmetro informando o formato dos documentos que serão retornados pelo o Webhook.
+> > >
+> > > **Formato:** Byte - 1 = Base64, 2= Link para download
+> > >
+> > > **Requerido:** <mark style="color:red;">**Sim, quando o parâmetro documentos for igual a 1**</mark>
+> > >
+> > > **Validação:**
+> > >
+> > > a- Somente é permitido valores iguais a 1 ou 2.
+> > >
+> > > b- É obrigatório informar o parâmetro **documentosTipo** quando o parâmetro **documentos** for **igual a 1** (true).
+> >
+> > **linkDocCompartilhado**
+> >
+> > > **Descrição:** Parâmetro informando se o Webhook deve retornar o link compartilhado (link do QRCode) do processo de assinaturas.
+> > >
+> > > **Formato:** Bit - 1 = true ou 0 = False
+> > >
+> > > **Requerido: **<mark style="color:blue;">**Não**</mark>
+> > >
+> > > **Validação:**
+> > >
+> > > a. Quando a informação **não é enviada ou enviada como nula**, o sistema considera como **0 = false**.
+> >
+> > &#x20;**registrosAssinatura**
+> >
+> > > **Descrição:** Parâmetro informando se o Webhook deve retornar os registros de assinaturas do processo de assinaturas.
+> > >
+> > > **Formato:** Bit - 1 = true ou 0 = False
+> > >
+> > > **Requerido: **<mark style="color:blue;">**Não**</mark>
+> > >
+> > > **Validação:**
+> > >
+> > > a. Quando a informação **não é enviada ou enviada como nula**, o sistema considera como **0 = false.**
+> >
+> > &#x20;**registrosAssinaturaTipo**
+> >
+> > **Descrição:** Parâmetro informando o formato dos registros de assinaturas que serão retornados pelo o Webhook.
+> >
+> > **Formato:** Byte - 1 = Base64, 2= Link para download
+> >
+> > **Requerido: **<mark style="color:red;">**Sim, quando o parâmetro registrosAssinatura for igual a 1**</mark>
+> >
+> > **Validação:**
+> >
+> > a- Somente é permitido valores iguais a 1 ou 2.
+> >
+> > b- É obrigatório informar o parâmetro **registrosAssinaturasTipo** quando o parâmetro **registrosAssinaturas** for **igual a 1** (true).
+
+### Validações Gerais
+
+&#x20;**Autenticação**
+
+&#x20;1- O usuário deve informar **AppKey** e **SubscriptionKey** (SubscriptionKey1 ou SubscriptionKey2) da conta que está cadastrando a configuração de webhook.
+
+&#x20;2- Somente **conta com status Ativo** pode cadastrar configuração de Webhook via integração ArqSign. A conta deve ser identificada através da AppKey.
+
+## Retorno Validações
+
+### Erro: 400 - Bad Request
+
+Este erro é retornado quando não for possível interpretar a requisição e/ou o servidor tenta processar a solicitação, mas algum parâmetro da solicitação não é válido, por exemplo, um recurso formatado incorretamente ou uma tentativa de requisição com dados faltantes. As informações sobre a solicitação são fornecidas no corpo da resposta e incluem um código de erro e uma mensagem de erro.
+
+**a- Item obrigatório:** Esta mensagem é exibida no singular ou plural quando um ou mais itens obrigatórios não tiver sido enviado na chamada da API.
+
+> **Mensagem:** O(s) item(ns) listado(s) é(são) obrigatório(s): “nome dos itens separados por vírgula”.
+
+**b- Formato incorreto:** Esta mensagem é exibida no singular ou plural quando um ou mais itens estiverem sido enviados com formato incorreto.
+
+> **Mensagem:** O(s) item(ns) listado(s) está(ão) com o formato incorreto: “nome dos itens separados por vírgula”.
+
+**c- Ids inexistente:** Esta mensagem é exibida no singular ou plural quando um ou mais Id enviado não existir.
+
+> **Mensagem:** O(s) id(s) listado(s) não existe(m): “nome dos itens que são Ids de tabela, separados por vírgula”.
+
+**d- Algum parâmetro está incorreto ou é inexistente:** Esta mensagem é exibida quando a chamada é feita com algum parâmetro escrito errado ou quando é enviado uma informação que não existe no método.
+
+> **Mensagem:** Algum parâmetro está incorreto ou é inexistente.
+
+### Erro: 401 – Unauthorized
+
+&#x20;Este erro é retornado quando
+
+* A chave de autenticação da API ArqSign está incorreta ou não foi informada corretamente.
+* Conta está com status diferente de Ativo.
+
+### Erro: 404 - Not Found
+
+Este erro é retornado quando o recurso solicitado ou o _endpoint_ não foi localizado.
+
+### Erro: 500 - Server Error
+
+Este erro é retornado quando:
+
+* Ocorre um erro interno no servidor.
+* Ocorre uma falha na plataforma ArqSign.
+* Formato do parâmetro incorreto.
+* Formato do JSON incorreto.
+
+## Retorno Sucesso
+
+Ao executar o cadastro da configuração de Webhook, o sistema retorna:
+
+* Id do Webhook
+* Nome do Webhook
+* Chave HMAC
+
+&#x20;Code 200 – OK
+
+### Retorno - Exemplo Body Response
+
+```json
+{
+    "id": "guid",
+    "nome": "string",
+    "chaveHMAC": "string"
+}
+```
+
+&#x20;**1. id**
+
+O sistema retorna o id da configuração do Webhook criada.
+
+**2. nome**
+
+O sistema retorna o nome da configuração do Webhook criada.
+
+**3. chaveHMAC**
+
+O sistema retorna a chave HMAC gerada para a configuração do Webhook.
