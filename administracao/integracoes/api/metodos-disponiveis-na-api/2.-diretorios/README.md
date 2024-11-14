@@ -4,5 +4,5 @@ description: >-
   ArqSign.
 ---
 
-# 📂 2. Diretórios
+# 🏷️ 2. Diretórios
 
