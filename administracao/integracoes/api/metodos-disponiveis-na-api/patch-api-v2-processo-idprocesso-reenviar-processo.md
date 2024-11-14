@@ -12,7 +12,7 @@ Quando campo requerido estiver como “Talvez” = Em alguns casos ele será req
 
 <div align="left">
 
-<figure><img src="../../../../../.gitbook/assets/image (266).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (266).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 </div>
 
