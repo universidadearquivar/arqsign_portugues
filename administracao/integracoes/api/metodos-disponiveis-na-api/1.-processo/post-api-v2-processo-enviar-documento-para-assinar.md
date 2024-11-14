@@ -31,7 +31,7 @@ Quando campo requerido estiver como “Talvez” = Em alguns casos ele será req
 
 Quando campo requerido estiver como “Não” = Informação Opcional
 
-<figure><img src="../../../../.gitbook/assets/Pastel Simple Important points to build an attractive personal website infographic (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Pastel Simple Important points to build an attractive personal website infographic (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### **Exemplo de Body Request**
 
