@@ -12,7 +12,7 @@
 
 * Ter uma conta na plataforma ArqSign ativa.
 * Ter uma [chave de acesso a API válida](../#api-key-chave-de-acesso). Esta chave chamamos de AppKey.
-* Para o método [<mark style="background-color:green;">**POST**</mark>**/api/v1/processo/enviar-documento-para-assinar**](broken-reference), será necessário ter em mãos:
+* Para o método [<mark style="background-color:green;">**POST**</mark>**/api/v2/processo/enviar-documento-para-assinar**](metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar.md), será necessário ter em mãos:
 
 &#x20;    _-> ID de um usuário da conta com status ativo: para ser responsável pelos documentos que serão enviados pela API._ &#x20;
 
