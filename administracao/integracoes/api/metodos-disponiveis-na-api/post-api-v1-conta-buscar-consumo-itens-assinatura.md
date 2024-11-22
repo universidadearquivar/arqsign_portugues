@@ -56,7 +56,7 @@ Orientações:
 >
 > **Formato:** tinyint - **0 = Todos os itens; 1 = Envio; 2 = WhatsApp; 3 = SMS**
 >
-> **Requerido: **<mark style="color:red;">**Sim**</mark>
+> **Requerido:&#x20;**<mark style="color:red;">**Sim**</mark>
 >
 > **Validação:**
 >

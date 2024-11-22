@@ -84,7 +84,7 @@ Esta opção só será exibida se o usuário tiver acesso à conta na qual o doc
 
 #### **Baixar Arquivo**
 
-Quando processo possuir um documento ou é um compartilhamento de apenas um documento do processo, **o sistema faz **_**download**_ do documento do **processo e do registro de assinaturas** em uma pasta.zip.
+Quando processo possuir um documento ou é um compartilhamento de apenas um documento do processo, **o sistema faz&#x20;**_**download**_ do documento do **processo e do registro de assinaturas** em uma pasta.zip.
 
 A pasta zip é nomeada com o nome do processo e o arquivo de registro de assinatura é nomeado como **NomeDocumento\_Registro** de assinatura.
 

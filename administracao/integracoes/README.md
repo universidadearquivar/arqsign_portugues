@@ -1,15 +1,5 @@
 # 🧩 Integrações
 
-{% hint style="danger" %}
-<mark style="color:red;">A URL da API ArqSIGN será alterada!</mark>
-
-<mark style="color:red;">A URL</mark> [<mark style="color:red;">**https://api.arqsign.com/**</mark>](https://api.arqsign.com/) <mark style="color:red;">**estará disponível somente até 31/10/2024**</mark><mark style="color:red;">. Desta forma é importante todos que usam a API ArqSign alterarem as chamadas para a nova rota:</mark>  [<mark style="color:red;">**https://api-rest.arqsign.com/**</mark>](https://api-rest.arqsign.com/)&#x20;
-
-<mark style="color:red;">**A documentação oficial da API do ArqSIGN agora está na URL:**</mark> [<mark style="color:red;">**https://developers.arqsign.com/**</mark>](https://developers.arqsign.com/)&#x20;
-
-<mark style="color:red;">Na nova rota será necessário além da chave AppKey, enviar também a SubscriptionKey. A SubscriptionKey</mark> [<mark style="color:red;">**poderá ser gerada pelo usuário na aplicação ArqSIGN.**</mark>](https://arquivar.gitbook.io/manual-arqsign/administracao/integracoes/api#subscriptionkey)
-{% endhint %}
-
 A ArqSign conta com sua própria API de Integração. Isso quer dizer que clientes e parceiros podem integrar as funcionalidades da Plataforma ArqSign à suas soluções. A API de Integração permite a comunicação com outros aplicativos/softwares de forma automática, ou seja, sem o conhecimento ou intervenção do usuário final.
 
 ## Introdução à documentação

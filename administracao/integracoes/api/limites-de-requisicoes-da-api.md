@@ -1,13 +1,5 @@
 # 🔳 Limites de Requisições da API
 
-### **Rota em processo de descontinuidade (disponível até 31/10/2024):** [**https://api.arqsign.com/** ](https://api.arqsign.com/)
-
-<figure><img src="../../../.gitbook/assets/api02.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-### **Nova Rota:** [**https://api-rest.arqsign.com/**](https://api-rest.arqsign.com/)
-
 #### Limite Rate
 
 O limite rate é uma medida para proteger a aplicação de ataques ou mal uso do recurso de API.&#x20;
