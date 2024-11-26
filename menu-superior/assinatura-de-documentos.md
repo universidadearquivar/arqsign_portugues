@@ -268,7 +268,7 @@ Se já tiver uma conta ativa na plataforma de assinatura, mas **não estiver log
 
 <figure><img src="../.gitbook/assets/tela pessoa com conta delogada.png" alt="" width="375"><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
-Se o signatário **não tiver uma conta cadastrada** na plataforma, será exibida uma mensagem de sugestão para que seja criada uma conta de teste grátis, ou para que possa saber mais onde o usuário será direcionada para a página de mais informações no site ArqSign.&#x20;
+Se o signatário **não tiver uma conta cadastrada** na plataforma, será exibida uma mensagem de sugestão para que [seja criada uma conta de teste grátis](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/NkvKZtdmOiilgqExqFNO/), ou para que possa saber mais onde o usuário será direcionada para a página de mais informações no site ArqSign.&#x20;
 
 <figure><img src="../.gitbook/assets/tela pessoa sem conta.png" alt="" width="375"><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
