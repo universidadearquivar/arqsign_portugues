@@ -258,9 +258,19 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 </details>
 
-Para finalizar o processo de assinatura, o signatário deve clicar em “Concluir”. Ele será direcionado para a tela de login. Se já tiver uma conta ativa na plataforma de assinatura poderá informar suas credenciais para acessar.  Se não tiver uma conta cadastrada na plataforma será exibida uma mensagem de sugestão para que seja criada uma conta de teste grátis.
+Para finalizar o processo de assinatura, o signatário deve clicar em “Concluir”. Ele será direcionado para uma tela pop-up, que será diferente conforme a sua situação.&#x20;
 
-<figure><img src="../.gitbook/assets/sign10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+Se já tiver uma conta ativa na plataforma de assinatura e **estiver logado**, poderá clicar na opção "voltar para a plataforma" e será direcionado para sua caixa de entrada ArqSign. 
+
+<figure><img src="../.gitbook/assets/tela pessoa com conta logada.png" alt="" width="375"><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+Se já tiver uma conta ativa na plataforma de assinatura, mas **não estiver logado**, poderá clicar na opção "acessar minha conta" e poderá informar suas credenciais para acessar. 
+
+<figure><img src="../.gitbook/assets/tela pessoa com conta delogada.png" alt="" width="375"><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+Se o signatário **não tiver uma conta cadastrada** na plataforma, será exibida uma mensagem de sugestão para que seja criada uma conta de teste grátis, ou para que possa saber mais onde o usuário será direcionada para a página de mais informações no site ArqSign.&#x20;
+
+<figure><img src="../.gitbook/assets/tela pessoa sem conta.png" alt="" width="375"><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**A criação da conta de teste grátis não é obrigatória.**</mark>
