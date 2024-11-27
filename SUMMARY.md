@@ -67,11 +67,10 @@
       * [🗃️ 5. Webhook](administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/README.md)
         * [✔️ 5.1.PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status.md)
         * [✔️ 5.2.POST/api/v1/confwebhook](administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.2.post-api-v1-confwebhook.md)
-    * [🔳 Fluxo ideal considerando alguns métodos disponíveis](administracao/integracoes/api/fluxo-ideal-considerando-alguns-metodos-disponiveis.md)
     * [🔳 URL da API ArqSign](administracao/integracoes/api/url-da-api-arqsign.md)
     * [🔳 Biblioteca para testes Postman](administracao/integracoes/api/biblioteca-para-testes-postman.md)
   * [🟪 Webhook](administracao/integracoes/webhook.md)
-  * [🔳 Histórico de alterações](administracao/integracoes/historico-de-alteracoes.md)
+  * [Fluxo Ideal de Integração](administracao/integracoes/fluxo-ideal-de-integracao.md)
 
 ## NOVIDADES DO ARQSIGN
 
