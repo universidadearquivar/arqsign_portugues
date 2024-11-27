@@ -46,9 +46,7 @@ O objetivo do webhook de conclusão é enviar ao seu sistema o arquivo assinado 
 
 Com os dois Webhooks acima configurados, será possível implementar o fluxo de integração abaixo:
 
-<figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook-01-01.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ## Detalhamento do fluxo
 
