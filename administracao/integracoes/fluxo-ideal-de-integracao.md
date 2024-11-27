@@ -46,7 +46,19 @@ O objetivo do webhook de conclusão é enviar ao seu sistema o arquivo assinado 
 
 Com os dois Webhooks acima configurados, será possível implementar o fluxo de integração abaixo:
 
-<figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-01.png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-02.png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-03 (1).png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-04.png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-05.png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-06.png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure></div>
 
 ## Detalhamento do fluxo
 
