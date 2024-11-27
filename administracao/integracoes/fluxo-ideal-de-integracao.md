@@ -48,6 +48,8 @@ Com os dois Webhooks acima configurados, será possível implementar o fluxo de 
 
 ## Fluxo de Integração
 
+_Clique nas imagens para ampliar_
+
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-01.png" alt=""><figcaption></figcaption></figure></div>
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-02.png" alt=""><figcaption></figcaption></figure></div>
@@ -59,8 +61,6 @@ Com os dois Webhooks acima configurados, será possível implementar o fluxo de 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-05.png" alt=""><figcaption></figcaption></figure></div>
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook partes-06.png" alt=""><figcaption></figcaption></figure></div>
-
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/Fluxo Ideal de Integração ArqSIGN + Webhook.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure></div>
 
 ### Detalhamento do fluxo
 
