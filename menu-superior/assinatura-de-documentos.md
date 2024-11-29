@@ -150,14 +150,6 @@ Para prosseguir com a assinatura, o signatário deve clicar em “Assinar”.   
 
 <figure><img src="../.gitbook/assets/sign05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### AppNative
-
-Devido a uma mudança de tecnologia utilizada na última atualização da plataforma, todos os clientes deverão **atualizar manualmente** o instalador do **AppNative** (baixar e instalar), pois, não será possível realizar a atualização de forma automática.
-
-No momento da assinatura, caso o processo de atualização não tenha sido realizado, a plataforma deverá baixar o arquivo de instalação e apresentar uma mensagem para orientação do usuário no processo de instalação.
-
-<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
 ### Etapa 2 - Dados do signatário e Anexos
 
 No próximo item, se houver configuração prévia solicitando que o signatário forneça dados complementares, ele deverá informá-los.
@@ -232,15 +224,13 @@ Ele deverá selecionar aquele com o qual irá assinar e informar o código PIN d
 <mark style="color:orange;">**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela**</mark> [<mark style="color:blue;">**Meu Perfil > Aba Certificado Digital.**</mark> ](meu-perfil.md)<mark style="color:orange;">**Caso o usuário tenha o certificado digital hospedado na ArqSign, será oferecida a ele a opção de autenticação na plataforma para utilizar o certificado que possui.**</mark>
 {% endhint %}
 
-<details>
+#### Instalação dos plugins necessários para a utilização dos certificados digitais
 
-<summary>Instalação dos plugins necessários para a utilização dos certificados digitais</summary>
-
-Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizando um certificado digital será solicitado ao usuário que instale os plugins “ArqSign Certificado Digital” (disponível [clicando aqui](https://chrome.google.com/webstore/detail/arqsign-certificado-digit/fjdnpmenmpfadeojgkhgiogiclmcjgbp?hl=pt-br)) e AppNative – Módulo Desktop (disponibilizado durante o processo).
+Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizando um certificado digital será solicitado ao usuário que instale a extensão “ArqSign Certificado Digital” (disponível nas lojas de extensões dos navegadores) e do Arquivar Native Module (disponibilizado durante o processo).
 
 <img src="../.gitbook/assets/assinatura01.png" alt="" data-size="original">
 
-1\. Ao clicar em “Instalar Agora”, será aberta a janela com o link para o download do plugin “ArqSign Certificado Digital”.&#x20;
+1\. Ao clicar em “Instalar Agora”, será aberta a janela com o link para o download da extensão “ArqSign Certificado Digital”.&#x20;
 
 <img src="../.gitbook/assets/assinatura02.png" alt="" data-size="original">
 
@@ -248,7 +238,7 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 <img src="../.gitbook/assets/assinatura03.png" alt="" data-size="original"><img src="../.gitbook/assets/assinatura04.png" alt="" data-size="original">
 
-3\. Depois da concluir a primeira instalação, retorne à plataforma ArqSign e prossiga com a instalação do aplicativo AppNative clicando em “Clique aqui para fazer o download...”.&#x20;
+3\. Depois da concluir a primeira instalação, retorne à plataforma ArqSign e prossiga com a instalação do plugin Arquivar Native Moduleclicando em “Clique aqui para fazer o download...”.&#x20;
 
 <img src="../.gitbook/assets/assinatura05.png" alt="" data-size="original"><img src="../.gitbook/assets/assinatura07.png" alt="" data-size="original">
 
@@ -256,7 +246,43 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 <img src="../.gitbook/assets/assinatura08.png" alt="" data-size="original">
 
-</details>
+
+
+{% hint style="warning" %}
+#### <mark style="color:orange;">AppNative</mark>
+
+<mark style="color:orange;">Devido a uma mudança de tecnologia utilizada na última atualização da plataforma, todos os clientes deverão</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**atualizar manualmente**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">o instalador do</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**AppNative**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">(baixar e instalar), pois, não será possível realizar a atualização de forma automática.</mark>
+
+<mark style="color:orange;">No momento da assinatura, caso o processo de atualização não tenha sido realizado, a plataforma deverá baixar o arquivo de instalação e apresentar uma mensagem para orientação do usuário no processo de instalação.</mark>
+
+
+
+<img src="../.gitbook/assets/image (218).png" alt="" data-size="original">
+
+
+
+
+
+
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (218).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (218).png" alt="" width="375"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% tabs %}
+{% tab title="Google Chrome" %}
+
+{% endtab %}
+
+{% tab title="Microsoft Edge" %}
+
+{% endtab %}
+
+{% tab title="Mozilla Firefox " %}
+
+{% endtab %}
+{% endtabs %}
 
 Para finalizar o processo de assinatura, o signatário deve clicar em “Concluir”. Ele será direcionado para uma tela pop-up, que será diferente conforme a sua situação.&#x20;
 
