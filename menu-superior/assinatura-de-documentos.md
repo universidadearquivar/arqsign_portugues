@@ -58,7 +58,7 @@ Depois de conectado à conta, o usuário deve clicar no menu [Caixa Postal > Cai
 
 ## Assinando um documento
 
-### Etapa 1 - Acessando o documento&#x20;
+## Etapa 1 - Acessando o documento&#x20;
 
 Se o remetente tiver definido um código de segurança para abertura do documento, será solicitado que o signatário informe o código, que deve ter sido recebido anteriormente por e-mail, WhatsApp, SMS ou pelo próprio remetente. Caso não possua o código o usuário deve clicar em “Não Recebi o Código”.&#x20;
 
@@ -150,7 +150,7 @@ Para prosseguir com a assinatura, o signatário deve clicar em “Assinar”.   
 
 <figure><img src="../.gitbook/assets/sign05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### Etapa 2 - Dados do signatário e Anexos
+## Etapa 2 - Dados do signatário e Anexos
 
 No próximo item, se houver configuração prévia solicitando que o signatário forneça dados complementares, ele deverá informá-los.
 
@@ -160,7 +160,7 @@ Se também tiver sido solicitado ao signatário anexar arquivos, no campo “Ane
 
 ***
 
-### Etapa 3 - Estilo de Assinatura
+## Etapa 3 - Estilo de Assinatura
 
 O Estilo de Assinatura é a representação visual da assinatura do usuário. Para concluir a assinatura de um documento, o usuário deverá escolher de que forma irá assinar, considerando as configurações realizadas pelo destinatário em [Novo Documento](novo-documento.md#b.-destinatarios). Neste momento o destinatário deverá informar qual a representação visual  deve ser utilizada pelo signatário: "Padrão, Desenho ou Imagem", ou somente "Padrão (Texto)" ou somente "Desenho" ou somente "Imagem".
 
@@ -184,7 +184,7 @@ Para concluir o signatário deve clicar em “Concluir”. Se foi solicitado no 
 
 ***
 
-### Etapa 4 - Assinando eletronicamente ou com certificado digital
+## Etapa 4 - Assinando eletronicamente ou com certificado digital
 
 {% hint style="info" %}
 <mark style="color:blue;">**ASSINATURA ELETRÔNICA X ASSINATURA DIGITAL (ICP Brasil e ICP Outros)**</mark>
@@ -202,7 +202,7 @@ Para concluir o signatário deve clicar em “Concluir”. Se foi solicitado no 
 
 Depois de definir o Estilo de Assinatura, será solicitada a assinatura do usuário que pode ser:
 
-#### A. Assinatura Eletrônica
+### A. Assinatura Eletrônica
 
 Na assinatura eletrônica o usuário informa seus dados de pessoa física ou jurídica e a própria Arquivar certifica a autenticidade e veracidade das informações apresentadas.&#x20;
 
@@ -210,7 +210,7 @@ Se o usuário estiver utilizando uma assinatura eletrônica, será necessário q
 
 <figure><img src="../.gitbook/assets/sign06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### B. Assinatura Digital – ICP Brasil e Outros
+### B. Assinatura Digital – ICP Brasil e Outros
 
 Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), será exibida uma lista com todos os certificados instalados na máquina do usuário e na conta da plataforma ArqSign.&#x20;
 
@@ -224,7 +224,7 @@ Ele deverá selecionar aquele com o qual irá assinar e informar o código PIN d
 <mark style="color:orange;">**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela**</mark> [<mark style="color:blue;">**Meu Perfil > Aba Certificado Digital.**</mark> ](meu-perfil.md)<mark style="color:orange;">**Caso o usuário tenha o certificado digital hospedado na ArqSign, será oferecida a ele a opção de autenticação na plataforma para utilizar o certificado que possui.**</mark>
 {% endhint %}
 
-#### Instalação dos plugins necessários para a utilização dos certificados digitais
+### Instalação dos plugins necessários para a utilização dos certificados digitais
 
 Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizando um certificado digital será solicitado ao usuário que instale a extensão “ArqSign Certificado Digital” (disponível nas lojas de extensões dos navegadores) e do Arquivar Native Module (disponibilizado durante o processo).
 
@@ -258,7 +258,7 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 <img src="../.gitbook/assets/image (218).png" alt="" data-size="original">
 {% endhint %}
 
-#### Instalando a Extensão  em diferentes navegadores de internet
+### Instalando a Extensão  em diferentes navegadores de internet
 
 {% tabs %}
 {% tab title="Google Chrome" %}
@@ -286,7 +286,7 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 <figure><img src="../.gitbook/assets/image (334).png" alt="" width="277"><figcaption></figcaption></figure>
 
-1. Prontinho, extensão adicionada com sucesso, só precisará fazer isso na primeira vez que assinar com certificado digital, nas próximas a extensão já se manterá instalada em seu navegador.&#x20;
+7. Prontinho, extensão adicionada com sucesso, só precisará fazer isso na primeira vez que assinar com certificado digital, nas próximas a extensão já se manterá instalada em seu navegador.&#x20;
 {% endtab %}
 
 {% tab title="Mozilla Firefox" %}
