@@ -255,20 +255,8 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 <mark style="color:orange;">No momento da assinatura, caso o processo de atualização não tenha sido realizado, a plataforma deverá baixar o arquivo de instalação e apresentar uma mensagem para orientação do usuário no processo de instalação.</mark>
 
-
-
 <img src="../.gitbook/assets/image (218).png" alt="" data-size="original">
-
-
-
-
-
-
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/image (218).png" alt="" width="375"><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (218).png" alt="" width="375"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Google Chrome" %}
