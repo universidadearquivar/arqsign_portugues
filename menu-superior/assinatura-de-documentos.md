@@ -251,7 +251,7 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 {% hint style="warning" %}
 #### <mark style="color:orange;">AppNative</mark>
 
-<mark style="color:orange;">Devido a uma mudança de tecnologia utilizada na última atualização da plataforma, todos os clientes deverão</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**atualizar manualmente**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">o instalador do</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**AppNative**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">(baixar e instalar), pois, não será possível realizar a atualização de forma automática.</mark>
+#### <mark style="color:orange;">Devido a uma mudança de tecnologia utilizada na última atualização da plataforma, todos os clientes deverão</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**atualizar manualmente**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">o instalador do</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**AppNative**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">(baixar e instalar), pois, não será possível realizar a atualização de forma automática.</mark>
 
 <mark style="color:orange;">No momento da assinatura, caso o processo de atualização não tenha sido realizado, a plataforma deverá baixar o arquivo de instalação e apresentar uma mensagem para orientação do usuário no processo de instalação.</mark>
 

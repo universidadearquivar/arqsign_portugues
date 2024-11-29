@@ -66,7 +66,7 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 
 Depois de instalados, serão exibidos todos os certificados digitais instalados na máquina e hospedados na conta do ArqSign para que o usuário escolha aquele que deseja utilizar para a assinatura e informe o código PIN (se solicitado). &#x20;
 
-Caso não tenha instalado ainda a Extensão ArqSign Certificado Digital e o Arquivar Native Module, pode verificar o passo-a-passo para assinatura clicando nos links abaixo:
+Caso não tenha instalado ainda a Extensão "ArqSign Certificado Digital" e o "Arquivar Native Module", pode verificar o passo-a-passo para instalação clicando nos links abaixo:
 
 * [Instalação dos plugins necessários para a utilização dos certificados digitais](assinatura-de-documentos.md#instalacao-dos-plugins-necessarios-para-a-utilizacao-dos-certificados-digitais)
 * [Instalando a Extensão em diferentes navegadores de internet](assinatura-de-documentos.md#instalacao-da-extensao-em-diferentes-navegadores-de-internet)
