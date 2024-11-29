@@ -212,21 +212,9 @@ Se o usuário estiver utilizando uma assinatura eletrônica, será necessário q
 
 ### B. Assinatura Digital – ICP Brasil e Outros
 
-Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), será exibida uma lista com todos os certificados instalados na máquina do usuário e na conta da plataforma ArqSign.&#x20;
-
-<figure><img src="../.gitbook/assets/sign13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-Ele deverá selecionar aquele com o qual irá assinar e informar o código PIN do certificado (se solicitado). Caso ele precise assinar também como Pessoa Jurídica, a assinatura será utilizada nas duas situações.
-
-<figure><img src="../.gitbook/assets/sign14.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="warning" %}
-<mark style="color:orange;">**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela**</mark> [<mark style="color:blue;">**Meu Perfil > Aba Certificado Digital.**</mark> ](meu-perfil.md)<mark style="color:orange;">**Caso o usuário tenha o certificado digital hospedado na ArqSign, será oferecida a ele a opção de autenticação na plataforma para utilizar o certificado que possui.**</mark>
-{% endhint %}
-
 ### Instalação dos plugins necessários para a utilização dos certificados digitais
 
-Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizando um certificado digital será solicitado ao usuário que instale a extensão “ArqSign Certificado Digital” (disponível nas lojas de extensões dos navegadores) e do Arquivar Native Module (disponibilizado durante o processo).
+Para o uso de assinatura digital será necessário, antes do primeiro uso, a instalação da extensão “ArqSign Certificado Digital” (disponível nas lojas de extensões dos navegadores) e do Arquivar Native Module (disponibilizado durante o processo).
 
 <img src="../.gitbook/assets/assinatura01.png" alt="" data-size="original">
 
@@ -246,7 +234,7 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 <img src="../.gitbook/assets/assinatura08.png" alt="" data-size="original">
 
-
+***
 
 {% hint style="warning" %}
 #### <mark style="color:orange;">AppNative</mark>
@@ -330,6 +318,22 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 7. Prontinho, extensão adicionada com sucesso, só precisará fazer isso na primeira vez que assinar com certificado digital, nas próximas a extensão já se manterá instalada em seu navegador.&#x20;
 {% endtab %}
 {% endtabs %}
+
+***
+
+Tendo instalado a extensão e o módulo do certificado, o usuário poderá dar sequência ao processo de assinatura.
+
+Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), será exibida uma lista com todos os certificados instalados na máquina do usuário e na conta da plataforma ArqSign.&#x20;
+
+<figure><img src="../.gitbook/assets/sign13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ele deverá selecionar aquele com o qual irá assinar e informar o código PIN do certificado (se solicitado). Caso ele precise assinar também como Pessoa Jurídica, a assinatura será utilizada nas duas situações.
+
+<figure><img src="../.gitbook/assets/sign14.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela**</mark> [<mark style="color:blue;">**Meu Perfil > Aba Certificado Digital.**</mark> ](meu-perfil.md)<mark style="color:orange;">**Caso o usuário tenha o certificado digital hospedado na ArqSign, será oferecida a ele a opção de autenticação na plataforma para utilizar o certificado que possui.**</mark>
+{% endhint %}
 
 Para finalizar o processo de assinatura, o signatário deve clicar em “Concluir”. Ele será direcionado para uma tela pop-up, que será diferente conforme a sua situação.&#x20;
 
