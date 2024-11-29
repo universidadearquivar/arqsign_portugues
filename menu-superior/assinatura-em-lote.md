@@ -62,35 +62,14 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 
 <figure><img src="../.gitbook/assets/lote09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-4\. Se for determinado o uso de certificado digital, você pode utilizar um certificado que esteja armazenado na Plataforma ArqSign ou um que não esteja armazenado na plataforma. Para assinatura feita por meio de um que não esteja armazenado, caso ainda não tenha feito, será solicitado ao usuário que instale a extensão “ArqSign Certificado Digital” no browser e o aplicativo AppNative – Módulo Desktop em sua máquina, necessários para a utilização dos certificados digitais.&#x20;
+4\. Se for determinado o uso de certificado digital, você pode utilizar um certificado que esteja armazenado na Plataforma ArqSign ou um que não esteja armazenado na plataforma. Para assinatura feita por meio de um que não esteja armazenado, caso ainda não tenha feito, será solicitado ao usuário que instale a extensão “ArqSign Certificado Digital” no browser e o aplicativo Arquivar Native Module em sua máquina, necessários para a utilização dos certificados digitais.&#x20;
 
-Depois de instalados, serão exibidos todos os certificados digitais instalados na máquina e hospedados na conta do ArqSign para que o usuário escolha aquele que deseja utilizar para a assinatura e informe o código PIN (se solicitado).  &#x20;
+Depois de instalados, serão exibidos todos os certificados digitais instalados na máquina e hospedados na conta do ArqSign para que o usuário escolha aquele que deseja utilizar para a assinatura e informe o código PIN (se solicitado). &#x20;
 
-<details>
+Caso não tenha instalado ainda a Extensão ArqSign Certificado Digital e o Arquivar Native Module, pode verificar o passo-a-passo para assinatura clicando nos links abaixo:
 
-<summary>Instalação dos plugins necessários para a utilização dos certificados digitais</summary>
-
-Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizando um certificado digital será solicitado ao usuário que instale os plugins “ArqSign Certificado Digital” (disponível [clicando aqui](https://chrome.google.com/webstore/detail/arqsign-certificado-digit/fjdnpmenmpfadeojgkhgiogiclmcjgbp?hl=pt-br)) e AppNative – Módulo Desktop (disponibilizado durante o processo).
-
-<img src="../.gitbook/assets/assinatura01.png" alt="" data-size="original">
-
-1\. Ao clicar em “Instalar Agora”, será aberta a janela com o link para o download do plugin “ArqSign Certificado Digital”.&#x20;
-
-<img src="../.gitbook/assets/assinatura02.png" alt="" data-size="original">
-
-2\. Faça a instalação da extensão de acordo com o navegador que estiver utilizando.&#x20;
-
-<img src="../.gitbook/assets/assinatura03.png" alt="" data-size="original"><img src="../.gitbook/assets/assinatura04.png" alt="" data-size="original">
-
-3\. Depois da concluir a primeira instalação, retorne à plataforma ArqSign e prossiga com a instalação do aplicativo AppNative clicando em “Clique aqui para fazer o download...”.&#x20;
-
-<img src="../.gitbook/assets/assinatura05.png" alt="" data-size="original"><img src="../.gitbook/assets/assinatura07.png" alt="" data-size="original">
-
-4\.  Depois de concluir a segunda instalação, retorne à plataforma ArqSign. Será exibida uma mensagem de conclusão das instalações.&#x20;
-
-<img src="../.gitbook/assets/assinatura08.png" alt="" data-size="original">
-
-</details>
+* [Instalação dos plugins necessários para a utilização dos certificados digitais](assinatura-de-documentos.md#instalacao-dos-plugins-necessarios-para-a-utilizacao-dos-certificados-digitais)
+* [Instalando a Extensão em diferentes navegadores de internet](assinatura-de-documentos.md#instalacao-da-extensao-em-diferentes-navegadores-de-internet)
 
 <figure><img src="../.gitbook/assets/lote10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
