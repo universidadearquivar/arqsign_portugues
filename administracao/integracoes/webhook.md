@@ -203,7 +203,7 @@ O dados de retornos configurados, são representados no campo JSON a medida que 
 
 O "**Link dos documentos compartilhados**"  é o link  de compartilhamento dos documentos do processo. Estes links são disponibilizados somente na conclusão de processos que possui a configuração "**GerarQRCode**". Concluídas as configurações, clique "Salvar". Serão habilitadas novas abas para andamento das configurações.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -217,17 +217,17 @@ A cada webhook gerado na ArqSIGN, a aplicação irá gerar o “**Chave secreta 
 
 A “**Chave secreta HMAC**” e o body da requisição devem ser usados para o cálculo do SHA256 HMAC hash. Este hash será enviado no cabeçalho da requisição como “**HMAC**”.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 
 
 Utilizando os ícones disponíveis na tela, o usuário poderá:
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Visualizar:** Ao clicar no ícone, a chave HMAC é apresentada na tela.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Copiar:** Após clicar no ícone de visualização, é habilitada a opção de "Copiar" a chave HMAC.
 
@@ -357,7 +357,7 @@ As falhas de comunicação elegíveis para retransmissão poderão ocorrer de fo
 <mark style="color:blue;">Cada evento configurado no webhook que houver falha, terá no máximo 14 tentativas, contando com a primeira tentativa que ocorre no ato do evento.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Inativação automática do webhook por falhas
 
@@ -379,11 +379,11 @@ Os webhooks inativados pela aplicação por falhas, receberão os status “**In
 
 Nesta aba é possível acompanhar os logs de falha do webhook.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nesta tela também é possível reenviar os dados manualmente clicando no botão "Reenviar". Este botão ficará habilitado apenas se o registro não tiver atingido a 14ª tentativa.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se o Webhook estiver inativo ou estiver em edição por outro usuário, todos os registros do GRID terão o botão "Reenviar" desabilitado.
 
@@ -393,6 +393,6 @@ Em todos os casos, se um reenvio tiver sucesso, o registro é removido do GRID e
 
 Na coluna "Falha", é apresenta a mensagem da falha ocorrido. Ao clicar no ícone uma nova janela é aberta.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na nova janela, além da mensagem de detalhamento da falha, são apresentados outros dados do processo.&#x20;
