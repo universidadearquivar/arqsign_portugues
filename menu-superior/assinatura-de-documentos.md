@@ -258,7 +258,7 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 <img src="../.gitbook/assets/image (218).png" alt="" data-size="original">
 {% endhint %}
 
-### Instalando a Extensão  em diferentes navegadores de internet
+### Instalação da Extensão  em diferentes navegadores de internet
 
 {% tabs %}
 {% tab title="Google Chrome" %}
