@@ -258,17 +258,54 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 <img src="../.gitbook/assets/image (218).png" alt="" data-size="original">
 {% endhint %}
 
+#### Instalando a Extensão  em diferentes navegadores de internet
+
 {% tabs %}
 {% tab title="Google Chrome" %}
+1. Para instalar a extensão "ArqSign Certificado Digital" no Google Chrome você irá clicar nos três pontinhos no canto superior esquerdo da tela.&#x20;
 
+<figure><img src="../.gitbook/assets/image (329).png" alt="" width="324"><figcaption></figcaption></figure>
+
+2. Em seguida clicará em "Extensões" e depois em "Acessar a Chrome Web Store".
+
+<figure><img src="../.gitbook/assets/image (330).png" alt="" width="354"><figcaption></figcaption></figure>
+
+3. Buscar por "ArqSign Certificado Digital".
+
+<figure><img src="../.gitbook/assets/image (331).png" alt="" width="271"><figcaption></figcaption></figure>
+
+4. Clicar no resultado da pesquisa.
+
+<figure><img src="../.gitbook/assets/image (332).png" alt="" width="375"><figcaption></figcaption></figure>
+
+5. Clicar em "Usar no Chrome".
+
+<figure><img src="../.gitbook/assets/image (333).png" alt="" width="375"><figcaption></figcaption></figure>
+
+6. Clicar em "Adicionar extensão"
+
+<figure><img src="../.gitbook/assets/image (334).png" alt="" width="277"><figcaption></figcaption></figure>
+
+1. Prontinho, extensão adicionada com sucesso, só precisará fazer isso na primeira vez que assinar com certificado digital, nas próximas a extensão já se manterá instalada em seu navegador.&#x20;
+{% endtab %}
+
+{% tab title="Mozilla Firefox" %}
+1. Para instalar a extensão "ArqSign Certificado Digital" no Mozilla Firefox você irá clicar nas três barrinhas no canto superior esquerdo da tela.&#x20;
+2. Em seguida clicará em "Extensões e temas".
+3. Buscar por "ArqSign Certificado Digital".
+4. Clicar no resultado da pesquisa.
+5. Clicar em "Ativar".
+6. Prontinho, extensão adicionada com sucesso, só precisará fazer isso na primeira vez que assinar com certificado digital, nas próximas a extensão já se manterá instalada em seu navegador.&#x20;
 {% endtab %}
 
 {% tab title="Microsoft Edge" %}
-
-{% endtab %}
-
-{% tab title="Mozilla Firefox " %}
-
+1. Para instalar a extensão "ArqSign Certificado Digital" no Microsoft Edge você irá clicar nos três pontinhos no canto superior esquerdo da tela.&#x20;
+2. Em seguida clicará em "Extensões".&#x20;
+3. Clicar em "Obter extensões do Microsoft Edge".
+4. Buscar por "ArqSign Certificado Digital".
+5. Clicar em "Obter".
+6. Clicar em "Adicionar extensão"
+7. Prontinho, extensão adicionada com sucesso, só precisará fazer isso na primeira vez que assinar com certificado digital, nas próximas a extensão já se manterá instalada em seu navegador.&#x20;
 {% endtab %}
 {% endtabs %}
 
