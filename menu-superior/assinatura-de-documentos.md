@@ -1,11 +1,5 @@
 # ✍️ Assinatura de Documentos
 
-{% hint style="danger" %}
-<mark style="color:red;">Devido a uma mudança de tecnologia utilizada na última atualização da plataforma, todos os clientes deverão</mark> <mark style="color:red;"></mark><mark style="color:red;">**atualizar manualmente**</mark> <mark style="color:red;"></mark><mark style="color:red;">o instalador do</mark> <mark style="color:red;"></mark><mark style="color:red;">**AppNative**</mark> <mark style="color:red;"></mark><mark style="color:red;">(baixar e instalar), pois, não será possível realizar atualização automática.</mark>
-
-<mark style="color:red;">No momento da assinatura, caso o processo de atualização não tenha sido realizado, a plataforma apresentará uma mensagem para orientação do usuário quanto a atualização.</mark>
-{% endhint %}
-
 O processo de assinatura eletrônica de documentos pode ser realizado por três caminhos:
 
 {% tabs %}
