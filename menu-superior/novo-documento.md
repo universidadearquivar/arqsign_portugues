@@ -40,6 +40,10 @@ Quando este campo estiver **desmarcado**, a ArqSign exibe os **arquivos desagrup
 
 No campo “**Nome do Processo de Assinatura**”, é possível editar o nome do processo que contempla os arquivos agrupados, altere conforme necessidade.
 
+{% hint style="info" %}
+Ao editar o nome, não poderão ser utilizados caracteres especiais <mark style="background-color:blue;">**( @ : \* " < > | / ? \ )**</mark>. Caso seja utilizado, a plataforma não seguirá o andamento do processo.
+{% endhint %}
+
 No campo “**Pasta Documento**” selecione a pasta na qual o documento será hospedado. As pastas nas quais os documentos poderão ser armazenados deverão ser criadas no menu [Diretórios > Documentos.](../diretorios/documentos/) Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.
 
 <figure><img src="../.gitbook/assets/novodocumento03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
@@ -70,11 +74,7 @@ Ao direcionar o _mouse_ sobre a opção de "Configurações avançadas", é apre
 
 Já para editar pontualmente as configurações de um determinado arquivo, clique em Configurações Avançadas, conforme imagem abaixo.&#x20;
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/image (164).png" alt="" width="407"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
