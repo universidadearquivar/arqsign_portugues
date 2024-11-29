@@ -50,7 +50,7 @@ Depois de conectado à conta, o usuário deve clicar no menu [Caixa Postal > Cai
 
 ***
 
-## Assinando um documento ArqSign
+## Assinando um documento
 
 ## Etapa 1 - Acessando o documento&#x20;
 
