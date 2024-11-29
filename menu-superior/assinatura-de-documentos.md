@@ -315,7 +315,7 @@ Para o uso de assinatura digital será necessário, antes do primeiro uso, a ins
 
 ***
 
-Tendo instalado a extensão e o módulo do certificado, o usuário poderá dar sequência ao processo de assinatura.
+<mark style="color:purple;">**Tendo instalado a extensão e o módulo do certificado, o usuário poderá dar sequência ao processo de assinatura.**</mark>
 
 Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), será exibida uma lista com todos os certificados instalados na máquina do usuário e na conta da plataforma ArqSign.&#x20;
 
