@@ -62,7 +62,7 @@ Na tela de assinatura também foram realizadas alterações consideráveis, que 
 
 <mark style="color:blue;">**•**</mark>[ <mark style="color:blue;">**Assinatura em lote**</mark> ](../menu-superior/assinatura-em-lote.md)
 
-[<mark style="color:blue;">**• APPNative**</mark> ](../menu-superior/assinatura-de-documentos.md#appnative)
+<mark style="color:blue;">**•**</mark> [<mark style="color:blue;">**APPNative**</mark> ](../menu-superior/assinatura-de-documentos.md#appnative)
 
 Clicando em cada um dos itens, é possível conferir todas as novidades.
 
