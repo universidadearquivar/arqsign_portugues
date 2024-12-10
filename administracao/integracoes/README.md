@@ -11,7 +11,7 @@ A documentação da API de integração está dividida em:&#x20;
 1. [API](api/)
 2. [Requisitos para uso da API ](api/requisitos-para-uso-da-api.md)
 3. [Limites de Requisições da API ](api/limites-de-requisicoes-da-api.md)
-4.
+4. [Métodos Disponíveis na API](api/metodos-disponiveis-na-api/)
 5. [Fluxo ideal considerando alguns métodos disponíveis ](fluxo-ideal-de-integracao.md)
 6. [URL da API ArqSign ](api/url-da-api-arqsign.md)
 7. [Exemplos de Requisitos de Métodos](api/biblioteca-para-testes-postman.md)
