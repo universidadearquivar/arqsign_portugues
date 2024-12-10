@@ -48,7 +48,7 @@ Considerando a rota: [https://api-rest.arqsign.com/](https://api-rest.arqsign.co
 
 <figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Ao clicar neste link, a aplicação irá abrir a página [**api.arqsign.com**](https://api.arqsign.com/index.html) com os métodos disponíveis até o momento.
+Ao clicar neste link, a aplicação irá abrir a página [**developers.arqsign.com**](https://developers.arqsign.com/?_ga=2.164255991.919308982.1733860166-872117669.1732909328) com os métodos disponíveis até o momento.
 
 ***
 
@@ -67,7 +67,7 @@ Ao clicar neste link, a aplicação irá abrir a página [**de detalhamento da A
 Ao clicar neste link a aplicação irá fazer o download de um arquivo .csv com a lista de todos os usuários ativos na conta e seu respectivo ID.
 
 {% hint style="success" %}
-<mark style="color:green;">A busca pelos usuários ativos da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método:</mark> [<mark style="color:green;">POST/api/v1/usuarios/buscar-usuarios</mark>](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/3.-usuarios/3.1.post-api-v1-usuarios-buscar-usuarios)
+<mark style="color:green;">A busca pelos usuários ativos da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método:</mark> [<mark style="color:green;">POST/api/v1/usuarios/buscar-usuarios</mark>](https://arquivar.gitbook.io/manual-arqsign/~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/3.-usuarios/3.1.post-api-v1-usuarios-buscar-usuarios)
 {% endhint %}
 
 ***
@@ -79,5 +79,5 @@ Ao clicar neste link a aplicação irá fazer o download de um arquivo .csv com 
 Ao clicar neste link a aplicação irá fazer o download de um arquivo .csv com a lista de todas as pastas não excluídas da conta e seu respectivo ID.
 
 {% hint style="success" %}
-<mark style="color:green;">A busca pelas pastas não excluídas da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método:</mark> [<mark style="color:green;">POST/api/v1/diretorio/buscar-pastas</mark>](https://arquivar.gitbook.io/manual-arqsign/\~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/2.-diretorios/2.1.post-api-v1-diretorio-buscar-pastas)
+<mark style="color:green;">A busca pelas pastas não excluídas da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método:</mark> [<mark style="color:green;">POST/api/v1/diretorio/buscar-pastas</mark>](https://arquivar.gitbook.io/manual-arqsign/~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/2.-diretorios/2.1.post-api-v1-diretorio-buscar-pastas)
 {% endhint %}
