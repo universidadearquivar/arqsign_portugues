@@ -71,6 +71,7 @@
     * [🔳 Biblioteca para testes Postman](administracao/integracoes/api/biblioteca-para-testes-postman.md)
   * [🟪 Webhook](administracao/integracoes/webhook.md)
   * [Fluxo Ideal de Integração](administracao/integracoes/fluxo-ideal-de-integracao.md)
+  * [Histórico de alterações da API](administracao/integracoes/historico-de-alteracoes-da-api.md)
 
 ## NOVIDADES DO ARQSIGN
 
