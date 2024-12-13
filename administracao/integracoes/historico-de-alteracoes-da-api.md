@@ -1,3 +1,7 @@
+---
+icon: rectangle-history
+---
+
 # Histórico de alterações da API
 
 ## 2024
