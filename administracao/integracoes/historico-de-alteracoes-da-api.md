@@ -8,6 +8,14 @@ icon: rectangle-history
 
 <details>
 
+<summary>2.5.0 - 26/11/2024</summary>
+
+O [Fluxo Ideal de Integração](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/fluxo-ideal-de-integracao) foi atualizado de acordo com os novos métodos disponibilizados na atualização 2.4.0, do dia 13/11/2024.
+
+</details>
+
+<details>
+
 <summary>2.4.0 - 13/11/2024</summary>
 
 **Foi realizado um ajuste da API de buscar dados do processo.**
