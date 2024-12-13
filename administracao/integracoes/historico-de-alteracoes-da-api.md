@@ -261,3 +261,29 @@ Assinar documento: Correção no loop gerado durante a assinatura, com Certifica
 API para enviar documento para assinar: não estava sendo validado a forma de envio para salvar o contato do signatário.
 
 </details>
+
+## 2022
+
+<details>
+
+<summary>1.8.1 - 16/11/2022</summary>
+
+API > Enviar documento: Sistema permitia envia documento o mesmo e-mail na mesma ordem de assinatura.
+
+</details>
+
+<details>
+
+<summary>1.6.4 - 03/06/2022</summary>
+
+Ajuste na API de Compra: No recebimento dos dados de compra, vindos do e-commerce, quando o país era diferente do Brasil, o sistema obrigava que Tipo Pessoa, CPF/CNPJ e CEP fossem informados. Após o ajuste, estes dados não são mais obrigatórios quando país for diferente do Brasil.
+
+</details>
+
+<details>
+
+<summary>1.3.0 - 04/01/2022</summary>
+
+Incluímos mais validações de segurança na API que o e-commerce chama no ArqSign.
+
+</details>
