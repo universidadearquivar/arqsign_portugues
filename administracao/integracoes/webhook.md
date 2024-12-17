@@ -385,7 +385,7 @@ Neste momento, o disparo da tentativa atual será imediato, e as tentativas segu
 
 Ao acionar o botão Ativar, para um gatilho que foi inativado por falhas recorrentes, o sistema irá apresentar a modal com a mensagem informando que registros de eventos (com falha) do gatilho que foi reativado, foram reenviados automaticamente.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ***
 
