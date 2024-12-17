@@ -13,7 +13,7 @@ Para verificar se um documento eletrônico ou digital tem validade jurídica con
 3. Concorde com os termos de uso e política de privacidade do Portal Validar ITI;
 4. Clique em Validar.
 
-Caso o arquivo não contenha nenhuma assinatura aplicada ou contenha assinatura não reconhecida ou corrompida a seguinte mensagem é apresentada: “Aviso - Você submeteu um documento sem assinatura reconhecível ou com assinatura corrompida.” &#x20;
+Caso o arquivo não contenha nenhuma assinatura aplicada ou contenha assinatura não reconhecida ou corrompida a seguinte mensagem é apresentada: “Assinatura Aprovada”. Um relatório de conformidade será apresentado com o detalhamento de cada assinatura e sua validade. &#x20;
 
 Caso o arquivo contenha assinatura válida a seguinte mensagem é apresentada: “Documento com assinaturas válidas”. Um relatório será apresentado com o detalhamento de cada assinatura e sua validade.&#x20;
 
@@ -31,7 +31,7 @@ Um documento digital assinado pela ArqSign adquire validade jurídica, não 
 
 <summary>É seguro assinar um documento eletronicamente?</summary>
 
-Tudo dependerá da plataforma escolhida para a realização da assinatura. Com a ArqSign, ferramenta de assinatura eletrônica desenvolvida pela Arquivar, a conformidade com a legislação está garantida através da segurança do processo utilizado pela ArqSign e tecnologia empregada. A ArqSign aplica um certificado digital para a assinatura de cada signatário, verifica se cada signatário não alterou o documento registra os dados de cada signatário no documento e registra que cada signatário aceitou assinar eletronicamente.
+Tudo dependerá da plataforma escolhida para a realização da assinatura. Com a ArqSign, ferramenta de assinatura eletrônica desenvolvida pela Arquivar, a conformidade com a legislação está garantida através da segurança nos processos, tecnologia empregada e as melhores práticas de segurança presentes no mercado nacional e internacional. Conheça mais sobre a segurança do processo e da tecnologia da Plataforma ArqSign acessando: [https://arquivar.com.br/arqsign-validade-juridica/](https://arquivar.com.br/arqsign-validade-juridica/)&#x20;
 
 </details>
 
