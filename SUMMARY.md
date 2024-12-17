@@ -67,6 +67,7 @@
       * [🗃️ 5. Webhook](administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/README.md)
         * [✔️ 5.1.PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status.md)
         * [✔️ 5.2.POST/api/v1/confwebhook](administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.2.post-api-v1-confwebhook.md)
+        * [✔️ 5.3.GET api/v1/confwebhook](administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.3.get-api-v1-confwebhook.md)
     * [🔳 URL da API ArqSign](administracao/integracoes/api/url-da-api-arqsign.md)
     * [🔳 Biblioteca para testes Postman](administracao/integracoes/api/biblioteca-para-testes-postman.md)
   * [🟪 Webhook](administracao/integracoes/webhook.md)
