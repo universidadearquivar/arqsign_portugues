@@ -66,3 +66,11 @@ Esses critérios estão descritos no artigo 10, § 2º da referida MP e são:&#x
 * Aceite para assinatura eletrônica de todas as partes.&#x20;
 
 </details>
+
+<details>
+
+<summary>Caso o Certificado digital utilizado para assinar um documento tenha expirado, isso afeta a validade dos documentos que eu tenha assinado anteriormente com este certificado?</summary>
+
+Não, desde que as assinaturas tenham sido geradas durante o período de vigência do certificado digital. A tecnologia da plataforma ArqSIGN não permite a assinatura de um documento usando certificados vencidos. A aplicação realiza uma validação automática para garantir que o certificado digital ICP-Brasil está vigente no momento da assinatura.
+
+</details>
