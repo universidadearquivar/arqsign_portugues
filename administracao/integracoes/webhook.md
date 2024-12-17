@@ -373,6 +373,20 @@ Os códigos de erros são:
 
 Os webhooks inativados pela aplicação por falhas, receberão os status “**Inativo por falhas**” e deixarão de enviar mensagens ao listener (URL do cliente), mas poderão ser editados e ativados novamente.
 
+#### Inativar
+
+Quando um gatilho for inativado por falhas recorrentes, todos os registros de falha para este gatilho que estiverem na fila de execução no Hangfire serão removidos.
+
+#### &#x20;Ativar
+
+Ao reativar um gatilho que foi inativado por falhas recorrentes, o sistema irá incluir, novamente, na fila do Hangfire, todos os registros de falha que não atingiram 14 tentativas, preservando a contagem de tentativas de reenvio deste registro.
+
+Neste momento, o disparo da tentativa atual será imediato, e as tentativas seguintes, caso existam, seguirão o tempo padrão estipulado.
+
+Ao acionar o botão Ativar, para um gatilho que foi inativado por falhas recorrentes, o sistema irá apresentar a modal com a mensagem informando que registros de eventos (com falha) do gatilho que foi reativado, foram reenviados automaticamente.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
 ***
 
 ## Logs de falha
@@ -396,3 +410,11 @@ Na coluna "Falha", é apresenta a mensagem da falha ocorrido. Ao clicar no ícon
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na nova janela, além da mensagem de detalhamento da falha, são apresentados outros dados do processo.&#x20;
+
+#### Reenviar
+
+O sistema irá desabilitar o botão "Reenviar" de todos os registros de falha do gatilho inativo.
+
+#### Execução
+
+No disparo de qualquer gatilho, o sistema irá verificar se já existe um evento no Hangfire para aquele processo/gatilho, para não criar evento duplicado.

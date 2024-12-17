@@ -274,7 +274,7 @@ Para o uso de assinatura digital será necessário, antes do primeiro uso, a ins
 {% tab title="Mozilla Firefox" %}
 1.  Para instalar a extensão "ArqSign Certificado Digital" no Mozilla Firefox você irá clicar no ícone de pela de quebra-cabeças no canto superior esquerdo da tela.
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt="" width="135"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (2).png" alt="" width="135"><figcaption></figcaption></figure>
 2.  Buscar por "ArqSign Certificado Digital".
 
     <figure><img src="../.gitbook/assets/image (2).png" alt="" width="339"><figcaption></figcaption></figure>
