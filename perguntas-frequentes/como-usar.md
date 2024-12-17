@@ -1,23 +1,5 @@
 # 🟪 Como Usar
 
-Localizar um documento na Plataforma ArqSign é super prático, basta seguir as instruções abaixo:&#x20;
-
-Primeiro, encontre a Caixa onde o documento está localizado. Todas as caixas (Caixa de entrada, Enviados, Rascunhos, Excluídos, Renovações) têm a funcionalidade de pesquisa, que aparece como “Filtrar”. &#x20;
-
-Clique no campo “Filtrar”. &#x20;
-
-As opções de pesquisa serão exibidas. &#x20;
-
-Insira as informações de pesquisa nos campos desejados, como o nome do signatário, status, pasta do documento ou data de conclusão. &#x20;
-
-Clique em “Filtrar”. &#x20;
-
-Todos os documentos correspondentes às informações inseridas nos filtros serão exibidos. &#x20;
-
-Para cancelar o filtro, basta clicar no “X” que aparece no canto direito do campo “Filtrar”. &#x20;
-
-Vi como é fácil? Agora você pode localizar seus documentos na Plataforma ArqSign de forma rápida e eficiente!  Descubra como é fácil e prático utilizar a ArqSign para assinar seus documentos. Com apenas alguns cliques você concluí com êxito uma tarefa que antes era demorada e muitas vezes burocrática.
-
 <details>
 
 <summary>Conheça a plataforma ArqSign</summary>
@@ -46,7 +28,7 @@ Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos
 
 <details>
 
-<summary>Assinando um documento por meio do celular</summary>
+<summary>Assinando documentos em lote pelo celular</summary>
 
 1\. O processo de assinatura em lote também pode ser realizado diretamente pelo celular, e ocorre da mesma forma como na plataforma.
 
@@ -710,7 +692,7 @@ Os passos para alteração são:&#x20;
 1. Acesse no canto superior direito da plataforma o menu com o seu nome de usuário atual;&#x20;
 2. Clique em “Meu Perfil”;&#x20;
 3. Na aba “Meus dados” clique em “Editar”;&#x20;
-4. Edite os campos necessários;&#x20;
+4. Insira o nome desejado no campo "Nome completo" - O nome inserido neste campo será exibido como remetente no envio dos documentos. A plataforma utilizará apenas o primeiro e o último nome. Se for necessário exibir o nome completo como remetente do e-mail, conecte os nomes utilizando um _underline_ ( \_ )
 5. Clique em “Salvar”.&#x20;
 
 </details>
@@ -975,7 +957,7 @@ Quando um dos signatários informa que não recebeu o WhatsApp com o link para a
 2. Caso o número que você digitou esteja errado, você pode corrigi-lo e enviar novamente através do Menu Enviados > Reenviar;
 3. Peça ao signatário para conferir se ele está com acesso à internet móvel ou Wi-Fi;
 4. Peça ao cliente para entrar no WhatsApp e verificar se não recebeu nova mensagem, pois, pode ser apenas um problema de configuração de recebimento de notificações;
-5. Caso o problema não seja resolvido com nenhuma das opções acima, pode ser que a mensagem enviada tenha sido bloqueada pelo próprio WhatsApp porque o signatário não está com o aplicativo atualizado. Para atualizar o aplicativo o signatário deve acessar a loja de aplicativos e clicar em Atualizar ([https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem…](https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem%20n%C3%A3%C2%A3o%20recebida\&search\_session\_id=cb86af1005f8183efe4a18d785336191\&sr=2));
+5. Caso o problema não seja resolvido com nenhuma das opções acima, pode ser que a mensagem enviada tenha sido bloqueada pelo próprio WhatsApp porque o signatário não está com o aplicativo atualizado. Para atualizar o aplicativo o signatário deve acessar a loja de aplicativos e clicar em Atualizar ([https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem…](https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem%20n%C3%A3%C2%A3o%20recebida\&search_session_id=cb86af1005f8183efe4a18d785336191\&sr=2));
 6. Se ainda assim não houve a atualização, você pode enviar o link de atualização de Serviços do WhatsApp para o signatário atualizar: Link: [https://wa.me/tos/20210210](https://wa.me/tos/20210210). O signatário deve abrir o link no WhatsApp e aceitar os termos.
 7. Após o signatário atualizar o aplicativo e/ou os Termos de Serviços do WhatsApp, faça o reenvio do fluxo através da Plataforma ArqSign clicando em Enviados -> Reenviar.
 8. Caso mesmo assim o signatário não receba a mensagem de WhatsApp, entre contato conosco e forneça as informações abaixo para analisarmos o que pode ter acontecido.
@@ -1121,7 +1103,7 @@ Clique em Salvar.
 
 Sempre que você for assinar um documento os estilos salvos serão exibidos para sua escolha.
 
-[Clique aqui](https://youtu.be/5PogsaN\_qmk) e assista ao vídeo com o passo a passo.
+[Clique aqui](https://youtu.be/5PogsaN_qmk) e assista ao vídeo com o passo a passo.
 
 </details>
 
