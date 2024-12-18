@@ -8,6 +8,28 @@ icon: rectangle-history
 
 <details>
 
+<summary>2.6.0 - 18/12/2024</summary>
+
+**Foi disponibilizado novo método**.
+
+* [**GETapi/v1/confwebhook**](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.3.get-api-v1-confwebhook)
+  * Este serviço permite aos Clientes, via API, buscar as configurações de webhook da conta.
+
+**Foi realizado um ajuste no método de enviar processo.**
+
+* [**POST/api/v2/processo/enviar-documento-para-assinar**](https://arquivar.gitbook.io/manual-arqsign-2.0.0/administracao/integracoes/metodos-disponiveis-na-api/post-api-v2-processo-enviar-documento-para-assinar)
+  *   Este serviço permite aos Clientes, via API, enviar processo com um ou mais documentos para assinar. O Usuário deve informar os dados do processo, documentos e dos destinatários participantes do processo de assinatura.
+
+      Os ajustes foram:
+
+      * Inclusão de parâmetro para definir a representação visual de assinatura para os signatários
+      * Inclusão de parâmetro para definir dados de assinaturas para preenchimento automático ou validação para os signatários.
+      * Permitir informar um id de pasta excluída logicamente.
+
+</details>
+
+<details>
+
 <summary>2.5.0 - 26/11/2024</summary>
 
 O [Fluxo Ideal de Integração](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/fluxo-ideal-de-integracao) foi atualizado de acordo com os novos métodos disponibilizados na atualização 2.4.0, do dia 13/11/2024.
