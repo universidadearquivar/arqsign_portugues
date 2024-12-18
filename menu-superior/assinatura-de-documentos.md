@@ -277,7 +277,7 @@ Para o uso de assinatura digital será necessário, antes do primeiro uso, a ins
     <figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt="" width="135"><figcaption></figcaption></figure>
 2.  Buscar por "ArqSign Certificado Digital".
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt="" width="339"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (2).png" alt="" width="339"><figcaption></figcaption></figure>
 3.  Clicar no resultado da pesquisa.
 
     <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
