@@ -369,21 +369,19 @@ Os códigos de erros são:
 * 403 – Sem permissão de acesso ao servidor. O servidor atendeu à solicitação, mas se recusa a fazê-la.
 * 404 – URL não existe.
 
-&#x20;Sempre que o webhook outros erros, <mark style="color:red;">**após 5º dia**</mark> de erros consecutivos, o gatilho com estas falhas será inativado, recebendo o status “**Inativo por falhas recorrentes**”.
+Sempre que o webhook receber outros erros diferentes dos citados acima, **após 5º dia** de erros consecutivos, o gatilho com estas falhas será inativado, recebendo o status “**Inativo por falhas recorrentes**”.
 
 Os webhooks inativados pela aplicação por falhas, receberão os status “**Inativo por falhas**” e deixarão de enviar mensagens ao listener (URL do cliente), mas poderão ser editados e ativados novamente.
 
 #### Inativar
 
-Quando um gatilho for inativado por falhas recorrentes, todos os registros de falha para este gatilho que estiverem na fila de execução no Hangfire serão removidos.
+Quando um gatilho for inativado por falhas recorrentes, todos os registros de falha deste gatilho que estiverem na fila de execução para serem reenviados serão removidos.
 
 #### &#x20;Ativar
 
-Ao reativar um gatilho que foi inativado por falhas recorrentes, o sistema irá incluir, novamente, na fila do Hangfire, todos os registros de falha que não atingiram 14 tentativas, preservando a contagem de tentativas de reenvio deste registro.
+Ao reativar um gatilho que foi inativado por falhas recorrentes, o sistema inclui, novamente, na fila de execução, todos os registros de falha que não atingiram as 14 tentativas de reenvio dos dados, executando o reenvio imediato dos dados da tentativa atual. As tentativas seguintes, caso existam, seguirão o tempo padrão estipulado e
 
-Neste momento, o disparo da tentativa atual será imediato, e as tentativas seguintes, caso existam, seguirão o tempo padrão estipulado.
-
-Ao acionar o botão Ativar, para um gatilho que foi inativado por falhas recorrentes, o sistema irá apresentar a modal com a mensagem informando que registros de eventos (com falha) do gatilho que foi reativado, foram reenviados automaticamente.
+Além disso, o sistema exibe a mensagem informando que registros de eventos com falha do gatilho que foi reativado, foram reenviados automaticamente.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
@@ -413,8 +411,4 @@ Na nova janela, além da mensagem de detalhamento da falha, são apresentados ou
 
 #### Reenviar
 
-O sistema irá desabilitar o botão "Reenviar" de todos os registros de falha do gatilho inativo.
-
-#### Execução
-
-No disparo de qualquer gatilho, o sistema irá verificar se já existe um evento no Hangfire para aquele processo/gatilho, para não criar evento duplicado.
+É permitido o reenvio dos dados manualmente dos registros com falha somente para gatilhos com status ativo. Os registros com falha do gatilho com status inativo são listados com o botão "Reenviar" desabilitado.
