@@ -18,7 +18,7 @@ Na aba Meus Dados são apresentadas as informações de cadastro do usuário. É
 
 **E-mail:** O e-mail apresentado neste campo é o mesmo utilizado no momento do cadastro da conta do usuário na plataforma e não pode ser alterado. &#x20;
 
-Caso queira utilizar outro e-mail como "Remetente de documentos", crie outro usuário para este outro e-mail. Na Plataforma ArqSign os usuários são ilimitados.
+Caso queira utilizar outro e-mail como "Remetente de documentos", crie outro [usuário](../administracao/administracao/usuarios.md) para este outro e-mail. Na Plataforma ArqSign os usuários são ilimitados.
 
 **Nome Completo:** Apresenta o nome completo do usuário. O nome cadastrado neste campo aparece como o remetente de documentos deste usuário nos e-mails e mensagens de WhatsApp.
 
