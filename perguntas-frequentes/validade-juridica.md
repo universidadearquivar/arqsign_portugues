@@ -74,3 +74,11 @@ Esses critérios estão descritos no artigo 10, § 2º da referida MP e são:&#x
 Não, desde que as assinaturas tenham sido geradas durante o período de vigência do certificado digital. A tecnologia da plataforma ArqSIGN não permite a assinatura de um documento usando certificados vencidos. A aplicação realiza uma validação automática para garantir que o certificado digital ICP-Brasil está vigente no momento da assinatura.
 
 </details>
+
+<details>
+
+<summary>É possível imprimir um documento assinado eletronicamente via ArqSign?</summary>
+
+Sim. É possível. Basta baixar o documento assinado e o Registro de assinaturas e imprimi-los. **Um ponto de atenção:** a verificação da validade jurídica deste documento só pode ser feita de forma digital já que a assinatura foi feita de forma digital. Se você configurou a sua conta para gerar o Registro de assinaturas com QR Code, você pode acessar o documento digital através da leitura do QR Code que estará no Registro de assinaturas e fazer a validação jurídica do documento através do Adobe Reader ou Portal ITI como está indicado no rodapé do Registro de assinaturas.
+
+</details>
