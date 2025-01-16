@@ -20,7 +20,9 @@ Conforme a configuração de Webhook realizada, o cliente recebe os dados de exe
 
 Clicando em Webhook, é apresentado o GRID com as configurações de Webhook da conta do usuário logado, ordenados alfabeticamente pela coluna "Nome".
 
-<figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**Documentação Webhook:** Clique para acessar o detalhamento das configurações e uso do Webhook.
 
 **Adicionar:** Utilize para incluir uma nova configuração. Ao clicar no ícone "Adicionar", a aplicação verifica o status da conta e a quantidade de configurações que a conta possui.&#x20;
 
@@ -383,7 +385,7 @@ Ao reativar um gatilho que foi inativado por falhas recorrentes, o sistema inclu
 
 Além disso, o sistema exibe a mensagem informando que registros de eventos com falha do gatilho que foi reativado, foram reenviados automaticamente.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ***
 
@@ -405,7 +407,7 @@ Em todos os casos, se um reenvio tiver sucesso, o registro é removido do GRID e
 
 Na coluna "Falha", é apresenta a mensagem da falha ocorrido. Ao clicar no ícone uma nova janela é aberta.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na nova janela, além da mensagem de detalhamento da falha, são apresentados outros dados do processo.&#x20;
 
