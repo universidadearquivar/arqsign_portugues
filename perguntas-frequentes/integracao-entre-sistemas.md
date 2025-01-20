@@ -18,19 +18,7 @@ Agora é só seguir as instruções da documentação disponível [clicando aqui
 
 A API de integração da plataforma ArqSign está pronta para que outros softwares construam sua integração à nossa solução de assinatura.
 
-Os métodos disponíveis são:
-
-[POST – Enviar documento para assinar](broken-reference)
-
-[GET – Acompanhamento do Status do documento enviado para assinatura](broken-reference)
-
-[GET – Retorno do documento e registros após a conclusão da assinatura](../administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo.md)
-
-[GET - Acompanhamento dos dados dos signatários que possuem ação de assinar eletronicamente em um processo de assinatura](../administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.5.get-api-v1-processo-idprocesso-dados-signatarios.md)
-
-[PATCH – Reenvio de documento para assinatura](broken-reference)
-
-[PATCH – Cancelamento do envio de documento para assinatura](../administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.6.patch-api-v1-processo-idprocesso-cancelar-processo.md)
+Clique [aqui](../administracao/integracoes/api/metodos-disponiveis-na-api/) e confira todos os métodos disponíveis.
 
 </details>
 
