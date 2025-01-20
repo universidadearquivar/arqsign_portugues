@@ -15,5 +15,4 @@ A documentação da API de integração está dividida em:&#x20;
 5. [Fluxo ideal considerando alguns métodos disponíveis ](fluxo-ideal-de-integracao.md)
 6. [URL da API ArqSign ](api/url-da-api-arqsign.md)
 7. [Exemplos de Requisitos de Métodos](api/biblioteca-para-testes-postman.md)
-8. [Histórico de alterações da API](broken-reference)
-
+8. Histórico de alteraçõs da API
