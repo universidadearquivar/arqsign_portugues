@@ -249,3 +249,13 @@ Ao clicar neste ícone será possível cancelar o envio dos documentos seleciona
 Ao clicar neste ícone será possível excluir os documentos selecionados. Só será possível executar essa ação em documentos com o status “Concluído” ou “Cancelado”.
 
 <figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>
+
+#### Falhas na entrega de emails
+
+Quando houver falha de envio do processo, o sistema sinaliza o processo com a falha de envio.
+
+<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+
+Quando houver falha de envio do código de segurança para algum destinatário do processo, o sistema sinaliza o destinatário com a falha de envio do código de segurança.
+
+<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
