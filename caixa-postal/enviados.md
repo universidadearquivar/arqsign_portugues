@@ -76,6 +76,10 @@ No ícone “Editar”, é possível realizar a edição das informações do de
 <mark style="color:blue;">Os dados de validação do documento só poderão ser editados nesta tela se configurados anteriormente. A "Edição" não permite a inclusão de dados para validação.</mark>
 {% endhint %}
 
+{% hint style="warning" %}
+<mark style="color:orange;">**Os processos de assinatura enviados através do ArqGED-ArqFlow só poderão ser reenviados por meio de uma nova ação no ArqGED-ArqFlow.**</mark>
+{% endhint %}
+
 #### **Alterar Pasta**
 
 Esta opção só será exibida se o usuário tiver acesso à pasta na qual o documento está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde o documento está armazenado.
