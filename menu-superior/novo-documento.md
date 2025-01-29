@@ -33,7 +33,14 @@ Quando este campo estiver **desmarcado**, a ArqSign exibe os **arquivos desagrup
 
 <mark style="color:orange;">**Planilha: .csv, .xls, .xlsx**</mark>
 
-<mark style="color:orange;">**Cada arquivo pode ter até 35MB ou até 2000 páginas, não podendo ultrapassar 100MB no total.**</mark>
+<mark style="color:orange;">**Poderão ser enviados até 50 arquivos por processo, considerando as seguintes condições:**</mark>
+
+> <mark style="color:orange;">**Cada arquivo pode ter até 35Mb ou até 2000 páginas, não podendo ultrapassar 100Mb no total.**</mark>
+>
+> <mark style="color:orange;">**Exemplos:**</mark>
+>
+> > * <mark style="color:orange;">**Um usuário que adicionar dois arquivos de 35Mb e um arquivo de 30Mb, terá consumido a capacidade máxima do limite de "peso" de arquivos e não poderá adicionar mais documentos.**</mark>&#x20;
+> > * <mark style="color:orange;">**Um usuário que adicionar 50 arquivos de 1Mb, embora tenha consumido apenas metade do limite de "peso", consumiu todo o limite que quantidade e não poderá adicionar mais documentos.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
