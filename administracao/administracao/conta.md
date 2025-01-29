@@ -70,6 +70,13 @@ Se o usuário tiver comprado créditos além daqueles já inclusos no plano clic
 
 <figure><img src="../../.gitbook/assets/conta06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% hint style="warning" %}
+<mark style="color:orange;">**Quando o plano da assinatura da conta for ArqGED-ArqFlow, o sistema não exibe:**</mark>
+
+* <mark style="color:orange;">**Os campos “Renovação Automática” e "Alterar forma de pagamento"**</mark>
+* <mark style="color:orange;">**O botão "Comprar Créditos", tanto na tela quanto no topo.**</mark>&#x20;
+{% endhint %}
+
 ### Histórico de Compras
 
 Na aba Histórico de Compras é apresentada a descrição dos produtos já adquiridos pelo usuário, o período de vigência de cada um, o número de parcelas em que foi dividido o pagamento, o valor e status dessas parcelas.
