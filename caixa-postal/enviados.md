@@ -258,8 +258,6 @@ Ao clicar neste ícone será possível excluir os documentos selecionados. Só s
 
 Quando houver falha de envio do processo, o sistema sinaliza o processo com a falha de envio.
 
-<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
-
 Quando houver falha de envio do código de segurança para algum destinatário do processo, o sistema sinaliza o destinatário com a falha de envio do código de segurança.
 
-<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
