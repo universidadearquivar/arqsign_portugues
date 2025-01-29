@@ -71,10 +71,11 @@ Se o usuário tiver comprado créditos além daqueles já inclusos no plano clic
 <figure><img src="../../.gitbook/assets/conta06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Quando o plano da assinatura da conta for ArqGED-ArqFlow, o sistema não exibe:**</mark>
+<mark style="color:orange;">**Quando o plano da assinatura da conta for ArqGED, a ArqSign não exibe:**</mark>
 
-* <mark style="color:orange;">**Os campos “Renovação Automática” e "Alterar forma de pagamento"**</mark>
-* <mark style="color:orange;">**O botão "Comprar Créditos", tanto na tela quanto no topo.**</mark>&#x20;
+* <mark style="color:orange;">**Os campos “Renovação Automática”, "Alterar forma de pagamento" e o botão "Comprar Créditos".**</mark>
+
+<mark style="color:orange;">**O faturamento dessas contas será realizado via ArqGED, de acordo com o serviço estabelecido no contrato.**</mark>&#x20;
 {% endhint %}
 
 ### Histórico de Compras
