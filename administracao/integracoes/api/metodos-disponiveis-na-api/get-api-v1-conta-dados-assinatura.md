@@ -52,7 +52,7 @@ Status 200 - Success
 
 O sistema deve retornar os dados da conta informada.
 
-<figure><img src="../../../../.gitbook/assets/image (321).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ### Dados da Conta
 
@@ -67,6 +67,18 @@ O sistema retorna os dados da conta identificado via AppKey.         &#x20;
 > &#x20;**nome**  &#x20;
 >
 > &#x20;O sistema retorna o nome da conta.
+>
+> **idStatus**
+>
+> O sistema deve retornar o id status da conta.
+>
+> 1 - Ativo
+>
+> 2 - Inativo
+>
+> 3 - Bloqueado
+>
+> 4 - Pendente.
 >
 > &#x20;**status**
 >
@@ -157,6 +169,7 @@ O sistema retorna a última assinatura da conta.
     "Conta": {
         "id": "guid",
         "nome": "string",
+        "idStatus": "tinyint",
         "status": "string"
         },
     "plano": {
