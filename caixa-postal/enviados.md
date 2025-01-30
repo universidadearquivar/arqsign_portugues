@@ -84,6 +84,8 @@ No ícone “Editar”, é possível realizar a edição das informações do de
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
+Também não haverá a opção "Reenviar" ao abrir o processo pela plataforma ArqSign.&#x20;
+
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 #### **Alterar Pasta**
