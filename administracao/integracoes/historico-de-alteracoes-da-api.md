@@ -6,14 +6,13 @@ icon: rectangle-history
 
 ## 2025
 
-
-
 <details>
 
 <summary>2.8.0 - 30/01/2025</summary>
 
-* Ajuste da API Buscar dados da assinatura da conta
+* Ajuste da API [buscar dados da assinatura da conta](api/metodos-disponiveis-na-api/get-api-v1-conta-dados-assinatura.md):
   * Alterado o serviço de buscar dados da assinatura da conta para retornar o idStatus da conta 1 - Ativo, 2 - Inativo, 3 - Bloqueado, 4 - Pendente. 
+* Melhorias nos parâmetros de retorno do [Webhook](webhook.md).
 
 </details>
 
