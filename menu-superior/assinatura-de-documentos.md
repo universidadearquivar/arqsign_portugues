@@ -280,20 +280,20 @@ Para o uso de assinatura digital será necessário, antes do primeiro uso, a ins
     <figure><img src="../.gitbook/assets/image (2) (2).png" alt="" width="339"><figcaption></figcaption></figure>
 3.  Clicar no resultado da pesquisa.
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 4.  Clicar em "Adicionar ao Firefox".
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 5.  Clicar em "Adicionar"
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt="" width="244"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (2).png" alt="" width="244"><figcaption></figcaption></figure>
 6. Prontinho, extensão adicionada com sucesso, só precisará fazer isso na primeira vez que assinar com certificado digital, nas próximas a extensão já se manterá instalada em seu navegador.&#x20;
 {% endtab %}
 
 {% tab title="Microsoft Edge" %}
 1.  Para instalar a extensão "ArqSign Certificado Digital" no Microsoft Edge você irá clicar nos três pontinhos no canto superior esquerdo da tela.
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt="" width="153"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (2).png" alt="" width="153"><figcaption></figcaption></figure>
 2.  Em seguida clicará em "Extensões".
 
     <figure><img src="../.gitbook/assets/image (7).png" alt="" width="169"><figcaption></figcaption></figure>

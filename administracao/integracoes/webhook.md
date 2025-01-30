@@ -20,7 +20,7 @@ Conforme a configuração de Webhook realizada, o cliente recebe os dados de exe
 
 Clicando em Webhook, é apresentado o GRID com as configurações de Webhook da conta do usuário logado, ordenados alfabeticamente pela coluna "Nome".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Documentação Webhook:** Clique para acessar o detalhamento das configurações e uso do Webhook.
 
@@ -195,7 +195,7 @@ Nesta área, o sistema exibe o exemplo de retorno do JSON.
 
 O dados de retornos configurados, são representados no campo JSON a medida que os campos são marcados.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Ao marcar o campo "**Dados do processo**”,  o sistema exibe o exemplo dos dados do processo no campo "JSON".
 * Ao marcar o campo "**Signatários**", o sistema exibe o exemplo dos dados dos signatários no campo "JSON".
@@ -359,7 +359,7 @@ As falhas de comunicação elegíveis para retransmissão poderão ocorrer de fo
 <mark style="color:blue;">Cada evento configurado no webhook que houver falha, terá no máximo 14 tentativas, contando com a primeira tentativa que ocorre no ato do evento.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Inativação automática do webhook por falhas
 
@@ -385,7 +385,7 @@ Ao reativar um gatilho que foi inativado por falhas recorrentes, o sistema inclu
 
 Além disso, o sistema exibe a mensagem informando que registros de eventos com falha do gatilho que foi reativado, foram reenviados automaticamente.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ***
 
@@ -407,7 +407,7 @@ Em todos os casos, se um reenvio tiver sucesso, o registro é removido do GRID e
 
 Na coluna "Falha", é apresenta a mensagem da falha ocorrido. Ao clicar no ícone uma nova janela é aberta.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na nova janela, além da mensagem de detalhamento da falha, são apresentados outros dados do processo.&#x20;
 

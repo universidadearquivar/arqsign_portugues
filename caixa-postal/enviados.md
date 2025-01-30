@@ -77,8 +77,14 @@ No ícone “Editar”, é possível realizar a edição das informações do de
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Os processos de assinatura enviados através do ArqGED-ArqFlow só poderão ser reenviados por meio de uma nova ação no ArqGED-ArqFlow.**</mark>
+<mark style="color:orange;">**Os processos de assinatura enviados através do ArqGED-ArqFlow só poderão ser reenviados por meio de uma nova ação no ArqGED-ArqFlow.**</mark>&#x20;
+
+<mark style="color:orange;">**Dessa forma, na coluna Ações, não haverá a opção "Reenviar"**</mark>
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 #### **Alterar Pasta**
 
@@ -240,6 +246,12 @@ Ao clicar neste ícone será possível reenviar os documentos selecionados para 
 
 <figure><img src="../.gitbook/assets/caixa_entrada06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% hint style="warning" %}
+<mark style="color:orange;">**Para ação de reenvio em lote o sistema não habilita o ícone de reenviar se ao menos um processo selecionado estiver marcado como "Enviado via ArqFlow".**</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
 #### **Cancelar Envio**
 
 Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
@@ -261,3 +273,8 @@ Quando houver falha de envio do processo, o sistema sinaliza o processo com a fa
 Quando houver falha de envio do código de segurança para algum destinatário do processo, o sistema sinaliza o destinatário com a falha de envio do código de segurança.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+## Processos de assinaturas enviados via ArqGED-ArqFlow
+
+
+
