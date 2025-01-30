@@ -16,8 +16,16 @@ Quando houver falha de envio do código de segurança para algum destinatário d
 
 <details>
 
-<summary>Envio de Processos</summary>
+<summary>Limite de quantidade de arquivos no envio de processos</summary>
 
-Implementado o limite máximo de 50 arquivos para upload de processos. Foi mantido o tamanho máximo de 35Mb por arquivo e o limite de 100Mb.
+Implementado o limite máximo de 50 arquivos para upload de processos. Foi mantido o tamanho máximo de 35Mb por arquivo e o limite de 100Mb no total.
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
 
 </details>
