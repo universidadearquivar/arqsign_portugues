@@ -76,6 +76,7 @@
 
 ## NOVIDADES DO ARQSIGN
 
+* [▫️ Janeiro | 2025](novidades-do-arqsign/janeiro-or-2025.md)
 * [▫️ Setembro | 2024](novidades-do-arqsign/setembro-or-2024.md)
 * [▫️ Agosto | 2024](novidades-do-arqsign/agosto-or-2024.md)
 * [▫️ Julho | 2024](novidades-do-arqsign/julho-or-2024.md)
