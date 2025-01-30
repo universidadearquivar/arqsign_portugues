@@ -60,6 +60,14 @@ Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, subpastas cria
 
 <figure><img src="../../.gitbook/assets/documentos6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Na aba Diretórios, processos enviados via ArqGED-ArqFlow estarão identificados com a marcação "Enviado via ArqFlow".**</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
 ### Ações individuais – Subdiretórios&#x20;
 
 **Editar Permissões:** Essa opção só estará disponível para pastas de documentos. As permissões dos subdiretórios são herdadas da pasta raiz de Diretórios, portanto não é possível editá-las. O usuário pode apenas alterar as configurações de permissões da pasta raiz ou retirar a herança de permissões desta pasta.&#x20;
