@@ -6,11 +6,7 @@
 
 <summary>Verificação de falhas na entrega </summary>
 
-O sistema não sinalizava os processos com falha de envio do processo e/ou código de segurança.&#x20;
-
-&#x20;Quando houver falha de envio do processo, o sistema sinaliza o processo com a falha de envio.&#x20;
-
-Quando houver falha de envio do código de segurança para algum destinatário do processo, o sistema sinaliza o destinatário com a falha de envio do código de segurança.&#x20;
+O sistema passa a sinalizar os processos com falha de envio do processo e/ou código de segurança.
 
 </details>
 
