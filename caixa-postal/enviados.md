@@ -276,7 +276,5 @@ Quando houver falha de envio do código de segurança para algum destinatário d
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
-## Processos de assinaturas enviados via ArqGED-ArqFlow
-
 
 
