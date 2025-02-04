@@ -4,7 +4,7 @@
 
 <details>
 
-<summary><mark style="color:purple;">P</mark>lanos ArqSign – Escolha a Melhor Opção para Você</summary>
+<summary>Planos ArqSign – Escolha a Melhor Opção para Você</summary>
 
 Todos os planos oferecem:
 
