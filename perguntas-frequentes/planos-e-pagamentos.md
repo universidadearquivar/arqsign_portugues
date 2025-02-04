@@ -4,6 +4,20 @@
 
 <details>
 
+<summary>Planos ArqSign – Escolha a Melhor Opção para Você</summary>
+
+Todos os planos oferecem:
+
+✅ Armazenamento e usuários ilimitados&#x20;
+
+✅ Acesso a todas as funcionalidades da plataforma
+
+✅ API de integração
+
+</details>
+
+<details>
+
 <summary>Posso cancelar o meu plano se precisar?</summary>
 
 Todos os planos podem ser cancelados a qualquer momento.
