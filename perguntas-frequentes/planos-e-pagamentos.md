@@ -18,6 +18,80 @@ Todos os planos oferecem:
 
 <details>
 
+<summary>Planos Anuais – Economia e Mais Benefícios</summary>
+
+<mark style="color:purple;">✅</mark><mark style="color:purple;">**Plano Profissional Anual – 240 envios**</mark>
+
+Ideal para profissionais que precisam de um fluxo contínuo de assinaturas digitais.
+
+🔹 O que inclui?\
+✔ 240 envios (fluxos) por e-mail ao longo de 12 meses.\
+✔ Armazenamento e usuários ilimitados.\
+✔ API de integração para automatizar processos.
+
+💰 Investimento: R$ 160,00 à vista ou em até 12x de R$13,33 sem juros no cartão de crédito.
+
+📜 Faturamento e Nota Fiscal:
+
+* Cobrança anual via cartão de crédito.
+* Nota fiscal emitida mensalmente, após a cobrança.
+
+📌 Opcionais:\
+➕ Envio adicional: R$0,85 por envio.\
+➕ Autenticação por SMS: R$0,25 por autenticação.\
+➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
+
+
+
+✅ <mark style="color:purple;">**Plano Empresarial Anual – 600 envios**</mark>\
+Perfeito para empresas que buscam mais eficiência e automação nos processos de assinatura.
+
+🔹 O que inclui?\
+✔ 600 envios (fluxos) por e-mail ao longo de 12 meses.\
+✔ Armazenamento e usuários ilimitados.\
+✔ API de integração para otimizar fluxos de trabalho.
+
+💰 Investimento: R$ 355,00 à vista ou em até 12x de R$29,58 sem juros no cartão de crédito.
+
+📜 Faturamento e Nota Fiscal:
+
+* Cobrança anual via cartão de crédito.
+* Nota fiscal emitida mensalmente, após a cobrança.
+
+📌 Opcionais:\
+➕ Envio adicional: R$0,85 por envio.\
+➕ Autenticação por SMS: R$0,25 por autenticação.\
+➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
+
+
+
+✅ <mark style="color:purple;">**Plano Corporativo Anual – Envios Ilimitados**</mark>\
+Para empresas que demandam um volume ilimitado de assinaturas digitais.
+
+🔹 O que inclui?\
+✔ Envios ilimitados por e-mail.\
+✔ Armazenamento e usuários ilimitados.\
+✔ API de integração para máxima produtividade.
+
+💰 Investimento:\
+R$ 730,00 à vista ou em até 12x de R$60,83 sem juros no cartão de crédito.
+
+📜 Faturamento e Nota Fiscal:
+
+* Cobrança anual via cartão de crédito.
+* Nota fiscal emitida mensalmente, após a cobrança.
+
+📌 Opcionais:\
+➕ Autenticação por SMS: R$0,25 por autenticação.\
+➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
+
+</details>
+
+<details>
+
 <summary>Posso cancelar o meu plano se precisar?</summary>
 
 Todos os planos podem ser cancelados a qualquer momento.
