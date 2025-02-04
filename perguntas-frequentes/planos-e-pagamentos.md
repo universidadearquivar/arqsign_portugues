@@ -92,6 +92,116 @@ R$ 730,00 à vista ou em até 12x de R$60,83 sem juros no cartão de crédito.
 
 <details>
 
+<summary>Planos Mensais – Flexibilidade para seu Negócio</summary>
+
+<mark style="color:purple;">**✅ Plano Profissional Mensal – 20 envios**</mark>
+
+Para profissionais que precisam de um plano acessível e flexível.
+
+💰 Investimento: R$ 16,90/mês
+
+📜 Cobrança e Nota Fiscal:
+
+* Cobrança mensal via cartão de crédito.
+* Nota fiscal emitida mensalmente, após a cobrança.
+
+📌 Opcionais:\
+➕ Envio adicional: R$0,85 por envio.\
+➕ Autenticação por SMS: R$0,25 por autenticação.\
+➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
+
+
+
+<mark style="color:purple;">**✅ Plano Empresarial Mensal – 50 envios**</mark>
+
+Para empresas que precisam de mais envios e flexibilidade mensal.
+
+💰 Investimento: R$ 36,90/mês
+
+📜 Cobrança e Nota Fiscal:
+
+* Cobrança mensal via cartão de crédito.
+* Nota fiscal emitida mensalmente, após a cobrança.
+
+📌 Opcionais:\
+➕ Envio adicional: R$0,85 por envio.\
+➕ Autenticação por SMS: R$0,25 por autenticação.\
+➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
+
+
+
+<mark style="color:purple;">**✅ Plano Corporativo Mensal – Envios Ilimitados**</mark>
+
+Para empresas que querem total liberdade de envios.
+
+💰 Investimento: R$ 75,90/mês
+
+📜 Cobrança e Nota Fiscal:
+
+* Cobrança mensal via cartão de crédito.
+* Nota fiscal emitida mensalmente, após a cobrança.
+
+📌 Opcionais:\
+➕ Autenticação por SMS: R$0,25 por autenticação.\
+➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
+
+
+
+</details>
+
+<details>
+
+<summary>Planos - Como é contabilizado o Consumo</summary>
+
+<mark style="color:purple;">**Sobre o envio de documentos para assinaturas**</mark>
+
+Na ArqSign, os planos funcionam com base nos ENVIOS, que são como envelopes digitais. Com apenas 1 ENVIO, você pode configurar até 25 documentos (totalizando até 100MB) e incluir quantos signatários forem necessários—tudo isso pagando apenas 1 ENVIO.
+
+<mark style="color:purple;">**Como funciona o consumo ao enviar documentos?**</mark>
+
+Você pode enviar documentos para assinatura por e-mail ou WhatsApp.
+
+✅ **Envio por e-mail:**
+
+Quando você envia um documento para assinatura por e-mail, a ArqSign cuida de tudo! O sistema envia diretamente ao signatário e, assim que ele assina, a plataforma encaminha automaticamente o documento finalizado para todos os envolvidos.
+
+➡️ Consumo: 1 ENVIO
+
+&#x20;
+
+✅ **Envio por WhatsApp:**
+
+O envio via WhatsApp funciona de forma diferente porque conta com nossa integração direta com o WhatsApp Business, garantindo mais segurança e rastreabilidade. Quando um documento é enviado para assinatura pelo WhatsApp:
+
+1️ - A ArqSign o envia para o WhatsApp Business integrado.
+
+2️ - O WhatsApp Business encaminha diretamente para o número do signatário.
+
+3️ - Após a assinatura, o documento finalizado é enviado automaticamente para os envolvidos—por e-mail para quem assinou por e-mail e pelo WhatsApp para quem assinou pelo WhatsApp.
+
+➡️ Consumo: 1 ENVIO + 2 CRÉDITOS DE WHATSAPP
+
+&#x20;
+
+**Por que há um custo adicional no WhatsApp?**
+
+A cobrança dos CRÉDITOS DE WHATSAPP se deve à nossa integração oficial com o WhatsApp Business, que garante que o link de assinatura seja enviado diretamente ao signatário, sem risco de interceptação ou uso indevido. Isso significa:
+
+🔹 Mais segurança: Somente o verdadeiro destinatário pode acessar e assinar.
+
+🔹 Trilha de auditoria confiável: O processo é 100% rastreável e auditável.
+
+🔹 Agilidade e praticidade: Seu cliente recebe o documento diretamente no WhatsApp, o que aumenta a taxa de resposta e reduz o tempo de assinatura.
+
+&#x20;Ao utilizar o WhatsApp na ArqSign, você oferece uma experiência mais segura e eficiente para seus signatários, aumentando a confiabilidade e agilidade do processo de assinatura.
+
+</details>
+
+<details>
+
 <summary>Posso cancelar o meu plano se precisar?</summary>
 
 Todos os planos podem ser cancelados a qualquer momento.
