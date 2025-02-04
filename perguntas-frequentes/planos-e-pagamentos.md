@@ -154,7 +154,7 @@ Para empresas que querem total liberdade de envios.
 
 <details>
 
-<summary>Planos - Como é contabilizado o Consumo</summary>
+<summary>Planos - Como é contabilizado o Consumo?</summary>
 
 <mark style="color:purple;">**Sobre o envio de documentos para assinaturas**</mark>
 
