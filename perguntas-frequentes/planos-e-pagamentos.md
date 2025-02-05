@@ -29,7 +29,7 @@ Ideal para profissionais que precisam de um fluxo contínuo de assinaturas digit
 ✔ Armazenamento e usuários ilimitados.\
 ✔ API de integração para automatizar processos.
 
-💰 Investimento: R$ 160,00 à vista ou em até 12x de R$13,33 sem juros no cartão de crédito.
+💰 Investimento: R$ 238,00 à vista ou em até 12x de R$ 19,90 sem juros no cartão de crédito.
 
 📜 Faturamento e Nota Fiscal:
 
@@ -37,7 +37,7 @@ Ideal para profissionais que precisam de um fluxo contínuo de assinaturas digit
 * Nota fiscal emitida mensalmente, após a cobrança.
 
 📌 Opcionais:\
-➕ Envio adicional: R$0,85 por envio.\
+➕ Envio adicional: R$1,00 por envio.\
 ➕ Autenticação por SMS: R$0,25 por autenticação.\
 ➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
 ➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
@@ -52,7 +52,7 @@ Perfeito para empresas que buscam mais eficiência e automação nos processos d
 ✔ Armazenamento e usuários ilimitados.\
 ✔ API de integração para otimizar fluxos de trabalho.
 
-💰 Investimento: R$ 355,00 à vista ou em até 12x de R$29,58 sem juros no cartão de crédito.
+💰 Investimento: R$ 478,00 à vista ou em até 12x de R$39,90 sem juros no cartão de crédito.
 
 📜 Faturamento e Nota Fiscal:
 
@@ -60,7 +60,7 @@ Perfeito para empresas que buscam mais eficiência e automação nos processos d
 * Nota fiscal emitida mensalmente, após a cobrança.
 
 📌 Opcionais:\
-➕ Envio adicional: R$0,85 por envio.\
+➕ Envio adicional: R$0,80 por envio.\
 ➕ Autenticação por SMS: R$0,25 por autenticação.\
 ➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
 ➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
@@ -76,7 +76,7 @@ Para empresas que demandam um volume ilimitado de assinaturas digitais.
 ✔ API de integração para máxima produtividade.
 
 💰 Investimento:\
-R$ 730,00 à vista ou em até 12x de R$60,83 sem juros no cartão de crédito.
+R$ 838,80 à vista ou em até 12x de R$69,90 sem juros no cartão de crédito.
 
 📜 Faturamento e Nota Fiscal:
 
