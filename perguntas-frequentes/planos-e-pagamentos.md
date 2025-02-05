@@ -98,7 +98,7 @@ R$ 838,80 à vista ou em até 12x de R$69,90 sem juros no cartão de crédito.
 
 Para profissionais que precisam de um plano acessível e flexível.
 
-💰 Investimento: R$ 16,90/mês
+💰 Investimento: R$ 29,90/mês
 
 📜 Cobrança e Nota Fiscal:
 
@@ -106,7 +106,7 @@ Para profissionais que precisam de um plano acessível e flexível.
 * Nota fiscal emitida mensalmente, após a cobrança.
 
 📌 Opcionais:\
-➕ Envio adicional: R$0,85 por envio.\
+➕ Envio adicional: R$1,50 por envio.\
 ➕ Autenticação por SMS: R$0,25 por autenticação.\
 ➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
 ➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
@@ -117,7 +117,7 @@ Para profissionais que precisam de um plano acessível e flexível.
 
 Para empresas que precisam de mais envios e flexibilidade mensal.
 
-💰 Investimento: R$ 36,90/mês
+💰 Investimento: R$ 59,90/mês
 
 📜 Cobrança e Nota Fiscal:
 
@@ -125,7 +125,7 @@ Para empresas que precisam de mais envios e flexibilidade mensal.
 * Nota fiscal emitida mensalmente, após a cobrança.
 
 📌 Opcionais:\
-➕ Envio adicional: R$0,85 por envio.\
+➕ Envio adicional: R$1,20 por envio.\
 ➕ Autenticação por SMS: R$0,25 por autenticação.\
 ➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
 ➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
@@ -136,7 +136,7 @@ Para empresas que precisam de mais envios e flexibilidade mensal.
 
 Para empresas que querem total liberdade de envios.
 
-💰 Investimento: R$ 75,90/mês
+💰 Investimento: R$ 89,90/mês
 
 📜 Cobrança e Nota Fiscal:
 
