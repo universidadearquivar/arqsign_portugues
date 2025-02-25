@@ -260,6 +260,96 @@ Os créditos de WhatsApp não utilizados até o final do período expiram.&#x20;
 
 <details>
 
+<summary>Planos com pacotes de WhatsApp: Mensais - Flexibilidade para  seu Negócio</summary>
+
+<mark style="color:purple;">**👨‍💼 Plano Profissional Mensal – 20 envios + 20 assinaturas por WhatsApp**</mark> \
+Para profissionais que precisam de um plano acessível e flexível.&#x20;
+
+🔹 O que inclui? \
+✔ 20 envios (fluxos) por e-mail ou WhatsApp ao mês. \
+✔ Armazenamento e usuários ilimitados. \
+✔ API de integração para otimizar fluxos de trabalho.&#x20;
+
+Detalhe do plano:&#x20;
+
+Plano mensal com 20 envios (fluxos) por e-mail e 40 créditos de WhatsApp que permitem 20 assinaturas por WhatsApp.&#x20;
+
+Para cada assinatura por WhatsApp são necessários 2 créditos de mensagens de WhatsApp sendo 1 crédito para envio do documento para assinatura e 1 crédito para envio do documento assinado ao final do processo.&#x20;
+
+Os créditos de WhatsApp não utilizados até o final do período expiram.&#x20;
+
+💰 Investimento: R$ 53,90/mês&#x20;
+
+📜 Cobrança e Nota Fiscal:&#x20;
+
+* Cobrança mensal via cartão de crédito.&#x20;
+* Nota fiscal emitida mensalmente, após a cobrança.&#x20;
+
+📌 Opcionais: \
+➕ Envio adicional: R$1,50 por envio. \
+➕ Autenticação por SMS: R$0,25 por autenticação. \
+➕ Autenticação por WhatsApp: R$0,60 por autenticação. \
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.&#x20;
+
+<mark style="color:purple;">**🏢 Plano Empresarial Mensal – 50 envios + 50 assinaturas por WhatsApp**</mark> \
+Para empresas que precisam de mais envios e flexibilidade mensal.&#x20;
+
+🔹 O que inclui? \
+✔ 50 envios (fluxos) por e-mail ou WhatsApp ao mês. \
+✔ Armazenamento e usuários ilimitados. \
+✔ API de integração para otimizar fluxos de trabalho.&#x20;
+
+Detalhe do plano:&#x20;
+
+Plano mensal com 50 envios (fluxos) por e-mail e 100 créditos de WhatsApp que permitem 50 assinaturas por WhatsApp.&#x20;
+
+Para cada assinatura por WhatsApp são necessários 2 créditos de mensagens de WhatsApp sendo 1 crédito para envio do documento para assinatura e 1 crédito para envio do documento assinado ao final do processo.&#x20;
+
+Os créditos de WhatsApp não utilizados até o final do período expiram.&#x20;
+
+💰 Investimento: R$ 119,90/mês&#x20;
+
+📜 Cobrança e Nota Fiscal:&#x20;
+
+* Cobrança mensal via cartão de crédito.&#x20;
+* Nota fiscal emitida mensalmente, após a cobrança.&#x20;
+
+📌 Opcionais: \
+➕ Envio adicional: R$1,20 por envio. \
+➕ Autenticação por SMS: R$0,25 por autenticação. \
+➕ Autenticação por WhatsApp: R$0,60 por autenticação. \
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.&#x20;
+
+&#x20;<mark style="color:purple;">**🏢 Plano Corporativo Mensal – Envios Ilimitados + 100 assinaturas por WhatsApp**</mark> \
+Para empresas que querem total liberdade de envios.&#x20;
+
+🔹 O que inclui? \
+✔ Envios (fluxos) por e-mail ilimitados e 100 assinaturas por WhatsApp ao mês. \
+✔ Armazenamento e usuários ilimitados. \
+✔ API de integração para otimizar fluxos de trabalho.&#x20;
+
+Detalhe do plano:&#x20;
+
+ Plano mensal com 100 envios (fluxos) por e-mail e 200 créditos de WhatsApp que permitem 100 assinaturas por WhatsApp. \
+Para cada assinatura por WhatsApp são necessários 2 créditos de mensagens de WhatsApp sendo 1 crédito para envio do documento para assinatura e 1 crédito para envio do documento assinado ao final do processo. \
+Os créditos de WhatsApp não utilizados até o final do período expiram..&#x20;
+
+💰 Investimento: R$ 209,90/mês&#x20;
+
+📜 Cobrança e Nota Fiscal:&#x20;
+
+* Cobrança mensal via cartão de crédito.&#x20;
+* Nota fiscal emitida mensalmente, após a cobrança.&#x20;
+
+📌 Opcionais: \
+➕ Autenticação por SMS: R$0,25 por autenticação. \
+➕ Autenticação por WhatsApp: R$0,60 por autenticação. \
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.&#x20;
+
+</details>
+
+<details>
+
 <summary>Planos - Como é contabilizado o Consumo?</summary>
 
 <mark style="color:purple;">**Sobre o envio de documentos para assinaturas**</mark>
@@ -274,7 +364,7 @@ Você pode enviar documentos para assinatura por e-mail ou WhatsApp.
 
 Quando você envia um documento para assinatura por e-mail, a ArqSign cuida de tudo! O sistema envia diretamente ao signatário e, assim que ele assina, a plataforma encaminha automaticamente o documento finalizado para todos os envolvidos.
 
-➡️ Consumo: 1 ENVIO
+➡️ Consumo: 1 CRÉDITO DE ENVIO DO PLANO
 
 &#x20;
 
@@ -288,9 +378,13 @@ O envio via WhatsApp funciona de forma diferente porque conta com nossa integra�
 
 3️ - Após a assinatura, o documento finalizado é enviado automaticamente para os envolvidos—por e-mail para quem assinou por e-mail e pelo WhatsApp para quem assinou pelo WhatsApp.
 
-➡️ Consumo: 1 ENVIO + 2 CRÉDITOS DE WHATSAPP
+➡️ Consumo: 1 CRÉDITO DE ENVIO DO PLANO + 2 CRÉDITOS DE WHATSAPP
 
-&#x20;
+**Por que o envio de um documento para assinatura via WhatsApp consome um crédito de envio no plano ArqSign?**&#x20;
+
+O envio de um documento para assinatura via WhatsApp consome um crédito de envio no plano ArqSign porque a plataforma é responsável por gerenciar todo o processo além da simples entrega do link. Isso inclui a configuração do fluxo de assinatura, a geração de links seguros, a automação de mensagens, o acompanhamento da entrega e do status do documento, a execução das assinaturas, o armazenamento seguro e outros recursos essenciais.&#x20;
+
+O WhatsApp funciona apenas como um canal de comunicação para a entrega do link, enquanto toda a infraestrutura necessária para garantir a segurança e eficiência do processo é gerenciada pela ArqSign. Por isso, o serviço é contabilizado como um envio dentro do plano contratado.&#x20;
 
 **Por que há um custo adicional no WhatsApp?**
 
