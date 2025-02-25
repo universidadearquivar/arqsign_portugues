@@ -92,6 +92,10 @@ Quando o destinatário não definir uma mensagem padrão da sua lista a platafor
 
 Repita o processo até adicionar todas as mensagens que deseja manter como padrão.
 
+Em caso de mensagens enviadas através do WhatsApp, a mensagem padrão terá um formato diferente, ela será exibida da seguinte forma:
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="254"><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
 {% hint style="info" %}
 <mark style="color:blue;">A lista de mensagens padrão não pode ser compartilhada entre usuários, ou seja, cada usuário poderá visualizar e/ou selecionar apenas as mensagens criadas por ele.</mark>&#x20;
 {% endhint %}
