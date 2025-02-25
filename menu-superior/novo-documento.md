@@ -101,6 +101,8 @@ No campo “Destinatários” preencha os campos relativos aos signatários que 
 
 Ao clicar neste botão é exibida a lista. Para adicionar os destinatários desejados, selecione-os clicando no _checkbox_ ao lado do nome e clique em “Adicionar Destinatários”.
 
+Utilizando a barra de pesquisa é possível filtrar os destinatários por nome, e-mail ou WhatsApp.
+
 <figure><img src="../.gitbook/assets/novodocumento07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao marcar o _checkbox_ “**Assinar na ordem abaixo**” o documento será enviado aos destinatários na ordem definida no campo “**Ordem**” que aparecerá na parte superior de “Dados do Destinatário”. Ao definir essa opção um usuário só receberá o documento quando o anterior concluir sua ação de assinatura.&#x20;
