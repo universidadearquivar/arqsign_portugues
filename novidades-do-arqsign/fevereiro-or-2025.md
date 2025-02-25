@@ -2,14 +2,6 @@
 
 <details>
 
-<summary>Duplicação de botões</summary>
-
-Foram duplicados os botões "Descartar", "Concluir mais tarde" e "Avançar" no final da tela do Passo 01 de enviar documentos.
-
-</details>
-
-<details>
-
 <summary>Nova possibilidade de filtro</summary>
 
 Possibilidade de filtrar os[ destinatários](../menu-superior/novo-documento.md#b.-destinatarios) por nome, e-mail ou WhatsApp.
