@@ -98,6 +98,11 @@ R$ 838,80 à vista ou em até 12x de R$69,90 sem juros no cartão de crédito.
 
 Para profissionais que precisam de um plano acessível e flexível.
 
+🔹 O que inclui?\
+✔ 20 envios (fluxos) por e-mail ao mês.\
+✔ Armazenamento e usuários ilimitados.\
+✔ API de integração para automatizar processos.
+
 💰 Investimento: R$ 29,90/mês
 
 📜 Cobrança e Nota Fiscal:
@@ -116,6 +121,11 @@ Para profissionais que precisam de um plano acessível e flexível.
 <mark style="color:purple;">**✅ Plano Empresarial Mensal – 50 envios**</mark>
 
 Para empresas que precisam de mais envios e flexibilidade mensal.
+
+🔹 O que inclui?\
+✔ 50 envios (fluxos) por e-mail ao mês.\
+✔ Armazenamento e usuários ilimitados.\
+✔ API de integração para automatizar processos.
 
 💰 Investimento: R$ 59,90/mês
 
@@ -136,6 +146,11 @@ Para empresas que precisam de mais envios e flexibilidade mensal.
 
 Para empresas que querem total liberdade de envios.
 
+🔹 O que inclui?\
+✔ Envios (fluxos) ilimitados por e-mail ao mês.\
+✔ Armazenamento e usuários ilimitados.\
+✔ API de integração para automatizar processos.
+
 💰 Investimento: R$ 89,90/mês
 
 📜 Cobrança e Nota Fiscal:
@@ -149,6 +164,97 @@ Para empresas que querem total liberdade de envios.
 ➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
 
 
+
+</details>
+
+<details>
+
+<summary>Planos com pacotes de WhatsApp: Anuais - Economia e Mais Benefícios </summary>
+
+<mark style="color:purple;">**💼 Plano Profissional Anual – 240 envios + 240 assinaturas por WhatsApp**</mark> \
+Ideal para profissionais que precisam de um fluxo contínuo de assinaturas digitais.&#x20;
+
+🔹 O que inclui? \
+✔ 240 envios (fluxos) por e-mail ou WhatsApp ao longo de 12 meses. \
+✔ Armazenamento e usuários ilimitados. \
+✔ API de integração para automatizar processos.&#x20;
+
+🔹 Detalhe do plano: \
+Plano anual com 240 envios (fluxos) e 480 créditos de WhatsApp que permitem 240 assinaturas por WhatsApp.&#x20;
+
+Para cada assinatura por WhatsApp são necessários 2 créditos de mensagens de WhatsApp sendo 1 crédito para envio do documento para assinatura e 1 crédito para envio do documento assinado ao final do processo).&#x20;
+
+Os créditos de WhatsApp não utilizados até o final do período expiram.&#x20;
+
+💰 Investimento: R$ 526,80 à vista ou em até 12x de R$43,90 sem juros no cartão de crédito.&#x20;
+
+📜 Faturamento e Nota Fiscal:&#x20;
+
+* Cobrança anual via cartão de crédito.&#x20;
+* Nota fiscal emitida mensalmente, após a cobrança.&#x20;
+
+📌 Opcionais: \
+➕ Envio adicional: R$1,00 por envio. \
+➕ Autenticação por SMS: R$0,25 por autenticação. \
+➕ Autenticação por WhatsApp: R$0,60 por autenticação. \
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.&#x20;
+
+&#x20;<mark style="color:purple;">**🏢 Plano Empresarial Anual – 600 envios + 600 assinaturas por WhatsApp**</mark> \
+Perfeito para empresas que buscam mais eficiência e automação nos processos de assinatura.&#x20;
+
+🔹 O que inclui? \
+✔ 600 envios (fluxos) por e-mail ou WhatsApp ao longo de 12 meses. \
+✔ Armazenamento e usuários ilimitados. \
+✔ API de integração para otimizar fluxos de trabalho.&#x20;
+
+Detalhe do plano:&#x20;
+
+Plano anual com 600 envios (fluxos) e 1200 créditos de WhatsApp que permitem 600 assinaturas por WhatsApp.&#x20;
+
+Para cada assinatura por WhatsApp são necessários 2 créditos de mensagens de WhatsApp sendo 1 crédito para envio do documento para assinatura e 1 crédito para envio do documento assinado ao final do processo).&#x20;
+
+Os créditos de WhatsApp não utilizados até o final do período expiram.&#x20;
+
+💰 Investimento: R$1.198,80 à vista ou em até 12x de R$99,90 sem juros no cartão de crédito.&#x20;
+
+📜 Faturamento e Nota Fiscal:&#x20;
+
+* Cobrança anual via cartão de crédito.&#x20;
+* Nota fiscal emitida mensalmente, após a cobrança.&#x20;
+
+📌 Opcionais: \
+➕ Envio adicional: R$0,80 por envio. \
+➕ Autenticação por SMS: R$0,25 por autenticação. \
+➕ Autenticação por WhatsApp: R$0,60 por autenticação. \
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.&#x20;
+
+&#x20;<mark style="color:purple;">**🏢 Plano Corporativo Anual – Envios Ilimitados + 1200 assinaturas por WhatsApp**</mark>  \
+Para empresas que demandam um volume ilimitado de assinaturas digitais.&#x20;
+
+🔹 O que inclui? \
+✔ Envios ilimitados por e-mail e 1200 assinaturas por WhatsApp. \
+✔ Armazenamento e usuários ilimitados. \
+✔ API de integração para máxima produtividade.&#x20;
+
+Detalhe do plano:&#x20;
+
+Plano anual com envios (fluxos) ilimitado e 2400 créditos de WhatsApp que permitem 1200 assinaturas por WhatsApp.&#x20;
+
+Para cada assinatura por WhatsApp são necessários 2 créditos de mensagens de WhatsApp sendo 1 crédito para envio do documento para assinatura e 1 crédito para envio do documento assinado ao final do processo).&#x20;
+
+Os créditos de WhatsApp não utilizados até o final do período expiram.&#x20;
+
+💰 Investimento: R$ 2.278,80 à vista ou em até 12x de R$189,90 sem juros no cartão de crédito.&#x20;
+
+📜 Faturamento e Nota Fiscal:&#x20;
+
+* Cobrança anual via cartão de crédito.&#x20;
+* Nota fiscal emitida mensalmente, após a cobrança.&#x20;
+
+📌 Opcionais: \
+➕ Autenticação por SMS: R$0,25 por autenticação. \
+➕ Autenticação por WhatsApp: R$0,60 por autenticação. \
+➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.&#x20;
 
 </details>
 
