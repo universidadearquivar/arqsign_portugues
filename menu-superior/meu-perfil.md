@@ -10,7 +10,7 @@ No menu Meu Perfil são apresentadas as informações do usuário autenticado. &
 
 Na aba Meus Dados são apresentadas as informações de cadastro do usuário. É possível editar os dados clicando-se no botão “Editar”.&#x20;
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (340).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 **Foto do perfil:** Para inserir ou editar a foto de perfil, clique sobre a imagem e selecione a opção “Upload Nova Imagem”. Selecione a foto desejada e clique em “Salvar”. Para excluir a foto de perfil, basta clicar na foto e selecionar a opção “Excluir Imagem Atual”.&#x20;
 
@@ -34,7 +34,7 @@ Caso queira utilizar outro e-mail como "Remetente de documentos", crie outro [us
 
 **Telefone:** Neste campo o usuário deve informar seu número de telefone de contato e clicar em “Adicionar Telefone”. Os números inseridos aqui serão apresentados logo abaixo, no campo “Telefones”.&#x20;
 
-<figure><img src="../.gitbook/assets/perfil4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ***
 
@@ -108,7 +108,7 @@ Repita o processo até adicionar todas as mensagens que deseja manter como padr�
 
 Na aba Estilo de Assinatura o usuário deve definir representação visual de sua assinatura. O usuário pode cadastrar três tipos de Estilo de Assinatura clicando em “Editar”.&#x20;
 
-<figure><img src="../.gitbook/assets/image (263).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Estilo Padrão:** Neste estilo de assinatura, o usuário deve informar o nome completo e definir o estilo de fonte para o texto. Para isso deve clicar em “Estilo” e fazer a definição. Para apagar, deve clicar no ícone de lixeira.
 
