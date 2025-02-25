@@ -88,7 +88,7 @@ A mensagem padrão criada será apresentada ao signatário conforme imagem, obse
 
 <figure><img src="../.gitbook/assets/image (279).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Quando o destinatário não definir uma mensagem padrão da sua lista a plataforma deverá considerar o padrão do sistema. Observe na área em destaque o informativo do documento recebido consideranto o nome dos arquivos anexados ao processo.
+Quando o destinatário não definir uma mensagem padrão da sua lista a plataforma deverá considerar o padrão do sistema. Observe na área em destaque o informativo do documento recebido considerando o nome dos arquivos anexados ao processo.
 
 Repita o processo até adicionar todas as mensagens que deseja manter como padrão.
 
