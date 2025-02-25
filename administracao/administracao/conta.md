@@ -96,7 +96,7 @@ Ao clicar em “**Detalhes do plano**” é apresentada a descrição e quantida
 
 Por default algumas configurações dessa aba são preenchidas automaticamente, mas é possível alterá-las clicando-se no botão “Editar”.
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de documentos e processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada documento durante a sua criação na tela [Novo Documento > Adicionar Documentos e Destinatários > Configurações Avançadas. ](../../menu-superior/novo-documento.md#configuracoes-avancadas)
 
@@ -172,7 +172,7 @@ Para excluir um papel, clique no ícone “Excluir”. Também é possível loca
 
 **Notificar a cada \_\_\_\_\_ dias, a partir de \_\_\_\_\_ dias antes do vencimento da assinatura:** Ao preencher esses campos os administradores globais da conta serão notificados no período determinado quando a data de vencimento do plano estiver se aproximando do vencimento. Após o vencimento da assinatura, este tipo de notificação não será mais enviada.
 
-<figure><img src="../../.gitbook/assets/conta21.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (344).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 Se habilitado o campo “**Notificações Personalizadas - Personalização com cores e logo da marca**” será possível inserir um banner e definir as cores de destaque das notificações enviadas aos destinatários por e-mail e Whatsapp.
 
@@ -206,7 +206,7 @@ Nesta aba o usuário pode inserir ou editar o Termo de aceite para Assinatura El
 
 A plataforma apresenta o termo padrão, mas caso o usuário deseje editar ou substituir esse texto, pode fazê-lo clicando em “Editar”.
 
-<figure><img src="../../.gitbook/assets/conta26.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 Ele poderá também alterar a formatação e cores do texto utilizando a barra de ferramentas de edição.
 
