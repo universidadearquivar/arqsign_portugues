@@ -27,3 +27,11 @@ Foram alterados os posicionamentos de botões da direita para a esquerda nos seg
 
 
 </details>
+
+<details>
+
+<summary>Adição de campo no na aba Conta > Dados Fiscais</summary>
+
+Adição do campo Bairro na aba [Dados Fiscais](../administracao/administracao/conta.md#aba-dados-fiscais) no menu Administração > Conta
+
+</details>
