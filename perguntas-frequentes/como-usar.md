@@ -1365,3 +1365,71 @@ Configure os destinatários, defina o tipo de envio, por e-mail ou WhatsApp, con
 Caso você mesmo seja um signatário, você pode assinar o documento após o envio através da Caixa de entrada da sua conta. Basta clicar em assinar e seguir o passo a passo da pergunta “Como assinar um documento?” [Clique aqui](https://youtu.be/nEuvJHxZnto) e assista ao passo a passo.
 
 </details>
+
+<details>
+
+<summary>Como trocar o e-mail/usuário responsável pelos envios na plataforma ArqSign?</summary>
+
+Se deseja alterar o e-mail do usuário que realiza os envios, será necessário cadastrar um novo usuário com o e-mail desejado. Siga os passos abaixo:&#x20;
+
+**1) Cadastrar um novo usuário**&#x20;
+
+Siga as instruções detalhadas neste link: [Como cadastrar um usuário](https://manual.arquivar.com/manual-arqsign/perguntas-frequentes/como-usar#como-cadastrar-um-usuario).&#x20;
+
+**2) Transferir documentos do usuário antigo (opcional)**&#x20;
+
+Se precisar transferir os documentos do usuário do e-mail antigo para o novo, siga este procedimento:&#x20;
+
+1. Faça login com um usuário que tenha perfil de **Administrador Global**.&#x20;
+2. Acesse: **Administração > Usuários.**&#x20;
+3. Encontre o usuário atual que deseja substituir.&#x20;
+4. Na caixa **AÇÕES**, clique na seta para baixo e selecione **Inativar**.&#x20;
+5. Na janela de confirmação, escolha uma das opções:&#x20;
+
+* **Transferir**: Os documentos do usuário antigo serão movidos para o novo usuário.&#x20;
+* **Inativar sem transferir**: O usuário será inativado, mas seus documentos permanecerão na conta.&#x20;
+* **Cancelar**: Interrompe a ação sem realizar alterações.
+
+<img src="../.gitbook/assets/image (351).png" alt="" data-size="original">
+
+Se você **não possui integração com o parceiro Clínica nas Nuvens**, o processo termina aqui. Caso contrário, continue com as instruções abaixo.
+
+**3) Atualizar ID do usuário na integração com Clínica nas Nuvens**
+
+Se sua conta está integrada com o **Clínica nas Nuvens**, será necessário atualizar o ID do usuário. Siga os passos:
+
+1. Acesse **Menu Integrações > API > Download de IDs de Usuário**s.
+
+2) Baixe a planilha e copie o ID do novo usuário.
+
+3. No **Clínica nas Nuvens**, vá até **Configurações > Minha Empresa > Integrações > Assinatura Digital.**
+
+4) No campo **ID usuário**, substitua o ID antigo pelo novo ID copiado.
+
+5. Clique em **SALVAR**.
+
+Agora, o novo **usuário/e-mail** está configurado para enviar e receber mensagens via **Clínica nas Nuvens**.
+
+</details>
+
+<details>
+
+<summary>Como transferir documentos de um usuário para outro?</summary>
+
+Se precisar transferir os documentos de um usuário para outro, siga os seguintes passos:
+
+1. Faça login com um usuário que tenha perfil de **Administrador Global**.
+2. Acesse: **Administração > Usuários.**
+3. Encontre o usuário proprietário dos documentos que deseja transferir.
+4. Na caixa **AÇÕES**, clique na seta para baixo e selecione **Inativar**.
+5. Na janela de confirmação, escolha uma das opções:
+6.
+   * **Transferir**: Os documentos do usuário antigo serão movidos para o novo usuário.
+   * **Inativar sem transferir**: O usuário será inativado, mas seus documentos permanecerão na conta.
+   * **Cancelar**: Interrompe a ação sem realizar alterações.
+
+<img src="../.gitbook/assets/image (351).png" alt="" data-size="original">
+
+
+
+</details>
