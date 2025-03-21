@@ -252,7 +252,7 @@ Ao clicar neste ícone será possível reenviar os documentos selecionados para 
 <mark style="color:orange;">**Para ação de reenvio em lote o sistema não habilita o ícone de reenviar se ao menos um processo selecionado estiver marcado como "Enviado via ArqFlow".**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 #### **Cancelar Envio**
 
@@ -274,7 +274,7 @@ Quando houver falha de envio do processo, o sistema sinaliza o processo com a fa
 
 Quando houver falha de envio do código de segurança para algum destinatário do processo, o sistema sinaliza o destinatário com a falha de envio do código de segurança.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 
 
