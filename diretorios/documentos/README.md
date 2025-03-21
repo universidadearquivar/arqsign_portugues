@@ -104,7 +104,29 @@ Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, subpastas cria
 
 **Alterar Proprietário:** Essa opção só estará disponível para documentos avulsos e se o usuário for o remetente do documento. Clicando nesta opção será possível atribuir um novo proprietário para o documento. Para isso, selecione o novo usuário proprietário e clique em “Alterar”. &#x20;
 
-**Barra de Pesquisa:** É possível realizar a busca pelo nome do documento ou pasta, nome, telefone e e-mail do destinatário, nome e e-mail do responsável e data e período de envio e conclusão utilizando a barra de pesquisa superior.
+**Barra de Pesquisa:** A Barra de Pesquisa permite que você busque documentos ou pastas de forma prática e rápida, utilizando diferentes critérios. É possível pesquisar pelo nome do documento ou pasta, nome, telefone e e-mail do destinatário, nome e e-mail do responsável, além de data e período de envio e conclusão. A pesquisa pode ser feita utilizando os campos na parte superior.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+> **Campos de texto (nome, e-mail e telefone):**\
+> Estes campos são campos de texto padrão. Para realizar uma busca, basta digitar o dado desejado. Você pode preencher mais de um campo para realizar uma pesquisa combinada, se necessário.
+>
+> **Campos de data:**\
+> Os campos de data têm um funcionamento específico. Eles apresentam períodos pré-definidos (conforme a imagem abaixo), mas também oferecem a opção de buscar por um **período personalizado**.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+> **Uso do período personalizado**
+>
+> Ao selecionar a opção "Personalizado", aparecerá uma nova opção abaixo com um ícone de calendário.
+>
+> ![](<../../.gitbook/assets/image (2).png>)
+>
+>
+>
+> Ao clicar no ícone, o usuário pode escolher o período desejado, arrastando o mouse entre os dias do mês selecionado. Também é possível alterar a pesquisa para um ano específico.
+>
+> ![](<../../.gitbook/assets/image (3).png>)
+
+> Após selecionar o período desejado, clique em "Filtrar" para visualizar os resultados da busca.
 
