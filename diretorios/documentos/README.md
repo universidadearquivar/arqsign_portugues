@@ -125,8 +125,8 @@ A Barra de Pesquisa permite que você busque documentos ou pastas de forma prát
 > ![](<../../.gitbook/assets/image (2).png>)
 >
 > Ao clicar no ícone, o usuário pode escolher o período desejado, arrastando o mouse entre os dias do mês selecionado. Também é possível alterar a pesquisa para um ano específico.
->
-> ![](<../../.gitbook/assets/image (3).png>)
+
+<figure><img src="../../.gitbook/assets/gif calendário_1.gif" alt=""><figcaption></figcaption></figure>
 
 Após selecionar o período desejado, clique em "Filtrar" para visualizar os resultados da busca.
 
