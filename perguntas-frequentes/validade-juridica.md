@@ -82,3 +82,15 @@ Não, desde que as assinaturas tenham sido geradas durante o período de vigênc
 Sim. É possível. Basta baixar o documento assinado e o Registro de assinaturas e imprimi-los. **Um ponto de atenção:** a verificação da validade jurídica deste documento só pode ser feita de forma digital já que a assinatura foi feita de forma digital. Se você configurou a sua conta para gerar o Registro de assinaturas com QR Code, você pode acessar o documento digital através da leitura do QR Code que estará no Registro de assinaturas e fazer a validação jurídica do documento através do Adobe Reader ou Portal ITI como está indicado no rodapé do Registro de assinaturas.
 
 </details>
+
+<details>
+
+<summary><strong>Qual o padrão de assinatura digital utilizado pela ArqSign?</strong></summary>
+
+A ArqSign utiliza o padrão PAdES (PDF _Advanced Electronic Signatures_), ou “Assinaturas Eletrônicas Avançadas em PDF”, desenvolvido pelo ETSI (_European Telecommunications Standards Institute_). Amplamente reconhecido, inclusive pela ICP-Brasil, o PAdES assegura a validade jurídica de assinaturas eletrônicas em documentos PDF.
+
+Esse padrão aberto permite a criação e validação de assinaturas de forma padronizada, sendo compatíveis com diversos softwares, dependendo de ferramentas específicas. Um diferencial do PAdES é a inclusão de elementos visuais, como imagens e dados do usuário, aproximando a assinatura eletrônica de um manual de assinatura.
+
+Recomendado exclusivamente para PDFs, o PAdES simplifica a assinatura, o compartilhamento e a visualização de arquivos. Contudo, pode não ser ideal para sistemas personalizados.
+
+</details>
