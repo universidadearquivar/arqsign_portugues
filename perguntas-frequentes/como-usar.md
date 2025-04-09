@@ -1292,7 +1292,7 @@ Os usuários com o perfil Remetente de documentos visualizam apenas os documento
 
 Para que esse perfil de usuário possa ter acesso compartilhado aos documentos de outros usuários, deve ser utilizada a funcionalidade de diretórios. &#x20;
 
-Caso queira conhecer a funcionalidade de Diretórios, [clique aqui](../diretorios/documentos/).
+Caso queira conhecer a funcionalidade de Diretórios, [clique aqui](../processos/documentos/).
 
 </details>
 

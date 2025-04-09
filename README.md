@@ -1,4 +1,4 @@
-# 💻 Visão Geral da Plataforma 2.3.0
+# 💻 Visão Geral da Plataforma 2.13.0
 
 ## Características da plataforma
 
@@ -205,7 +205,7 @@ Ao acessar sua conta, a tela inicial do usuário apresentará no menu superior o
 
 **Sair:** Utilizado para fazer o logout da plataforma.
 
-<figure><img src=".gitbook/assets/visao9.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
 Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. 
 
@@ -215,10 +215,10 @@ Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos
 
 **Administração:** Neste grupo temos as configurações de conta, usuários e grupo de usuários.  
 
-<figure><img src=".gitbook/assets/visao10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
 
 No canto inferior direito da tela o usuário encontrará o menu de Suporte, onde poderá acessar ao tutorial demonstrativo de como enviar e assinar um documento, acessar ao Perguntas Frequentes sobre o uso da plataforma, aprender a verificar a validade jurídica de um documento e acessar os conteúdos sobre as novidades da Plataforma.
 
-<figure><img src=".gitbook/assets/visao5 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>

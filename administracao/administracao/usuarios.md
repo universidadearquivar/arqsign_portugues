@@ -48,15 +48,7 @@ Após a inserção de um novo usuário pelo Administrador Global, o convidado re
 
 As ações da tela de Usuários podem se acessadas por meio dos botões superiores, da coluna ações à direita ou clicando-se sobre qualquer informação do usuário no grid da tela principal.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/usuarios05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/usuarios06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/usuarios05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/usuarios06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 **Novo:** Para convidar um novo usuário para ingressar na conta, clique em “Novo”. Por padrão o usuário ficará com status “Pendente” até que aceite o convite para ingressar na conta.
 
@@ -69,7 +61,7 @@ Se o usuário convidado tiver o perfil somente de Remetente de Documentos, será
 <figure><img src="../../.gitbook/assets/usuarios08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**A definição de grupo não é solicitada para usuários criados com perfil de Administrador Global porque estes usuários têm acesso a todas as pastas de**</mark> [<mark style="color:blue;">**Documentos do Diretório**</mark>](../../diretorios/documentos/)<mark style="color:orange;">**, não sendo preciso, portanto, fazer essa restrição.**</mark>
+<mark style="color:orange;">**A definição de grupo não é solicitada para usuários criados com perfil de Administrador Global porque estes usuários têm acesso a todas as pastas de**</mark> [<mark style="color:blue;">**Documentos do Diretório**</mark>](../../processos/documentos/)<mark style="color:orange;">**, não sendo preciso, portanto, fazer essa restrição.**</mark>
 {% endhint %}
 
 **Ativar:** Podem ser ativados apenas usuários com status “Bloqueado” ou “Inativo”. Ao ativar os usuários bloqueados ou inativos eles terão acesso novamente à conta.

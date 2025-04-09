@@ -150,7 +150,7 @@ Para realizar o upload de um certificado, o usuário deve clicar no ícone “No
 
 ## Aba Solicitações&#x20;
 
-No menu Solicitações são apresentadas todas as solicitações de transferência de documento realizadas pelo usuário. Sempre que nos menus [Documentos](../diretorios/documentos/), [Caixa de Entrada](../caixa-postal/caixa-de-entrada.md) e [Enviados](../caixa-postal/enviados.md) o usuário transferir a propriedade de um documento de sua autoria para outro usuário, esta solicitação será exibida aqui. &#x20;
+No menu Solicitações são apresentadas todas as solicitações de transferência de documento realizadas pelo usuário. Sempre que nos menus [Documentos](../processos/documentos/), [Caixa de Entrada](../caixa-postal/caixa-de-entrada.md) e [Enviados](../caixa-postal/enviados.md) o usuário transferir a propriedade de um documento de sua autoria para outro usuário, esta solicitação será exibida aqui. &#x20;
 
 Aqui constarão também as solicitações de transferência de propriedade de documento devido à [inativação de usuários da conta](../administracao/administracao/usuarios.md#acoes-da-tela-usuarios).&#x20;
 

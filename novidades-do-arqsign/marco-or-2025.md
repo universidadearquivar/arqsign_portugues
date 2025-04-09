@@ -4,6 +4,6 @@
 
 <summary>Nova possibilidade de filtro</summary>
 
-Inclusão de novas possibilidades de [filtrar os documentos no diretório](../diretorios/documentos/#barra-de-pesquisa).
+Inclusão de novas possibilidades de [filtrar os documentos no diretório](../processos/documentos/#barra-de-pesquisa).
 
 </details>
