@@ -44,7 +44,7 @@ Na aba Meus Contatos o usuário pode cadastrar informações de destinatários p
 
 **Salvar os destinatários de um documento enviado para assinatura em minha lista de contatos:** Ao deixar marcada essa opção, sempre que o usuário enviar um documento para assinatura para um destinatário que ainda não estiver incluso na lista de contatos, as informações de contato desse destinatário serão automaticamente salvas e ele passará a fazer parte da lista.&#x20;
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (357).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nome:** Nesta coluna é apresentado o nome do contato da mesma forma que foi cadastrado na lista ou como foi informado durante o envio de um documento.  Caso o contato tenha sido compartilhado com o usuário por outro membro da conta, será exibido o nome do contato seguido da informação de quem o cadastrou.&#x20;
 
@@ -52,7 +52,7 @@ Na aba Meus Contatos o usuário pode cadastrar informações de destinatários p
 
 <figure><img src="../.gitbook/assets/perfil6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Ícone Adicionar Contato:** Para adicionar um novo contato, clique no ícone “Adicionar Contato” e informe o nome e e-mail ou número de WhatsApp do contato. Ao selecionar a opção “Compartilhar com todos os usuários da conta” o contato cadastrado será salvo na lista de contatos de todos os usuários que fazem parte da conta. Para concluir, clique em “Salvar”.&#x20;
+**Ícone Adicionar Contato:** Para adicionar um novo contato manualmente, clique no ícone “Adicionar Contato” e informe o nome e e-mail ou número de WhatsApp do contato. Ao selecionar a opção “Compartilhar com todos os usuários da conta” o contato cadastrado será salvo na lista de contatos de todos os usuários que fazem parte da conta. Para concluir, clique em “Salvar”.&#x20;
 
 <figure><img src="../.gitbook/assets/perfil7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -66,7 +66,45 @@ Na aba Meus Contatos o usuário pode cadastrar informações de destinatários p
 
 **Barra de Pesquisa:** É possível localizar um contato específico utilizando os filtros de e-mail ou WhatsApp para busca.&#x20;
 
-<figure><img src="../.gitbook/assets/perfil8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+
+#### Importação de Contatos
+
+Além da opção de adicionar novos contatos manualmente, o sistema também permite a importação de dados por meio de um arquivo no formato CSV. Para isso:
+
+* Acesse **Meu perfil** no menu superior.
+* Clique na aba **Meus contatos**.
+* Clique no ícone de **importação** exibido ao lado da lista de contatos.
+
+<figure><img src="../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+
+Será aberta uma janela para realizar o upload do arquivo CSV.
+
+<figure><img src="../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+
+#### **Planilha modelo**
+
+Clique em **Baixar planilha modelo** para fazer o download de um arquivo CSV em branco.\
+Este é o modelo que deve ser utilizado para a importação.
+
+Preencha o arquivo conforme as orientações:
+
+* **Campo "Compartilhado"**: Preencha com **1** para indicar "Sim" ou **0** para indicar "Não". Qualquer valor diferente será considerado como "0".
+* **Campo "Telefone"**: Deve ser informado no padrão internacional, com **DDI + DDD + número**. Exemplo: `553198766871`.
+* **Campos "E-mail" e "Telefone" preenchidos**: Caso ambos sejam preenchidos, o contato será importado duas vezes. Para importar apenas uma vez, preencha apenas um dos campos.
+
+<figure><img src="../.gitbook/assets/image (362).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### Importação e logs
+
+Caso o arquivo contenha erros em algum campo, apenas os registros válidos serão importados. Será gerado um **LOG de falhas** (conforme marcação verde a seguir) que poderá ser baixado para correção do arquivo e nova tentativa de importação.
+
+<figure><img src="../.gitbook/assets/log.PNG" alt=""><figcaption></figcaption></figure>
+
+Registros já existentes na lista não serão duplicados.
+
+A importação pode levar alguns segundos ou minutos, dependendo do tamanho do arquivo.\
+O usuário pode fechar a tela e consultar os dados posteriormente.
 
 ***
 
