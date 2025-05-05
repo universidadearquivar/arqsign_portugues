@@ -52,31 +52,34 @@ Importante: o signatário **não precisa ter uma conta ou ser um usuário ativo 
 
 ***
 
-### Site da plataforma ArqSign
+## Site da plataforma ArqSign
 
 O site da ArqSign ([https://arquivar.com.br/arqsign/](https://arquivar.com.br/arqsign/)) apresenta todas as informações e funcionalidades da plataforma, além das características dos planos de assinatura. Na homepage o usuário também terá acesso à página de login da plataforma e à criação de uma conta teste grátis.
-
-<figure><img src=".gitbook/assets/visao1.gif" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ### Suporte técnico e atendimento ao cliente
 
-Para solicitar suporte ou atendimento, no menu inferior da página, clique em “Suporte”.
+Se precisar de ajuda ou atendimento, é simples:&#x20;
 
-<figure><img src=".gitbook/assets/visao2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+* **Dentro da Plataforma ArqSign:** \
+  No canto inferior esquerdo da tela, clique no ícone de **Chat** para falar diretamente com nosso time.&#x20;
+* **Pelo site da ArqSign:** \
+  Acesse o site oficial e utilize o **ícone do chat ou WhatsApp**, localizado nos cantos inferiores da página, para entrar em contato rapidamente com nossa equipe.&#x20;
 
-O usuário será direcionado para a Central de Ajuda da plataforma, onde poderá pesquisar entre os conteúdos postados a solução para a sua dúvida ou solicitar contato com a equipe de atendimento.
+### Canais de Relacionamento – ArqSign&#x20;
 
-<figure><img src=".gitbook/assets/visao3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+Caso precise de suporte, informações comerciais ou ajuda com a plataforma, fale com a gente por um dos canais abaixo:&#x20;
 
-O contato com a equipe de atendimento poderá ser feito via WhatsApp, chat, e-mail (faleconosco@arqsign.com) ou telefone (4003-8839).
+Suporte ao Cliente:&#x20;
 
-<figure><img src=".gitbook/assets/visao4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+📱 **WhatsApp**: +55 (31) 97119-8269&#x20;
 
-Depois de autenticado, o usuário poderá também contar com o menu de suporte na plataforma, localizado no canto inferior direito da tela.
+☎️ **Telefone**: 4003-8839&#x20;
 
-<figure><img src=".gitbook/assets/visao5.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+📧 **E-mail**: faleconosco@arqsign.com&#x20;
+
+Estamos prontos para te atender com agilidade e eficiência!&#x20;
 
 ***
 
