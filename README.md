@@ -32,16 +32,23 @@ O signatário, pode assinar os documentos através de e-mail, WhatsApp ou sua co
 
 ***
 
-### Usuário e Signatário
+## Usuário e Signatário
 
-Usuário é a pessoa que utiliza a Plataforma ArqSign para enviar, acompanhar fluxo, coletar assinaturas, acessar e gerir documentos. Um usuário tem que estar atrelado à uma conta ou quando ele também tem que assinar um documento ele se torna um signatário.
+### Usuário na Plataforma ArqSign&#x20;
 
-Na plataforma ArqSign um usuário pode ter os seguintes perfis:
+O **usuário** é a pessoa que utiliza a **Plataforma ArqSign** para **enviar documentos, acompanhar processos de assinatura, coletar assinaturas, acessar e gerir arquivos digitais**. Todo usuário precisa estar vinculado a uma **conta ArqSign** e pode, eventualmente, também atuar como **signatário** ao ser designado para assinar um documento.&#x20;
 
-* **Remetente de Documentos:** Usuário sem permissão de acesso às funcionalidades de gestão da plataforma. Seu acesso é focado no envio e gestão de seus documentos.
-* **Administrador Global:** Usuários com permissão de acesso a todas as funcionalidades da plataforma inclusive gestão de pastas e usuários.
+Os usuários podem ser atribuídos com diferentes **perfis de permissão** dentro da plataforma:&#x20;
 
-Signatário é uma pessoa física ou jurídica que participa do processo de assinatura (assina um documento). O signatário não precisa ter conta ou usuário na Plataforma ArqSign para assinar um documento.
+* **Remetente de Documentos:** \
+  Perfil com acesso limitado. Pode enviar documentos e acompanhar suas assinaturas, mas **não possui acesso às configurações de gestão da conta**, como usuários ou pastas.&#x20;
+* **Administrador Global:** \
+  Perfil com acesso total à plataforma. Pode **gerenciar usuários, pastas, configurações da conta**, além de enviar e acompanhar documentos.&#x20;
+
+### Signatário na Plataforma ArqSign&#x20;
+
+O **signatário** é qualquer pessoa física ou jurídica que **participa do processo de assinatura de um documento** na ArqSign. \
+Importante: o signatário **não precisa ter uma conta ou ser um usuário ativo da plataforma** para assinar um documento. Ele recebe o link de assinatura por e-mail ou WhatsApp e pode assinar com ou sem certificado digital, conforme configurado pelo remetente.&#x20;
 
 ***
 
