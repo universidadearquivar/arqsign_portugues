@@ -87,23 +87,19 @@ Estamos prontos para te atender com agilidade e eficiência!&#x20;
 
 ### Plano gratuito
 
-A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas as funcionalidades e recursos da conta paga, incluindo envio de documentos para assinatura com ou sem certificado digital, criação de pastas dedicadas para gestão de documentos, importação de certificado digital ICP-Brasil A1 e integração com outros sistemas. Durante um período de 15 dias o usuário poderá realizar cinco envios de documentos para assinatura de forma gratuita.
+A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas as funcionalidades e recursos da conta paga, incluindo envio de documentos para assinatura com ou sem certificado digital, criação de pastas dedicadas para gestão de documentos, importação de certificado digital ICP-Brasil A1 e integração com outros sistemas. Durante um período de 15 dias o usuário poderá realizar envios de documentos para assinatura de forma gratuita.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Na conta de teste grátis não é permitida a inclusão de outros usuários, ou seja, somente o proprietário pode acessar e gerenciar os documentos enviados e recebidos para assinatura.**</mark>
 
-<mark style="color:orange;">**A criação de conta teste grátis é permitida a qualquer usuário que não possua e-mail cadastrado a outros testes grátis da plataforma ArqSign.**</mark>
+<mark style="color:orange;">**A criação de conta teste grátis é permitida a qualquer usuário que não possua e-mail cadastrado a outras contas testes grátis da plataforma ArqSign.**</mark>
 {% endhint %}
 
 #### Criação de Conta Teste Grátis
 
-1\. Para criar uma conta teste grátis, na página inicial do site da plataforma ArqSign, clique em “Teste Grátis”.
+1\. Para criar uma conta teste grátis, acesse [https://arquivar.com.br/arqsign-conta-teste-gratis/](https://arquivar.com.br/arqsign-conta-teste-gratis/) ou na página inicial do site da plataforma ArqSign, clique em “**Teste Grátis**”.
 
-<figure><img src=".gitbook/assets/compra7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-2\. O usuário será redirecionado para a página de login, onde deverá informar seu e-mail e clicar em “Avançar”.
-
-<figure><img src=".gitbook/assets/compra8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+2\. O usuário será redirecionado para a página de criação de conta teste grátis, onde deverá informar seu e-mail e clicar em “**Começar agora**”.
 
 3\. Depois, deverá informar os dados solicitados:
 
