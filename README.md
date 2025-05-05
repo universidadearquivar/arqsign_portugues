@@ -1,14 +1,18 @@
-# 💻 Visão Geral da Plataforma 2.13.0
+# 💻 Visão Geral da Plataforma 2.14.0
 
 ## Características da plataforma
 
-A ArqSign é uma plataforma para assinaturas eletrônicas que funciona da seguinte forma: o usuário carrega o documento, escolhe os signatários, estabelece as assinaturas e realiza o envio aos envolvidos no processo de assinatura.
+**ArqSign** é uma plataforma completa e segura de **automatização**, **assinatura digital** e **gerenciamento de documentos**, voltada para empresas que buscam automatizar e desburocratizar seus processos com agilidade, conformidade legal e escalabilidade.&#x20;
+
+Com foco em **eficiência operacional e experiência do usuário**, a ArqSign permite a criação, automatização, envio, assinatura, armazenamento e gerenciamento de documentos digitais com validade jurídica e praticidade total.&#x20;
+
+A plataforma se destaca por sua **flexibilidade**, oferecendo **planos sob medida, API aberta, integrações nativas com diversos softwares**, e um time de suporte técnico altamente preparado. &#x20;
+
+É possível assinar usando **certificado digital próprio ou não com 100% de validade jurídica**, enviar documentos por e-mail ou WhatsApp, configurar **processos automatizados** e controlar todo o ciclo de vida do documento em um só lugar.&#x20;
+
+Além disso, a ArqSign é parceira estratégica de empresas de tecnologia e setores como **saúde, jurídico, contabilidade, RH, imobiliário, transporte, serviços, etc.**, oferecendo **APIs robustas** para integrações personalizadas e atendendo a requisitos específicos de cada vertical de mercado.&#x20;
 
 O usuário pode acessar os documentos enviados e recebidos para assinatura a qualquer hora, de qualquer lugar, em qualquer dispositivo – celular, computador, tablet – sem perder a segurança e a criptografia dos dados, conforme a LGPD (Lei Geral de Proteção de Dados).
-
-A ArqSign conta com a implementação de API (Interface de Programação de Aplicações), permitindo que o usuário integre sua Assinatura Eletrônica e Digital de Documentos às soluções de sua empresa.
-
-A principal funcionalidade da plataforma ArqSign é oferecer aos usuários a possibilidade de enviar, gerenciar, coletar e assinar documentos digitalmente, por meio de assinaturas eletrônicas ou certificados digitais.
 
 O signatário, pode assinar os documentos através de e-mail, WhatsApp ou sua conta ArqSign caso tenha.
 
@@ -19,11 +23,11 @@ O signatário, pode assinar os documentos através de e-mail, WhatsApp ou sua co
 
 <mark style="color:blue;">Assinatura digital é aquela que precisa de um certificado digital. É mais utilizada para emissão de notas fiscais e para transações com o governo.</mark>
 
-<mark style="color:blue;">Na Plataforma Arqsign, ao configurar um fluxo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:</mark>
+<mark style="color:blue;">Na Plataforma ArqSign, ao configurar um fluxo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:</mark>
 
-<mark style="color:blue;">a) Assinatura eletrônica: A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Sempre que um signatário assina um documento de forma eletrônica a Arqsign aplica um certificado digital próprio da plataforma, capturando o Hash (identificação única) do arquivo, verificando a integridade do arquivo e anexando ao certificado a identificação do signatário.</mark>
+<mark style="color:blue;">a) Assinatura eletrônica: A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Sempre que um signatário assina um documento de forma eletrônica a ArqSign aplica um certificado digital próprio da plataforma, capturando o Hash (identificação única) do arquivo, verificando a integridade do arquivo e anexando ao certificado a identificação do signatário.</mark>
 
-<mark style="color:blue;">b) Assinatura digital – ICP-Brasil ou ICP Outros: A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Quando o usuário já possui um certificado digital e deseja utilizá-lo para realizar a assinatura por meio da ArqSign, este certificado é utilizado para verificar a integridade da assinatura e identificar o usuário como signatário no documento.</mark>
+<mark style="color:blue;">b) Assinatura digital – ICP-Brasil: A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Quando o usuário já possui um certificado digital e deseja utilizá-lo para realizar a assinatura por meio da ArqSign, este certificado é utilizado para verificar a integridade do documento e identificar o usuário como signatário nas propriedades do arquivo.</mark>
 {% endhint %}
 
 ***
