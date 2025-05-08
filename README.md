@@ -147,17 +147,11 @@ Caso ele ainda não possua conta, deve clicar no link “[Cadastre-se gratuitame
 
 ### Esqueci minha senha
 
-Caso o usuário esqueça sua senha, basta clicar em “Esqueci minha senha”.
-
-<figure><img src=".gitbook/assets/login3.png" alt=""><figcaption></figcaption></figure>
+Caso o usuário esqueça sua senha, basta clicar em “Esqueceu sua senha?”.
 
 Na tela de recuperação de senha, o usuário deverá informar o mesmo e-mail utilizado para acesso à plataforma e clicar em “Recuperar”.
 
-<figure><img src=".gitbook/assets/login2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
 O usuário receberá por e-mail um link no qual deverá clicar para definir uma nova senha.
-
-<figure><img src=".gitbook/assets/login4.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -165,15 +159,15 @@ O usuário receberá por e-mail um link no qual deverá clicar para definir uma 
 
 Ao acessar sua conta, a tela inicial do usuário apresentará no menu superior os seguintes botões:
 
-**Novo Documento:** Clicando neste botão o usuário poderá cadastrar um documento que será enviado a signatários para assinatura.
+**Novo Processo:** Clicando neste botão o usuário poderá configurar um processo com automatizações, envio e assinatura de um ou mais documentos com quantos signatários precisar.
 
-**Assinatura em Lote:** Clicando neste botão o usuário poderá visualizar e assinar em lote todos os documentos que recebeu e estão pendentes de assinatura.
+**Assinatura em Lote:** Clicando neste botão o usuário poderá visualizar e assinar em lote todos os processos que recebeu e estão pendentes de assinatura.
 
-**Vencidos:** Clicando neste botão o usuário poderá visualizar todos os documentos que ele enviou a outras pessoas para assinatura, mas que não foram assinados no prazo e expiraram. Aqui ele poderá fazer o reenvio desses documentos.
+**Vencidos:** Clicando neste botão o usuário poderá visualizar todos os processos que ele enviou a outras pessoas para assinatura, mas que não foram assinados no prazo e expiraram. Aqui ele poderá fazer o reenvio desses processos.
 
 **Comprar Agora / Alterar Plano:** Os botões “Comprar Agora” ou “Alterar Plano” serão exibidos para usuários que possuem uma conta de teste grátis ou para usuários que possuam plano pago expirado ou próximo da data de expiração. O botão “Comprar Agora” será exibido para usuários com a assinatura do plano expirada. O botão “Alterar Plano” será exibido para usuários com assinatura de plano pago com data de vencimento próxima (30 dias antes da expiração de planos anuais e 10 dias antes da expiração de planos mensais).
 
-**Comprar Créditos:** Em contas que estão com o plano vigente será exibido o botão “Comprar Créditos”, no qual o usuário poderá adquirir créditos para envio de documentos por e-mail, WhatsApp e SMS, de acordo com o tipo de plano da conta.
+**Comprar Créditos:** Em contas que estão com o plano vigente será exibido o botão “Comprar Créditos”, no qual de acordo com o tipo de plano da conta o usuário poderá adquirir créditos para processos extras ou créditos de mensagens para envio de processos por WhatsApp ou crédito de mensagem para envio de token por WhatsApp ou SMS.
 
 **Perfil do usuário:** Clicando neste menu o usuário terá acesso a informações de sua conta.
 
@@ -185,15 +179,15 @@ Ao acessar sua conta, a tela inicial do usuário apresentará no menu superior o
 
 Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. 
 
-**Caixa Postal:** Neste grupo estão concentrados os menus referentes ao processo de tramitação dos documentos. 
+**Caixa Postal:** Neste grupo estão concentrados os menus referentes à tramitação dos processos de assinatura.
 
-**Diretórios:** Neste grupo temos o menu Documentos. Ele é considerado um repositório de armazenamento dos documentos tramitados pela plataforma, ou seja, aqui são encontrados todos os documentos com processo de assinatura concluído. 
+**Processos:** Neste grupo temos o menu Pastas. Ele é um repositório de armazenamento dos processos tramitados pela plataforma, ou seja, aqui são armazenados todos os documentos com processo de assinatura concluído. 
 
 **Administração:** Neste grupo temos as configurações de conta, usuários e grupo de usuários.  
 
 <figure><img src=".gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
 
-No canto inferior direito da tela o usuário encontrará o menu de Suporte, onde poderá acessar ao tutorial demonstrativo de como enviar e assinar um documento, acessar ao Perguntas Frequentes sobre o uso da plataforma, aprender a verificar a validade jurídica de um documento e acessar os conteúdos sobre as novidades da Plataforma.
+No canto inferior direito da tela o usuário encontrará o menu de “Preciso de ajuda”, onde poderá acessar o tutorial demonstrativo de como enviar e assinar um documento, acessar ao Perguntas Frequentes sobre e manual para uso da plataforma, aprender a verificar a validade jurídica de um documento e acessar os conteúdos sobre as novidades da Plataforma.
 
 <figure><img src=".gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
