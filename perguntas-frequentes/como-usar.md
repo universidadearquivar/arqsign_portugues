@@ -8,15 +8,15 @@
 
 Acesse a plataforma de Assinatura e configure a sua Assinatura Eletrônica.
 
-Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos: Caixa Postal, Diretórios e Administração. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. Clique na imagem para ampliar.
+Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos: Caixa Postal, Processos e Administração. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. Clique na imagem para ampliar.
 
 ![](<../.gitbook/assets/image (140).png>)
 
-**CAIXA POSTAL:** Neste grupo estão concentrados os menus referentes ao processo de tramitação dos documentos. Clique na imagem para ampliar.
+**CAIXA POSTAL:** Neste grupo estão concentrados os menus referentes á tramitação dos processos.
 
 ![](<../.gitbook/assets/image (141).png>)
 
-**DIRETÓRIOS:** Neste grupo temos o menu Documentos. Ele é considerado um repositório de armazenamento dos documentos tramitados pela plataforma, ou seja, aqui são encontrados todos os documentos com processo de assinatura concluído. Clique na imagem para ampliar.
+**PROCESSOS:** Neste grupo temos o menu Pastas. Ele é um repositório de armazenamento dos processos tramitados pela plataforma. O restante idem.
 
 ![](<../.gitbook/assets/image (142).png>)
 
