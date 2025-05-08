@@ -101,34 +101,10 @@ A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas 
 
 2\. O usuário será redirecionado para a página de criação de conta teste grátis, onde deverá informar seu e-mail e clicar em “**Começar agora**”.
 
-3\. Depois, deverá informar os dados solicitados:
-
-* **Nome completo:** Informe o nome completo
-* **Telefone:** Número de telefone com DDD
-* **Segmento:** Selecione o segmento que a empresa ou o profissional dono da conta atua.
-* **Estou testando o ArqSign para:** Selecione o objetivo do teste que será feito da plataforma ArqSign.
-* **Senha:** Crie uma senha obedecendo aos requisitos mínimos de segurança (mínimo de oito caracteres, contendo pelo menos uma letra maiúscula, uma letra minúscula, um número e um caractere especial)
-
-<figure><img src=".gitbook/assets/compra9.png" alt=""><figcaption></figcaption></figure>
-
-4\. Para concluir, clique em “Começar meu Teste Grátis”. Será exibida uma mensagem de confirmação de criação da conta. Para acessar a plataforma, clique no link indicado.
-
-<figure><img src=".gitbook/assets/compra10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-5\. O usuário receberá dois e-mails da plataforma. O primeiro apresentará orientações sobre a utilização do teste grátis.
-
-<figure><img src=".gitbook/assets/compra11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-6\. No segundo e-mail o usuário receberá o link para ativação da conta, no qual deverá clicar para realizar o primeiro acesso.
-
-<figure><img src=".gitbook/assets/compra12.png" alt=""><figcaption></figcaption></figure>
-
-7\. O usuário será direcionado para a tela de login, na qual deverá informar a senha criada anteriormente, no momento do cadastro, e clicar em “Entrar” para realizar o primeiro acesso.
-
-<figure><img src=".gitbook/assets/compra13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+3\. Depois, deverá informar os dados solicitados e criar senha, obedecendo aos requisitos mínimos de segurança (mínimo de oito caracteres, contendo pelo menos uma letra maiúscula, uma letra minúscula, um número e um caractere especial) e clicar em “Começar agora” e depois em “Acessar minha conta”.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Ao término do período de 30 dias de teste ou após consumir os dez envios gratuitos, o usuário poderá continuar acessando a plataforma normalmente, mas para realizar novos envios deverá adquirir um plano pago (para realizar novos envios por e-mail) ou comprar créditos extras (para envios via WhatsApp e SMS).**</mark>
+<mark style="color:orange;">**Ao término do período de teste, o usuário poderá continuar acessando a plataforma normalmente, mas para realizar novos processos deverá adquirir um plano.**</mark>
 {% endhint %}
 
 ***
