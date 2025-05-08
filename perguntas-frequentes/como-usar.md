@@ -32,7 +32,7 @@ Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos
 
 1\. O processo de assinatura em lote também pode ser realizado diretamente pelo celular, e ocorre da mesma forma como na plataforma.
 
-2\. A opção de “Assinatura em Lote” é apresentada, assim como a lista de documentos pendentes de assinatura para seleção. Feita a seleção dos documentos, clique no ícone “Assinatura em Lote”.
+2\. A opção de “Assinatura em Lote” é apresentada, assim como a lista de processos pendentes de assinatura para seleção. Feita a seleção dos processos, clique no ícone “Assinatura em Lote”.
 
 ![](<../.gitbook/assets/image (144).png>)
 
@@ -52,7 +52,7 @@ Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos
 
 ![](<../.gitbook/assets/image (148).png>)
 
-7. Concluído o processo de assinatura por todos os responsáveis, o documento final pode ser consultado no ArqGED, pois ele será mantido no fluxo.
+7. Concluído o processo de assinatura por todos os responsáveis, o documento final pode ser consultado na ArqSign, pois ele será mantido no processo.
 
 </details>
 
@@ -60,12 +60,12 @@ Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos
 
 <summary>Como assinar documentos pela plataforma ArqSign?</summary>
 
-Se você recebeu um documento para assinatura, clique no link de acesso ao documento disponível na mensagem que recebeu ou se você tem uma conta ArqSign pode acessar o documento através de sua Caixa de entrada clicando em Assinar. &#x20;
+Se você recebeu documento(s) para assinatura, clique no link de acesso ao(s) documento(s) disponível na mensagem que recebeu ou se você tem uma conta ArqSign pode acessar o processo através de sua Caixa de entrada clicando em Assinar. &#x20;
 
-1. O documento será exibido para leitura.&#x20;
+1. O(s) documento(s) será(ão) exibido(s) para leitura.&#x20;
 2. Após a leitura, clique em Assinar.&#x20;
 3. Caso solicitado, preencha seus dados como Nome e documento. &#x20;
-4. Caso solicitado, anexe documento.&#x20;
+4. Caso solicitado, anexe documento(s).&#x20;
 5. Aplique a representação visual de sua assinatura com um dos estilos de assinatura: Padrão (seu nome escrito), Desenho (assinatura manuscrita) ou Imagem (upload da imagem/foto de sua assinatura). &#x20;
 6. Clique em Concluir&#x20;
 
