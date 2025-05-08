@@ -1,4 +1,4 @@
-# 📁 Documentos
+# 📁 Pastas
 
 No menu Documentos ficam armazenados todos os documentos da conta do usuário que já foram concluídos, ou seja, foram enviados pelo usuário ou por algum dos membros que fazem parte da conta e já foram assinados por todos os signatários envolvidos no processo de assinatura. Neste menu é possível realizar o gerenciamento da armazenagem desses documentos.&#x20;
 
@@ -116,7 +116,7 @@ A Barra de Pesquisa permite que você busque documentos ou pastas de forma prát
 > **Campos de data:**\
 > Os campos de data têm um funcionamento específico. Eles apresentam períodos pré-definidos (conforme a imagem abaixo), mas também oferecem a opção de buscar por um **período personalizado**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Uso do período personalizado**
 >
