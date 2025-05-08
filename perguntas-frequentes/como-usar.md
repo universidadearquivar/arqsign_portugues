@@ -10,19 +10,19 @@ Acesse a plataforma de Assinatura e configure a sua Assinatura Eletrônica.
 
 Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos: Caixa Postal, Processos e Administração. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. Clique na imagem para ampliar.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **CAIXA POSTAL:** Neste grupo estão concentrados os menus referentes á tramitação dos processos.
 
-![](<../.gitbook/assets/image (141).png>)
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **PROCESSOS:** Neste grupo temos o menu Pastas. Ele é um repositório de armazenamento dos processos tramitados pela plataforma. O restante idem.
 
-![](<../.gitbook/assets/image (142).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **ADMINISTRAÇÃO:** Neste grupo temos as configurações de conta, usuários e grupo de usuários.
 
-![](<../.gitbook/assets/image (143).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </details>
 
