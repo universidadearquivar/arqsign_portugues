@@ -13,7 +13,7 @@ Para verificar se um documento eletrônico ou digital tem validade jurídica con
 3. Concorde com os termos de uso e política de privacidade do Portal Validar ITI;
 4. Clique em Validar.
 
-Caso o arquivo não contenha nenhuma assinatura aplicada ou contenha assinatura não reconhecida ou corrompida a seguinte mensagem é apresentada: “Assinatura Aprovada”. Um relatório de conformidade será apresentado com o detalhamento de cada assinatura e sua validade. &#x20;
+Caso o arquivo não contenha nenhuma assinatura aplicada ou contenha assinatura não reconhecida ou corrompida a seguinte mensagem é apresentada: “Você submeteu um documento sem assinatura reconhecível ou com assinatura corrompida”.
 
 Caso o arquivo contenha assinatura válida a seguinte mensagem é apresentada: “Documento com assinaturas válidas”. Um relatório será apresentado com o detalhamento de cada assinatura e sua validade.&#x20;
 
@@ -23,7 +23,7 @@ Caso o arquivo contenha assinatura válida a seguinte mensagem é apresentada: �
 
 <summary>Assinando eletronicamente, não preciso assinar fisicamente?</summary>
 
-Um documento digital assinado pela ArqSign adquire validade jurídica, não sendo necessário gerar cópia física para inserir assinaturas.
+Ao assinar eletronicamente com a ArqSign, não é necessário imprimir o documento para coletar assinaturas físicas. A assinatura digital garante validade jurídica ao arquivo digital, dispensando cópias em papel.
 
 </details>
 
@@ -39,7 +39,7 @@ Tudo dependerá da plataforma escolhida para a realização da assinatura. Com
 
 <summary>Quais são os benefícios e vantagens da assinatura eletrônica?</summary>
 
-Os benefícios são diversos, desde assinar um documento em minutos, menor custo com impressões, motoboys, correios, armazenagem, até menos risco jurídico, pois evita a falsificação e adulteração. Há também o ganho de produtividade, pois diminui a burocracia e economiza tempo dos signatários. Sem falar da inovação e sustentabilidade.
+Os benefícios são diversos, desde assinar um documento em minutos, menor custo com impressões, motoboys, correios, armazenagem, até menos riscos jurídicos, pois evita a falsificação e adulteração. Há também o ganho de produtividade, pois, automatiza o processo, diminui a burocracia e economiza tempo dos signatários. Sem falar da inovação e sustentabilidade.
 
 </details>
 
@@ -69,11 +69,11 @@ A Plataforma ArqSign está apta a gerar Assinaturas Avançadas e Qualificadas, c
 
 <summary>Qual a diferença entre assinatura digital e eletrônica?</summary>
 
-De forma simples, toda assinatura executada através de um mecanismo eletrônico e que identifica quem a executou é uma assinatura eletrônica.&#x20;
+De forma simples, toda assinatura executada através de um mecanismo eletrônico e que identifica quem a executou é uma assinatura eletrônica. &#x20;
 
-No Brasil culturalmente definimos que uma assinatura executada de forma eletrônica com certificado digital é chamada de assinatura digital e quando executada de forma eletrônica sem certificado digital é chamada de assinatura eletrônica.&#x20;
+No Brasil culturalmente definimos que uma assinatura executada de forma eletrônica com certificado digital próprio é chamada de assinatura digital e quando executada de forma eletrônica sem certificado digital próprio é chamada de assinatura eletrônica. &#x20;
 
-A assinatura eletrônica é mais utilizada para assinatura entre empresas, empresas e clientes, profissionais e pacientes etc.&#x20;
+A assinatura eletrônica é mais utilizada para assinatura entreempresas e clientes, profissionais e clientes ou pacientes etc. &#x20;
 
 A assinatura digital é mais utilizada para assinatura e transações que envolvem órgãos governamentais.&#x20;
 
@@ -83,7 +83,7 @@ A assinatura digital é mais utilizada para assinatura e transações que envolv
 
 <summary>O que é assinatura digital?</summary>
 
-No Brasil, dizemos que a Assinatura Digital é um tipo de assinatura eletrônica feita utilizando-se um certificado digital ICP-Brasil que é como se fosse uma identidade do mundo virtual.&#x20;
+No Brasil, dizemos que a Assinatura Digital é um tipo de assinatura eletrônica feita utilizando-se um certificado digital ICP-Brasil próprio que é como se fosse uma identidade do mundo virtual.&#x20;
 
 Se diferencia das demais assinaturas eletrônicas por usar criptografia e vincular o certificado digital ao documento eletrônico que está sendo assinado.&#x20;
 
