@@ -10,7 +10,7 @@ Acesse a plataforma de Assinatura e configure a sua Assinatura Eletrônica.
 
 Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos: Caixa Postal, Processos e Administração. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. Clique na imagem para ampliar.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **CAIXA POSTAL:** Neste grupo estão concentrados os menus referentes á tramitação dos processos.
 
