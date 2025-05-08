@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>Quero integrar a minha Conta Clínica nas Nuvens com a Plataforma ArqSign para assinatura de documentos de forma digital. Como devo proceder?</summary>
+<summary>Quero integrar a minha Conta do "Clínica nas Nuvens" com a "Plataforma ArqSign" para assinatura de documentos de forma digital. Como devo proceder?</summary>
 
 Através da parceria entre a Clínica nas nuvens e ArqSign, as soluções são conectáveis automaticamente bastando apenas você seguir os seguintes passos:
 
@@ -19,7 +19,7 @@ Através da parceria entre a Clínica nas nuvens e ArqSign, as soluções são c
    3. ID Usuário&#x20;
    4.  ID Pasta&#x20;
 
-       Você deve capturar estas informações no seguintes locais:
+       Você deve capturar estas informações nos seguintes locais:
    5.
 
        <figure><img src="../.gitbook/assets/image (349).png" alt="" width="249"><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
