@@ -111,17 +111,17 @@ A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas 
 
 ### Planos pagos
 
-Ao contratar um plano ArqSign, você terá acesso a um número de envios de acordo com cada plano. Os envios contemplados no plano podem ser feitos por e-mail ou WhatsApp.
+Ao contratar um plano ArqSign, você terá acesso a um número de **processos** de assinatura de acordo com cada plano. Os processos de assinatura contemplados no plano podem ser enviados por e-mail ou WhatsApp.
 
-Para envio de fluxos via WhatsApp, é necessário que a conta tenha a disponibilidade de envios e de créditos para WhatsApp já que neste caso, é por meio de uma integração com o WhatsApp Oficial é feito o envio do fluxo. Para contratar créditos de WhatsApp, depois de autenticado na plataforma acesse o menu “Comprar Créditos”. A cobrança será por envio de mensagem. No envio de um fluxo são gastos por signatário duas mensagens (uma para envio do documento para assinatura e uma para envio do documento assinado ao final do processo).
+Para envio de processos via WhatsApp, é necessário que a conta tenha a disponibilidade de processos e de créditos para WhatsApp já que neste caso, é por meio de uma integração com o WhatsApp Oficial é feito o envio do processo. Para contratar créditos de WhatsApp, depois de autenticado na plataforma acesse o menu “Comprar Créditos”. A cobrança será por mensagem. No envio de um processo são gastos por signatário duas mensagens (uma para envio do processo para assinatura e uma para envio do documento assinado ao final do processo).
 
-Para envio de fluxos via e-mail é necessário que a conta tenha disponibilidade de envios, já que a própria Plataforma ArqSign executa o envio do fluxo. Caso os envios contemplados no plano do usuário se esgotem, ele também poderá adquirir créditos extras de envio por e-mail acessando o menu “Comprar Créditos”, depois de autenticado na plataforma.
+Para envio de processos via e-mail é necessário que a conta tenha disponibilidade de processos, já que a própria Plataforma ArqSign executa o envio do processo. Caso os processos contemplados no plano do usuário se esgotem, ele também poderá adquirir créditos extras de processos acessando o menu “Comprar Créditos”, depois de autenticado na plataforma.
 
-Todos os planos pagos possuem as mesmas funcionalidades. A única diferença está no número de envios de cada pacote e a disponibilização entre planos anuais e mensais.
+Todos os planos pagos possuem as mesmas funcionalidades. A única diferença está no número de processos de cada pacote e a disponibilização entre planos anuais e mensais.
 
 #### Cobrança dos planos pagos
 
-A base de cobrança de cada plano é o serviço de envio de um fluxo para assinatura. Um envio de um fluxo, pode conter vários arquivos e assinaturas e ainda assim, será descontado apenas um envio do plano.
+A base de cobrança de cada plano é o processo de assinatura. Um processo, pode conter vários arquivos e assinaturas e ainda assim, será descontado apenas um processo do plano.
 
 Para os planos mensais, você paga uma mensalidade ao contratar o plano e já começa a utilizar a ferramenta. Mensalmente no mesmo dia da compra haverá o faturamento da mensalidade automaticamente no mesmo cartão, a não ser que você desabilite a renovação automática.
 
