@@ -54,7 +54,7 @@ Importante: o signatário **não precisa ter uma conta ou ser um usuário ativo 
 
 ## Site da plataforma ArqSign
 
-O site da ArqSign ([https://arquivar.com.br/arqsign/](https://arquivar.com.br/arqsign/)) apresenta todas as informações e funcionalidades da plataforma, além das características dos planos de assinatura. Na homepage o usuário também terá acesso à página de login da plataforma e à criação de uma conta teste grátis.
+O site da [ArqSign ](https://arquivar.com.br/arqsign/)apresenta todas as informações e funcionalidades da plataforma, além das características dos planos de assinatura. Na homepage o usuário também terá acesso à página de login da plataforma e à criação de uma conta teste grátis.
 
 ***
 
@@ -129,17 +129,11 @@ Para os planos anuais há opção de aquisição em até 12 parcelas sem juros n
 
 #### Comprando um plano
 
-1\. Para adquirir um plano, na página inicial do site da ArqSign, clique em “Planos e Preços” no menu superior.
-
-<figure><img src=".gitbook/assets/visao6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+1\. Para adquirir um plano, na página inicial do site da [ArqSign](https://arquivar.com.br/arqsign/), clique em “Planos e Preços” no menu superior.
 
 2\. Serão apresentadas as características e preços de cada um dos planos. Clique em “Começar Agora” no plano que deseja adquirir.
 
-<figure><img src=".gitbook/assets/visao7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
 3\. O usuário será direcionado para a página de finalização de compra, na qual serão apresentadas as informações sobre o plano escolhido. Ele deverá inserir os dados de faturamento e de pagamento e clicar em “Finalizar a compra”.
-
-<figure><img src=".gitbook/assets/visao8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 4\. Depois de feito o pagamento, o usuário receberá por e-mail o link para ativação da conta, no qual deverá clicar para realizar o primeiro acesso.
 
@@ -147,13 +141,9 @@ Para os planos anuais há opção de aquisição em até 12 parcelas sem juros n
 
 ## Página de login (autenticação) na plataforma ArqSign
 
-A página de login da plataforma ArqSign solicita o e-mail e senha cadastrados pelo usuário na criação de sua conta.
+A página de login da plataforma [ArqSign ](https://app.arqsign.com/auth/login)solicita o e-mail e senha cadastrados pelo usuário na criação de sua conta.
 
-Caso ele ainda não possua conta, deve clicar no link “Cadastre-se aqui”.
-
-<figure><img src=".gitbook/assets/login1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-Será oferecido ao usuário a [criação de uma conta teste grátis](./#criacao-de-conta-teste-gratis). Para criar essa conta ele deverá informar seu e-mail e clicar em “Avançar”.
+Caso ele ainda não possua conta, deve clicar no link “[Cadastre-se gratuitamente](https://arquivar.com.br/arqsign-conta-teste-gratis/)” para criar sua conta teste grátis.
 
 ### Esqueci minha senha
 
