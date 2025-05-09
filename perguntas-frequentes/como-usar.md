@@ -111,6 +111,10 @@ Nesta aba é possível manter uma lista com os contatos mais usados na plataform
 
 ![](<../.gitbook/assets/image (152).png>)
 
+**Importação - Aba "Meus Contatos"**
+
+Além da opção de adicionar novos contatos manualmente, o sistema também permite a importação de dados por meio de um arquivo no formato CSV. ![](<../.gitbook/assets/image (365).png>)
+
 **Aba “Estilo de Assinatura”**
 
 1\. Nesta aba realize o cadastro das assinaturas que usará nos processos de assinatura de documentos. Clique em “Editar” para habilitar os campos.
@@ -132,6 +136,8 @@ Nesta aba é possível manter uma lista com os contatos mais usados na plataform
 ![](<../.gitbook/assets/image (155).png>)
 
 </details>
+
+<figure><img src="../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
