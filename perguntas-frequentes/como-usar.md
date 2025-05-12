@@ -115,6 +115,13 @@ Nesta aba é possível manter uma lista com os contatos mais usados na plataform
 
 Além da opção de adicionar novos contatos manualmente, o sistema também permite a importação de dados por meio de um arquivo no formato CSV. ![](<../.gitbook/assets/image (365).png>)
 
+1. Ao clicar no ícone de importação, clique em **Baixar planilha modelo** para fazer o download de um arquivo CSV em branco.&#x20;
+2. Este é o modelo que deve ser utilizado para a importação.
+3. Preencha o arquivo conforme as orientações:
+   * **Campo "Compartilhado"**: Preencha com **1** para indicar "Sim" ou **0** para indicar "Não". Qualquer valor diferente será considerado como "0".
+   * **Campo "Telefone"**: Deve ser informado no padrão internacional, com **DDI + DDD + número**. Exemplo: `553198766871`.
+   * **Campos "E-mail" e "Telefone" preenchidos**: Caso ambos sejam preenchidos, o contato será importado duas vezes. Para importar apenas uma vez, preencha apenas um dos campos.
+
 **Aba “Estilo de Assinatura”**
 
 1\. Nesta aba realize o cadastro das assinaturas que usará nos processos de assinatura de documentos. Clique em “Editar” para habilitar os campos.
@@ -136,8 +143,6 @@ Além da opção de adicionar novos contatos manualmente, o sistema também perm
 ![](<../.gitbook/assets/image (155).png>)
 
 </details>
-
-<figure><img src="../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
