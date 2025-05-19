@@ -251,7 +251,7 @@ _Segunda forma:_&#x20;
 1. Acesse o menu “Meu Perfil”&#x20;
 2. Acesse a opção “Meus contatos”&#x20;
 3. Para inserir um contato, clique no botão +, insira os dados, escolha se quer compartilhar o contato com todos os usuários da conta e clique em Salvar.&#x20;
-4. Para que que todos os contatos para os quais você enviar um documento para assinatura a partir de agora sejam automaticamente salvos, habilite o botão “Salvar os destinatários de um documento enviado para assinatura em minha lista de contatos”.&#x20;
+4. Para que que todos os contatos para os quais você enviar um Processo para assinatura a partir de agora sejam automaticamente salvos, habilite o botão “Salvar os destinatários de um Processo enviado para assinatura em minha lista de contatos”.&#x20;
 
 O Nome e o E-mail/WhatsApp do(s) destinatário(s) será(ão) salvo(s) como contato(s) do usuário na conta. Os contatos terão relação com a conta em que o usuário está logado. Ou seja, quando este usuário logar em outra conta, os contatos serão diferentes.&#x20;
 
@@ -295,7 +295,7 @@ b) O **Hash** do documento (comprovação de integridade do documento);
 
 c) Informações sobre o **Remetente, data de criação e envio**;
 
-d) **Status** do documento, **tamanho**, **quantidade de páginas e assinaturas**;
+d) **Status** do Processo, **tamanho**, **quantidade de páginas e assinaturas**;
 
 e) **QRCode** que dá **acesso ao documento na Plataforma ArqSign**\*;
 
@@ -338,25 +338,25 @@ II. Assinatura Online – por qual signatário, data e hora, IP e Geolocalizaç�
 
 <details>
 
-<summary>Como pesquisar um documento na plataforma ArqSign?</summary>
+<summary>Como pesquisar um Processo na plataforma ArqSign?</summary>
 
-Localizar um documento na Plataforma ArqSign é super prático, basta seguir as instruções abaixo:&#x20;
+Localizar um Processo na Plataforma ArqSign é super prático, basta seguir as instruções abaixo:&#x20;
 
-Primeiro, encontre a Caixa onde o documento está localizado. Todas as caixas (Caixa de entrada, Enviados, Rascunhos, Excluídos, Renovações) têm a funcionalidade de pesquisa, que aparece como “Filtrar”. &#x20;
+Primeiro, encontre a Caixa onde o processo está localizado. Todas as caixas (Caixa de entrada, Enviados, Rascunhos, Excluídos, Renovações) têm a funcionalidade de pesquisa, que aparece como “Filtrar”. &#x20;
 
 Clique no campo “Filtrar”. &#x20;
 
 As opções de pesquisa serão exibidas. &#x20;
 
-Insira as informações de pesquisa nos campos desejados, como o nome do signatário, status, pasta do documento ou data de conclusão. &#x20;
+Insira as informações de pesquisa nos campos desejados, como o nome do signatário, status, pasta do Processo ou data de conclusão. &#x20;
 
 Clique em “Filtrar”. &#x20;
 
-Todos os documentos correspondentes às informações inseridas nos filtros serão exibidos. &#x20;
+Todos os Processos correspondentes às informações inseridas nos filtros serão exibidos. &#x20;
 
 Para cancelar o filtro, basta clicar no “X” que aparece no canto direito do campo “Filtrar”. &#x20;
 
-Vi como é fácil? Agora você pode localizar seus documentos na Plataforma ArqSign de forma rápida e eficiente! &#x20;
+Vi como é fácil? Agora você pode localizar seus Processo na Plataforma ArqSign de forma rápida e eficiente! &#x20;
 
 </details>
 
