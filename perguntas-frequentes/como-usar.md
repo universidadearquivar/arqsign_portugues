@@ -1168,12 +1168,12 @@ Consulte o plano contratado, período do plano, data de assinatura, data de venc
 
 <details>
 
-<summary>Como cancelar um documento ou fluxo enviado?</summary>
+<summary>Como cancelar processos enviados?</summary>
 
-O cancelamento de um documento ou fluxo pode ser feito enquanto ele ainda não foi concluído. Para isso siga o seguinte passo a passo:&#x20;
+O cancelamento de um Processo ou fluxo pode ser feito enquanto ele ainda não foi concluído. Para isso siga o seguinte passo a passo:&#x20;
 
 1. Acesse o menu de Enviados;
-2. Localize o documento, fluxo que deseja cancelar;
+2. Localize o Processo que deseja cancelar;
 3. Clique em Histórico;
 4. Clique em Cancelar;
 5. Confirme o cancelamento clicando em Sim.
@@ -1185,15 +1185,15 @@ O cancelamento de um documento ou fluxo pode ser feito enquanto ele ainda não f
 <summary>Como editar, corrigir ou alterar o e-mail do signatário?</summary>
 
 1. Acesse a caixa de enviados;
-2. Localize o documento, fluxo que deseja editar, corrigir ou alterar o e-mail do signatário;&#x20;
+2. Localize o Processo que deseja editar, corrigir ou alterar o e-mail do signatário;&#x20;
 3. Clique sobre o botão de Reenviar;
 4. Clique em Editar;
 5. Faça a alteração necessária;
 6. Clique em Reenviar. &#x20;
 
-Quando a data limite para assinatura do documento, fluxo estiver vencida, o reenvio é feito para todos os signatários pendentes de assinatura na ordem atual.&#x20;
+Quando a data limite para assinatura do Processo estiver vencida, o reenvio é feito para todos os signatários pendentes de assinatura na ordem atual.&#x20;
 
-Se a data limite para assinatura do documento, fluxo não estiver vencida o usuário poderá editar e reenviar o documento para um ou mais signatários pendentes de assinatura na ordem atual.&#x20;
+Se a data limite para assinatura do Processo não estiver vencida o usuário poderá editar e reenviá-lo para um ou mais signatários pendentes de assinatura na ordem atual.&#x20;
 
 [Clique aqui](https://youtu.be/1IMOZE11RaQ) e assista ao vídeo com o passo a passo.
 
