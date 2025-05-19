@@ -1270,13 +1270,13 @@ a) Administrador Global (acesso a todas as funcionalidades – envio, recebiment
 
 ou
 
-b) Remetente de Documentos (apenas envia e assina documentos).
+b) Remetente de Processos (apenas envia e assina Processos).
 
 Clique em Salvar.
 
 Ao incluir o usuário, será enviado uma mensagem de confirmação no e-mail informado para conclusão do cadastro.
 
-Ao criar um usuário com o perfil Remetente de documentos, o ideal é já definir a que grupo de usuários esse usuário pertence. Saiba mais sobre Grupo de Usuários [clicando aqui.](../administracao/administracao/grupo-de-usuarios.md)
+Ao criar um usuário com o perfil Remetente de Processos, o ideal é já definir a que grupo de usuários esse usuário pertence. Saiba mais sobre Grupo de Usuários [clicando aqui.](../administracao/administracao/grupo-de-usuarios.md)
 
 </details>
 
@@ -1297,13 +1297,13 @@ Ao criar um usuário com o perfil Remetente de documentos, o ideal é já defini
 
 <details>
 
-<summary>Um usuário pode ver os fluxos de outro usuário?</summary>
+<summary>Um usuário pode ver os Processos de outro usuário?</summary>
 
-Os usuários com o perfil Remetente de documentos visualizam apenas os documentos dos fluxos que criou.&#x20;
+Os usuários com o perfil Remetente de Processos visualizam apenas os Processos que criou.&#x20;
 
-Para que esse perfil de usuário possa ter acesso compartilhado aos documentos de outros usuários, deve ser utilizada a funcionalidade de diretórios. &#x20;
+Para que esse perfil de usuário possa ter acesso compartilhado aos Processos de outros usuários, deve ser utilizada a funcionalidade de diretórios. &#x20;
 
-Caso queira conhecer a funcionalidade de Diretórios, [clique aqui](../processos/documentos/).
+Caso queira conhecer a funcionalidade de Pastas, [clique aqui](../processos/documentos/).
 
 </details>
 
@@ -1351,9 +1351,9 @@ Você pode enviar mais de um arquivo de uma vez desde que o tamanho total da som
 
 <details>
 
-<summary>Como enviar um documento para assinatura?</summary>
+<summary>Como enviar um Processo para assinatura?</summary>
 
-Acesse a plataforma ArqSign e clique no botão de ‘’Novo Documento’’.&#x20;
+Acesse a plataforma ArqSign e clique no botão de ‘’Novo Processo’’.&#x20;
 
 Selecione e faça o upload de arquivos de até 35MB.&#x20;
 
@@ -1367,13 +1367,13 @@ Quando este campo estiver desmarcado, a ArqSign exibe os arquivos desagrupados n
 
 No campo “Nome do Processo de Assinatura”, é possível editar o nome do processo que contempla os arquivos agrupados, altere conforme necessidade.&#x20;
 
-No campo “Pasta Documento” selecione a pasta na qual o documento será hospedado. As pastas nas quais os documentos poderão ser armazenados deverão ser criadas no menu Diretórios > Documentos. Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.&#x20;
+No campo “Pasta Processo” selecione a pasta na qual o Processo será hospedado. As pastas nas quais os Processos poderão ser armazenados deverão ser criadas no menu Processos> Pastas. Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.&#x20;
 
-Por último, para agendar a renovação dos documentos que estão sendo cadastrados de forma automática, selecione o checkbox do campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” informando a quantidade de meses em que deseja ser avisado sobre a renovação do processo. Assim que as assinaturas do primeiro envio forem concluídas, o sistema passará a contar o prazo determinado e quando o período de renovação for atingido, o responsável pelos documentos (remetente) receberá uma notificação informando que os documentos do processo estão aptos a serem renovados .&#x20;
+Por último, para agendar a renovação dos Processos que estão sendo cadastrados de forma automática, selecione o checkbox do campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” informando a quantidade de meses em que deseja ser avisado sobre a renovação do processo. Assim que as assinaturas do primeiro envio forem concluídas, o sistema passará a contar o prazo determinado e quando o período de renovação for atingido, o responsável pelos Processos (remetente) receberá uma notificação informando que os Processos estão aptos a serem renovados .&#x20;
 
 Configure os destinatários, defina o tipo de envio, por e-mail ou WhatsApp, configure as assinaturas (uma por signatário) e clique em enviar.
 
-Caso você mesmo seja um signatário, você pode assinar o documento após o envio através da Caixa de entrada da sua conta. Basta clicar em assinar e seguir o passo a passo da pergunta “Como assinar um documento?” [Clique aqui](https://youtu.be/nEuvJHxZnto) e assista ao passo a passo.
+Caso você mesmo seja um signatário, você pode assinar o Processo após o envio através da Caixa de entrada da sua conta. Basta clicar em assinar e seguir o passo a passo da pergunta “Como assinar um Processo?” [Clique aqui](https://youtu.be/nEuvJHxZnto) e assista ao passo a passo.
 
 </details>
 
@@ -1387,9 +1387,9 @@ Se deseja alterar o e-mail do usuário que realiza os envios, será necessário 
 
 Siga as instruções detalhadas neste link: [Como cadastrar um usuário](https://manual.arquivar.com/manual-arqsign/perguntas-frequentes/como-usar#como-cadastrar-um-usuario).&#x20;
 
-**2) Transferir documentos do usuário antigo (opcional)**&#x20;
+**2) Transferir Processos do usuário antigo (opcional)**&#x20;
 
-Se precisar transferir os documentos do usuário do e-mail antigo para o novo, siga este procedimento:&#x20;
+Se precisar transferir os Processos do usuário do e-mail antigo para o novo, siga este procedimento:&#x20;
 
 1. Faça login com um usuário que tenha perfil de **Administrador Global**.&#x20;
 2. Acesse: **Administração > Usuários.**&#x20;
@@ -1397,8 +1397,8 @@ Se precisar transferir os documentos do usuário do e-mail antigo para o novo, s
 4. Na caixa **AÇÕES**, clique na seta para baixo e selecione **Inativar**.&#x20;
 5. Na janela de confirmação, escolha uma das opções:&#x20;
 
-* **Transferir**: Os documentos do usuário antigo serão movidos para o novo usuário.&#x20;
-* **Inativar sem transferir**: O usuário será inativado, mas seus documentos permanecerão na conta.&#x20;
+* **Transferir**: Os Processos do usuário antigo serão movidos para o novo usuário.&#x20;
+* **Inativar sem transferir**: O usuário será inativado, mas seus Processos permanecerão na conta.&#x20;
 * **Cancelar**: Interrompe a ação sem realizar alterações.
 
 <img src="../.gitbook/assets/image (351).png" alt="" data-size="original">
@@ -1425,18 +1425,18 @@ Agora, o novo **usuário/e-mail** está configurado para enviar e receber mensag
 
 <details>
 
-<summary>Como transferir documentos de um usuário para outro?</summary>
+<summary>Como transferir Processos de um usuário para outro?</summary>
 
-Se precisar transferir os documentos de um usuário para outro, siga os seguintes passos:
+Se precisar transferir os Processos de um usuário para outro, siga os seguintes passos:
 
 1. Faça login com um usuário que tenha perfil de **Administrador Global**.
 2. Acesse: **Administração > Usuários.**
-3. Encontre o usuário proprietário dos documentos que deseja transferir.
+3. Encontre o usuário proprietário dos Processos que deseja transferir.
 4. Na caixa **AÇÕES**, clique na seta para baixo e selecione **Inativar**.
 5. Na janela de confirmação, escolha uma das opções:
 6.
-   * **Transferir**: Os documentos do usuário antigo serão movidos para o novo usuário.
-   * **Inativar sem transferir**: O usuário será inativado, mas seus documentos permanecerão na conta.
+   * **Transferir**: Os Processos do usuário antigo serão movidos para o novo usuário.
+   * **Inativar sem transferir**: O usuário será inativado, mas seus Processos permanecerão na conta.
    * **Cancelar**: Interrompe a ação sem realizar alterações.
 
 <img src="../.gitbook/assets/image (351).png" alt="" data-size="original">
