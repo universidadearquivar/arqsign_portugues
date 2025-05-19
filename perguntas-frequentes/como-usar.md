@@ -863,14 +863,14 @@ Para acessar o motivo de recusa ao abrir o documento siga os seguintes passos:&#
 
 <details>
 
-<summary>Como recusar a assinatura de um documento?</summary>
+<summary>Como recusar a assinatura de um Processo?</summary>
 
 1. Abra o arquivo que recebeu para assinatura;&#x20;
 2. No canto superior direito clique em Assinar ou Opções;&#x20;
 3. Clique em Recusar assinatura;&#x20;
 4. Informe o motivo de recusa – Essa informação ficará disponível para o remetente ao abrir o arquivo e através de notificação por e-mail;&#x20;
 5. Clique em Recusar assinatura.&#x20;
-6. O remetente receberá o retorno através de uma notificação por e-mail ou poderá acessar quando abrir o documento e clicar sobre o seu nome.
+6. O remetente receberá o retorno através de uma notificação por e-mail ou poderá acessar quando abrir o Processo e clicar sobre o seu nome.
 7. &#x20;O fluxo é automaticamente cancelado quando há uma recusa para assinatura.
 8. Analise o motivo de recusa, faça as alterações no documento se necessário e crie um novo fluxo para assinatura.
 
@@ -878,14 +878,14 @@ Para acessar o motivo de recusa ao abrir o documento siga os seguintes passos:&#
 
 <details>
 
-<summary>Como verificar o versionamento dos documentos salvos na plataforma?</summary>
+<summary>Como verificar o versionamento dos Processos salvos na plataforma?</summary>
 
-A cada renovação de documento através da ferramenta de renovação da Plataforma ArqSign, é feito um vínculo dos novos documentos aos anteriores.
+A cada renovação de Processos através da ferramenta de renovação da Plataforma ArqSign, é feito um vínculo dos novos Processos aos anteriores.
 
 Para acessar este recurso siga os seguintes passos:
 
 1. Menu “Enviados”.
-2. Localize o fluxo que você deseja consultar.
+2. Localize o Processo que você deseja consultar.
 3. No botão “Histórico”, clique no drop down.
 4. Escolha a opção “Versionamento”.
 
@@ -895,14 +895,14 @@ Analise as informações.
 
 <details>
 
-<summary>Como ativar fluxo de renovação de documento automaticamente?</summary>
+<summary>Como ativar fluxo de renovação de Processos automaticamente?</summary>
 
-Caso você tenha agendado a renovação de um documento, assim que atingido o prazo para renovação, você pode acionar a renovação automática que um novo fluxo será criado com as mesmas configurações de signatários que o original.
+Caso você tenha agendado a renovação de um Processo, assim que atingido o prazo para renovação, você pode acionar a renovação automática que um novo Processo será criado com as mesmas configurações de signatários que o original.
 
 1. Clique em Renovações;
-2. Selecione Fluxo concluído;
-3. Clique em Renovar – A Plataforma automaticamente gera um novo fluxo com todos os signatários do fluxo original;
-4. Faça upload do arquivo para renovação. O novo arquivo fica vinculado ao(s) arquivo(s) anterior(es) criando um versionamento de documentos.
+2. Selecione Processo concluído;
+3. Clique em Renovar – A Plataforma automaticamente gera um novo Processo com todos os signatários do Processo original;
+4. Faça upload do arquivo para renovação. O novo arquivo fica vinculado ao(s) arquivo(s) anterior(es) criando um versionamento de Processos.
 5. Revise os signatários.
 6. Configure as representações visuais;
 7. Envie e Pronto!
