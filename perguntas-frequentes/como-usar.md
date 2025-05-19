@@ -603,7 +603,7 @@ O passo a passo para adicionar a extensão ao seu navegador e o módulo desktop 
 
 <summary>Como adicionar a extensão ArqSign no navegador FireFox?</summary>
 
-Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo abaixo para efetuar essas
+Quando um signatário de um Processo que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo abaixo para efetuar essas
 
 1. Ao clicar no link, duas ações serão executadas ao mesmo tempo, a primeira é o download do instalador do Módulo Desktop (No Firefox é solicitada uma confirmação para iniciar o download). Deve-se aguardar o download ser concluído e seguir os passos do Tutorial Instalação Módulo Desktop.
 2. A outra ação é a abertura de uma nova aba no navegador, na Firefox Browser Add-ons, com o plugin da ArqSign.
@@ -623,7 +623,7 @@ Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, ele
 
 <summary>Como adicionar a extensão ArqSign Certificado Digital no navegador Edge?</summary>
 
-Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo:
+Quando um signatário de um Processo que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo:
 
 1. No Microsoft Edge, ao clicar no link disponível, pode acontecer o bloqueio de pop-up.
 2. Caso isto aconteça, deve-se clicar no ícone de bloqueio de pop-ups, ao lado do URL da página.
@@ -645,7 +645,7 @@ Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, ele
 
 <summary>Como adicionar a extensão ArqSign Certificado Digital no navegador Chrome?</summary>
 
-Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo abaixo para efetuar essas configurações:
+Quando um signatário de um Processo que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo abaixo para efetuar essas configurações:
 
 1. Clique no link indicado para abrir a loja no navegador;
 2. A extensão ArqSign Certificado Digital será exibida;
@@ -672,11 +672,11 @@ Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, ele
 
 <details>
 
-<summary>Como compartilhar um documento assinado pela Plataforma ArqSign?</summary>
+<summary>Como compartilhar um Processo assinado pela Plataforma ArqSign?</summary>
 
 * Faça o login em sua conta ArqSign pelo link: [https://app.arqsign.com/auth/login](https://app.arqsign.com/auth/login);
 * Clique em ‘Enviados’;
-* Localize o documento que deseja compartilhar;
+* Localize o Processo que deseja compartilhar;
 * Essa opção permite que o usuário crie um link de acesso a um ou mais documentos do processo que poderá ser compartilhado com outras pessoas que não sejam participantes do processo de assinatura. Esse link pode ter prazo de validade determinado ou indeterminado e o usuário pode definir se deseja permitir que as pessoas que acessarem visualizem também os anexos enviados pelos signatários.
 * Quando o processo com mais de um documento não agrupados não possui compartilhamento de documentos, o sistema abre a modal para o usuário selecionar os documentos do processo que deseja compartilhar.
 * Quando o processo com mais de um documento possui compartilhamento de documentos, o sistema abre a modal com os links já compartilhados.
@@ -712,7 +712,7 @@ Os passos para alteração são:&#x20;
 
 <summary>Como configurar a assinatura para Pessoa Física/CPF ou Pessoa Jurídica/CNPJ?</summary>
 
-Na plataforma ArqSign, você pode escolher se o documento será assinado por uma Pessoa física ou jurídica.
+Na plataforma ArqSign, você pode escolher se o Processo será assinado por uma Pessoa física ou jurídica.
 
 Para isso, o remetente deve escolher o tipo de assinatura durante o processo de configuração do fluxo conforme abaixo:
 
@@ -724,7 +724,7 @@ Para isso, o remetente deve escolher o tipo de assinatura durante o processo de 
 * Assinar Online como Pessoa Jurídica
 * Receber uma cópia
 
-Um destinatário por assinar durante o mesmo processo como Pessoa Física e Jurídica.
+Um destinatário pode assinar durante o mesmo processo como Pessoa Física e Jurídica.
 
 Ao finalizar a configuração dos destinatários clique em Avançar
 
@@ -738,7 +738,7 @@ Caso você escolha a opção de posicionamento automático de assinaturas, a pr�
 
 <summary>Como assinar um documento na Plataforma ArqSign quando a solicitação para assinatura é enviada por WhatsApp?</summary>
 
-Se um documento foi enviado para sua assinatura pela Plataforma ArqSign por WhatsApp, você receberá uma mensagem com o nome do remetente que pode ser aberta no aplicativo do seu celular ou WhatsApp Web.&#x20;
+Se um Processo foi enviado para sua assinatura pela Plataforma ArqSign por WhatsApp, você receberá uma mensagem com o nome do remetente que pode ser aberta no aplicativo do seu celular ou WhatsApp Web.&#x20;
 
 Caso seja a primeira vez que você interage com o remetente pelo WhatsApp, vá ao final da mensagem e adicione aos seus contatos para habilitar todos os links da mensagem.&#x20;
 
@@ -746,19 +746,19 @@ Clique no link presente na mensagem e você terá acesso ao documento para leitu
 
 Após a leitura, basta clicar em Assinar. Preencha os dados se solicitado. Anexe documentos se solicitado. Aplique sua representação visual e clique em Concluir.&#x20;
 
-Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros documentos assinados através da plataforma e ainda testar grátis por 15 dias.&#x20;
+Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros Processos assinados através da plataforma e ainda testar grátis por 15 dias.&#x20;
 
 Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.&#x20;
 
-Além disso, todos os destinatários que tiverem uma Conta ArqSign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste documento na plataforma.
+Além disso, todos os destinatários que tiverem uma Conta ArqSign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste Processo na plataforma.
 
 </details>
 
 <details>
 
-<summary>Como assinar um documento na Plataforma ArqSign quando a solicitação para assinatura é enviada por e-mail?</summary>
+<summary>Como assinar um Processo na Plataforma ArqSign quando a solicitação para assinatura é enviada por e-mail?</summary>
 
-Ao receber um documento por e-mail solicitando sua assinatura, ele conterá o nome do remetente e no título terá o nome do documento a ser assinado. Caso não localize o e-mail em sua caixa de entrada, verifique na Caixa de Spam ou promoções.&#x20;
+Ao receber um Processo por e-mail solicitando sua assinatura, ele conterá o nome do remetente e no título terá o nome do Processo a ser assinado. Caso não localize o e-mail em sua caixa de entrada, verifique na Caixa de Spam ou promoções.&#x20;
 
 Abra o e-mail. (Lembrando que a plataforma pode ser acessada de qualquer dispositivo – computador, tablet ou celular)&#x20;
 
@@ -766,33 +766,33 @@ Clique em “Assinar Documento” e você terá acesso ao documento para leitura
 
 Após a leitura, basta clicar em Assinar. Preencha os dados se solicitado. Anexe documentos se solicitado. Aplique sua representação visual e clique em Concluir.&#x20;
 
-Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros documentos assinados através da plataforma e ainda testar grátis por 15 dias.&#x20;
+Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros Processos assinados através da plataforma e ainda testar grátis por 15 dias.&#x20;
 
 Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.&#x20;
 
-Além disso, todos os destinatários que tiverem uma Conta Arqsign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste documento na plataforma.&#x20;
+Além disso, todos os destinatários que tiverem uma Conta ArqSign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste Processo na plataforma.&#x20;
 
 </details>
 
 <details>
 
-<summary>Como consultar o andamento das solicitações de transferência de documentos?</summary>
+<summary>Como consultar o andamento das solicitações de transferência de Processos?</summary>
 
-Para consultar o andamento das solicitações de transferência de documentos, siga os seguintes passos:&#x20;
+Para consultar o andamento das solicitações de transferência de Processos, siga os seguintes passos:&#x20;
 
 Acesse o Menu “Meu perfil” -> “Solicitações”;&#x20;
 
-A Plataforma lista as solicitações de transferência de documentos do usuário logado ordenadas pela data da solicitação decrescente (solicitação mais recente no topo).&#x20;
+A Plataforma lista as solicitações de transferência de Processos do usuário logado ordenadas pela data da solicitação decrescente (solicitação mais recente no topo).&#x20;
 
-Através do botão de “Ações” você poderá visualizar solicitações com status “Solicitado” ou “Erro”, “Cancelar” e “Editar” a solicitação de transferência de documentos.&#x20;
+Através do botão de “Ações” você poderá visualizar solicitações com status “Solicitado” ou “Erro”, “Cancelar” e “Editar” a solicitação de transferência de Processos.&#x20;
 
 </details>
 
 <details>
 
-<summary>Como inativar um usuário e alterar a propriedade de seus documentos?</summary>
+<summary>Como inativar um usuário e alterar a propriedade de seus Processos?</summary>
 
-Ao inativar um usuário, pode ser necessário alterar a propriedade dos documentos deste usuário para que outra pessoa siga com a gestão dos documentos.&#x20;
+Ao inativar um usuário, pode ser necessário alterar a propriedade dos Processos deste usuário para que outra pessoa siga com a gestão dos mesmos.&#x20;
 
 Você poderá executar esta ação se for Administrador Global.&#x20;
 
@@ -802,10 +802,10 @@ Para isso siga os seguintes passos:&#x20;
 2. Selecione o usuário que deseja inativar;&#x20;
 3. Clique em Ações;&#x20;
 4. Clique em inativar;&#x20;
-5. Se o usuário que está sendo inativado não possuir solicitação de transferência de documentos com status “Solicitado” ou “Em Processo” e tiver enviado algum documento que esteja com status “Aguardando” ou “Em Processo” ou “Concluído” o sistema apresentará mensagem informando que o usuário que está sendo inativado possui documentos como proprietário, solicitando a confirmação de alterar a propriedade dos documentos do usuário, em questão;&#x20;
+5. Se o usuário que está sendo inativado não possuir solicitação de transferência de Processos com status “Solicitado” ou “Em Processo” e tiver enviado algum Processo que esteja com status “Aguardando” ou “Em Processo” ou “Concluído” o sistema apresentará mensagem informando que o usuário que está sendo inativado possui Processos como proprietário, solicitando a confirmação de alterar a propriedade dos Processos do usuário, em questão;&#x20;
 6. Escolha a opção “Transferir”;&#x20;
 7. Selecione um novo proprietário;&#x20;
-8. Selecione quais documentos devem ser transferidos;&#x20;
+8. Selecione quais Processos devem ser transferidos;&#x20;
 9. Clique em Alterar;&#x20;
 10. A transferência será executada em até 24 horas;&#x20;
 11. Para consultar o andamento das solicitações de transferências acesse: “Meu perfil”-> “Solicitações”.&#x20;
