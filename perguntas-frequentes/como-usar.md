@@ -150,7 +150,7 @@ Além da opção de adicionar novos contatos manualmente, o sistema também perm
 
 Para padronizar a configuração de geração de QRCode no Registro de assinaturas para uma conta, você deverá ser um usuário com perfil Administrador Global ou Administrador da Conta e seguir os seguintes passos:
 
-* Acesse: Administração > Conta > Configurações > Documentos;
+* Acesse: Administração > Conta > Configurações > Processos;
 * Clique em “Editar”;
 * Em “Configurações sobre a Disponibilização do Documento Assinado aos destinatários” habilite ou desabilite a geração de QRCode no Registro de assinaturas conforme sua preferência;
 * Clique em Salvar.
@@ -159,7 +159,7 @@ Essa alteração repercute para conta.
 
 Caso necessário, um usuário com qualquer perfil pode alterar a configuração padrão desta funcionalidade apenas para um determinado fluxo. Para isso, basta seguir os seguintes passos:
 
-* Clicar em “Novo Documento”;
+* Clicar em “Novo Processo”;
 * Fazer o upload de um novo documento;
 * Clicar em “Configurações Avançadas”;
 * Habilitar ou desabilitar a geração de QRCode de acesso do documento no Registro de Assinaturas;
@@ -187,7 +187,7 @@ Para compartilhar um contato, escolha a opção “Editar”, marque a opção d
 
 <details>
 
-<summary>Como excluir um contato salvo na plataforma Arqsign?</summary>
+<summary>Como excluir um contato salvo na plataforma ArqSign?</summary>
 
 No Menu “Meu perfil” opção “Meus contatos”, selecione o contato.
 
@@ -223,16 +223,16 @@ Para editar um contato, escolha a opção “Editar”, faça a edição e cliqu
 
 <details>
 
-<summary>Como enviar um documento para assinatura para um contato salvo na plataforma ArqSign?</summary>
+<summary>Como enviar um Processo para assinatura para um contato salvo na plataforma ArqSign?</summary>
 
-Para enviar um documento para assinatura para um contato salvo na Plataforma ArqSign no seu usuário ou compartilhado por outro usuário, siga os seguintes passos:
+Para enviar um Processo para assinatura para um contato salvo na Plataforma ArqSign no seu usuário ou compartilhado por outro usuário, siga os seguintes passos:
 
-1. Clique em “Novo Documento”, insira o documento e execute as configurações necessárias relativas ao documento;
+1. Clique em “Novo Processo”, insira o documento e execute as configurações necessárias relativas ao Processo;
 2. Na parte de configuração dos Destinatários, clique no botão![](https://cdn.arquivar.com.br/wp-content/uploads/2023/06/Imagem1.png)
 3. A Plataforma exibirá um Grid de consulta com todos os contatos do usuário logado que estão relacionados com a conta logada, ordenados alfabeticamente pela coluna nome e na sequência todos os contatos dos outros usuários ativos da conta logada, que tenham sido marcados para serem compartilhados com todos os usuários da conta, ordenados alfabeticamente pela coluna nome.
 4. Escolha o(s) destinatário(s) e clique em “Adicionar Destinatários”.
 5. Configure o Tipo de Assinatura Eletrônica para cada destinatário;
-6. Configure token de segurança ou mensagem privada para cada destinatário se for o caso e siga os próximos passos para envio do documento para assinatura.
+6. Configure token de segurança ou mensagem privada para cada destinatário se for o caso e siga os próximos passos para envio do Processo para assinatura.
 
 </details>
 
