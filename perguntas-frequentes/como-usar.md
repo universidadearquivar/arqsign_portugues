@@ -911,18 +911,18 @@ Caso você tenha agendado a renovação de um Processo, assim que atingido o pra
 
 <details>
 
-<summary>Como alterar a renovação, vencimento de documento ou controle de reajuste?</summary>
+<summary>Como alterar a renovação, vencimento de Processos ou controle de reajuste?</summary>
 
-Após a conclusão de um fluxo de assinatura:
+Após a conclusão de um Processo:
 
 1. Clique em Enviados;
-2. Selecione Fluxo concluído;
+2. Selecione Processo concluído;
 3. Clique em Histórico;
 4. Clique em Alterar Renovação;
 5. Defina o novo prazo em meses após a finalização das assinaturas;
 6. Clique em Alterar.
 
-Quando chegar a data definida para vencimento do documento, renovação ou reajuste, a plataforma ArqSign enviará um e-mail ao proprietário do fluxo informando que o documento está pronto para renovação, reajuste etc.
+Quando chegar a data definida para vencimento do Processo, renovação ou reajuste, a plataforma ArqSign enviará um e-mail ao proprietário do Processo informando que ele está pronto para renovação, reajuste etc.
 
 </details>
 
@@ -932,7 +932,7 @@ Quando chegar a data definida para vencimento do documento, renovação ou reaju
 
 Na ArqSign, você pode ter acesso a mais de uma conta com o mesmo e-mail.
 
-**Exemplo:** Vamos supor que você seja advogado de um escritório. Você pode ter uma conta teste grátis pessoal com um e-mail e com o mesmo e-mail ter um usuário na Conta do Escritório e outro usuário na conta de um cliente para consultar documentos do cliente. Para ter acesso à conta de terceiros, os Administradores Globais da conta precisam lhe convidar. O acesso pode ser bloqueado a qualquer momento pelo Administrador Global.
+**Exemplo:** Vamos supor que você seja advogado de um escritório. Você pode ter uma conta teste grátis pessoal com um e-mail e com o mesmo e-mail ter um usuário na Conta do Escritório e outro usuário na conta de um cliente para consultar Processos do cliente. Para ter acesso à conta de terceiros, os Administradores Globais da conta precisam lhe convidar. O acesso pode ser bloqueado a qualquer momento pelo Administrador Global.
 
 </details>
 
@@ -940,11 +940,11 @@ Na ArqSign, você pode ter acesso a mais de uma conta com o mesmo e-mail.
 
 <summary>O que é um usuário?</summary>
 
-Usuário é a pessoa que utiliza a Plataforma ArqSign para enviar, acompanhar fluxo, coletar assinaturas, acessar e gerir documentos. Um usuário tem que estar atrelado à uma conta ou quando ele também tem que assinar um documento ele se torna um signatário.
+Usuário é a pessoa que utiliza a Plataforma ArqSign para enviar, acompanhar fluxo, coletar assinaturas, acessar e gerir Processos. Um usuário tem que estar atrelado à uma conta ou quando ele também tem que assinar um documento ele se torna um signatário.
 
 Na plataforma ArqSign um usuário pode ter os seguintes Perfis:
 
-a) Remetente de Documentos – Usuário sem permissão de acesso às funcionalidades de gestão da plataforma. Seu acesso é focado no envio e gestão de seus documentos.
+a) Remetente de Processos – Usuário sem permissão de acesso às funcionalidades de gestão da plataforma. Seu acesso é focado no envio e gestão de seus Processos.
 
 b) Administrador Global – Usuários com permissão de acesso a todas as funcionalidades da plataforma inclusive gestão de pastas e usuários.
 
@@ -965,20 +965,20 @@ Signatário é uma pessoa física ou jurídica que participa do processo de assi
 Quando um dos signatários informa que não recebeu o WhatsApp com o link para assinatura, verifique os seguintes itens antes de reenviar ou abrir um chamado:
 
 1. Confira se você digitou o número do WhatsApp corretamente;
-2. Caso o número que você digitou esteja errado, você pode corrigi-lo e enviar novamente através do Menu Enviados > Reenviar;
-3. Peça ao signatário para conferir se ele está com acesso à internet móvel ou Wi-Fi;
-4. Peça ao cliente para entrar no WhatsApp e verificar se não recebeu nova mensagem, pois, pode ser apenas um problema de configuração de recebimento de notificações;
-5. Caso o problema não seja resolvido com nenhuma das opções acima, pode ser que a mensagem enviada tenha sido bloqueada pelo próprio WhatsApp porque o signatário não está com o aplicativo atualizado. Para atualizar o aplicativo o signatário deve acessar a loja de aplicativos e clicar em Atualizar ([https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem…](https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem%20n%C3%A3%C2%A3o%20recebida\&search_session_id=cb86af1005f8183efe4a18d785336191\&sr=2));
-6. Se ainda assim não houve a atualização, você pode enviar o link de atualização de Serviços do WhatsApp para o signatário atualizar: Link: [https://wa.me/tos/20210210](https://wa.me/tos/20210210). O signatário deve abrir o link no WhatsApp e aceitar os termos.
-7. Após o signatário atualizar o aplicativo e/ou os Termos de Serviços do WhatsApp, faça o reenvio do fluxo através da Plataforma ArqSign clicando em Enviados -> Reenviar.
-8. Caso mesmo assim o signatário não receba a mensagem de WhatsApp, entre contato conosco e forneça as informações abaixo para analisarmos o que pode ter acontecido.
+   1. Caso o número que você digitou esteja errado, você pode corrigi-lo e enviar novamente através do Menu Enviados > Reenviar;
+2. Peça ao signatário para conferir se ele está com acesso à internet móvel ou Wi-Fi;
+3. Peça ao cliente para entrar no WhatsApp e verificar se não recebeu nova mensagem, pois, pode ser apenas um problema de configuração de recebimento de notificações;
+4. Caso o problema não seja resolvido com nenhuma das opções acima, pode ser que a mensagem enviada tenha sido bloqueada pelo próprio WhatsApp porque o signatário não está com o aplicativo atualizado. Para atualizar o aplicativo o signatário deve acessar a loja de aplicativos e clicar em Atualizar ([https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem…](https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem%20n%C3%A3%C2%A3o%20recebida\&search_session_id=cb86af1005f8183efe4a18d785336191\&sr=2));
+5. Se ainda assim não houve a atualização, você pode enviar o link de atualização de Serviços do WhatsApp para o signatário atualizar: Link: [https://wa.me/tos/20210210](https://wa.me/tos/20210210). O signatário deve abrir o link no WhatsApp e aceitar os termos.
+6. Após o signatário atualizar o aplicativo e/ou os Termos de Serviços do WhatsApp, faça o reenvio do Processo através da Plataforma ArqSign clicando em Enviados -> Reenviar.
+7. Caso mesmo assim o signatário não receba a mensagem de WhatsApp, entre contato conosco e forneça as informações abaixo para analisarmos o que pode ter acontecido.
 
 Informações necessárias:
 
 * Nome
 * Empresa
 * WhatsApp
-* Nome do documento enviado
+* Nome do Processo enviado
 * Data do envio
 * Signatário
 
@@ -994,7 +994,7 @@ Quando um dos signatários informa que não recebeu o e-mail com o link para ass
 2. Confira se o cliente está com acesso à internet;
 3. Se você tiver enviado o link para uma caixa de e-mail gratuita, solicite ao signatário para conferir a caixa de **SPAM, Lixo eletrônico ou Promoções**, pois, estes servidores podem fazer uma classificação errônea de nossos e-mails e enviá-los para essas caixas;
 4. Se você enviou o link para uma pessoa ou empresa que tenha antivírus ou firewall instalados na máquina ou servidor, solicite que ele verifique **se o e-mail com o link** **não foi bloqueado pelo sistema de segurança**;
-5. Se você fez todas estas análises e não localizou nenhum problema, tente reenviar o fluxo através da Plataforma ArqSign e verifique novamente nas pastas acima mencionadas;
+5. Se você fez todas estas análises e não localizou nenhum problema, tente reenviar o Processo através da Plataforma ArqSign e verifique novamente nas pastas acima mencionadas;
 6. Caso mesmo assim o signatário não receba o e-mail, entre contato conosco e forneça as informações abaixo para analisarmos o que pode ter acontecido.
 
 Informações necessárias:
@@ -1002,7 +1002,7 @@ Informações necessárias:
 * Nome
 * Empresa
 * E-mail
-* Nome do documento enviado
+* Nome do Processo enviado
 * Data do envio
 * Signatário
 
