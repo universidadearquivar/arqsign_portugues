@@ -492,9 +492,9 @@ Para configurar o Processo solicitando assinatura com um documento estrangeiro, 
 
 <details>
 
-<summary>Como inserir um destinatário em cópia ou como observador em um fluxo?</summary>
+<summary>Como inserir um destinatário em cópia ou como observador em um Processo?</summary>
 
-Na Plataforma ArqSign é possível colocar uma pessoa em cópia ou como observador em um fluxo. Desta forma, ao final do processo de assinatura, essa pessoa ou pessoas receberão o documento assinado.
+Na Plataforma ArqSign é possível colocar uma pessoa em cópia ou como observador em um Processo. Desta forma, ao final do processo de assinatura, essa pessoa ou pessoas receberão o documento assinado.
 
 Para fazer esta configuração proceda da seguinte forma:
 
@@ -525,7 +525,7 @@ Você pode alterar o seu cartão de crédito para faturamento e compras na Plata
 
 <summary>Como configurar um Processo para ser assinado com certificado digital (assinatura digital) ou sem certificado digital (assinatura eletrônica)?</summary>
 
-Na Plataforma Arqsign, ao configurar um fluxo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:&#x20;
+Na Plataforma ArqSign, ao configurar um Processo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:&#x20;
 
 **a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
 
@@ -678,8 +678,8 @@ Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, ele
 * Clique em ‘Enviados’;
 * Localize o Processo que deseja compartilhar;
 * Essa opção permite que o usuário crie um link de acesso a um ou mais documentos do processo que poderá ser compartilhado com outras pessoas que não sejam participantes do processo de assinatura. Esse link pode ter prazo de validade determinado ou indeterminado e o usuário pode definir se deseja permitir que as pessoas que acessarem visualizem também os anexos enviados pelos signatários.
-* Quando o processo com mais de um documento não agrupados não possui compartilhamento de documentos, o sistema abre a modal para o usuário selecionar os documentos do processo que deseja compartilhar.
-* Quando o processo com mais de um documento possui compartilhamento de documentos, o sistema abre a modal com os links já compartilhados.
+* Quando o Processo com mais de um documento não agrupados não possui compartilhamento de documentos, o sistema abre a modal para o usuário selecionar os documentos do Processo que deseja compartilhar.
+* Quando o Processo com mais de um documento possui compartilhamento de documentos, o sistema abre a modal com os links já compartilhados.
 * Ao expandir as ações do link de compartilhamento, é possível visualizar a tela de compartilhamento novamente ou e excluir o compartilhamento realizado.
 * Ao compartilhar os documentos do processo, o usuário tem a possibilidade de enviá-los por e-mail clicando no botão "Enviar Link por e-mail".
 * Adicione no campo indicado todos os e-mails que devem receber a documentação compartilhada.
@@ -814,9 +814,9 @@ Para isso siga os seguintes passos:&#x20;
 
 <details>
 
-<summary>Como alterar o proprietário de um fluxo ou documento?</summary>
+<summary>Como alterar o proprietário de um Processo?</summary>
 
-Se você é o remetente de um fluxo com status “Aguardando”, “Em processo” ou “Concluído”, pode alterar o proprietário para outro usuário ativo da conta. Desta forma, as notificações automáticas referentes ao fluxo passarão a ser enviadas para o novo proprietário.
+Se você é o remetente de um Processo com status “Aguardando”, “Em processo” ou “Concluído”, pode alterar o proprietário para outro usuário ativo da conta. Desta forma, as notificações automáticas referentes ao fluxo passarão a ser enviadas para o novo proprietário.
 
 Para executar esta alteração siga o seguinte passo a passo:&#x20;
 
@@ -827,24 +827,24 @@ Para executar esta alteração siga o seguinte passo a passo:&#x20;
 3. Clique em Alterar proprietário;&#x20;
 4. Informe o novo proprietário e salve.
 
-Caso seja transferido apenas um documento o processo será realizado instantaneamente;&#x20;
+Caso seja transferido apenas um Processo o a alteração será realizada instantaneamente;&#x20;
 
-Para dois documentos ou mais é necessário um prazo de 24h para a conclusão da solicitação de transferência. &#x20;
+Para dois Processos ou mais é necessário um prazo de 24h para a conclusão da solicitação de transferência. &#x20;
 
 **Opção 2:**&#x20;
 
-1. Ao inativar um usuário que possui documentos em sua conta é possível realizar a transferência desses documentos para um novo usuário responsável.&#x20;
+1. Ao inativar um usuário que possui Processos em sua conta é possível realizar a transferência desses Processos para um novo usuário responsável.&#x20;
 2. Quando clicar em ‘Inativar’ um bloco de confirmação irá aparecer;&#x20;
-3. No bloco confirme que deseja transferir os documentos;&#x20;
+3. No bloco, confirme que deseja transferir os Processos;&#x20;
 4. Selecione o novo proprietário;&#x20;
-5. E os documentos que deseja transferir por status: ‘Todos’ ou ‘Em assinatura ou com renovação agendada’;&#x20;
+5. E os Processos que deseja transferir por status: ‘Todos’ ou ‘Em assinatura ou com renovação agendada’;&#x20;
 6. &#x20;Clique em ‘Alterar’;&#x20;
-7. O usuário será inativado e os documentos serão transferidos em 24h;&#x20;
-8. Ao inativar um usuário sem documentos na conta, não é necessário realizar esse procedimento;&#x20;
-9. A transferência de documento só pode ser executada para um usuário ativo.&#x20;
+7. O usuário será inativado e os Processos serão transferidos em 24h;&#x20;
+8. Ao inativar um usuário sem Processos na conta, não é necessário realizar esse procedimento;&#x20;
+9. A transferência de Processos só pode ser executada para um usuário ativo.&#x20;
 10. Para consultar o andamento das solicitações de transferências acesse: “Meu perfil” –> “Solicitações”.&#x20;
 
-Caso você queira  transferir a propriedade dos documentos de um usuário que foi inativado, verifique o passo a passo em “Como inativar um usuário e alterar a propriedade de seus documentos?”&#x20;
+Caso você queira  transferir a propriedade dos Processos de um usuário que foi inativado, verifique o passo a passo em “Como inativar um usuário e alterar a propriedade de seus Processos?”&#x20;
 
 </details>
 
