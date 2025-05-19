@@ -850,9 +850,9 @@ Caso você queira  transferir a propriedade dos Processos de um usuário que foi
 
 <details>
 
-<summary>Como consultar o motivo de recusa para assinatura de documento?</summary>
+<summary>Como consultar o motivo de recusa para assinatura de Processo?</summary>
 
-Você pode verificar o motivo de recusa de assinatura de um documento através da notificação enviada para o remetente e quando abrir o documento.&#x20;
+Você pode verificar o motivo de recusa de assinatura de um Processo através da notificação enviada para o remetente e quando abrir o documento.&#x20;
 
 Para acessar o motivo de recusa ao abrir o documento siga os seguintes passos:&#x20;
 
