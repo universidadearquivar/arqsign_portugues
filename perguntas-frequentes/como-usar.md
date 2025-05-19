@@ -408,7 +408,7 @@ Exemplo de notificação personalizada simulação:
 
 <summary>Como configurar uma mensagem privada?</summary>
 
-1. Clique em ‘Novo Documento’
+1. Clique em ‘Novo Processo’
 2. Selecione o documento que deseja encaminhar e informe os dados do signatário como nome, e-mail etc.
 3. Abaixo dessas informações haverá um símbolo de ‘mensagem’ ![](https://cdn.arquivar.com.br/wp-content/uploads/2023/04/carta.jpg), onde ao clicar abrirá uma aba de mensagem privada.
 4. Na aba de mensagem privada é possível informar o assunto e a mensagem que deseja enviar somente para o signatário selecionado. Os demais signatários receberão a mensagem padrão.
@@ -419,7 +419,7 @@ Exemplo de notificação personalizada simulação:
 
 <summary>Como configurar o token de segurança?</summary>
 
-1. Clique em ‘Novo Documento’
+1. Clique em ‘Novo Processo’
 2. Selecione o documento que deseja encaminhar e informe os dados do signatário como nome, e-mail etc.
 3. Abaixo dessas informações haverá um símbolo de um ‘cadeado’![](https://cdn.arquivar.com.br/wp-content/uploads/2023/04/cadeado.jpg), onde ao clicar abrirá uma aba de segurança.
 4. Na aba de segurança é possível gerar o código ‘Automaticamente ou Manual’ e informar o e-mail, SMS, Whatsapp ou nenhum meio em que deseja encaminhar o token.
@@ -431,7 +431,7 @@ Exemplo de notificação personalizada simulação:
 
 <summary>Como solicitar anexos e selfie?</summary>
 
-Clique em ‘Novo Documento’.&#x20;
+Clique em ‘Novo Processo’.&#x20;
 
 Selecione o documento que deseja encaminhar, configure os destinatários e avance.&#x20;
 
@@ -441,7 +441,7 @@ No canto direito, caso deseje, solicite as informações complementares como Nom
 
 Se deseja solicitar Anexos como imagem de documentos ou selfie, habilite para solicitar que o signatário anexe um documento.&#x20;
 
-Informe o documento que deseja que o signatário anexe e se deseja que o anexo seja obrigatório para a conclusão do processo de assinatura daquele documento.&#x20;
+Informe o documento que deseja que o signatário anexe e se deseja que o anexo seja obrigatório para a conclusão do processo de assinatura.&#x20;
 
 Você também pode configurar a permissão para que todos os signatários acessem o anexo ou não.&#x20;
 
@@ -463,11 +463,11 @@ Concluir a assinatura.&#x20;
 
 <details>
 
-<summary>Como acessar os anexos de um documento?</summary>
+<summary>Como acessar os anexos de um Processo?</summary>
 
-1. Localize o documento que deseja visualizar o anexo.
-2. Clique duas vezes sobre o documento.
-3. No canto direito, junto aos signatários dos documentos, é possível realizar o download do anexo.
+1. Localize o Processo que deseja visualizar o anexo.
+2. Clique duas vezes sobre o Processo.
+3. No canto direito, junto aos signatários do Processo, é possível realizar o download do anexo.
 
 </details>
 
@@ -475,7 +475,7 @@ Concluir a assinatura.&#x20;
 
 <summary>Como configurar assinatura com documento estrangeiro?</summary>
 
-Para configurar assinatura solicitando um documento estrangeiro, siga os seguintes passos:
+Para configurar o Processo solicitando assinatura com um documento estrangeiro, siga os seguintes passos:
 
 1. Depois de fazer o upload do documento;
 2. Inserir os destinatários e clicar em ‘avançar”;
@@ -498,8 +498,8 @@ Na Plataforma ArqSign é possível colocar uma pessoa em cópia ou como observad
 
 Para fazer esta configuração proceda da seguinte forma:
 
-1. Clique em “Novo documento”;
-2. Faça o upload do documento a ser assinado e as devidas configurações para o documento;
+1. Clique em “Novo Processo”;
+2. Faça o upload do documento a ser assinado e as devidas configurações para o Processo;
 3. Em “Destinatários” configure o campo “Este destinatário irá” como “Receber uma cópia”;
 4. Prossiga com as demais configurações.
 
@@ -523,7 +523,7 @@ Você pode alterar o seu cartão de crédito para faturamento e compras na Plata
 
 <details>
 
-<summary>Como configurar um documento para ser assinado com certificado digital (assinatura digital) ou sem certificado digital (assinatura eletrônica)?</summary>
+<summary>Como configurar um Processo para ser assinado com certificado digital (assinatura digital) ou sem certificado digital (assinatura eletrônica)?</summary>
 
 Na Plataforma Arqsign, ao configurar um fluxo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:&#x20;
 
@@ -535,7 +535,7 @@ Na Plataforma Arqsign, ao configurar um fluxo de assinaturas você pode determin
 
 Para determinar o tipo de assinatura siga o seguinte passo a passo:&#x20;
 
-Após fazer o upload do documento e configurações necessárias para o documento, siga para a configuração dos destinatários;&#x20;
+Após fazer o upload do documento e configurações necessárias para o Processo, siga para a configuração dos destinatários;&#x20;
 
 Ao configurar um destinatário, no campo “Tipo de assinatura” escolha uma das opções conforme descrição acima;&#x20;
 
@@ -545,9 +545,9 @@ Pronto! Agora é só configurar os demais destinatários e a posição de assina
 
 <details>
 
-<summary>Como assinar um documento com Certificado Digital – ICP-Brasil?</summary>
+<summary>Como assinar um Processo com Certificado Digital – ICP-Brasil?</summary>
 
-Na Plataforma ArqSign, o remetente de documentos pode determinar o tipo de assinatura que o destinatário deverá executar escolhendo entre uma das opções abaixo:&#x20;
+Na Plataforma ArqSign, o remetente de Processos pode determinar o tipo de assinatura que o destinatário deverá executar escolhendo entre uma das opções abaixo:&#x20;
 
 **a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
 
