@@ -1201,14 +1201,14 @@ Se a data limite para assinatura do Processo não estiver vencida o usuário pod
 
 <details>
 
-<summary>Como reenviar um documento ou fluxo?</summary>
+<summary>Como reenviar um Processo?</summary>
 
 1. Acesse a caixa de enviados;&#x20;
-2. Localize o fluxo ou documento que deseja reenviar;
+2. Localize o Processo que deseja reenviar;
 3. Clique sobre o botão de Reenviar;
 4. Clique sobre o botão Reenviar novamente.&#x20;
 
-Um novo envio será feito somente para os signatários que ainda não assinaram o documento.&#x20;
+Um novo envio será feito somente para os signatários que ainda não assinaram o Processo.&#x20;
 
 [Clique aqui ](https://youtu.be/K11hU-ZOWnk)e assista ao vídeo com o passo a passo.
 
@@ -1230,27 +1230,27 @@ Um novo envio será feito somente para os signatários que ainda não assinaram 
 
 <details>
 
-<summary>Como agendar uma renovação, vencimento de documento ou controle de reajuste?</summary>
+<summary>Como agendar uma renovação, vencimento de Processo ou controle de reajuste?</summary>
 
-Você pode fazer esse agendamento durante a criação de um fluxo de assinatura ou após a conclusão do fluxo. Veja o passo a passo a seguir:&#x20;
+Você pode fazer esse agendamento durante a criação ou após a conclusão de um Processo de assinatura. Veja o passo a passo a seguir:&#x20;
 
-Durante a criação de um fluxo de assinatura:&#x20;
+Durante a criação de um Processo:&#x20;
 
-1. Clique em Novo Documento;
+1. Clique em Novo Processo;
 2. Selecione o Checkbox Agendar renovação;
 3. Defina o prazo em meses após a finalização das assinaturas;
-4. Finalize a criação do fluxo. &#x20;
+4. Finalize a criação do Processo. &#x20;
 
-Após a conclusão de um fluxo de assinatura:&#x20;
+Após a conclusão de um Processo:&#x20;
 
 1. Clique em Enviados;
-2. Selecione Fluxo concluído;
+2. Selecione Processo concluído;
 3. Clique em Histórico;
 4. Clique em Alterar Renovação;&#x20;
 5. Defina o prazo em meses após a finalização das assinaturas;
 6. Clique em Alterar.&#x20;
 
-Quando chegar a data definida para vencimento do documento, renovação ou reajuste a plataforma ArqSign enviará um e-mail ao proprietário do fluxo informando que o documento está pronto para renovação, reajuste etc.
+Quando chegar a data definida para vencimento do Processo (para renovação ou reajuste) a plataforma ArqSign enviará um e-mail ao proprietário do Processo informando que o documento está pronto para renovação, reajuste etc.
 
 [Clique aqui](https://youtu.be/v1DGlnU4rLs) e assista ao vídeo com o passo a passo.
 
