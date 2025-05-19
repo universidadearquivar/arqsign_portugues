@@ -138,7 +138,7 @@ Além da opção de adicionar novos contatos manualmente, o sistema também perm
 
 **Aba “Solicitações”**
 
-1\. Na aba Solicitações o usuário pode consultar as solicitações de transferência de proprietário do documento. Por exemplo, se na caixa de entrada o usuário alterar o proprietário do documento, a movimentação ficará registrada na aba “Solicitações”.
+1\. Na aba Solicitações o usuário pode consultar as solicitações de transferência de proprietário do Processo. Por exemplo, se na caixa de entrada o usuário alterar o proprietário do Processo, a movimentação ficará registrada na aba “Solicitações”.
 
 ![](<../.gitbook/assets/image (155).png>)
 
