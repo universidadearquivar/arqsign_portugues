@@ -1012,13 +1012,13 @@ Informações necessárias:
 
 <summary>Como configurar uma ordem / sequência para as assinaturas?</summary>
 
-A plataforma ArqSign permite inserir uma sequência para assinatura de documentos.&#x20;
+A plataforma ArqSign permite inserir uma sequência para assinatura de Processos.&#x20;
 
 Para acessar a funcionalidade habilite a opção” Assinar na ordem abaixo” durante a configuração dos destinatários.&#x20;
 
 Insira os destinatários na ordem em que deseja as assinaturas.&#x20;
 
-Observe que aparece um campo chamado “Ordem” e que as pessoas deverão assinar o documento de acordo com essa ordem, sendo que o próximo e-mail só chegará após o anterior assinar o documento.
+Observe que aparece um campo chamado “Ordem” e que as pessoas deverão assinar o Processo de acordo com essa ordem, sendo que o próximo e-mail só chegará após o anterior realizar a assinatura.
 
 Caso queira que duas pessoas recebam o e-mail simultaneamente, utilize o mesmo número para elas.
 
@@ -1028,7 +1028,7 @@ Caso queira que duas pessoas recebam o e-mail simultaneamente, utilize o mesmo n
 
 <details>
 
-<summary>Como editar um documento após o envio?</summary>
+<summary>Como editar um documento após o envio do Processo?</summary>
 
 Por segurança, não é possível editar um documento após o envio.
 
@@ -1038,20 +1038,20 @@ Por segurança, não é possível editar um documento após o envio.
 
 <summary>Como solicitar assinatura em tablet?</summary>
 
-Para que um cliente assine um documento no tablet de um estabelecimento, basta seguir os seguintes passos:&#x20;
+Para que um cliente assine um Processo no tablet de um estabelecimento, basta seguir os seguintes passos:&#x20;
 
-1. Criar um e-mail genérico para ser utilizado no envio dos documentos a serem assinados no tablet como por exemplo: assinadoreletrônicodedocumentos@nomedoestabelecimento.com.br;
+1. Criar um e-mail genérico para ser utilizado no envio dos Processos a serem assinados no tablet como por exemplo: assinadoreletronicodedocumentos@nomedoestabelecimento.com.br;
 2. Criar um usuário para o e-mail acima;
 3. Logar na plataforma ArqSign com o usuário;
-4. Enviar documento para assinatura do cliente e solicitar as seguintes autenticações:
+4. Enviar Processo para assinatura do cliente e solicitar as seguintes autenticações:
 5. Nome
 6. Documento
 7. Anexar Foto com documento
 8. Habilitar a captura de geolocalização no tablet do estabelecimento
 
-Ao assinar o documento, a pessoa vai inserir, nome, documento e fazer uma Selfie com documento se possível mostrando a placa do estabelecimento.&#x20;
+Ao assinar o Processo, a pessoa vai inserir, nome, documento e fazer uma Selfie com documento (se possível mostrando a placa do estabelecimento).&#x20;
 
-As seguintes informações serão inseridas/anexadas ao documento:&#x20;
+As seguintes informações serão inseridas/anexadas ao Processo:&#x20;
 
 Autenticações:&#x20;
 
@@ -1094,7 +1094,7 @@ Se você não tem uma conta ArqSign, não se preocupe. Quando todas as assinatur
 
 <details>
 
-<summary>Como configurar a sua assinatura, representação visual de sua assinatura?</summary>
+<summary>Como configurar a representação visual de sua assinatura?</summary>
 
 No canto superior direito clique sobre sua foto ou espaço para foto;
 
@@ -1112,7 +1112,7 @@ Configure a representação visual de sua assinatura para os estilos:
 
 Clique em Salvar.
 
-Sempre que você for assinar um documento os estilos salvos serão exibidos para sua escolha.
+Sempre que você for assinar um Processo os estilos salvos serão exibidos para sua escolha.
 
 [Clique aqui](https://youtu.be/5PogsaN_qmk) e assista ao vídeo com o passo a passo.
 
@@ -1122,7 +1122,7 @@ Sempre que você for assinar um documento os estilos salvos serão exibidos para
 
 <summary>Como personalizar as configurações para Processo de Assinatura, Disponibilidade do link para documento assinado, lembretes e notificações da plataforma?</summary>
 
-Você pode personalizar as configurações padronizadas para fluxos e processos e se precisar ajustar lembretes e notificações durante a criação de um fluxo.&#x20;
+Você pode personalizar as configurações padronizadas e, se precisar, ajustar lembretes e notificações durante a criação de seus Processos.
 
 Para personalizar as configurações padronizadas siga o passo a passo:&#x20;
 
@@ -1134,14 +1134,14 @@ Para personalizar as configurações padronizadas siga o passo a passo:&#x20;
 Entenda em detalhes cada um dos itens personalizáveis:&#x20;
 
 * Configurações sobre o Processo de assinatura.
-* Tempo padrão em dias para expiração do documento a partir da data de envio.&#x20;
+* Tempo padrão em dias para expiração do Processo a partir da data de envio.&#x20;
 * Tempo padrão em dias para aviso antes da expiração.
 * Habilitar, desabilitar e definir periodicidade de lembretes para assinatura aos signatários pendentes.&#x20;
 * Configurações de disponibilidade do link para o documento assinado.
 * Configure o tempo padrão para expiração do link de acesso ao documento após a assinatura.&#x20;
 * Habilite, desabilite a opção de anexar arquivo menor que 20MB ao e-mail enviado na finalização das assinaturas.&#x20;
 * Configurações sobre lembretes para vencimento, renovação, reajuste.
-* Configure a recorrência de lembretes para vencimento, renovação, reajuste de documentos, fluxos.&#x20;
+* Configure a recorrência de lembretes para vencimento, renovação, reajuste de documentos, Processos.&#x20;
 * Em Outros, configure notificações em relação à conta.
 * Notificação para percentual de uso dos itens da conta.&#x20;
 * Notificação para lembrete de vencimento da assinatura.&#x20;
