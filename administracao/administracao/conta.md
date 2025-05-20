@@ -2,7 +2,7 @@
 
 No menu Conta encontram-se as informações sobre a conta do usuário.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ Na aba Dados Fiscais são apresentadas as informações ficais e financeiras do 
 
 Caso a conta do usuário seja de um plano gratuito, as informações estarão em branco, mas poderão ser editadas clicando-se no botão “Editar”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nesta aba são apresentadas as seguintes informações do usuário:
 
@@ -21,7 +21,8 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 * **Quantidade de Funcionários:** Quantidade de funcionários que a empresa em que o usuário atua possui.
 * **Tipo de Inscrição:** Tipo de inscrição da conta que pode ser CPF, CNPJ ou outros.
 * **Número de inscrição:** Número de inscrição da conta que deve ser preenchido de acordo com a opção escolhida no campo “Tipo de Inscrição”.
-* **Idioma default para novos usuários:** Idioma em que a plataforma será apresentada para novos usuários associados à conta, que pode ser Português, Inglês ou Espanhol. &#x20;
+* **Idioma default para novos usuários:** Idioma em que a plataforma será apresentada para novos usuários associados à conta, que pode ser Português, Inglês ou Espanhol.
+* **Nome do aplicativo:** Este dado será exibido no histórico das assinaturas dos documentos que forem enviados através da nossa API de Integração que possuam o parâmetro “retornarLinkProcesso = 1”
 * **Endereço:** Endereço residencial ou comercial do usuário ou empresa.
 * **Número:** Número da residência ou imóvel comercial.
 * **Complemento:** Complemento do endereço.
@@ -31,7 +32,7 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 * **Estado:** Estado do usuário ou empresa.
 * **Cidade:** Cidade do usuário ou empresa.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
