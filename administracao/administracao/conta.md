@@ -22,7 +22,7 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 * **Tipo de Inscrição:** Tipo de inscrição da conta que pode ser CPF, CNPJ ou outros.
 * **Número de inscrição:** Número de inscrição da conta que deve ser preenchido de acordo com a opção escolhida no campo “Tipo de Inscrição”.
 * **Idioma default para novos usuários:** Idioma em que a plataforma será apresentada para novos usuários associados à conta, que pode ser Português, Inglês ou Espanhol.
-* **Nome do aplicativo:** Este dado será exibido no histórico das assinaturas dos documentos que forem enviados através da nossa API de Integração que possuam o parâmetro “retornarLinkProcesso = 1”. Este campo não altera nenhum parâmetro para envios de Processos através da plataforma.
+* **Nome do aplicativo:** Este dado será exibido no histórico das assinaturas dos documentos que forem enviados através da nossa [API de Integração que possuam o parâmetro “retornarLinkProcesso = 1”](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar). Este campo não altera nenhum parâmetro para envios de Processos através da plataforma.
 * **Endereço:** Endereço residencial ou comercial do usuário ou empresa.
 * **Número:** Número da residência ou imóvel comercial.
 * **Complemento:** Complemento do endereço.
