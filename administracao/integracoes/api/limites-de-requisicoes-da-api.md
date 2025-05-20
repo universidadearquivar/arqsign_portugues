@@ -6,7 +6,7 @@ O limite rate é uma medida para proteger a aplicação de ataques ou mal uso do
 
 Ele é determinado com base no número de solicitações que o aplicativo do cliente envia ao software em uma janela de tempo. Este limite é por conta ArqSIGN, e a janela de tempo controlada são as listadas abaixo:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (269).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O limite rate garante a estabilidade e segurança dos serviços para os clientes. Entretanto, se o seu negócio tem uma demanda maior do que a mencionada acima, temos um Plano Personalizado para atender à sua demanda sem prejudicar a estabilidade e a segurança dos serviços.
 
