@@ -8,6 +8,14 @@ icon: rectangle-history
 
 <details>
 
+<summary>2.15.0 - 20/05/2025</summary>
+
+* Ajuste da API [enviar processo para assinar](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar):
+
+</details>
+
+<details>
+
 <summary>2.8.0 - 30/01/2025</summary>
 
 * Ajuste da API [buscar dados da assinatura da conta](api/metodos-disponiveis-na-api/get-api-v1-conta-dados-assinatura.md):
