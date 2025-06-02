@@ -119,6 +119,8 @@ Este erro é retornado quando:
 
 &#x20;Status 200 - Success
 
+O sistema deve retornar o consumo dos itens no período informado. Não deve contabilizar **itens de envios** dos processos que foram cancelados no período informado.
+
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ### Dados da Conta
@@ -149,7 +151,7 @@ O sistema retorna o nome da conta.
 
 > **quantidade**
 >
-> O sistema retorna a quantidade de uso para o item em questão no período informado na requisição.
+> O sistema retorna a quantidade de uso para o item em questão no período informado na requisição. Não contabiliza **itens de envios** dos processos que foram cancelados no período informado.
 
 ### Retorno - Exemplo Body Response
 
