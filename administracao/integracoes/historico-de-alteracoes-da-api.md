@@ -8,6 +8,80 @@ icon: rectangle-history
 
 <details>
 
+<summary>2.16.0 - 02/06/2025</summary>
+
+O foco desta versão está no retorno de dados dos endpoints abaixo:&#x20;
+
+[**API de integração: Método GET api/v1/processo{idProcesso}/status-do-processo** ](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo)
+
+Descrição: Buscar status do processo de assinaturas V1.&#x20;
+
+Objetivo do Método: Este serviço permite aos Clientes, via API, buscar o status de um processo, não excluído logicamente&#x20;
+
+**Alteração:** retornar também o parâmetro idStatus&#x20;
+
+
+
+[**API de integração: Método GET api /v1 /processo /{idProcesso}/dados-signatarios** ](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.5.get-api-v1-processo-idprocesso-dados-signatarios)
+
+Descrição: Buscar dados dos signatários V1.&#x20;
+
+Objetivo do Método: Este serviço permite aos Clientes, via API, buscar os dados dos signatários do processo, não excluído logicamente, com ação de Assinar Online (tipoAcao = 1)&#x20;
+
+Não deve retornar dados dos signatários com ação de Receber Cópia (tipoAcao = 2)&#x20;
+
+**Alteração:** Retornar também os parâmetros&#x20;
+
+"idStatus"&#x20;
+
+"dataConclusao"&#x20;
+
+"dataCancelamento"&#x20;
+
+"usuarioCancelamento"&#x20;
+
+"idTipoAcao"&#x20;
+
+"falhaEnvioCodigoSeguranca"&#x20;
+
+"dataAssinatura"&#x20;
+
+"assinaturaRecusada"&#x20;
+
+"motivoRecusa"&#x20;
+
+"anexos" \["id", "anexoDocumentoNome"]&#x20;
+
+&#x20;
+
+[**API de integração: Método GET api/v2/processo/{idProcesso}"** ](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso)
+
+Alteração: Retornar também os parâmetros&#x20;
+
+idStatus&#x20;
+
+idTipoAcao&#x20;
+
+idTipoAssinatura&#x20;
+
+falhaEnvioCodigoSeguranca&#x20;
+
+LinkDocumentoCompartilhado&#x20;
+
+&#x20;
+
+[**API de integração: Método: POST api/v1/conta/buscar-consumo-itens-assinatura**  ](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.2.post-api-v1-conta-buscar-consumo-itens-assinatura)
+
+Descrição: Buscar o uso e consumo dos itens da assinatura da conta V1. &#x20;
+
+Objetivo do Método: Este serviço permite buscar a quantidade do item de envios (Envios, WhatsApp, SMS) que a conta usou em determinado período. &#x20;
+
+**Alteração:** Ajustado o retorno deste endpoint para não contabilizar itens de envios processos cancelados no período consultado.&#x20;
+
+</details>
+
+<details>
+
 <summary>2.15.0 - 20/05/2025</summary>
 
 * Ajuste da API [enviar processo para assinar](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar):
