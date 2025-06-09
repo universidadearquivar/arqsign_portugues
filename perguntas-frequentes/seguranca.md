@@ -4,7 +4,7 @@ A Arquivar tem mais de trinta e um anos de experiência na prestação de servi�
 
 Nossas soluções atendem a mais de 2.500 clientes e 20.000 usuários.&#x20;
 
-A partir desse know-how, a Arquivar desenvolveu a ArqSign – uma plataforma que permite a assinatura eletrônica e digital de documentos, em total conformidade com a legislação brasileira, portanto com 100% de validade jurídica.
+A partir desse know-how, a Arquivar desenvolveu a ArqSign – uma plataforma que permite a assinatura eletrônica e digital de documentos e a gestão completa dos processos de assinatura e documentos, em total conformidade com a legislação brasileira, portanto com 100% de validade jurídica.
 
 <details>
 
@@ -75,11 +75,11 @@ Este documento estabelece os requisitos a serem obrigatoriamente observados pela
 
 A ArqSign garante que o arquivo assinado por todos os participantes do fluxo seja sempre o mesmo através de seu processo exclusivo de assinatura!&#x20;
 
-Sempre que um signatário assina um documento sem seu próprio Certificado Digital, a Arqsign aplica um Certificado Digital da plataforma, capturando o _Hash_ (identificação única) do arquivo, verifica a integridade do arquivo e anexa ao Certificado a identificação do signatário.&#x20;
+Sempre que um signatário assina um documento sem seu próprio Certificado Digital, a ArqSign aplica um Certificado Digital da plataforma, capturando o _Hash_ (identificação única) do arquivo, verifica a integridade do arquivo e anexa ao Certificado a identificação do signatário.&#x20;
 
-Quando o usuário já possui um certificado digital e deseja utilizá-lo para realizar a assinatura através da ArqSign, utilizamos este certificado para verificar a integridade e identificá-lo como signatário no documento. &#x20;
+Quando o usuário já possui um certificado digital e deseja utilizá-lo para realizar a assinatura através da ArqSign, utilizamos este certificado para verificar a integridade e identificá-lo como signatário no processo. &#x20;
 
-Aplicar um certificado digital ao documento para cada ato de assinatura é o único meio possível de assegurar o nível de segurança da assinatura avançada ou qualificada descritas na Lei nº 14.063, de 23 de setembro de 2020.
+Aplicar um certificado digital ao processo para cada ato de assinatura é o único meio possível de assegurar o nível de segurança da assinatura avançada ou qualificada descritas na Lei nº 14.063, de 23 de setembro de 2020.
 
 </details>
 
