@@ -20,12 +20,12 @@ Todos os planos oferecem:
 
 <summary>Planos Anuais – Economia e Mais Benefícios</summary>
 
-<mark style="color:purple;">✅</mark><mark style="color:purple;">**Plano Profissional Anual – 240 envios**</mark>
+<mark style="color:purple;">✅</mark><mark style="color:purple;">**Plano Profissional Anual – 240 processos**</mark>
 
 Ideal para profissionais que precisam de um fluxo contínuo de assinaturas digitais.
 
 🔹 O que inclui?\
-✔ 240 envios (fluxos) por e-mail ao longo de 12 meses.\
+✔ 240 processos de assinatura com envio por e-mail grátis ao longo de 12 meses.\
 ✔ Armazenamento e usuários ilimitados.\
 ✔ API de integração para automatizar processos.
 
@@ -34,33 +34,33 @@ Ideal para profissionais que precisam de um fluxo contínuo de assinaturas digit
 📜 Faturamento e Nota Fiscal:
 
 * Cobrança anual via cartão de crédito.
-* Nota fiscal emitida mensalmente, após a cobrança.
+* Nota fiscal emitida por parcela, após a cobrança.
 
 📌 Opcionais:\
-➕ Envio adicional: R$1,00 por envio.\
+➕ Processo adicional: R$1,00 por envio.\
 ➕ Autenticação por SMS: R$0,25 por autenticação.\
 ➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
 ➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
 
 
 
-✅ <mark style="color:purple;">**Plano Empresarial Anual – 600 envios**</mark>\
+✅ <mark style="color:purple;">**Plano Empresarial Anual – 600 processos**</mark>\
 Perfeito para empresas que buscam mais eficiência e automação nos processos de assinatura.
 
 🔹 O que inclui?\
-✔ 600 envios (fluxos) por e-mail ao longo de 12 meses.\
+✔ 600 processos de assinatura com envio por e-mail ao longo de 12 meses.\
 ✔ Armazenamento e usuários ilimitados.\
-✔ API de integração para otimizar fluxos de trabalho.
+✔ API de integração para otimizar processos.
 
 💰 Investimento: R$ 478,00 à vista ou em até 12x de R$39,90 sem juros no cartão de crédito.
 
 📜 Faturamento e Nota Fiscal:
 
 * Cobrança anual via cartão de crédito.
-* Nota fiscal emitida mensalmente, após a cobrança.
+* Nota fiscal emitida por parcela, após a cobrança.
 
 📌 Opcionais:\
-➕ Envio adicional: R$0,80 por envio.\
+➕ Processo adicional: R$0,80 por envio.\
 ➕ Autenticação por SMS: R$0,25 por autenticação.\
 ➕ Autenticação por WhatsApp: R$0,60 por autenticação.\
 ➕ Envio de mensagem por WhatsApp: R$0,60 por mensagem.
@@ -71,7 +71,7 @@ Perfeito para empresas que buscam mais eficiência e automação nos processos d
 Para empresas que demandam um volume ilimitado de assinaturas digitais.
 
 🔹 O que inclui?\
-✔ Envios ilimitados por e-mail.\
+✔ Processos de assinatura com envio por e-mail.\
 ✔ Armazenamento e usuários ilimitados.\
 ✔ API de integração para máxima produtividade.
 
@@ -81,7 +81,7 @@ R$ 838,80 à vista ou em até 12x de R$69,90 sem juros no cartão de crédito.
 📜 Faturamento e Nota Fiscal:
 
 * Cobrança anual via cartão de crédito.
-* Nota fiscal emitida mensalmente, após a cobrança.
+* Nota fiscal emitida por parcela após a cobrança.
 
 📌 Opcionais:\
 ➕ Autenticação por SMS: R$0,25 por autenticação.\
