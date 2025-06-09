@@ -354,23 +354,23 @@ Os créditos de WhatsApp não utilizados até o final do período expiram..&#x20
 
 <mark style="color:purple;">**Sobre o envio de documentos para assinaturas**</mark>
 
-Na ArqSign, os planos funcionam com base nos ENVIOS, que são como envelopes digitais. Com apenas 1 ENVIO, você pode configurar até 25 documentos (totalizando até 100MB) e incluir quantos signatários forem necessários—tudo isso pagando apenas 1 ENVIO.
+Na ArqSign, os planos funcionam com base nos Processos, que são como envelopes digitais. Em apenas 1 PROCESSO, você pode configurar até 25 documentos (totalizando até 100MB) e incluir quantos signatários forem necessários—tudo isso pagando apenas 1 PROCESSO.
 
-<mark style="color:purple;">**Como funciona o consumo ao enviar documentos?**</mark>
+<mark style="color:purple;">**Como funciona o consumo ao enviar processos?**</mark>
 
-Você pode enviar documentos para assinatura por e-mail ou WhatsApp.
+Você pode enviar processos para assinatura por e-mail ou WhatsApp.
 
-✅ **Envio por e-mail:**
+✅**Processos com Envio por e-mail:**
 
-Quando você envia um documento para assinatura por e-mail, a ArqSign cuida de tudo! O sistema envia diretamente ao signatário e, assim que ele assina, a plataforma encaminha automaticamente o documento finalizado para todos os envolvidos.
+Quando você envia um processo para assinatura por e-mail, a ArqSign cuida de tudo! O sistema envia diretamente ao signatário e, assim que ele assina, a plataforma encaminha automaticamente o documento finalizado para todos os envolvidos.
 
 ➡️ Consumo: 1 CRÉDITO DE ENVIO DO PLANO
 
 &#x20;
 
-✅ **Envio por WhatsApp:**
+✅**Processos com** **Envio por WhatsApp:**
 
-O envio via WhatsApp funciona de forma diferente porque conta com nossa integração direta com o WhatsApp Business, garantindo mais segurança e rastreabilidade. Quando um documento é enviado para assinatura pelo WhatsApp:
+O Processo com envio via WhatsApp funciona de forma diferente porque conta com nossa integração direta com o WhatsApp Business, garantindo mais segurança e rastreabilidade. Quando um documento é enviado para assinatura pelo WhatsApp:
 
 1️ - A ArqSign o envia para o WhatsApp Business integrado.
 
