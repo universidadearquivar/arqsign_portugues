@@ -58,7 +58,7 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 
 <figure><img src="../.gitbook/assets/lote08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-3\. O próximo passo será definir o [Estilo de Assinatura](novo-documento.md#b.-destinatarios), que pode ser um padrão, um desenho ou uma imagem. Depois de escolhido, clique em “Concluir”. &#x20;
+3\. O próximo passo será definir o [Estilo de Assinatura](novo-processo.md#b.-destinatarios), que pode ser um padrão, um desenho ou uma imagem. Depois de escolhido, clique em “Concluir”. &#x20;
 
 <figure><img src="../.gitbook/assets/lote09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

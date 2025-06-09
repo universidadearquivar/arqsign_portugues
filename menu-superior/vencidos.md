@@ -1,6 +1,6 @@
 # ⏱️ Vencidos
 
-No menu Vencidos são apresentados todos os documentos enviados pelo usuário para assinatura, mas que não foram concluídos dentro do prazo estipulado no campo “**Tempo para expiração do documento após o envio**”, na tela [Novo Documento > Adicionar Documentos e Destinatários > Configurações Avançadas.](novo-documento.md#configuracoes-avancadas)&#x20;
+No menu Vencidos são apresentados todos os documentos enviados pelo usuário para assinatura, mas que não foram concluídos dentro do prazo estipulado no campo “**Tempo para expiração do documento após o envio**”, na tela [Novo Documento > Adicionar Documentos e Destinatários > Configurações Avançadas.](novo-processo.md#configuracoes-avancadas)&#x20;
 
 <figure><img src="../.gitbook/assets/vencidos01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

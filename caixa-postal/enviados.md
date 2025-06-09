@@ -68,7 +68,7 @@ Ao clicar em "reenviar" serão exibidas as informações de ordem de envio para 
 
 
 
-No ícone “Editar”, é possível realizar a edição das informações do destinatário, bem como as informações definidas para validação do documento nas[ **configurações do destinatário**](../menu-superior/novo-documento.md#informacoes-complementares-de-assinatura).
+No ícone “Editar”, é possível realizar a edição das informações do destinatário, bem como as informações definidas para validação do documento nas[ **configurações do destinatário**](../menu-superior/novo-processo.md#informacoes-complementares-de-assinatura).
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

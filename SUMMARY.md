@@ -14,7 +14,7 @@
 
 ## MENU SUPERIOR
 
-* [➕ Novo Documento](menu-superior/novo-documento.md)
+* [➕ Novo Processo](menu-superior/novo-processo.md)
 * [✍️ Assinatura de Documentos](menu-superior/assinatura-de-documentos.md)
 * [🖊️ Assinatura em Lote](menu-superior/assinatura-em-lote.md)
 * [⏱️ Vencidos](menu-superior/vencidos.md)

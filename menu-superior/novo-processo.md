@@ -1,6 +1,6 @@
-# ➕ Novo Documento
+# ➕ Novo Processo
 
-Na tela Novo Documento o usuário poderá cadastrar um ou mais documentos que será(ão) enviado(s) a signatários para assinatura.
+Na tela Novo Processo o usuário poderá cadastrar um ou mais documentos que será(ão) enviado(s) a signatários para assinatura.
 
 ## Etapa 1: Adicionar Documentos e Destinatários
 
@@ -222,7 +222,7 @@ Quando o processo possui um ou mais documentos **agrupados**, o sistema exibe o 
 Quando o processo possui um ou mais documentos **não agrupados**, o sistema exibe:
 
 * Na parte superior da tela, o **nome do documento** que está sendo exibido;
-* No canto esquerdo da tela, a **lista de documentos do processo** ordenados conforme a configuração de ordem definida na [Etapa 01](novo-documento.md#etapa-1-adicionar-documentos-e-destinatarios), sinalizando se o documento está sendo visualizado ou não. Ao clicar sobre o documento, o sistema o exibirá na tela.&#x20;
+* No canto esquerdo da tela, a **lista de documentos do processo** ordenados conforme a configuração de ordem definida na [Etapa 01](novo-processo.md#etapa-1-adicionar-documentos-e-destinatarios), sinalizando se o documento está sendo visualizado ou não. Ao clicar sobre o documento, o sistema o exibirá na tela.&#x20;
 
 <figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -230,9 +230,9 @@ Quando o processo possui um ou mais documentos **não agrupados**, o sistema exi
 
 #### Representação da assinatura
 
-Ao clicar no documento, o sistema exibe a modal de configuração da representação visual listando os signatários pendentes de configuração da representação da assinatura ordenados alfabeticamente ou conforme a ordem de assinatura definida na [etapa 01.](novo-documento.md#etapa-1-adicionar-documentos-e-destinatarios)
+Ao clicar no documento, o sistema exibe a modal de configuração da representação visual listando os signatários pendentes de configuração da representação da assinatura ordenados alfabeticamente ou conforme a ordem de assinatura definida na [etapa 01.](novo-processo.md#etapa-1-adicionar-documentos-e-destinatarios)
 
-Para cada documento listado, o sistema exibe a(s) respectiva(s) representação(ões) para cada signatário(s) conforme o tipo de assinatura definida na [etapa 01](novo-documento.md#etapa-1-adicionar-documentos-e-destinatarios) (campo "Este Destinatário irá"), possibilitando ao usuário configurar a representação para cada signatário(s) com ação de assinar online em cada documento.
+Para cada documento listado, o sistema exibe a(s) respectiva(s) representação(ões) para cada signatário(s) conforme o tipo de assinatura definida na [etapa 01](novo-processo.md#etapa-1-adicionar-documentos-e-destinatarios) (campo "Este Destinatário irá"), possibilitando ao usuário configurar a representação para cada signatário(s) com ação de assinar online em cada documento.
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -240,7 +240,7 @@ Ao incluir a configuração da representação visual, a aplicação exibe a rep
 
 {% embed url="https://www.loom.com/share/dfb44bd047c448498f448411c1fc649b?sid=ebbec9e3-d856-420c-88d0-44a5c01f82e9" %}
 
-Se na [Etapa 1](novo-documento.md#b.-destinatarios) tiver sido definido que o destinatário irá assinar como pessoa física e jurídica, serão exibidos dois quadros com o nome do destinatário na mesma cor.  Os quadros de cada um dos destinatários serão exibidos em cores diferentes para sinalizar visualmente onde cada um deverá assinar.&#x20;
+Se na [Etapa 1](novo-processo.md#b.-destinatarios) tiver sido definido que o destinatário irá assinar como pessoa física e jurídica, serão exibidos dois quadros com o nome do destinatário na mesma cor.  Os quadros de cada um dos destinatários serão exibidos em cores diferentes para sinalizar visualmente onde cada um deverá assinar.&#x20;
 
 #### Modal de representação visual de assinatura para processo com um documento ou mais  documentos agrupados
 
@@ -268,7 +268,7 @@ No canto direito superior da tela, é exibido o campo **"Configurações para"**
 
 <figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Se não houver ordem de assinaturas configurada na [Etapa 1](novo-documento.md#etapa-1-adicionar-documentos-e-destinatarios), o item "**Configurações para**" mostra a lista dos signatários ordenados alfabeticamente. Já se houver ordem de assinaturas configurada, a lista dos signatários estará agrupada por ordem de assinaturas e ordenados alfabeticamente.&#x20;
+Se não houver ordem de assinaturas configurada na [Etapa 1](novo-processo.md#etapa-1-adicionar-documentos-e-destinatarios), o item "**Configurações para**" mostra a lista dos signatários ordenados alfabeticamente. Já se houver ordem de assinaturas configurada, a lista dos signatários estará agrupada por ordem de assinaturas e ordenados alfabeticamente.&#x20;
 
 <figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -281,13 +281,13 @@ Caso o usuário não deseje inserir as assinaturas manualmente no documento, pod
 O **Envio Simplificado** permite ao usuário que envie o processo sem o ajuste manual da posição da assinatura, desta forma a plataforma insere uma página de forma automática ao final do documento,  com as representações das assinaturas, considerando as configurações definidas anteriormente na inserção dos documentos e as seguintes regras:&#x20;
 
 {% hint style="info" %}
-* **Se o campo "Agrupar os arquivos em único documento" da** [**Etapa 1**](novo-documento.md#etapa-1-adicionar-documentos-e-destinatarios) **estiver desmarcado:**&#x20;
+* **Se o campo "Agrupar os arquivos em único documento" da** [**Etapa 1**](novo-processo.md#etapa-1-adicionar-documentos-e-destinatarios) **estiver desmarcado:**&#x20;
 
 A plataforma **insere uma página ao final de cada documento** com a posição da assinatura de cada destinatário com ação de Assinar Online, conforme o tipo de assinatura de cada um (Pessoa Física e/ou Pessoa Jurídica) configurada no campo "Este Destinatário irá".
 
 
 
-* **Se o campo "Agrupar os arquivos em único documento" da** [**Etapa 1** ](novo-documento.md#etapa-1-adicionar-documentos-e-destinatarios)**estiver marcado:**&#x20;
+* **Se o campo "Agrupar os arquivos em único documento" da** [**Etapa 1** ](novo-processo.md#etapa-1-adicionar-documentos-e-destinatarios)**estiver marcado:**&#x20;
 
 A plataforma **insere uma página ao final do documento** com a posição da assinatura de cada destinatário com ação de Assinar Online, conforme o tipo de assinatura de cada um (Pessoa Física e/ou Pessoa Jurídica) configurada no campo "Este Destinatário irá".
 {% endhint %}
@@ -312,7 +312,7 @@ O campo "**Configurações para**" exibe o nome dos destinatários selecionados 
 <mark style="color:blue;">• Se</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**houver**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">ordem de assinaturas configurada, a plataforma lista os signatários agrupados por ordem de assinaturas e alfabeticamente.</mark>
 {% endhint %}
 
-Dependendo do tipo de assinatura definido para o destinatário na [Etapa 1](novo-documento.md#b.-destinatarios) serão exibidos os campos “**Informações Complementares de Assinatura**”. Esses campos só serão exibidos se na [Etapa 1 no campo “Tipo de Assinatura”](novo-documento.md#b.-destinatarios) tiver sido escolhida a opção “Assinatura Eletrônica”.
+Dependendo do tipo de assinatura definido para o destinatário na [Etapa 1](novo-processo.md#b.-destinatarios) serão exibidos os campos “**Informações Complementares de Assinatura**”. Esses campos só serão exibidos se na [Etapa 1 no campo “Tipo de Assinatura”](novo-processo.md#b.-destinatarios) tiver sido escolhida a opção “Assinatura Eletrônica”.
 
 Se a assinatura for como Pessoa Física, é possível exigir do destinatário dados como nome e documento, marcando a opção “Nome da Pessoa Física” preenchimento obrigatório e selecionando um dos documentos da lista “Documento da Pessoa Física”.&#x20;
 

@@ -4,7 +4,7 @@
 
 <summary>Nova possibilidade de filtro</summary>
 
-Possibilidade de filtrar os[ destinatários](../menu-superior/novo-documento.md#b.-destinatarios) por nome, e-mail ou WhatsApp.
+Possibilidade de filtrar os[ destinatários](../menu-superior/novo-processo.md#b.-destinatarios) por nome, e-mail ou WhatsApp.
 
 </details>
 

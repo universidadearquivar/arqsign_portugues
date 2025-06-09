@@ -1,6 +1,6 @@
 # 🗓️ Renovações
 
-No menu Renovações são apresentados todos os documentos que foram cadastrados e enviados para assinatura com a opção “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-documento.md#a.-adicionar-documentos). Só podem ser exibidos nesta tela documentos com o status “Concluído”.
+No menu Renovações são apresentados todos os documentos que foram cadastrados e enviados para assinatura com a opção “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos). Só podem ser exibidos nesta tela documentos com o status “Concluído”.
 
 <figure><img src="../.gitbook/assets/renovacoes01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -24,7 +24,7 @@ No menu Renovações são apresentados todos os documentos que foram cadastrados
 
 **Coluna Concluído:** Informações sobre a data e hora em que o processo de assinatura do documento foi concluído. &#x20;
 
-**Coluna Renovação:** Esta coluna exibe a data e hora em que o documento deverá ser renovado, de acordo com a informação inserida no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-documento.md#a.-adicionar-documentos). São exibidos tanto documentos que têm data futura de renovação quanto aqueles que já passaram do prazo, mas ainda não foram renovados.&#x20;
+**Coluna Renovação:** Esta coluna exibe a data e hora em que o documento deverá ser renovado, de acordo com a informação inserida no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos). São exibidos tanto documentos que têm data futura de renovação quanto aqueles que já passaram do prazo, mas ainda não foram renovados.&#x20;
 
 **Coluna Ações:** Esta coluna exibe botões de ação sobre o documento. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do documento.&#x20;
 
@@ -40,7 +40,7 @@ No menu Renovações são apresentados todos os documentos que foram cadastrados
 
 #### **Renovar**
 
-Esta ação estará disponível caso o documento tenha alcançado a data e hora programados para sua programação no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-documento.md#a.-adicionar-documentos). Ao clicar neste botão o usuário será direcionado para a tela “Adicionar documentos e destinatários” com as informações de destinatários preenchidas com as mesmas informações do fluxo anterior para que faça novamente a configuração e envio do novo documento para os destinatários.&#x20;
+Esta ação estará disponível caso o documento tenha alcançado a data e hora programados para sua programação no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos). Ao clicar neste botão o usuário será direcionado para a tela “Adicionar documentos e destinatários” com as informações de destinatários preenchidas com as mesmas informações do fluxo anterior para que faça novamente a configuração e envio do novo documento para os destinatários.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Mesmo depois de renovar o documento e enviá-lo aos destinatários, o documento será listado na tela Renovações até que todos os signatários concluam a assinatura.**</mark> &#x20;

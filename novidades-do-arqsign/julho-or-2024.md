@@ -22,11 +22,11 @@ Para mais detalhes, acesse [<mark style="color:blue;">**Administração > Conta 
 
 O passo 1 foi atualizado e trouxe uma série de melhorias nas etapas de:&#x20;
 
-[<mark style="color:blue;">**• Configurações Avançadas**</mark>](../menu-superior/novo-documento.md#configuracoes-avancadas)
+[<mark style="color:blue;">**• Configurações Avançadas**</mark>](../menu-superior/novo-processo.md#configuracoes-avancadas)
 
-[<mark style="color:blue;">**• Upload de arquivos**</mark> ](../menu-superior/novo-documento.md#adicionar-documentos-upload-de-arquivos)
+[<mark style="color:blue;">**• Upload de arquivos**</mark> ](../menu-superior/novo-processo.md#adicionar-documentos-upload-de-arquivos)
 
-[<mark style="color:blue;">**• Destinatários**</mark>](../menu-superior/novo-documento.md#destinatarios)
+[<mark style="color:blue;">**• Destinatários**</mark>](../menu-superior/novo-processo.md#destinatarios)
 
 Clicando em cada uma das etapas, é possível conferir todas as novidades.
 
@@ -38,15 +38,15 @@ Clicando em cada uma das etapas, é possível conferir todas as novidades.
 
 As atualizações realizadas no passo 2, trouxeram novidades nas etapas:&#x20;
 
-[<mark style="color:blue;">**• Posicionar as assinaturas automaticamente em uma página ao final do documento, que foi substituída pelo “Envio Simplificado".**</mark> ](../menu-superior/novo-documento.md#envio-simplificado)
+[<mark style="color:blue;">**• Posicionar as assinaturas automaticamente em uma página ao final do documento, que foi substituída pelo “Envio Simplificado".**</mark> ](../menu-superior/novo-processo.md#envio-simplificado)
 
-[<mark style="color:blue;">**• Documentos do processo - Processo com um ou mais documentos agrupados**</mark> ](../menu-superior/novo-documento.md#processo-com-um-documento-ou-mais-documentos-agrupados)
+[<mark style="color:blue;">**• Documentos do processo - Processo com um ou mais documentos agrupados**</mark> ](../menu-superior/novo-processo.md#processo-com-um-documento-ou-mais-documentos-agrupados)
 
-[<mark style="color:blue;">**• Documentos do processo - Processo com um ou mais documentos não agrupados**</mark> ](../menu-superior/novo-documento.md#processo-com-mais-de-um-documento-nao-agrupados)
+[<mark style="color:blue;">**• Documentos do processo - Processo com um ou mais documentos não agrupados**</mark> ](../menu-superior/novo-processo.md#processo-com-mais-de-um-documento-nao-agrupados)
 
-[<mark style="color:blue;">**• Dados de assinatura e anexos**</mark> ](../menu-superior/novo-documento.md#informacoes-complementares-de-assinatura)
+[<mark style="color:blue;">**• Dados de assinatura e anexos**</mark> ](../menu-superior/novo-processo.md#informacoes-complementares-de-assinatura)
 
-[<mark style="color:blue;">**• Representação da Assinatura, processo com um documento ou mais documentos agrupados e processo com mais de um documento não agrupado.**</mark> ](../menu-superior/novo-documento.md#representacao-da-assinatura)
+[<mark style="color:blue;">**• Representação da Assinatura, processo com um documento ou mais documentos agrupados e processo com mais de um documento não agrupado.**</mark> ](../menu-superior/novo-processo.md#representacao-da-assinatura)
 
 Clicando em cada uma das etapas, é possível conferir todas as novidades.
 

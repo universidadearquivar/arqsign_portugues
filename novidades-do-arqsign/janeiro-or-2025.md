@@ -14,6 +14,6 @@ O sistema passa a [sinalizar os processos com falha de envio](../caixa-postal/en
 
 <summary>Limite de quantidade de arquivos no envio de processos</summary>
 
-Implementado o[ limite máximo de 50 arquivos para upload de processos.](../menu-superior/novo-documento.md#a.-adicionar-documentos-upload-de-arquivos) Foi mantido o tamanho máximo de 35Mb por arquivo e o limite de 100Mb no total.
+Implementado o[ limite máximo de 50 arquivos para upload de processos.](../menu-superior/novo-processo.md#a.-adicionar-documentos-upload-de-arquivos) Foi mantido o tamanho máximo de 35Mb por arquivo e o limite de 100Mb no total.
 
 </details>

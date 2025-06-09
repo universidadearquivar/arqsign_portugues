@@ -156,7 +156,7 @@ Se também tiver sido solicitado ao signatário anexar arquivos, no campo “Ane
 
 ## Etapa 3 - Estilo de Assinatura
 
-O Estilo de Assinatura é a representação visual da assinatura do usuário. Para concluir a assinatura de um documento, o usuário deverá escolher de que forma irá assinar, considerando as configurações realizadas pelo destinatário em [Novo Documento](novo-documento.md#b.-destinatarios). Neste momento o destinatário deverá informar qual a representação visual  deve ser utilizada pelo signatário: "Padrão, Desenho ou Imagem", ou somente "Padrão (Texto)" ou somente "Desenho" ou somente "Imagem".
+O Estilo de Assinatura é a representação visual da assinatura do usuário. Para concluir a assinatura de um documento, o usuário deverá escolher de que forma irá assinar, considerando as configurações realizadas pelo destinatário em [Novo Documento](novo-processo.md#b.-destinatarios). Neste momento o destinatário deverá informar qual a representação visual  deve ser utilizada pelo signatário: "Padrão, Desenho ou Imagem", ou somente "Padrão (Texto)" ou somente "Desenho" ou somente "Imagem".
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -359,7 +359,7 @@ Concluído o processo de assinatura, o destinatário recebe a a notificação de
 
 <figure><img src="../.gitbook/assets/sign11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Se o remetente tiver definido que deverá ser gerado um QR Code no Registro de Assinaturas na tela [Configurações Avançadas do cadastro do documento](novo-documento.md#configuracoes-avancadas), esse QR Code será exibido na folha de registro das assinaturas.&#x20;
+Se o remetente tiver definido que deverá ser gerado um QR Code no Registro de Assinaturas na tela [Configurações Avançadas do cadastro do documento](novo-processo.md#configuracoes-avancadas), esse QR Code será exibido na folha de registro das assinaturas.&#x20;
 
 <figure><img src="../.gitbook/assets/assinatura18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

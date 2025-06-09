@@ -4,7 +4,7 @@
 
 <summary>Representação Visual Assinatura</summary>
 
-Agora o remetente pode definir qual a [**representação visual** ](../menu-superior/novo-documento.md#b.-destinatarios)deve ser utilizada pelos signatários no Passo 01 do processo de assinatura.
+Agora o remetente pode definir qual a [**representação visual** ](../menu-superior/novo-processo.md#b.-destinatarios)deve ser utilizada pelos signatários no Passo 01 do processo de assinatura.
 
 </details>
 
@@ -12,7 +12,7 @@ Agora o remetente pode definir qual a [**representação visual** ](../menu-supe
 
 <summary>Validação de dados do(s) signatário(s) para assinatura de documentos</summary>
 
-O remetente pode definir uma [**validação de dados do signatário**](../menu-superior/novo-documento.md#informacoes-complementares-de-assinatura) na configuração da assinatura, determinado uma informação que deve ser validada pelo signatário no momento da assinatura.&#x20;
+O remetente pode definir uma [**validação de dados do signatário**](../menu-superior/novo-processo.md#informacoes-complementares-de-assinatura) na configuração da assinatura, determinado uma informação que deve ser validada pelo signatário no momento da assinatura.&#x20;
 
 **Exemplo:** O remetente configurou para que o signatário valide o número de CPF 123.456.789-00. No momento da assinatura o signatário precisa validar esse número para efetivar a assinatura do documento.
 

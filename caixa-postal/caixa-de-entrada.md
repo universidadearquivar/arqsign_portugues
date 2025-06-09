@@ -146,7 +146,7 @@ Quando realizado o compartilhamento de mais documentos do processo, é apresenta
 
 #### **Alterar Agendamento da Renovação**
 
-&#x20;Esta opção só será exibida se o usuário além de signatário for também o remetente do documento. Utilizada para alterar ou incluir um prazo de renovação do documento estipulado anteriormente no menu [Novo Documento > Adicionar Documentos](../menu-superior/novo-documento.md#a.-adicionar-documentos).
+&#x20;Esta opção só será exibida se o usuário além de signatário for também o remetente do documento. Utilizada para alterar ou incluir um prazo de renovação do documento estipulado anteriormente no menu [Novo Documento > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos).
 
 <figure><img src="../.gitbook/assets/caixa_entrada14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

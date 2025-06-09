@@ -3,7 +3,7 @@
 No menu Rascunhos são exibidos todos os documentos que começaram a ser configurados para recolhimento das assinaturas na tela Novo Documento, mas que não tiveram essa configuração concluída e não foram enviados aos destinatários.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Para salvar um documento como Rascunho o usuário deve clicar em “Concluir Mais Tarde” no momento da criação do documento, na tela**</mark> [<mark style="color:blue;">**Novo Documento > Adicionar Documentos e Destinatários**</mark>](../menu-superior/novo-documento.md#a.-adicionar-documentos)<mark style="color:blue;">**.**</mark>
+<mark style="color:orange;">**Para salvar um documento como Rascunho o usuário deve clicar em “Concluir Mais Tarde” no momento da criação do documento, na tela**</mark> [<mark style="color:blue;">**Novo Documento > Adicionar Documentos e Destinatários**</mark>](../menu-superior/novo-processo.md#a.-adicionar-documentos)<mark style="color:blue;">**.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/rascunhos1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

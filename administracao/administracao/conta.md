@@ -100,7 +100,7 @@ Por default algumas configurações dessa aba são preenchidas automaticamente, 
 
 <figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
-Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de documentos e processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada documento durante a sua criação na tela [Novo Documento > Adicionar Documentos e Destinatários > Configurações Avançadas. ](../../menu-superior/novo-documento.md#configuracoes-avancadas)
+Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de documentos e processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada documento durante a sua criação na tela [Novo Documento > Adicionar Documentos e Destinatários > Configurações Avançadas. ](../../menu-superior/novo-processo.md#configuracoes-avancadas)
 
 **Tempo padrão de \_\_\_\_ dias para expiração do documento, quando não assinado por um ou mais destinatários a partir da data de envio:** Nesse campo é definido o tempo padrão (em dias) que os usuários terão para assinar um documento até que ele expire e fique indisponível.
 
@@ -132,7 +132,7 @@ Os valores definidos aqui serão adotados como padrão para a configuração de 
 
 ### Papel do Signatário
 
-Nesta aba são criados os papéis de signatários. Os papéis de signatários serão apresentados ao usuário no momento da configuração dos destinatários / signatários na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](../../menu-superior/novo-documento.md#b.-destinatarios)
+Nesta aba são criados os papéis de signatários. Os papéis de signatários serão apresentados ao usuário no momento da configuração dos destinatários / signatários na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](../../menu-superior/novo-processo.md#b.-destinatarios)
 
 {% hint style="info" %}
 <mark style="color:blue;">O papel do signatário é a função dele no contrato, seja como parte, pessoa contratada ou contratante, testemunha, representante legal etc.</mark>
