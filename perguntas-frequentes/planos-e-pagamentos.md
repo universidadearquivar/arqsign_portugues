@@ -424,11 +424,11 @@ Para os planos anuais há um desconto de 20% no valor total que pode ser parcela
 
 <summary>Como contratar um plano com envios via WhatsApp?</summary>
 
-Ao contratar um plano ArqSign, você terá acesso a um número de Envios de acordo com cada plano. Os Envios contemplados no plano podem ser feitos por E-mail ou WhatsApp nas seguintes condições:
+Ao contratar um plano ArqSign, você terá acesso a um número de Processos de acordo com cada plano. Os Processos contemplados no plano podem ser enviados por E-mail ou WhatsApp nas seguintes condições:
 
-Para envio de fluxos via WhatsApp, é necessário que a conta tenha a disponibilidade de **Envios e de Créditos para WhatsApp** já que neste caso, é através de uma integração com o WhatsApp Oficial que fazemos o envio do fluxo. Para contratar créditos de WhatsApp, vá ao Menu [Comprar créditos](../menu-superior/comprar-creditos.md). O valor é de R$0,45 por envio de mensagem. No envio de um fluxo são gastos por signatário 2 mensagens (uma para envio do documento para assinatura e uma para envio do documento assinado ao final do processo).
+Para envio de processos via WhatsApp, é necessário que a conta tenha a disponibilidade de **Processos e de Créditos para WhatsApp** já que neste caso, é através de uma integração com o WhatsApp Oficial que fazemos o envio do processo. Para contratar créditos de WhatsApp, vá ao Menu [Comprar créditos](../menu-superior/comprar-creditos.md). O valor é de R$0,60 por envio de mensagem. No envio de um fluxo são gastos por signatário 2 mensagens (uma para envio do documento para assinatura e uma para envio do documento assinado ao final do processo).
 
-Para envio de fluxos via E-mail, é necessário que a conta tenha apenas a disponibilidade de **Envios** já que a própria Plataforma ArqSign executa o envio do fluxo.
+Para envio de Processos via E-mail, é necessário que a conta tenha apenas a disponibilidade de **Processos** já que a própria Plataforma ArqSign executa o envio do fluxo.
 
 </details>
 
