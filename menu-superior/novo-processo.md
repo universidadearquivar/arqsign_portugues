@@ -103,9 +103,9 @@ Ao clicar neste botão é exibida a lista. Para adicionar os destinatários dese
 
 Utilizando a barra de pesquisa é possível filtrar os destinatários por nome, e-mail ou WhatsApp.
 
-<figure><img src="../.gitbook/assets/novodocumento07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
-Ao marcar o _checkbox_ “**Assinar na ordem abaixo**” o documento será enviado aos destinatários na ordem definida no campo “**Ordem**” que aparecerá na parte superior de “Dados do Destinatário”. Ao definir essa opção um usuário só receberá o documento quando o anterior concluir sua ação de assinatura.&#x20;
+Ao marcar o _checkbox_ “**Assinar na ordem abaixo**” o processo será enviado aos destinatários na ordem definida no campo “**Ordem**” que aparecerá na parte superior de “Dados do Destinatário”. Ao definir essa opção um usuário só receberá o processo quando o anterior concluir sua ação de assinatura.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Caso o usuário anterior tenha tido apenas ação de visualização, o próximo signatário receberá o documento quando o último signatário anterior a ele concluir a assinatura.**</mark>&#x20;
@@ -115,17 +115,17 @@ Ao marcar o _checkbox_ “**Assinar na ordem abaixo**” o documento será envia
 
 **Nome Destinatário:** Informe o nome do destinatário.
 
-**Enviar por:** Selecione se o documento será enviado por e-mail ou Whatsapp para o destinatário.
+**Enviar por:** Selecione se o processo será enviado por e-mail ou WhatsApp para o destinatário.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**A opção de envio por Whatsapp só será exibida se a conta do usuário tiver créditos de mensagens de WhatsApp.**</mark>
+<mark style="color:orange;">**A opção de envio por WhatsApp só será exibida se a conta do usuário tiver créditos de mensagens de WhatsApp.**</mark>
 {% endhint %}
 
-Dependendo da opção escolhida anteriormente, informe o e-mail ou número de telefone do destinatário para envio do documento.
+Dependendo da opção escolhida anteriormente, informe o e-mail ou número de telefone do destinatário para envio do processo.
 
 <figure><img src="../.gitbook/assets/novodocumento09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Este destinatário irá:** Informe se o destinatário irá assinar o documento online como Pessoa Física, Jurídica ou ambas, ou se irá somente receber uma cópia do documento no fim do processo de assinaturas.
+**Este destinatário irá:** Informe se o destinatário irá assinar o processo online como Pessoa Física, Jurídica ou ambas, ou se irá somente receber uma cópia do documento no fim do processo de assinaturas.
 
 <figure><img src="../.gitbook/assets/novodocumento10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -137,7 +137,7 @@ Os papéis do signatário apresentados aqui são anteriormente criados no menu [
 
 <figure><img src="../.gitbook/assets/image (167).png" alt="" width="373"><figcaption></figcaption></figure>
 
-**Tipo de Assinatura:** Selecione se o destinatário deverá utilizar assinatura eletrônica ou um certificado digital para assinar o documento.
+**Tipo de Assinatura:** Selecione se o destinatário deverá utilizar assinatura eletrônica ou um certificado digital para assinar o processo.
 
 <figure><img src="../.gitbook/assets/novodocumento13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -163,7 +163,7 @@ Ao marcar a opção **“Salvar este destinatário em minha lista de contatos”
 
 <figure><img src="../.gitbook/assets/novodocumento15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Ícone “Código de Segurança”:** Ao clicar neste ícone será criado um código numérico que será enviado ao destinatário para que ele consiga acessar o documento. O código pode ser gerado automaticamente pelo sistema ou informado manualmente pelo usuário.
+**Ícone “Código de Segurança”:** Ao clicar neste ícone será criado um código numérico que será enviado ao destinatário para que ele consiga acessar o processo. O código pode ser gerado automaticamente pelo sistema ou informado manualmente pelo usuário.
 
 <figure><img src="../.gitbook/assets/novodocumento16.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -171,7 +171,7 @@ Depois de gerar o código escolha se ele será enviado por e-mail, Whatsapp ou S
 
 <figure><img src="../.gitbook/assets/novodocumento17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Se selecionada a opção de envio por Whatsapp é possível permitir que o destinatário solicite o reenvio do código, marcando a _checkbox_ “**Permitir que este destinatário possa solicitar reenvio do código de segurança**”.
+Se selecionada a opção de envio por WhatsApp é possível permitir que o destinatário solicite o reenvio do código, marcando a _checkbox_ “**Permitir que este destinatário possa solicitar reenvio do código de segurança**”.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Cada reenvio do código de segurança solicitado pelo destinatário irá consumir um crédito de WhatsApp da conta do usuário que está enviando o documento.**</mark>
@@ -179,7 +179,7 @@ Se selecionada a opção de envio por Whatsapp é possível permitir que o desti
 
 <figure><img src="../.gitbook/assets/novodocumento18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Ícone Mensagem Privada:** Ao clicar neste ícone será possível inserir uma mensagem que será enviada ao destinatário junto com o documento. Para isso, preencha os campos “Assunto” e “Mensagem”. Caso deseje excluir a mensagem, clique em “**Excluir Mensagem Privada**”.
+**Ícone Mensagem Privada:** Ao clicar neste ícone será possível inserir uma mensagem que será enviada ao destinatário junto com o processo. Para isso, preencha os campos “Assunto” e “Mensagem”. Caso deseje excluir a mensagem, clique em “**Excluir Mensagem Privada**”.
 
 <figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
