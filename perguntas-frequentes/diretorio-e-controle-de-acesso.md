@@ -15,9 +15,9 @@ ou seguir o passo a passo descrito abaixo:
 
 1\. Revise as permissões dos usuários deixando somente o seu usuário como Administrador Global o que irá evitar que outros usuários acessem todas as pastas e documentos. Para isso acesse o menu [Administração > Usuários](../administracao/administracao/usuarios.md).
 
-2\. Crie a estrutura de diretórios no menu [Documentos](../processos/documentos/).
+2\. Crie a estrutura de diretórios no menu [Processos/Pastas](../processos/documentos/).
 
-3\. Se você já tem documentos na pasta raiz, mova-os para as devidas pastas no menu [Documentos](../processos/documentos/).&#x20;
+3\. Se você já tem documentos na pasta raiz, mova-os para as devidas pastas no menu [Processos](../processos/documentos/).&#x20;
 
 **Como definir Permissões de acesso aos Diretórios:**&#x20;
 
@@ -29,9 +29,9 @@ b) Comercial – Vendedores (Perfil de Diretórios – Colaborador)&#x20;
 
 c) Comercial – Outras funções com função de leitura (Perfil de Diretórios – Leitor)&#x20;
 
-2\. Insira os grupos criados na pasta raiz e habilite permissão de leitura para todos por meio do menu [Documentos > Ações](../processos/documentos/#acoes-individuais-subdiretorios).
+2\. Insira os grupos criados na pasta raiz e habilite permissão de leitura para todos por meio do menu [Processos > Ações](../processos/documentos/#acoes-individuais-subdiretorios).
 
-3\. Ajuste as permissões das pastas setoriais no menu [Documentos](../processos/documentos/) e selecione a pasta [Ações > Editar permissões; ](../processos/documentos/#acoes-individuais-subdiretorios)
+3\. Ajuste as permissões das pastas setoriais no menu [Processos](../processos/documentos/) e selecione a pasta [Ações > Editar permissões; ](../processos/documentos/#acoes-individuais-subdiretorios)
 
 4\. Crie ou edite usuários e ajuste permissões de acesso conforme tabela abaixo. Clique na imagem para ampliar.
 
