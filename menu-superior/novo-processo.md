@@ -215,7 +215,7 @@ Na próxima etapa serão exibidos os documentos que foram inseridos na etapa ant
 
 Quando o processo possui um ou mais documentos **agrupados**, o sistema exibe o nome do processo.
 
-<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 #### Processo com mais de um documento não agrupados
 
@@ -224,7 +224,7 @@ Quando o processo possui um ou mais documentos **não agrupados**, o sistema exi
 * Na parte superior da tela, o **nome do documento** que está sendo exibido;
 * No canto esquerdo da tela, a **lista de documentos do processo** ordenados conforme a configuração de ordem definida na [Etapa 01](novo-processo.md#etapa-1-adicionar-documentos-e-destinatarios), sinalizando se o documento está sendo visualizado ou não. Ao clicar sobre o documento, o sistema o exibirá na tela.&#x20;
 
-<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
 
 ### Campos de Assinatura
 
