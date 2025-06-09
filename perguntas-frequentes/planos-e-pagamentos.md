@@ -436,9 +436,9 @@ Para envio de Processos via E-mail, é necessário que a conta tenha apenas a di
 
 <summary>Qual a base de cobrança de cada plano?</summary>
 
-A base de cobrança de cada plano é o serviço de envio de um fluxo para assinatura.
+A base de cobrança de cada plano é o serviço de envio de um processo para assinaturas.
 
-Um envio de um fluxo, pode conter vários arquivos e assinaturas e ainda assim, será descontado apenas um envio do plano.
+Um envio de um processo, pode conter vários arquivos e assinaturas e ainda assim, será descontado apenas um envio do plano.
 
 </details>
 
@@ -556,7 +556,7 @@ Para planos mensais cartão de crédito, para os planos anuais cartão de crédi
 
 <summary>Qual a diferença entre os planos?</summary>
 
-Todos os planos possuem as mesmas funcionalidades, a única diferença está no número de envios de cada pacote e a disponibilização entre planos anuais e mensais.
+Todos os planos possuem as mesmas funcionalidades, a única diferença está no número de Processos de cada pacote e a disponibilização entre planos anuais e mensais.
 
 </details>
 
@@ -572,7 +572,7 @@ Trabalhamos com os planos anuais e mensais. Na modalidade anual todos os planos 
 
 <summary>Ao final do período de testes, eu perco o acesso aos documentos assinados na plataforma?</summary>
 
-Não. Ao final do período de testes, você mantém o acesso aos documentos assinados através da plataforma e para fazer novos envios basta contratar um dos planos ArqSign.
+Não. Ao final do período de testes, você mantém o acesso aos Processos com todos os documentos assinados através da plataforma e para fazer novos envios basta contratar um dos planos ArqSign.
 
 </details>
 
