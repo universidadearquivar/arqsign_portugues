@@ -51,33 +51,33 @@ No campo “**Nome do Processo de Assinatura**”, é possível editar o nome do
 Ao editar o nome, não poderão ser utilizados caracteres especiais <mark style="background-color:blue;">**( @ : \* " < > | / ? \ )**</mark>. Caso seja utilizado, a plataforma não seguirá o andamento do processo.
 {% endhint %}
 
-No campo “**Pasta Processo**” selecione a pasta na qual o documento será hospedado. As pastas nas quais os documentos poderão ser armazenados deverão ser criadas no menu [Diretórios > Documentos.](../processos/documentos/) Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.
+No campo “**Pasta Processo**” selecione a pasta na qual os  documentos serão hospedados. As pastas nas quais os processos poderão ser armazenados deverão ser criadas no menu [Processos>Pastas.](../processos/documentos/) Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.
 
-<figure><img src="../.gitbook/assets/novodocumento03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
 
-Por último, para agendar a renovação dos documentos  que estão sendo cadastrados de forma automática, selecione o _checkbox_ do campo “**Agendar renovação \_\_\_ meses após a conclusão das assinaturas**” informando a quantidade de meses em que deseja ser avisado sobre a renovação do processo. Assim que as assinaturas do primeiro envio forem concluídas, o sistema passará a contar o prazo determinado e quando o período de renovação for atingido, o responsável pelos  documentos  (remetente) receberá uma notificação informando que os  documentos do processo estão aptos a serem renovados .
+Por último, para agendar a renovação dos processos que estão sendo cadastrados de forma automática, selecione o _checkbox_ do campo “**Agendar renovação \_\_\_ meses após a conclusão das assinaturas**” informando a quantidade de meses em que deseja ser avisado sobre a renovação do processo. Assim que as assinaturas do primeiro envio forem concluídas, o sistema passará a contar o prazo determinado e quando o período de renovação for atingido, o responsável pelo processo (remetente) receberá uma notificação informando que os  documentos do processo estão aptos a serem renovados .
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 ### **Configurações Avançadas**
 
-As configurações avançadas são configurações relativas ao documento. Pode-se ajustá-las tanto para todos os documentos, ou seja, deixar um padrão configurado para todas as vezes em que for necessário solicitar assinaturas, ou configurar opções relativas a apenas um documento pontualmente. Para acessar a lista completa das opções que podem ser configuradas nos documentos, acesse o menu [Administração > Conta > Configurações](../administracao/administracao/conta.md#aba-configuracoes). Conheça a seguir todas as opções gerais configuráveis:
+As configurações avançadas são configurações relativas ao processo. Pode-se ajustá-las tanto para todos os processos, ou seja, deixar um padrão configurado para todas as vezes em que for necessário solicitar assinaturas, ou configurar opções relativas a apenas um processo pontualmente. Para acessar a lista completa das opções que podem ser configuradas nos processos, acesse o menu [Administração > Conta > Configurações](../administracao/administracao/conta.md#aba-configuracoes). Conheça a seguir todas as opções gerais configuráveis:
 
-* **Tempo para expiração do documento após o envio:** Neste campo o usuário deve informar o prazo (em dias) de expiração do documento, ou seja, o limite para que os destinatários o assinem.
+* **Tempo para expiração do processo após o envio:** Neste campo o usuário deve informar o prazo (em dias) de expiração do processo, ou seja, o limite para que os destinatários o assinem.
 
 {% hint style="warning" %}
 <mark style="color:orange;">Caso esse campo não seja alterado, será preenchido com o valor padrão. O valor padrão do sistema é de 120 dias, mas esse valor pode ser alterado no menu</mark> [<mark style="color:orange;">**Administração > Conta > Configurações.**</mark>](../administracao/administracao/conta.md#aba-configuracoes)
 {% endhint %}
 
-* **Aviso antes da expiração:** Neste campo deve ser informado o prazo (em dias) em que o sistema deverá enviar aos destinatários que ainda não assinaram um aviso sobre a expiração do documento.&#x20;
-* **Ativar lembretes:** Ao ativar essa opção o sistema enviará aos destinatários lembretes para que realizem a assinatura do documento. Esses lembretes serão enviados apenas para os signatários que ainda não assinaram o documento. Por padrão essa opção estará marcada.
+* **Aviso antes da expiração:** Neste campo deve ser informado o prazo (em dias) em que o sistema deverá enviar aos destinatários que ainda não assinaram um aviso sobre a expiração do processo.&#x20;
+* **Ativar lembretes:** Ao ativar essa opção o sistema enviará aos destinatários lembretes para que realizem a assinatura do processo. Esses lembretes serão enviados apenas para os signatários que ainda não assinaram o processo. Por padrão essa opção estará marcada.
 * **Enviar lembretes aos destinatários a cada:** Neste campo deve ser informado de quanto em quanto tempo (em dias) o sistema deverá enviar os lembretes de assinatura aos destinatários que ainda não assinaram.
-* **Obrigar o signatário a ler os documentos antes de assinar:** Essa configuração obriga a leitura dos documentos do processo.  Esta informação virá marcada ou desmarcada, conforme a configuração da conta.
+* **Exigir que os signatários leiam os documentos antes de assiná-los:** Essa configuração obriga a leitura dos documentos do processo.  Esta informação virá marcada ou desmarcada, conforme a configuração da conta.
 * **Gerar QRCode de acesso do documento no Registro de Assinaturas:** Ao ativar essa opção será gerado um QRCode no documento de registro de assinaturas. Por padrão essa opção estará desmarcada.
 
 Ao direcionar o _mouse_ sobre a opção de "Configurações avançadas", é apresentado um _Tooltip_ com uma prévia das configurações realizadas.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 Já para editar pontualmente as configurações de um determinado arquivo, clique em Configurações Avançadas, conforme imagem abaixo.&#x20;
 
