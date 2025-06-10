@@ -369,3 +369,86 @@ Informe o nome do anexo que será solicitado e defina se será de preenchimento 
 Clicando em “Descartar”, o processo será excluído. Clicando em “Concluir Mais Tarde” o processo será salvo na pasta de Rascunhos. Para editar o documento ou os destinatários, clique em “Voltar Etapa Anterior”. Finalizada a configuração da Etapa 2, clique em “Enviar” para enviar o processo para assinatura dos destinatários.
 
 <figure><img src="../.gitbook/assets/novodocumento31.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+## 🗪 Perguntas e Respostas Frequentes
+
+<details>
+
+<summary>Como consultar se um documento eletrônico ou digital tem validade jurídica?</summary>
+
+Para verificar se um documento eletrônico ou digital tem validade jurídica conforme os requisitos do ITI, basta seguir os passos abaixo:
+
+1. Acesse o endereço: [https://validar.iti.gov.br/](https://validar.iti.gov.br/);
+2. Clique em “Escolher Arquivo” e faça o upload do arquivo que você quer validar;
+3. Concorde com os termos de uso e política de privacidade do Portal Validar ITI;
+4. Clique em Validar.
+
+Caso o arquivo não contenha nenhuma assinatura aplicada ou contenha assinatura não reconhecida ou corrompida a seguinte mensagem é apresentada: “Você submeteu um documento sem assinatura reconhecível ou com assinatura corrompida”.
+
+Caso o arquivo contenha assinatura válida a seguinte mensagem é apresentada: “Documento com assinaturas válidas”. Um relatório será apresentado com o detalhamento de cada assinatura e sua validade.
+
+</details>
+
+<details>
+
+<summary>Como configurar uma mensagem privada?</summary>
+
+* Clique em ‘Novo Processo’
+
+- Selecione o documento que deseja encaminhar e informe os dados do signatário como nome, e-mail etc.
+
+* Abaixo dessas informações haverá um símbolo de ‘mensagem’ ![](https://cdn.arquivar.com.br/wp-content/uploads/2023/04/carta.jpg), onde ao clicar abrirá uma aba de mensagem privada.
+
+- Na aba de mensagem privada é possível informar o assunto e a mensagem que deseja enviar somente para o signatário selecionado. Os demais signatários receberão a mensagem padrão.
+
+</details>
+
+<details>
+
+<summary>Como configurar o token de segurança?</summary>
+
+* Clique em ‘Novo Processo’
+
+- Selecione o documento que deseja encaminhar e informe os dados do signatário como nome, e-mail etc.
+
+* Abaixo dessas informações haverá um símbolo de um ‘cadeado’![](https://cdn.arquivar.com.br/wp-content/uploads/2023/04/cadeado.jpg), onde ao clicar abrirá uma aba de segurança.
+
+- Na aba de segurança é possível gerar o código ‘Automaticamente ou Manual’ e informar o e-mail, SMS, Whatsapp ou nenhum meio em que deseja encaminhar o token.
+
+* Após essas configurações o token de segurança será enviado através do meio selecionado quando o signatário clicar para acessar o documento ou se você não selecionou nenhum meio você poderá informar para o signatário.
+
+</details>
+
+<details>
+
+<summary>Como solicitar anexos e selfie?</summary>
+
+Clique em ‘Novo Processo’.&#x20;
+
+Selecione o documento que deseja encaminhar, configure os destinatários e avance.&#x20;
+
+Configure o campo de assinatura do destinatário.&#x20;
+
+No canto direito, caso deseje, solicite as informações complementares como Nome e Documento e se necessário habilite o preenchimento obrigatório.&#x20;
+
+Se deseja solicitar Anexos como imagem de documentos ou selfie, habilite para solicitar que o signatário anexe um documento.&#x20;
+
+Informe o documento que deseja que o signatário anexe e se deseja que o anexo seja obrigatório para a conclusão do processo de assinatura.&#x20;
+
+Você também pode configurar a permissão para que todos os signatários acessem o anexo ou não.&#x20;
+
+Quando o destinatário receber o documento para assinar ele deverá proceder da seguinte forma:&#x20;
+
+Assinar o documento e preencher dados solicitados;&#x20;
+
+Clicar na solicitação de Selfie;&#x20;
+
+Acessar a câmera do celular ou computador;&#x20;
+
+Fazer a foto conforme solicitado;&#x20;
+
+Escolher a foto como anexo;&#x20;
+
+Concluir a assinatura.&#x20;
+
+</details>
