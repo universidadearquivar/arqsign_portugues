@@ -452,3 +452,182 @@ Escolher a foto como anexo;&#x20;
 Concluir a assinatura.&#x20;
 
 </details>
+
+<details>
+
+<summary>Como inserir um destinatário em cópia ou como observador em um Processo?</summary>
+
+Na Plataforma ArqSign é possível colocar uma pessoa em cópia ou como observador em um Processo. Desta forma, ao final do processo de assinatura, essa pessoa ou pessoas receberão o documento assinado.
+
+Para fazer esta configuração proceda da seguinte forma:
+
+1. Clique em “Novo Processo”;
+2. Faça o upload do documento a ser assinado e as devidas configurações para o Processo;
+3. Em “Destinatários” configure o campo “Este destinatário irá” como “Receber uma cópia”;
+4. Prossiga com as demais configurações.
+
+</details>
+
+<details>
+
+<summary>Como configurar um Processo para ser assinado com certificado digital (assinatura digital) ou sem certificado digital (assinatura eletrônica)?</summary>
+
+Na Plataforma ArqSign, ao configurar um Processo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:&#x20;
+
+**a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
+
+**b) Assinatura com Certificado digital do tipo ICP-Brasil** (A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
+
+**c) Assinatura com Certificado digital Pessoal Todos os tipos** (A ArqSign produz assinaturas eletrônicas e digitais através de outros certificados).&#x20;
+
+Para determinar o tipo de assinatura siga o seguinte passo a passo:&#x20;
+
+Após fazer o upload do documento e configurações necessárias para o Processo, siga para a configuração dos destinatários;&#x20;
+
+Ao configurar um destinatário, no campo “Tipo de assinatura” escolha uma das opções conforme descrição acima;&#x20;
+
+Pronto! Agora é só configurar os demais destinatários e a posição de assinatura no documento e enviar.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como configurar a assinatura para Pessoa Física/CPF ou Pessoa Jurídica/CNPJ?</summary>
+
+Na plataforma ArqSign, você pode escolher se o Processo será assinado por uma Pessoa física ou jurídica.
+
+Para isso, o remetente deve escolher o tipo de assinatura durante o processo de configuração do fluxo conforme abaixo:
+
+1. Faça o Upload do documento e suas configurações se necessário;
+2. Insira o destinatário
+3. No Campo “Este destinatário irá:” marque as opções de como o destinatário atuará:
+
+* Assinar Online como Pessoa Física
+* Assinar Online como Pessoa Jurídica
+* Receber uma cópia
+
+Um destinatário pode assinar durante o mesmo processo como Pessoa Física e Jurídica.
+
+Ao finalizar a configuração dos destinatários clique em Avançar
+
+Se você for posicionar as assinaturas, deverá posicionar a assinatura de Pessoa Física e Jurídica para o destinatário que você configurou para assinar com estes dois tipos de assinatura.
+
+Caso você escolha a opção de posicionamento automático de assinaturas, a própria plataforma vai posicionar todas as assinaturas automaticamente.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como configurar uma ordem / sequência para as assinaturas?</summary>
+
+A plataforma ArqSign permite inserir uma sequência para assinatura de Processos.&#x20;
+
+Para acessar a funcionalidade habilite a opção” Assinar na ordem abaixo” durante a configuração dos destinatários.&#x20;
+
+Insira os destinatários na ordem em que deseja as assinaturas.&#x20;
+
+Observe que aparece um campo chamado “Ordem” e que as pessoas deverão assinar o Processo de acordo com essa ordem, sendo que o próximo e-mail só chegará após o anterior realizar a assinatura.
+
+Caso queira que duas pessoas recebam o e-mail simultaneamente, utilize o mesmo número para elas.
+
+<img src="../.gitbook/assets/gif-1.gif" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Como editar um documento após o envio do Processo?</summary>
+
+Por segurança, não é possível editar um documento após o envio.
+
+</details>
+
+<details>
+
+<summary>Como agendar uma renovação, vencimento de Processo ou controle de reajuste?</summary>
+
+Você pode fazer esse agendamento durante a criação ou após a conclusão de um Processo de assinatura. Veja o passo a passo a seguir:&#x20;
+
+Durante a criação de um Processo:&#x20;
+
+1. Clique em Novo Processo;
+2. Selecione o Checkbox Agendar renovação;
+3. Defina o prazo em meses após a finalização das assinaturas;
+4. Finalize a criação do Processo. &#x20;
+
+Após a conclusão de um Processo:&#x20;
+
+1. Clique em Enviados;
+2. Selecione Processo concluído;
+3. Clique em Histórico;
+4. Clique em Alterar Renovação;&#x20;
+5. Defina o prazo em meses após a finalização das assinaturas;
+6. Clique em Alterar.&#x20;
+
+Quando chegar a data definida para vencimento do Processo (para renovação ou reajuste) a plataforma ArqSign enviará um e-mail ao proprietário do Processo informando que o documento está pronto para renovação, reajuste etc.
+
+[Clique aqui](https://youtu.be/v1DGlnU4rLs) e assista ao vídeo com o passo a passo.
+
+</details>
+
+<details>
+
+<summary>Quais tipos de arquivo (extensões) são permitidos?</summary>
+
+Manualmente você pode fazer upload das seguintes extensões: doc; .docx; .xlsx; .xls; .pptx; .ppt; .pdf; .png; .jpeg; .jpg.&#x20;
+
+Através da API de integração você pode enviar arquivos em PDF.&#x20;
+
+</details>
+
+<details>
+
+<summary>Qual o limite de tamanho para documentos?</summary>
+
+Selecione e faça o upload de arquivos de até 35MB.&#x20;
+
+Você pode enviar mais de um arquivo de uma vez desde que o tamanho total da soma dos arquivos não ultrapasse 100MB ou 25 arquivos. Ao enviar mais de um arquivo você pode agrupá-los em um único arquivo ou não.
+
+</details>
+
+<details>
+
+<summary>Como enviar um Processo para assinatura?</summary>
+
+Acesse a plataforma ArqSign e clique no botão de ‘’Novo Processo’’.&#x20;
+
+Selecione e faça o upload de arquivos de até 35MB.&#x20;
+
+Você pode enviar mais de um arquivo de uma vez desde o tamanho total da soma dos arquivos não ultrapasse 25 documentos e 100MB. Podem ser incluídos mais de um arquivo no mesmo processo de assinatura. Neste caso, a opção "Agrupar os arquivos em um único documento" ficará disponível e poderá ser marcada ou desmarcada.&#x20;
+
+Quando esse campo estiver marcado, a ArqSign exibe os arquivos agrupados na área de listagem, onde é permitido alterar a ordem dos documentos, clicando e arrastando-os para a posição desejada. Neste caso não é permitido alterar o nome de cada um dos arquivos, apenas o nome do processo.&#x20;
+
+Para remover um arquivo, clique no ícone da lixeira disponível para cada um dos arquivos na tela.&#x20;
+
+Quando este campo estiver desmarcado, a ArqSign exibe os arquivos desagrupados na área de listagem, permitindo que sejam alterados a ordem e o nome dos arquivos.&#x20;
+
+No campo “Nome do Processo de Assinatura”, é possível editar o nome do processo que contempla os arquivos agrupados, altere conforme necessidade.&#x20;
+
+No campo “Pasta Processo” selecione a pasta na qual o Processo será hospedado. As pastas nas quais os Processos poderão ser armazenados deverão ser criadas no menu Processos> Pastas. Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.&#x20;
+
+Por último, para agendar a renovação dos Processos que estão sendo cadastrados de forma automática, selecione o checkbox do campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” informando a quantidade de meses em que deseja ser avisado sobre a renovação do processo. Assim que as assinaturas do primeiro envio forem concluídas, o sistema passará a contar o prazo determinado e quando o período de renovação for atingido, o responsável pelos Processos (remetente) receberá uma notificação informando que os Processos estão aptos a serem renovados .&#x20;
+
+Configure os destinatários, defina o tipo de envio, por e-mail ou WhatsApp, configure as assinaturas (uma por signatário) e clique em enviar.
+
+Caso você mesmo seja um signatário, você pode assinar o Processo após o envio através da Caixa de entrada da sua conta. Basta clicar em assinar e seguir o passo a passo da pergunta “Como assinar um Processo?” [Clique aqui](https://youtu.be/nEuvJHxZnto) e assista ao passo a passo.
+
+</details>
+
+<details>
+
+<summary>Onde ficam armazenados os dados e documentos inseridos na Plataforma ArqSign?</summary>
+
+Os dados e documentos são armazenados no datacenter Microsoft Azure, líder mundial em estabelecer requisitos de privacidade e de segurança. &#x20;
+
+O Microsoft Azure cumpre uma ampla variedade de normas de conformidade internacionais e específicas do setor, como o GDPR (Regulamento Geral sobre a Proteção de Dados), a ISO 27001, o HIPAA, o FedRAMP, a SOC 1 e SOC 2, bem como normas específicas de certos países, incluindo o IRAP da Austrália, o G-Cloud do Reino Unido e o MTCS de Cingapura. Rigorosas auditorias de terceiros, tais como aquelas realizadas pelo British Standards Institute, confirmam a adesão do Azure aos rígidos controles de segurança exigidos por tais normas.&#x20;
+
+A Microsoft aproveitou sua experiência na criação de proteções de software corporativo e na execução de alguns dos maiores serviços online do mundo a fim de criar tecnologias e práticas de segurança robustas. Elas ajudam a garantir que a infraestrutura do Azure seja resistente a ataques, protege o acesso do usuário ao ambiente do Azure e ajuda a manter os dados do cliente seguros por meio de comunicações criptografadas e pelo gerenciamento de ameaças e práticas de atenuação, incluindo testes de penetração regulares.&#x20;
+
+[Clique aqui](https://youtu.be/yKNeahEQY8g) e assista ao vídeo explicativo.
+
+</details>
