@@ -18,11 +18,11 @@ Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos
 
 **PROCESSOS:** Neste grupo temos o menu Pastas. Ele é um repositório de armazenamento dos processos tramitados pela plataforma. O restante idem.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **ADMINISTRAÇÃO:** Neste grupo temos as configurações de conta, usuários e grupo de usuários.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </details>
 

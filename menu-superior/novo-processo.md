@@ -8,7 +8,7 @@ Na tela Novo Processo o usuário poderá cadastrar um ou mais documentos que ser
 
 Para incluir os documentos que deverão ser assinados, arraste os arquivos desejados até o campo de inclusão dos documentos ou selecione-os para upload a partir de um diretório do seu dispositivo.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Podem ser incluídos mais de um arquivo no mesmo processo de assinatura. Neste caso, a opção **"Agrupar os arquivos em um único documento"** ficará disponível e poderá ser marcada ou desmarcada.&#x20;
 
@@ -20,7 +20,7 @@ Para remover um arquivo, clique no ícone da lixeira disponível para cada um do
 
 Quando este campo estiver **desmarcado**, a ArqSign exibe os **arquivos desagrupados** na área de listagem, permitindo que sejam alterados a ordem e o nome dos arquivos.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**São permitidos arquivos das seguintes extensões:**</mark>
