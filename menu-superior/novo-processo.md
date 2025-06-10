@@ -302,9 +302,9 @@ A plataforma **insere uma página ao final do documento** com a posição da ass
 
 O campo "**Configurações para**" exibe o nome dos destinatários selecionados para configuração com ícone da cor definido pela plataforma para o destinatário, sinalizando se a configuração dos dados complementares e/ou anexos foi incluída ou não.&#x20;
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (378).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">• Se</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**não houver**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">ordem de assinaturas configurada, a plataforma lista os signatários ordenados alfabeticamente.</mark>
@@ -316,11 +316,11 @@ Dependendo do tipo de assinatura definido para o destinatário na [Etapa 1](novo
 
 Se a assinatura for como Pessoa Física, é possível exigir do destinatário dados como nome e documento, marcando a opção “Nome da Pessoa Física” preenchimento obrigatório e selecionando um dos documentos da lista “Documento da Pessoa Física”.&#x20;
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
 
 Para exigir um documento selecione a opção desejada entre CPF, CNH, RG ou outros.&#x20;
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
 
 Após selecionar o tipo de documento que será exigido do destinatário na assinatura, informe o número do documento. No momento da assinatura, o destinatário deverá informar exatamente o número definido neste momento se selecionada a opção **"Preenchimento Obrigatório".** Ao selecionar a opção **"Usar o valor informado no campo para validar o CPF preenchido pelo signatário durante a assinatura",** automaticamente o campo será de preenchimento obrigatório e será validado pela plataforma para prosseguimento da assinatura.
 
@@ -360,12 +360,12 @@ Para exigir um documento selecione a opção desejada entre CNPJ ou outros. Se s
 
 No campo “Anexos” do lado esquerdo da tela serão exibidas configurações que permitirão aos destinatários anexar outros arquivos ao documento no momento da assinatura. Para isso, marque a opção “**Solicitar anexar documentos**”.
 
-Informe o nome do anexo que será solicitado e defina se será de preenchimento obrigatório e se todos os destinatários participantes do fluxo de assinatura poderão visualizar o arquivo anexado pelo destinatário.
+Informe o nome do anexo que será solicitado e defina se será de preenchimento obrigatório e se todos os destinatários participantes do processo de assinatura poderão visualizar o arquivo anexado pelo destinatário.
 
 É possível solicitar mais de um anexo, clicando no ícone **“Adicionar”.**
 
 <figure><img src="../.gitbook/assets/Screenshot_4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Clicando em “Descartar”, o fluxo será excluído. Clicando em “Concluir Mais Tarde” o fluxo será salvo na pasta de Rascunhos. Para editar o documento ou os destinatários, clique em “Voltar Etapa Anterior”. Finalizada a configuração da Etapa 2, clique em “Enviar” para enviar o documento para assinatura dos destinatários.
+Clicando em “Descartar”, o processo será excluído. Clicando em “Concluir Mais Tarde” o processo será salvo na pasta de Rascunhos. Para editar o documento ou os destinatários, clique em “Voltar Etapa Anterior”. Finalizada a configuração da Etapa 2, clique em “Enviar” para enviar o processo para assinatura dos destinatários.
 
 <figure><img src="../.gitbook/assets/novodocumento31.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
