@@ -1078,40 +1078,183 @@ Não há limite de signatários ou pessoas para assinar.
 
 <details>
 
-<summary></summary>
+<summary>Esse tipo de serviço já está homologado pela LGPD?</summary>
 
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
+O objetivo da ArqSign é proteger os direitos de seus clientes, assegurando total segurança aos seus dados. Todas as informações coletadas ou processadas pela ArqSign seguem estritamente as disposições legais da Lei Geral de Proteção de Dados (LGPD).
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Como fica um documento assinado por meio da Plataforma ArqSign?</summary>
 
+No Painel de Assinaturas do Adobe Reader é possível verificar:&#x20;
 
+1. A Arquivar como certificadora do processo de assinatura, no início da trilha de assinatura;&#x20;
+2. Um certificado digital identificando cada ação de assinatura (no exemplo abaixo temos 2 signatários).&#x20;
+3. A Arquivar finalizando o fluxo de assinatura e bloqueando o arquivo para impossibilitar alterações.&#x20;
+
+![](<../.gitbook/assets/image (160).png>)
+
+![](<../.gitbook/assets/image (161).png>)
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Qual o tipo de criptografia é utilizado na Plataforma ArqSign?</summary>
 
+Para garantir a segurança dos dados que estão sendo trafegados entre Cliente e Servidor, os [dados são criptografados](https://arquivar.com.br/politica-de-privacidade/) por meio de certificado SSL de SHA256.&#x20;
 
+Utilizamos criptografia de comunicações e processos de operação – protocolos de transporte padrão da indústria entre os dispositivos do usuário e os datacenters da Microsoft Azure, bem como dentro dos próprios datacenters.&#x20;
+
+Para dados em repouso, nosso Servidor, o Azure oferece uma ampla gama de recursos de criptografia até AES-256; &#x20;
+
+* Proteção de redes – infraestrutura necessária para conectar máquinas virtuais com segurança umas às outras e para conectar datacenters locais às VMs do Azure. O Azure bloqueia tráfego não autorizado para datacenters da Microsoft ou dentro deles, usando diversas tecnologias. A Rede Virtual do Azure estende-se à sua rede local para a nuvem por meio de VPN site a site; &#x20;
+* Gerenciamento de ameaças – Microsoft Antimalware para serviços de nuvem e máquinas virtuais. A Microsoft também emprega detecção de intrusão, prevenção de ataques DDoS (ataque de negação de serviço distribuído), testes de penetração regulares e ferramentas de análises de dados e aprendizado de máquina para ajudar a atenuar as ameaças contra a plataforma Azure. &#x20;
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Qual a base de normas é referência para o processo de assinatura da Plataforma ArqSign?</summary>
+
+A plataforma ArqSign está baseada nos [REQUISITOS DAS POLÍTICAS DE ASSINATURA DIGITAL NA ICP-BRASIL do ITI (Instituto Nacional de Tecnologia da Informação)](https://www.gov.br/iti/pt-br/central-de-conteudo/doc-icp-15-03-requisitos-minimos-para-politicas-de-assinatura-pdf).&#x20;
+
+Este documento estabelece os requisitos a serem obrigatoriamente observados pelas entidades criadoras de Políticas de Assinatura Digital no âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), em conformidade com a estrutura proposta pelos padrões ETSI TR 102 272 \[1] e ETSI TR 102.038 \[2].&#x20;
+
+</details>
+
+<details>
+
+<summary>Qual a diferença entre a assinatura ArqSign e a assinatura de outras plataformas do mercado?</summary>
+
+A ArqSign garante que o arquivo assinado por todos os participantes do fluxo seja sempre o mesmo através de seu processo exclusivo de assinatura!&#x20;
+
+Sempre que um signatário assina um documento sem seu próprio Certificado Digital, a ArqSign aplica um Certificado Digital da plataforma, capturando o _Hash_ (identificação única) do arquivo, verifica a integridade do arquivo e anexa ao Certificado a identificação do signatário.&#x20;
+
+Quando o usuário já possui um certificado digital e deseja utilizá-lo para realizar a assinatura através da ArqSign, utilizamos este certificado para verificar a integridade e identificá-lo como signatário no processo. &#x20;
+
+Aplicar um certificado digital ao processo para cada ato de assinatura é o único meio possível de assegurar o nível de segurança da assinatura avançada ou qualificada descritas na Lei nº 14.063, de 23 de setembro de 2020.
+
+</details>
+
+<details>
+
+<summary>Quais são os itens de autenticação disponíveis na plataforma?</summary>
 
 
+
+A ArqSign garante uma ampla variedade de tecnologias de autenticação, dentre as quais se encontram:&#x20;
+
+* Certificados digitais ICP-Brasil ou de padrão internacional;
+* Nome(s) do(s) signatário(s);
+* Documentos cadastrais do signatário (CPF, CNPJ ou outro);
+* Endereços de e-mail;
+* Endereço(s) de IP do(s) signatário(s);
+* Captura de geolocalização do signatário (se habilitado no equipamento);
+* Termo de aceite para assinatura eletrônica.
+* Código de acesso;
+* Conta ArqSign;
+* Representação visual da assinatura;
+* Data e hora da assinatura;
+* Histórico de movimentação (ou seja, quem enviou, visualizou, assinou etc.);
+* Histórico de autenticação;
+* Status de conclusão.
+
+</details>
+
+<details>
+
+<summary>Qual legislação regulamenta a assinatura eletrônica no Brasil? </summary>
+
+A medida provisória MP 2.200-2 de 2001 é a primeira e principal lei brasileira que regula a assinatura eletrônica.&#x20;
+
+Este amparo está presente no artigo 10 e requer o cumprimento de 3 requisitos para validade jurídica da assinatura eletrônica, conforme detalhamento abaixo:&#x20;
+
+1. Primeiro requisito da MP 2002-2 para validade jurídica da assinatura eletrônica: Comprovação da autoria das assinaturas. No processo da plataforma ArqSign, todos os dados coletados a respeito de cada pessoa que assina o documento são registrados nas propriedades do arquivo comprovando a autoria de cada assinatura.&#x20;
+2. Segundo requisito da MP 2002-2 para validade jurídica da assinatura eletrônica: Comprovação da integridade do documento. A Plataforma ArqSign é a única do mercado que aplica um certificado digital para a assinatura de cada pessoa mesmo que ela não tenha certificado digital. Esse processo permite a comprovação da integridade do documento entre as assinaturas e ao final do processo.&#x20;
+
+</details>
+
+<details>
+
+<summary>Esse tipo de serviço já está homologado pela LGPD?</summary>
+
+O objetivo da ArqSign é proteger os direitos de seus clientes, assegurando total segurança aos seus dados. Todas as informações coletadas ou processadas pela ArqSign seguem estritamente as disposições legais da Lei Geral de Proteção de Dados (LGPD).
+
+</details>
+
+<details>
+
+<summary>É preciso autenticar um documento assinado eletronicamente?</summary>
+
+Não é necessário. Basta conferir se o documento está válido.&#x20;
+
+Você pode verificar a validade jurídica de um documento assinado eletronicamente através do Instituto Nacional de Tecnologia da Informação ou através do Adobe.&#x20;
+
+Para isso, siga o passo a passo descrito no link [https://arquivar.com.br/arqsign-validacao-iti-e-adobe/](https://arquivar.com.br/arqsign-validacao-iti-e-adobe/).&#x20;
+
+</details>
+
+<details>
+
+<summary>O que é o Registro de Assinaturas?</summary>
+
+O registro de assinatura é um documento gerado automaticamente pela Plataforma ArqSign.&#x20;
+
+Ele permite verificar os pontos de autenticação utilizados para assinar um documento, tais como informações pessoais dos assinantes envolvidos, IP da máquina, Geolocalização e data e hora da assinatura. &#x20;
+
+</details>
+
+<details>
+
+<summary>Como verificar validade jurídica de um documento assinado de forma eletrônica?</summary>
+
+Você pode verificar a validade jurídica de um documento assinado eletronicamente através do Instituto Nacional de Tecnologia da Informação ou através do Adobe.&#x20;
+
+Para isso, siga o passo a passo descrito no link [https://arquivar.com.br/arqsign-validacao-iti-e-adobe/](https://arquivar.com.br/arqsign-validacao-iti-e-adobe/).
+
+</details>
+
+<details>
+
+<summary>Assinatura eletrônica tem validade jurídica?</summary>
+
+A Medida Provisória nº 2.200-2/2001 criou a Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) e determinou os critérios para garantir validade jurídica. &#x20;
+
+Esses critérios estão descritos no artigo 10, § 2º da referida MP e são:&#x20;
+
+* Garantia de integridade do documento;&#x20;
+* Garantia de autoria da assinatura;&#x20;
+* Aceite para assinatura eletrônica de todas as partes.&#x20;
+
+</details>
+
+<details>
+
+<summary>Caso o Certificado digital utilizado para assinar um documento tenha expirado, isso afeta a validade dos documentos que eu tenha assinado anteriormente com este certificado?</summary>
+
+Não, desde que as assinaturas tenham sido geradas durante o período de vigência do certificado digital. A tecnologia da plataforma ArqSIGN não permite a assinatura de um documento usando certificados vencidos. A aplicação realiza uma validação automática para garantir que o certificado digital ICP-Brasil está vigente no momento da assinatura.
+
+</details>
+
+<details>
+
+<summary>É possível imprimir um documento assinado eletronicamente via ArqSign?</summary>
+
+Sim. É possível. Basta baixar o documento assinado e o Registro de assinaturas e imprimi-los. **Um ponto de atenção:** a verificação da validade jurídica deste documento só pode ser feita de forma digital já que a assinatura foi feita de forma digital. Se você configurou a sua conta para gerar o Registro de assinaturas com QR Code, você pode acessar o documento digital através da leitura do QR Code que estará no Registro de assinaturas e fazer a validação jurídica do documento através do Adobe Reader ou Portal ITI como está indicado no rodapé do Registro de assinaturas.
+
+</details>
+
+<details>
+
+<summary><strong>Qual o padrão de assinatura digital utilizado pela ArqSign?</strong></summary>
+
+A ArqSign utiliza o padrão PAdES (PDF _Advanced Electronic Signatures_), ou “Assinaturas Eletrônicas Avançadas em PDF”, desenvolvido pelo ETSI (_European Telecommunications Standards Institute_). Amplamente reconhecido, inclusive pela ICP-Brasil, o PAdES assegura a validade jurídica de assinaturas eletrônicas em documentos PDF.
+
+Esse padrão aberto permite a criação e validação de assinaturas de forma padronizada, sendo compatíveis com diversos softwares, dependendo de ferramentas específicas. Um diferencial do PAdES é a inclusão de elementos visuais, como imagens e dados do usuário, aproximando a assinatura eletrônica de um manual de assinatura.
+
+Recomendado exclusivamente para PDFs, o PAdES simplifica a assinatura, o compartilhamento e a visualização de arquivos. Contudo, pode não ser ideal para sistemas personalizados.
 
 </details>
