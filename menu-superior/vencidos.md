@@ -1,38 +1,38 @@
 # ⏱️ Vencidos
 
-No menu Vencidos são apresentados todos os documentos enviados pelo usuário para assinatura, mas que não foram concluídos dentro do prazo estipulado no campo “**Tempo para expiração do documento após o envio**”, na tela [Novo Documento > Adicionar Documentos e Destinatários > Configurações Avançadas.](novo-processo.md#configuracoes-avancadas)&#x20;
+No menu Vencidos são apresentados todos os processos enviados pelo usuário para assinatura, mas que não foram concluídos dentro do prazo estipulado no campo “**Tempo para expiração do documento após o envio**”, na tela [#configuracoes-avancadas](novo-processo.md#configuracoes-avancadas "mention")&#x20;
 
-<figure><img src="../.gitbook/assets/vencidos01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Colunas da tela principal - Vencidos&#x20;
 
-<figure><img src="../.gitbook/assets/vencidos02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Nome do documento:** Nesta coluna são exibidos o nome do documento e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar. Todos os documentos listados exibirão a mensagem “Vencido antes da conclusão das assinaturas”. &#x20;
+**Coluna Nome do processo:** Nesta coluna são exibidos o nome do processo e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar. Todos os processos listados exibirão a mensagem “Vencido antes da conclusão das assinaturas”. &#x20;
 
-<figure><img src="../.gitbook/assets/vencidos03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-**Coluna Responsável:** Nesta coluna são apresentados o nome e e-mail de quem enviou o documento (remetente). Na tela Vencidos sempre será exibido o nome do próprio usuário. &#x20;
+**Coluna Responsável:** Nesta coluna são apresentados o nome e e-mail de quem enviou o processo (remetente). Na tela Vencidos sempre será exibido o nome do próprio usuário. &#x20;
 
-**Coluna Status:** Os documentos listados na tela Vencidos sempre terão o status “Aguardando” (nenhum participante assinou o documento até o momento) ou “Em processo” (um ou mais participantes já assinaram o documento, mas ainda faltam assinaturas). Ao passar o mouse sobre o status são exibidas informações sobre quais signatários ainda estão com assinatura pendente e quais já concluíram, além dos dados desses signatários.&#x20;
+**Coluna Status:** Os processos listados na tela Vencidos sempre terão o status “Aguardando” (nenhum participante assinou o processo até o momento) ou “Em processo” (um ou mais participantes já assinaram o processo, mas ainda faltam assinaturas). Ao passar o mouse sobre o status são exibidas informações sobre quais signatários ainda estão com assinatura pendente e quais já concluíram, além dos dados desses signatários.&#x20;
 
 <figure><img src="../.gitbook/assets/vencidos04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Tamanho:** Nesta coluna é exibido o tamanho do arquivo do documento.  &#x20;
+**Coluna Tamanho:** Nesta coluna é exibido o tamanho dos arquivos do processo.  &#x20;
 
-**Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde o documento está armazenado.&#x20;
+**Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde os documentos do processo estão armazenados.&#x20;
 
-**Coluna Enviado:** Informações sobre a data e hora em que o documento foi enviado.&#x20;
+**Coluna Enviado:** Informações sobre a data e hora em que o processo foi enviado.&#x20;
 
-**Coluna Vencimento:** Informações sobre a data e hora em que o documento expirou.&#x20;
+**Coluna Vencimento:** Informações sobre a data e hora em que o processo expirou.&#x20;
 
-**Coluna Ações:** Esta coluna exibe botões de ação sobre o documento. Esses botões serão exibidos de acordo com o perfil do usuário. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do documento.&#x20;
+**Coluna Ações:** Esta coluna exibe botões de ação sobre o processo. Esses botões serão exibidos de acordo com o perfil do usuário. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do processo.&#x20;
 
-**Barra de Filtro:** É possível localizar um ou mais documentos utilizando-se os filtros disponíveis para busca. A busca pode ser feita pelo nome do documento, nome dos signatários, status, pasta na qual o documento está armazenado ou data de vencimento do documento. &#x20;
+**Barra de Filtro:** É possível localizar um ou mais processos utilizando-se os filtros disponíveis para busca. A busca pode ser feita pelo nome do processo, nome dos signatários, status, pasta na qual o processo está armazenado ou data de vencimento do processo. &#x20;
 
-<figure><img src="../.gitbook/assets/vencidos05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,25 +42,25 @@ No menu Vencidos são apresentados todos os documentos enviados pelo usuário pa
 
 #### **Reenviar**
 
-Ao clicar neste botão serão exibidas as informações de ordem de envio para os destinatários, e-mail ou telefone para onde o documento foi enviado, código de segurança para acesso ao documento (se houver) e ícone “Editar”, que permite a edição das informações do destinatário. Ao reenviar um documento ele deixa de ser exibido na tela Vencidos porque o prazo de expiração é renovado. &#x20;
+Ao clicar neste botão serão exibidas as informações de ordem de envio para os destinatários, e-mail ou telefone para onde o processo foi enviado, código de segurança para acesso ao processo (se houver) e ícone “Editar”, que permite a edição das informações do destinatário. Ao reenviar um processo ele deixa de ser exibido na tela Vencidos porque o prazo de expiração é renovado. &#x20;
 
-<figure><img src="../.gitbook/assets/vencidos11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### **Alterar Pasta**
 
-Esta opção só será exibida se o usuário tiver acesso à conta na qual o documento está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde o documento está armazenado. &#x20;
+Esta opção só será exibida se o usuário tiver acesso à conta na qual o processo está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde os documentos do processo estão armazenados. &#x20;
 
 <figure><img src="../.gitbook/assets/vencidos12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Alterar Proprietário**
 
-Ao clicar nesta opção ele poderá alterar o proprietário do documento. Ao executar essa ação não será possível realizar outras atividades de gestão do documento.&#x20;
+Ao clicar nesta opção ele poderá alterar o proprietário do processo. Ao executar essa ação não será possível realizar outras atividades de gestão do processo.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark> &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/vencidos13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 #### **Baixar Arquivo**
 

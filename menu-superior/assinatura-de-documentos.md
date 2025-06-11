@@ -296,7 +296,7 @@ Para o uso de assinatura digital será necessário, antes do primeiro uso, a ins
     <figure><img src="../.gitbook/assets/image (6) (2).png" alt="" width="153"><figcaption></figcaption></figure>
 2.  Em seguida clicará em "Extensões".
 
-    <figure><img src="../.gitbook/assets/image (7).png" alt="" width="169"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (2).png" alt="" width="169"><figcaption></figcaption></figure>
 3.  Clicar em "Obter extensões do Microsoft Edge".
 
     <figure><img src="../.gitbook/assets/image (8).png" alt="" width="161"><figcaption></figcaption></figure>
