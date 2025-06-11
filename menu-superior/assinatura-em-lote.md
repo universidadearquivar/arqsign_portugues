@@ -24,32 +24,32 @@ A funcionalidade de assinatura em lote permite que o usuário assine mais de um 
 
 ## Colunas da tela principal – Assinatura em Lote
 
-<figure><img src="../.gitbook/assets/lote02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (383).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Nome do Documento:** Nesta coluna é exibido o nome do documento.&#x20;
+**Coluna Nome do Processo :** Nesta coluna é exibido o nome do processo.&#x20;
 
-**Coluna Responsável:** esta coluna são apresentados o nome e e-mail de quem enviou o documento (remetente).  &#x20;
+**Coluna Responsável:** esta coluna são apresentados o nome e e-mail de quem enviou o processo (remetente).  &#x20;
 
-**Coluna Tipo de Assinatura:** Nesta coluna é exibido o tipo de assinatura exigido para a assinatura do documento, que pode ser [Assinatura Eletrônica](assinatura-de-documentos.md#a.-assinatura-eletronica) ou [Assinatura via Certificado Digital – ICP Brasil ou Outros Certificados Digitais](assinatura-de-documentos.md#b.-assinatura-digital-icp-brasil-e-outros).
+**Coluna Tipo de Assinatura:** Nesta coluna é exibido o tipo de assinatura exigido para a assinatura do processo, que pode ser [Assinatura Eletrônica](assinatura-de-documentos.md#a.-assinatura-eletronica) ou [Assinatura via Certificado Digital – ICP Brasil ou Outros Certificados Digitais](assinatura-de-documentos.md#b.-assinatura-digital-icp-brasil-e-outros).
 
-**Coluna Ações:** Esta coluna exibe botões de ação sobre o documento. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do documento. &#x20;
+**Coluna Ações:** Esta coluna exibe botões de ação sobre o processo. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do processo. &#x20;
 
-**Barra de Filtro:** É possível localizar um ou mais documentos utilizando-se os filtros disponíveis para busca. Na tela Assinatura em Lote a busca pode ser feita pelo nome do documento, pelo nome do responsável ou pelo tipo de assinatura que deverá ser utilizada.&#x20;
+**Barra de Filtro:** É possível localizar um ou mais processos utilizando-se os filtros disponíveis para busca. Na tela Assinatura em Lote a busca pode ser feita pelo nome do processo, pelo nome do responsável ou pelo tipo de assinatura que deverá ser utilizada.&#x20;
 
-<figure><img src="../.gitbook/assets/lote03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-## Assinando documentos em lote 
+## Assinando processos em lote 
 
-1\. Na lista de documentos pendentes, selecione aqueles que deseja assinar e clique no ícone “Assinatura em Lote”. &#x20;
+1\. Na lista de processos pendentes, selecione aqueles que deseja assinar e clique no ícone “Assinatura em Lote”. &#x20;
 
-<figure><img src="../.gitbook/assets/lote07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2\. Será apresentada a tela de “Dados da Assinatura”. Preencha os dados solicitados e clique em “Avançar”. O símbolo \* indica que a informação é de preenchimento obrigatório.&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Nesta tela, serão solicitadas todas as informações definidas como necessárias para assinatura de todos os documentos selecionados na lista.**</mark>  
+<mark style="color:orange;">**Nesta tela, serão solicitadas todas as informações definidas como necessárias para assinatura de todos os processos selecionados na lista.**</mark>  
 {% endhint %}
 
 {% hint style="info" %}
@@ -76,17 +76,17 @@ Caso não tenha instalado ainda a Extensão "ArqSign Certificado Digital" e o "A
 5\. Será exibido o informativo do processo de assinatura e contador de assinaturas concluídas. Dessa forma o usuário poderá acompanhar as assinaturas até que todas tenham sido concluídas. &#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">Conforme a quantidade de documentos enviados em lote, o usuário poderá deixar o aplicativo ArqSign trabalhando em segundo plano e seguir com suas atividades rotineiras. Não é necessário acompanhar o processo de execução das assinaturas até o encerramento, mas é necessário manter o login.</mark> 
+<mark style="color:blue;">Conforme a quantidade de processos enviados em lote, o usuário poderá deixar o aplicativo ArqSign trabalhando em segundo plano e seguir com suas atividades rotineiras. Não é necessário acompanhar o processo de execução das assinaturas até o encerramento, mas é necessário manter o login.</mark> 
 {% endhint %}
 
-6\. Finalizada a assinatura do lote, é apresentada a mensagem de conclusão ao usuário. Clique em “Fechar” para concluir. A lista de documentos pendentes de assinatura será atualizada exibindo somente os documentos que deverão ser novamente enviados para os signatários. &#x20;
+6\. Finalizada a assinatura do lote, é apresentada a mensagem de conclusão ao usuário. Clique em “Fechar” para concluir. A lista de processos pendentes de assinatura será atualizada exibindo somente os que deverão ser novamente enviados para os signatários. &#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Caso ocorram falhas durante o processo de assinatura em um ou mais documentos selecionados no lote, a plataforma concluirá a assinatura dos documentos que estiverem no padrão, reportará a informação dos que foram assinados e das falhas encontradas e manterá como pendentes os documentos em que não foi possível concluir a assinatura.**</mark> 
+<mark style="color:orange;">**Caso ocorra falhas durante o processo de assinatura em um ou mais processos selecionados no lote, a plataforma concluirá a assinatura dos processos que estiverem no padrão, reportará a informação dos que foram assinados e das falhas encontradas e manterá como pendentes os processos em que não foi possível concluir a assinatura.**</mark> 
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Alguns dos motivos para possíveis falhas são mais de um usuário assinar o documento ao mesmo tempo, queda de conexão da internet no momento da assinatura, acesso interrompido, entre outros.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Alguns dos motivos para possíveis falhas são mais de um usuário assinar o processo ao mesmo tempo, queda de conexão da internet no momento da assinatura, acesso interrompido, entre outros.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/lote11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
