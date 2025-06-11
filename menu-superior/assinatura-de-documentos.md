@@ -705,3 +705,373 @@ Juridicamente, entre entes privados, qualquer documento pode ser assinado eletro
 8. Quando você for assinar um documento com um Certificado ICP-Brasil, basta escolher esse certificado e colocar sua a senha.
 
 </details>
+
+<details>
+
+<summary>Como assinar documentos pela plataforma ArqSign?</summary>
+
+Se você recebeu documento(s) para assinatura, clique no link de acesso ao(s) documento(s) disponível na mensagem que recebeu ou se você tem uma conta ArqSign pode acessar o processo através de sua Caixa de entrada clicando em Assinar. &#x20;
+
+1. O(s) documento(s) será(ão) exibido(s) para leitura.&#x20;
+2. Após a leitura, clique em Assinar.&#x20;
+3. Caso solicitado, preencha seus dados como Nome e documento. &#x20;
+4. Caso solicitado, anexe documento(s).&#x20;
+5. Aplique a representação visual de sua assinatura com um dos estilos de assinatura: Padrão (seu nome escrito), Desenho (assinatura manuscrita) ou Imagem (upload da imagem/foto de sua assinatura). &#x20;
+6. Clique em Concluir&#x20;
+
+[Clique aqui e confira como realizar a assinatura de documentos por meio da plataforma ArqSign.](assinatura-de-documentos.md)
+
+</details>
+
+<details>
+
+<summary>Como habilitar / desabilitar a geração de QRCode no Registro de Assinaturas para acesso ao documento assinado?</summary>
+
+Para padronizar a configuração de geração de QRCode no Registro de assinaturas para uma conta, você deverá ser um usuário com perfil Administrador Global ou Administrador da Conta e seguir os seguintes passos:
+
+* Acesse: Administração > Conta > Configurações > Processos;
+* Clique em “Editar”;
+* Em “Configurações sobre a Disponibilização do Documento Assinado aos destinatários” habilite ou desabilite a geração de QRCode no Registro de assinaturas conforme sua preferência;
+* Clique em Salvar.
+
+Essa alteração repercute para conta.
+
+Caso necessário, um usuário com qualquer perfil pode alterar a configuração padrão desta funcionalidade apenas para um determinado fluxo. Para isso, basta seguir os seguintes passos:
+
+* Clicar em “Novo Processo”;
+* Fazer o upload de um novo documento;
+* Clicar em “Configurações Avançadas”;
+* Habilitar ou desabilitar a geração de QRCode de acesso do documento no Registro de Assinaturas;
+* Clicar em “Aplicar”.
+
+</details>
+
+<details>
+
+<summary>Como enviar um Processo para assinatura para um contato salvo na plataforma ArqSign?</summary>
+
+Para enviar um Processo para assinatura para um contato salvo na Plataforma ArqSign no seu usuário ou compartilhado por outro usuário, siga os seguintes passos:
+
+1. Clique em “Novo Processo”, insira o documento e execute as configurações necessárias relativas ao Processo;
+2. Na parte de configuração dos Destinatários, clique no botão![](https://cdn.arquivar.com.br/wp-content/uploads/2023/06/Imagem1.png)
+3. A Plataforma exibirá um Grid de consulta com todos os contatos do usuário logado que estão relacionados com a conta logada, ordenados alfabeticamente pela coluna nome e na sequência todos os contatos dos outros usuários ativos da conta logada, que tenham sido marcados para serem compartilhados com todos os usuários da conta, ordenados alfabeticamente pela coluna nome.
+4. Escolha o(s) destinatário(s) e clique em “Adicionar Destinatários”.
+5. Configure o Tipo de Assinatura Eletrônica para cada destinatário;
+6. Configure token de segurança ou mensagem privada para cada destinatário se for o caso e siga os próximos passos para envio do Processo para assinatura.
+
+</details>
+
+<details>
+
+<summary>Como configurar assinatura com documento estrangeiro?</summary>
+
+Para configurar o Processo solicitando assinatura com um documento estrangeiro, siga os seguintes passos:
+
+1. Depois de fazer o upload do documento;
+2. Inserir os destinatários e clicar em ‘avançar”;
+3. Na tela “configurar campos” você irá configurar a coleta de assinaturas dos destinatários;
+4. Selecione o destinatário no topo da tela;
+5. No canto direito, selecione o tipo de assinatura para Pessoa física;
+6. Logo abaixo, há a configuração de “Informações complementares de assinatura”;
+7. Selecione o check box “Nome do Signatário”;
+8. Selecione o check box “Documento do Signatário”;
+9. Na caixa “Documento”, escolha “outro”;
+10. Na caixa abaixo especifique o documento que deseja solicitar e se quiser configure nas demais caixas os tipos de caracteres válidos e a quantidade de caracteres para validação.
+
+</details>
+
+<details>
+
+<summary>Como assinar um Processo com Certificado Digital – ICP-Brasil?</summary>
+
+Na Plataforma ArqSign, o remetente de Processos pode determinar o tipo de assinatura que o destinatário deverá executar escolhendo entre uma das opções abaixo:&#x20;
+
+**a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
+
+**b) Assinatura com Certificado Digital Pessoal do Tipo ICP-Brasil** (A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
+
+**c) Assinatura com Certificado Digital Pessoal Todos os Tipos** (A ArqSign produz assinaturas eletrônicas e digitais através de outros certificados).&#x20;
+
+Se você recebeu um documento para assinar via Plataforma ArqSign e precisa assinar com Certificado Digital pela primeira vez, siga os seguintes passos:&#x20;
+
+* Abra o documento, leia e se aceitar, clique em Assinar;&#x20;
+* Execute a assinatura no formato de sua preferência e clique em Avançar;&#x20;
+* Ao clicar em “Avançar”, você será informando que a assinatura solicitada deverá ser executada com certificado digital;&#x20;
+* Selecione qual certificado será utilizado para assinar o documento através das opções:&#x20;
+
+1\) Certificados que foram inseridos na ArqSign e estão salvos na nuvem e&#x20;
+
+2\) Certificados salvos no computador de quem está assinando o documento.&#x20;
+
+![](<../.gitbook/assets/image (156).png>)
+
+
+
+* Para assinatura com Certificado inserido na Plataforma, clique na opção indicada;&#x20;
+* Para assinatura com Certificado digital instalado em sua máquina você deverá seguir os passos indicados para:&#x20;
+
+1. Adicionar a extensão ArqSign para seu navegador;&#x20;
+2. Instalar o módulo desktop;&#x20;
+
+* Insira a senha do Certificado Digital e clique em Avançar&#x20;
+
+O passo a passo para adicionar a extensão ao seu navegador e o módulo desktop podem ser acessados abaixo:&#x20;
+
+* [Como adicionar extensão ArqSign no navegador Chrome](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-certificado-digital-no-navegador-chrome/).&#x20;
+* [Como adicionar extensão ArqSign no navegador Edge](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-certificado-digital-no-navegador-edge/).&#x20;
+* [Como adicionar extensão ArqSign no navegador FireFox](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-no-navegador-firefox/).&#x20;
+* [Como instalar módulo desktop.](https://arquivar.com.br/faq-assuntos/como-instalar-modulo-desktop/)
+
+</details>
+
+<details>
+
+<summary>Como instalar o módulo desktop?</summary>
+
+1\) Ao executar a instalação do Módulo Desktop, o Microsoft defender SmartScreen, a princípio, impede a instalação do módulo, pelo fato do módulo não ser um aplicativo presente na Microsoft Store. Para dar sequência na instalação deve-se clicar em Mais informações.
+
+2\) Após clicar em Mais informações, deve-se clicar no botão Executar assim mesmo.
+
+3\) Após isto, deve-se seguir o processo de instalação e clicar no botão Concluir, ao término da instalação, e o Módulo Desktop já estará ativo no computador.
+
+</details>
+
+<details>
+
+<summary>Como adicionar a extensão ArqSign no navegador FireFox?</summary>
+
+Quando um signatário de um Processo que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo abaixo para efetuar essas
+
+1. Ao clicar no link, duas ações serão executadas ao mesmo tempo, a primeira é o download do instalador do Módulo Desktop (No Firefox é solicitada uma confirmação para iniciar o download). Deve-se aguardar o download ser concluído e seguir os passos do Tutorial Instalação Módulo Desktop.
+2. A outra ação é a abertura de uma nova aba no navegador, na Firefox Browser Add-ons, com o plugin da ArqSign.
+3. Ao clicar no botão Adicionar ao Firefox, será aberta uma notificação para a confirmação da adição da extensão no navegador.
+4. Ao clicar em Adicionar, aparecerá uma notificação informando que a extensão foi adicionada ao navegador. Após isto, a aba do Firefox Browser Add-ons pode ser fechada.
+5. Após a adição do plugin no navegador, caso o Módulo Desktop ainda não tenha sido instalado, a aplicação ainda indicará um link para download do mesmo.
+6. Com as duas instalações concluídas, a modal será atualizada, listando os certificados salvos no computador do usuário.
+7. No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados, neste ponto, deve-se clicar em Permitir para liberar a utilização dos certificados digitais.
+
+Caso a extensão e o módulo desktop já tenham sido instalados essa ação não será requerida novamente.
+
+Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, eles serão exibidos. Para utilizá-los basta selecionar e seguir os próximos passos não necessitando da instalação da extensão e módulo.
+
+</details>
+
+<details>
+
+<summary>Como adicionar a extensão ArqSign Certificado Digital no navegador Edge?</summary>
+
+Quando um signatário de um Processo que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo:
+
+1. No Microsoft Edge, ao clicar no link disponível, pode acontecer o bloqueio de pop-up.
+2. Caso isto aconteça, deve-se clicar no ícone de bloqueio de pop-ups, ao lado do URL da página.
+3. Ao clicar no ícone, deve-se permitir pop-ups para a página da ArqSign.
+4. Após o desbloqueio dos pop-ups, deve-se clicar no link disponível novamente. Ao clicar no link, duas ações serão executadas ao mesmo tempo, a primeira é o download do instalador do Módulo Desktop. Deve-se aguardar o download ser concluído e seguir os passos do Tutorial Instalação Módulo Desktop. A segunda é a abertura de uma aba da Microsoft Store com o plugin da ArqSign.
+5. Ao clicar no botão Obter, será aberta uma notificação para a confirmação da adição da extensão no navegador.
+6. Ao clicar em Adicionar extensão, aparecerá uma notificação informando que a extensão foi adicionada ao navegador. Após isto, a aba do Microsoft Store pode ser fechada.
+7. Após a adição do plugin no navegador, caso o Módulo Desktop ainda não tenha sido instalado, a aplicação ainda indicará um link para download dele.
+8. Com as duas instalações concluídas, a modal será atualizada, listando os certificados salvos no computador do usuário.
+9. No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados, neste ponto, deve-se clicar em Permitir para liberar a utilização dos certificados digitais.
+
+Caso a extensão e o módulo desktop já tenham sido instalados essa ação não será requerida novamente.
+
+Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, eles serão exibidos. Para utilizá-los basta selecionar e seguir os próximos passos não necessitando da instalação da extensão e módulo.
+
+</details>
+
+<details>
+
+<summary>Como adicionar a extensão ArqSign Certificado Digital no navegador Chrome?</summary>
+
+Quando um signatário de um Processo que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo abaixo para efetuar essas configurações:
+
+1. Clique no link indicado para abrir a loja no navegador;
+2. A extensão ArqSign Certificado Digital será exibida;
+3. Clique em “Usar no Chrome”;
+4. Ao clicar no botão Usar no Chrome, será aberta uma notificação para a confirmação da adição da extensão no navegador. Clique em adicionar extensão;
+5. Ao clicar em Adicionar extensão, aparecerá uma notificação informando que a extensão foi adicionada ao navegador. Após isto, a aba do Chrome Web Store pode ser fechada.
+6. Após a adição do plugin no navegador, caso o Módulo Desktop ainda não tenha sido instalado, a aplicação ainda indicará um link para download dele;
+7. No caso de o Módulo Desktop não ter sido instalado ainda, um pop-up aparecerá com uma opção para instalação ou atualização do Módulo Desktop em seu computador.
+8. Clique no link indicado para fazer o download;
+9. Localize o arquivo instalador do módulo baixado e execute-o para instalação;
+10. Ao executar a instalação do Módulo Desktop, o Microsoft defender SmartScreen, a princípio, impede a instalação do módulo, pelo fato do módulo não ser um aplicativo presente na Microsoft Store. Para dar sequência na instalação deve-se clicar em Mais informações;
+11. Após clicar em Mais informações, deve-se clicar no botão Executar assim mesmo;
+12. Clique em Instalar;
+13. Após finalizar a instalação, clique em concluir
+14. O pop-up será atualizado e solicitará que você escolha o certificado digital que deseja utilizar;
+15. Escolha o certificado e siga com a assinatura;
+16. No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados. Clique em “Permitir “para liberar a utilização dos certificados digitais.
+
+Caso a extensão e o módulo desktop já tenham sido instalados essa ação não será requerida novamente.
+
+Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, eles serão exibidos. Para utilizá-los basta selecionar e seguir os próximos passos não necessitando da instalação da extensão e módulo.
+
+</details>
+
+<details>
+
+<summary>Como assinar um documento na Plataforma ArqSign quando a solicitação para assinatura é enviada por WhatsApp?</summary>
+
+Se um Processo foi enviado para sua assinatura pela Plataforma ArqSign por WhatsApp, você receberá uma mensagem com o nome do remetente que pode ser aberta no aplicativo do seu celular ou WhatsApp Web.&#x20;
+
+Caso seja a primeira vez que você interage com o remetente pelo WhatsApp, vá ao final da mensagem e adicione aos seus contatos para habilitar todos os links da mensagem.&#x20;
+
+Clique no link presente na mensagem e você terá acesso ao documento para leitura.&#x20;
+
+Após a leitura, basta clicar em Assinar. Preencha os dados se solicitado. Anexe documentos se solicitado. Aplique sua representação visual e clique em Concluir.&#x20;
+
+Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros Processos assinados através da plataforma e ainda testar grátis por 15 dias.&#x20;
+
+Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.&#x20;
+
+Além disso, todos os destinatários que tiverem uma Conta ArqSign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste Processo na plataforma.
+
+</details>
+
+<details>
+
+<summary>Como assinar um Processo na Plataforma ArqSign quando a solicitação para assinatura é enviada por e-mail?</summary>
+
+Ao receber um Processo por e-mail solicitando sua assinatura, ele conterá o nome do remetente e no título terá o nome do Processo a ser assinado. Caso não localize o e-mail em sua caixa de entrada, verifique na Caixa de Spam ou promoções.&#x20;
+
+Abra o e-mail. (Lembrando que a plataforma pode ser acessada de qualquer dispositivo – computador, tablet ou celular)&#x20;
+
+Clique em “Assinar Documento” e você terá acesso ao documento para leitura.&#x20;
+
+Após a leitura, basta clicar em Assinar. Preencha os dados se solicitado. Anexe documentos se solicitado. Aplique sua representação visual e clique em Concluir.&#x20;
+
+Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros Processos assinados através da plataforma e ainda testar grátis por 15 dias.&#x20;
+
+Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.&#x20;
+
+Além disso, todos os destinatários que tiverem uma Conta ArqSign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste Processo na plataforma.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como recusar a assinatura de um Processo?</summary>
+
+1. Abra o arquivo que recebeu para assinatura;&#x20;
+2. No canto superior direito clique em Assinar ou Opções;&#x20;
+3. Clique em Recusar assinatura;&#x20;
+4. Informe o motivo de recusa – Essa informação ficará disponível para o remetente ao abrir o arquivo e através de notificação por e-mail;&#x20;
+5. Clique em Recusar assinatura.&#x20;
+6. O remetente receberá o retorno através de uma notificação por e-mail ou poderá acessar quando abrir o Processo e clicar sobre o seu nome.
+7. O fluxo é automaticamente cancelado quando há uma recusa para assinatura.
+8. Analise o motivo de recusa, faça as alterações no documento se necessário e crie um novo fluxo para assinatura.
+
+</details>
+
+<details>
+
+<summary>O que é signatário?</summary>
+
+Signatário é uma pessoa física ou jurídica que participa do processo de assinatura (assina um documento). O signatário não precisa ter conta na Plataforma ArqSign para assinar.
+
+</details>
+
+<details>
+
+<summary>O que fazer quando signatário informa que não recebeu WhatsApp com link para assinatura?</summary>
+
+Quando um dos signatários informa que não recebeu o WhatsApp com o link para assinatura, verifique os seguintes itens antes de reenviar ou abrir um chamado:
+
+1. Confira se você digitou o número do WhatsApp corretamente;
+   1. Caso o número que você digitou esteja errado, você pode corrigi-lo e enviar novamente através do Menu Enviados > Reenviar;
+2. Peça ao signatário para conferir se ele está com acesso à internet móvel ou Wi-Fi;
+3. Peça ao cliente para entrar no WhatsApp e verificar se não recebeu nova mensagem, pois, pode ser apenas um problema de configuração de recebimento de notificações;
+4. Caso o problema não seja resolvido com nenhuma das opções acima, pode ser que a mensagem enviada tenha sido bloqueada pelo próprio WhatsApp porque o signatário não está com o aplicativo atualizado. Para atualizar o aplicativo o signatário deve acessar a loja de aplicativos e clicar em Atualizar ([https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem…](https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem%20n%C3%A3%C2%A3o%20recebida\&search_session_id=cb86af1005f8183efe4a18d785336191\&sr=2));
+5. Se ainda assim não houve a atualização, você pode enviar o link de atualização de Serviços do WhatsApp para o signatário atualizar: Link: [https://wa.me/tos/20210210](https://wa.me/tos/20210210). O signatário deve abrir o link no WhatsApp e aceitar os termos.
+6. Após o signatário atualizar o aplicativo e/ou os Termos de Serviços do WhatsApp, faça o reenvio do Processo através da Plataforma ArqSign clicando em Enviados -> Reenviar.
+7. Caso mesmo assim o signatário não receba a mensagem de WhatsApp, entre contato conosco e forneça as informações abaixo para analisarmos o que pode ter acontecido.
+
+Informações necessárias:
+
+* Nome
+* Empresa
+* WhatsApp
+* Nome do Processo enviado
+* Data do envio
+* Signatário
+
+</details>
+
+<details>
+
+<summary>O que fazer quando signatário informa que não recebeu e-mail com link para assinatura?</summary>
+
+Quando um dos signatários informa que não recebeu o e-mail com o link para assinatura, verifique os seguintes itens antes de reenviar ou abrir um chamado:
+
+1. Confira se você digitou o endereço de e-mail corretamente;
+2. Confira se o cliente está com acesso à internet;
+3. Se você tiver enviado o link para uma caixa de e-mail gratuita, solicite ao signatário para conferir a caixa de **SPAM, Lixo eletrônico ou Promoções**, pois, estes servidores podem fazer uma classificação errônea de nossos e-mails e enviá-los para essas caixas;
+4. Se você enviou o link para uma pessoa ou empresa que tenha antivírus ou firewall instalados na máquina ou servidor, solicite que ele verifique **se o e-mail com o link** **não foi bloqueado pelo sistema de segurança**;
+5. Se você fez todas estas análises e não localizou nenhum problema, tente reenviar o Processo através da Plataforma ArqSign e verifique novamente nas pastas acima mencionadas;
+6. Caso mesmo assim o signatário não receba o e-mail, entre contato conosco e forneça as informações abaixo para analisarmos o que pode ter acontecido.
+
+Informações necessárias:
+
+* Nome
+* Empresa
+* E-mail
+* Nome do Processo enviado
+* Data do envio
+* Signatário
+
+</details>
+
+<details>
+
+<summary>Como solicitar assinatura em tablet?</summary>
+
+Para que um cliente assine um Processo no tablet de um estabelecimento, basta seguir os seguintes passos:&#x20;
+
+1. Criar um e-mail genérico para ser utilizado no envio dos Processos a serem assinados no tablet como por exemplo: assinadoreletronicodedocumentos@nomedoestabelecimento.com.br;
+2. Criar um usuário para o e-mail acima;
+3. Logar na plataforma ArqSign com o usuário;
+4. Enviar Processo para assinatura do cliente e solicitar as seguintes autenticações:
+5. Nome
+6. Documento
+7. Anexar Foto com documento
+8. Habilitar a captura de geolocalização no tablet do estabelecimento
+
+Ao assinar o Processo, a pessoa vai inserir, nome, documento e fazer uma Selfie com documento (se possível mostrando a placa do estabelecimento).&#x20;
+
+As seguintes informações serão inseridas/anexadas ao Processo:&#x20;
+
+Autenticações:&#x20;
+
+* Nome
+* Documento
+* Selfie com documento
+* Geolocalização (estabelecimento)
+
+</details>
+
+<details>
+
+<summary>Por que na ArqSign, a folha com o Registro de Assinaturas não vem no final do documento?</summary>
+
+O ato de inserir uma página mutável (que vai sendo alterada a cada assinatura) ao final do arquivo que está sendo assinado pelas partes, caracteriza uma alteração do documento, o que vai totalmente contra o processo que garante a integridade e viola as normas técnicas de assinatura com certificado digital. &#x20;
+
+Portanto, o processo seguro da ArqSign não permite a inserção de uma página ao final do arquivo assinado, porque isso corromperia os certificados que foram inseridos durante o processo de assinatura de cada signatário.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como faço para inserir rubrica em todas as páginas do documento?</summary>
+
+Não é necessário inserir rubrica ao assinar digitalmente com a ArqSign. A assinatura digital aplica uma camada de segurança ao documento inteiro, garantindo sua integridade e autenticidade e aceite total sem a necessidade de rubricas em cada página.
+
+Não rubricar as páginas de um documento assinado eletronicamente é inclusive uma recomendação do Instituto Nacional de Tecnologia da Informação – órgão do governo que regulamenta a assinatura eletrônica no Brasil. Saiba mais em: [validar.iti.gov.br/guia.html ](https://validar.iti.gov.br/guia.html)
+
+</details>
+
+<details>
+
+<summary>Qual o limite de pessoas para assinar?</summary>
+
+Não há limite de signatários ou pessoas para assinar.
+
+</details>
