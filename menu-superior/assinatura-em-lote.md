@@ -1,9 +1,9 @@
 # 🖊️ Assinatura em Lote
 
-O processo de assinatura em lote permite que o usuário assine mais de um documento de uma só vez. A assinatura em lote só está disponível para usuários que possuem conta cadastrada na plataforma e estiverem autenticados. Nesta tela, serão apresentados até 100 documentos por página, isso vai depender da quantidade de documentos pendentes de assinatura. 
+A funcionalidade de assinatura em lote permite que o usuário assine mais de um processo de uma só vez. A assinatura em lote só está disponível para usuários que possuem conta cadastrada na plataforma e estiverem autenticados. Nesta tela, serão apresentados até 100 processos por página, isso vai depender da quantidade de processos pendentes de assinatura. 
 
 {% hint style="danger" %}
-<mark style="color:red;">Documentos que exigem as configurações:</mark>
+<mark style="color:red;">Processos que exigem as configurações:</mark>
 
 <mark style="color:red;">**• Código de segurança**</mark>
 
