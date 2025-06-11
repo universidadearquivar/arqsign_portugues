@@ -99,12 +99,54 @@ Caso não tenha instalado ainda a Extensão "ArqSign Certificado Digital" e o "A
 
 #### **Status**
 
-Clicando neste botão é exibido o status no qual aquele documento se encontra, que pode ser “Aguardando” (nenhum participante assinou o documento até o momento) ou “Em processo” (um ou mais participantes já assinaram o documento, mas ainda faltam assinaturas). Além do status são mostradas as seguintes informações sobre os signatários: ordem de assinatura determinada, nome e e-mail/telefone e se já concluiu ou não a assinatura.&#x20;
+Clicando neste botão é exibido o status no qual aquele processo se encontra, que pode ser “Aguardando” (nenhum participante assinou o processo até o momento) ou “Em processo” (um ou mais participantes já assinaram o processo, mas ainda faltam assinaturas). Além do status são mostradas as seguintes informações sobre os signatários: ordem de assinatura determinada, nome e e-mail/telefone e se já concluiu ou não a assinatura.&#x20;
 
 <figure><img src="../.gitbook/assets/lote05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Recusar Assinatura**
 
-Utilizado quando por algum motivo o signatário não deseja assinar o documento. Neste caso ele deve inserir uma justificativa para a recusa e clicar em “Recusar Assinatura”. &#x20;
+Utilizado quando por algum motivo o signatário não deseja assinar o processo. Neste caso ele deve inserir uma justificativa para a recusa e clicar em “Recusar Assinatura”. &#x20;
 
 <figure><img src="../.gitbook/assets/lote06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+## 🗪 Perguntas e Respostas Frequentes
+
+<details>
+
+<summary>Assinando documentos em lote pelo celular</summary>
+
+
+
+1\. O processo de assinatura em lote também pode ser realizado diretamente pelo celular, e ocorre da mesma forma como na plataforma.
+
+2\. A opção de “Assinatura em Lote” é apresentada, assim como a lista de processos pendentes de assinatura para seleção. Feita a seleção dos processos, clique no ícone “Assinatura em Lote”.
+
+![](<../.gitbook/assets/image (144).png>)
+
+3. Preencha os dados solicitados.
+
+![](<../.gitbook/assets/image (145).png>)
+
+4. Defina a representação visual (Estilo de Assinatura).
+
+![](<../.gitbook/assets/image (146).png>)
+
+5. Acompanhe o progresso das assinaturas.
+
+![](<../.gitbook/assets/image (147).png>)
+
+6. Será apresentado o informativo do processo concluído.
+
+![](<../.gitbook/assets/image (148).png>)
+
+7. Concluído o processo de assinatura por todos os responsáveis, o documento final pode ser consultado na ArqSign, pois ele será mantido no processo.
+
+</details>
+
+<details>
+
+<summary>Como assinar documentos em lote?</summary>
+
+[Clique aqui e confira como realizar a assinatura de documentos em lote por meio da plataforma ArqSign.](assinatura-em-lote.md)
+
+</details>
