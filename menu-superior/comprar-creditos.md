@@ -23,3 +23,21 @@ O usuário pode adquirir créditos extras para envio de processos via e-mail e W
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 3\. Após a conclusão da compra, se a conta for compartilhada com outros usuários, todos os usuários com perfil de administrador global da conta receberão uma notificação por e-mail sobre a aquisição dos créditos extras.
+
+
+
+## 🗪 Perguntas e Respostas Frequentes
+
+<details>
+
+<summary>Como comprar créditos de envios via e-mail ou WhatsApp e SMS?</summary>
+
+1. Clique em Comprar Créditos;
+2. Ajuste a quantidade de créditos que deseja adquirir para cada item disponível em seu plano (Envios via e-mail, WhatsApp ou SMS);
+3. Clique em prosseguir;
+4. Insira ou confirme os dados de pagamento;
+5. Clique em Finalizar compra.&#x20;
+
+É necessário realizar compras de no mínimo R$10,00 reais e os créditos adquiridos têm validade de 06 meses.&#x20;
+
+</details>
