@@ -102,19 +102,19 @@ Com o botão de eventos posicionado para a esquerda, é possível visualizar os 
 
 ## Ações em lote – Vencidos
 
-É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
+É possível selecionar mais de um processo marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
 
 <figure><img src="../.gitbook/assets/vencidos06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Alterar Proprietário**
 
-Ao clicar nesta opção será possível alterar o proprietário do documento. Ao executar essa ação não será possível realizar outras atividades de gestão do documento.  &#x20;
+Ao clicar nesta opção será possível alterar o proprietário do processo. Ao executar essa ação não será possível realizar outras atividades de gestão do documento.  &#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/vencidos07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
 
 #### **Cancelar Envio**
 
