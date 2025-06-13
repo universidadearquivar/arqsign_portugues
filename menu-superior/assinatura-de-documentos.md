@@ -299,16 +299,16 @@ Para o uso de assinatura digital será necessário, antes do primeiro uso, a ins
     <figure><img src="../.gitbook/assets/image (7) (2).png" alt="" width="169"><figcaption></figcaption></figure>
 3.  Clicar em "Obter extensões do Microsoft Edge".
 
-    <figure><img src="../.gitbook/assets/image (8).png" alt="" width="161"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (2).png" alt="" width="161"><figcaption></figcaption></figure>
 4.  Buscar por "ArqSign Certificado Digital".
 
-    <figure><img src="../.gitbook/assets/image (9).png" alt="" width="272"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (2).png" alt="" width="272"><figcaption></figcaption></figure>
 5.  Clicar em "Obter".
 
-    <figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 6.  Clicar em "Adicionar extensão"
 
-    <figure><img src="../.gitbook/assets/image (11).png" alt="" width="235"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (2).png" alt="" width="235"><figcaption></figcaption></figure>
 7. Prontinho, extensão adicionada com sucesso, só precisará fazer isso na primeira vez que assinar com certificado digital, nas próximas a extensão já se manterá instalada em seu navegador.&#x20;
 {% endtab %}
 {% endtabs %}
