@@ -215,3 +215,119 @@ Ao clicar neste ícone será possível cancelar o envio dos processos selecionad
 Ao clicar neste ícone será possível excluir os processos selecionados. Só será possível executar essa ação em processos em que o usuário for além de signatário o remetente do processo e que estejam com o status “Concluído”.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt="" width="362"><figcaption></figcaption></figure>
+
+## 🗪 Perguntas e Respostas Frequentes
+
+<details>
+
+<summary>Como verificar a validade de um documento impresso assinado na plataforma ArqSign, por meio do QRCode?</summary>
+
+Se você tem um documento impresso que foi assinado através da plataforma ArqSign e precisa verificar sua validade, existem alguns itens de segurança que você pode verificar conforme abaixo:
+
+1. Localize nas páginas do documento assinado através da Plataforma ArqSign uma marca d’água com o “**ID do documento”** no canto superior esquerdo;
+2. Confirme que o “**ID do documento**” é o mesmo em todas as páginas e no Registro de Assinaturas.
+3. Toda vez que um documento é assinado através da Plataforma ArqSign, um arquivo com o nome de “Registro de Assinaturas” é gerado. O “Registro de Assinaturas” contém:
+
+a) A identificação do documento a que pertence, ou seja, o “**ID do documento**”;
+
+b) O **Hash** do documento (comprovação de integridade do documento);
+
+c) Informações sobre o **Remetente, data de criação e envio**;
+
+d) **Status** do Processo, **tamanho**, **quantidade de páginas e assinaturas**;
+
+e) **QRCode** que dá **acesso ao documento na Plataforma ArqSign**\*;
+
+f) **Link** que dá **acesso ao documento na Plataforma ArqSign**\*;
+
+g) **Detalhamento de todas as assinaturas contendo:**
+
+I. Nome
+
+II. E-mail
+
+III. Documento
+
+IV. Nível de segurança
+
+V. Certificado ICP-Brasil utilizado
+
+VI. Data e hora
+
+VII. IP do dispositivo
+
+VIII. Geolocalização
+
+h) Trilha de auditoria percorrida por cada participante do Fluxo de assinaturas detalhada através dos eventos:
+
+I. Lido – por qual signatário, data e hora, IP e Geolocalização
+
+II. Assinatura Online – por qual signatário, data e hora, IP e Geolocalização.
+
+4\. Caso você queira verificar a validade jurídica do documento no Portal ITI ou Adobe, acesse o documento através do QRCode.
+
+\*Ao acessar o documento na Plataforma ArqSign via **QRCode ou link,** você poderá:
+
+* Baixar o documento e o “Registro de Assinaturas”;
+* Exibir o histórico (trilha de auditoria);
+* Exibir o Termo de aceite para assinatura eletrônica;
+* Verificar os detalhes das assinaturas.
+
+</details>
+
+<details>
+
+<summary>Como pesquisar um Processo na plataforma ArqSign?</summary>
+
+Localizar um Processo na Plataforma ArqSign é super prático, basta seguir as instruções abaixo:&#x20;
+
+Primeiro, encontre a Caixa onde o processo está localizado. Todas as caixas (Caixa de entrada, Enviados, Rascunhos, Excluídos, Renovações) têm a funcionalidade de pesquisa, que aparece como “Filtrar”. &#x20;
+
+Clique no campo “Filtrar”. &#x20;
+
+As opções de pesquisa serão exibidas. &#x20;
+
+Insira as informações de pesquisa nos campos desejados, como o nome do signatário, status, pasta do Processo ou data de conclusão. &#x20;
+
+Clique em “Filtrar”. &#x20;
+
+Todos os Processos correspondentes às informações inseridas nos filtros serão exibidos. &#x20;
+
+Para cancelar o filtro, basta clicar no “X” que aparece no canto direito do campo “Filtrar”. &#x20;
+
+Vi como é fácil? Agora você pode localizar seus Processo na Plataforma ArqSign de forma rápida e eficiente! &#x20;
+
+</details>
+
+<details>
+
+<summary>Como acessar os anexos de um Processo?</summary>
+
+1. Localize o Processo que deseja visualizar o anexo.
+2. Clique duas vezes sobre o Processo.
+3. No canto direito, junto aos signatários do Processo, é possível realizar o download do anexo.
+
+</details>
+
+<details>
+
+<summary>Como consultar o motivo de recusa para assinatura de Processo?</summary>
+
+Você pode verificar o motivo de recusa de assinatura de um Processo através da notificação enviada para o remetente e quando abrir o documento.&#x20;
+
+Para acessar o motivo de recusa ao abrir o documento siga os seguintes passos:&#x20;
+
+1. Abra o arquivo com o fluxo de assinatura “recusada”. Ele estará com o status Cancelado”;
+2. Clique sobre o signatário e verifique o motivo de recusa.&#x20;
+
+</details>
+
+<details>
+
+<summary>Meu documento assinado fica salvo ou preciso baixá-lo?</summary>
+
+Caso você tenha uma conta ArqSign, o seu arquivo ficará salvo na plataforma, com segurança e rastreabilidade. Sempre que houver demanda de consulta do documento ou você poderá realizar o download do arquivo, compartilhá-lo externamente, entre inúmeras outras possibilidades que a ArqSign oferece para o seu negócio.&#x20;
+
+Se você não tem uma conta ArqSign, não se preocupe. Quando todas as assinaturas são concluídas, uma via do arquivo assinado é enviada para todos os destinatários.
+
+</details>
