@@ -192,31 +192,3 @@ No canto inferior direito da tela o usuário encontrará o menu de “Preciso de
 <figure><img src=".gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
-
-## &#x20;🗪 Perguntas e Respostas Frequentes
-
-<details>
-
-<summary>Conheça a plataforma ArqSign</summary>
-
-**Conhecendo a Plataforma**
-
-Acesse a plataforma de Assinatura e configure a sua Assinatura Eletrônica.
-
-Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos: Caixa Postal, Processos e Administração. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. Clique na imagem para ampliar.
-
-![](https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F5dpgiI1DcsiBJDugx2rr%252Fimage.png%3Falt%3Dmedia%26token%3D7fb45522-1b57-4875-9a16-675361194f1a\&width=768\&dpr=4\&quality=100\&sign=edb9a97c\&sv=2)
-
-**CAIXA POSTAL:** Neste grupo estão concentrados os menus referentes á tramitação dos processos.
-
-![](https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FGAjz1nqTNaUrbpKkFRS2%252Fimage.png%3Falt%3Dmedia%26token%3D38ca527f-5d76-45fd-908c-95b68cd3126f\&width=768\&dpr=4\&quality=100\&sign=cbab9275\&sv=2)
-
-**PROCESSOS:** Neste grupo temos o menu Pastas. Ele é um repositório de armazenamento dos processos tramitados pela plataforma. O restante idem.
-
-![](https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FHBUM2TJHHZApeJkkqLpZ%252Fimage.png%3Falt%3Dmedia%26token%3Dd3ab8a11-3910-480f-aaeb-64fad90f580f\&width=768\&dpr=4\&quality=100\&sign=254a84c2\&sv=2)
-
-**ADMINISTRAÇÃO:** Neste grupo temos as configurações de conta, usuários e grupo de usuários.
-
-![](https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FBf6PadnXQcsiCVbFPZ16%252Fimage.png%3Falt%3Dmedia%26token%3D557bdcaa-54d9-4051-87fb-5fc591dad7d5\&width=768\&dpr=4\&quality=100\&sign=9e236baf\&sv=2)
-
-</details>
