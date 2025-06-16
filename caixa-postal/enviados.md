@@ -2,19 +2,19 @@
 
 ## Visualizar Processo
 
-Na caixa Enviados são apresentados todos os documentos enviados pelo usuário para os signatários, inclusive aqueles em que ele mesmo é assinante.
+Na caixa Enviados são apresentados todos os processos enviados pelo usuário para os signatários, inclusive aqueles em que ele mesmo é assinante.
 
-<figure><img src="../.gitbook/assets/enviados01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (390).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Ao clicar em um documento, será aberta a tela de visualização do documento, que apresenta o documento enviado, seus status e data de vencimento. No canto direito da tela são apresentadas informações dos signatários como dados pessoais, papel de signatário e status da assinatura.
+Ao clicar em um processo, será aberta a tela de visualização, que apresenta os arquivos enviados para assinatura, o status geral do processo e a data de vencimento. No canto direito da tela, são exibidas informações detalhadas dos signatários, como dados pessoais, papel atribuído no processo e status da assinatura.
 
 <figure><img src="../.gitbook/assets/alteracao2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Quando o processo possuir mais de um documento não agrupados, o sistema lista os documentos, ordenados conforme ordem definida para os documentos do processo, permitindo a navegação nos documentos e apresentado na tela o documento selecionado pelo usuário.
+Quando o processo contiver mais de um documento não agrupado, o sistema exibirá a lista desses documentos, ordenados conforme a ordem definida no processo. O usuário poderá navegar entre os documentos, sendo exibido na tela aquele que estiver selecionado.
 
 #### Visão usuário logado
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>Clique para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (391).png" alt=""><figcaption><p>Clique para ampliar.</p></figcaption></figure>
 
 #### Visão usuário Não Logado
 
@@ -24,29 +24,29 @@ Por padrão, os dados do signatário são apresentados abertos na tela, basta fe
 
 ## Colunas da tela principal - Enviados
 
-<figure><img src="../.gitbook/assets/enviados02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (393).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Nome do Documento:** Nesta coluna são exibidos o nome do documento e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.
+**Coluna Nome do Processo:** Nesta coluna são exibidos o nome do processo e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.
 
 **Coluna Responsável:** Nesta coluna são apresentados o nome e e-mail de quem enviou o documento (remetente). Na tela Enviados o único nome e e-mail apresentados serão os do próprio usuário.
 
-**Coluna Status:** Os status possíveis para um documento são: “Aguardando” (nenhum participante assinou o documento até o momento), “Em processo” (um ou mais participantes já assinaram o documento, mas ainda faltam assinaturas), “Concluído” (todos os participantes já assinaram o documento) e “Cancelado” (o documento teve o envio cancelado e o processo de assinatura foi interrompido). Ao passar o mouse sobre o status são exibidas informações sobre quais signatários ainda estão com assinatura pendente e quais já concluíram, além dos dados desses signatários. Também é exibido o código de segurança enviado para os destinatários (se houver).
+**Coluna Status:** Os status possíveis para um processo são: “Aguardando” (nenhum participante assinou o processo até o momento), “Em processo” (um ou mais participantes já assinaram o processo, mas ainda faltam assinaturas), “Concluído” (todos os participantes já assinaram o processo) e “Cancelado” (o processo teve o envio cancelado e o fluxo de assinatura foi interrompido). Ao passar o mouse sobre o status são exibidas informações sobre quais signatários ainda estão com assinatura pendente e quais já concluíram, além dos dados desses signatários. Também é exibido o código de segurança enviado para os destinatários (se houver).
 
 <figure><img src="../.gitbook/assets/enviados03.png" alt=""><figcaption></figcaption></figure>
 
-**Coluna Tamanho:** Nesta coluna é exibido o tamanho do arquivo do documento.&#x20;
+**Coluna Tamanho:** Nesta coluna é exibido o tamanho do(s) arquivo(s) do processo.&#x20;
 
-**Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde o documento está armazenado. Caso o usuário não tenha permissão de acesso à pasta, será exibido “Sem pasta”.
+**Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde o(s) documento(s) do processo estão armazenados. Caso o usuário não tenha permissão de acesso à pasta, será exibido “Sem pasta”.
 
-**Coluna Enviado:** Informações sobre a data e hora em que o documento foi enviado.
+**Coluna Enviado:** Informações sobre a data e hora em que o processo foi enviado.
 
 **Coluna Concluído:** Informações sobre a data e hora em que o processo de assinatura do documento foi concluído. Caso ainda não tenha sido concluído esta coluna ficará em branco.
 
-**Coluna Ações:** Esta coluna exibe botões de ação sobre o documento. Esses botões serão exibidos de acordo com o perfil do usuário. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do documento.
+**Coluna Ações:** Esta coluna exibe botões de ação sobre o processo. Esses botões serão exibidos de acordo com o perfil do usuário. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do processo.
 
-**Barra de filtro:** É possível localizar um ou mais documentos utilizando-se os filtros disponíveis para busca. A busca pode ser feita pelo nome ou e-mail do responsável pelo envio, pelo nome de um dos signatários, pelo status do documento (na caixa Enviados serão exibidos os documentos com status “Concluído”, Aguardando”, “Em processo” e “Cancelado”), pela pasta onde o documento está armazenado ou pela data de conclusão das assinaturas.
+**Barra de filtro:** É possível localizar um ou mais processo utilizando-se os filtros disponíveis para busca. A busca pode ser feita pelo nome ou e-mail do responsável pelo envio, pelo nome de um dos signatários, pelo status do processo (na caixa Enviados serão exibidos os processos com status “Concluído”, Aguardando”, “Em processo” e “Cancelado”), pela pasta onde o processo está armazenado ou pela data de conclusão das assinaturas.
 
-<figure><img src="../.gitbook/assets/enviados04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -60,20 +60,18 @@ Por padrão, os dados do signatário são apresentados abertos na tela, basta fe
 
 #### **Reenviar**
 
-É possível realizar o reenvio de documentos ainda não assinados  por todos os signatários. Para os casos de documentos com prazo de assinatura expirado e que não foram assinados por todos os signatários é exibida a mensagem “Vencido antes da conclusão das assinaturas”. Neste caso, é possível reenviar o documento somente para aqueles signatários que ainda não assinaram.&#x20;
+É possível realizar o reenvio de processos que ainda não foram assinados por todos os signatários. Nos casos em que o prazo de assinatura tenha expirado antes da conclusão por todos os participantes, o sistema exibirá a mensagem: “Vencido antes da conclusão das assinaturas”. Nessa situação, o reenvio será permitido apenas para os signatários que ainda não assinaram.
 
-Ao clicar em "reenviar" serão exibidas as informações de ordem de envio para os destinatários, e-mail ou telefone para onde o documento foi enviado, código de segurança para acesso ao documento (se houver).
+Ao clicar em "Reenviar", serão exibidas as informações de ordem de assinatura dos signatários, os canais utilizados para envio do processo (e-mail ou telefone) e, se configurado, o código de segurança necessário para acesso ao conteúdo.
 
-<figure><img src="../.gitbook/assets/caixa_entrada18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
 
+No ícone “Editar”, é possível realizar a edição das informações do destinatário, bem como as informações definidas para validação do processo nas[ **configurações do destinatário**](../menu-superior/novo-processo.md#informacoes-complementares-de-assinatura).
 
-
-No ícone “Editar”, é possível realizar a edição das informações do destinatário, bem como as informações definidas para validação do documento nas[ **configurações do destinatário**](../menu-superior/novo-processo.md#informacoes-complementares-de-assinatura).
-
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt="" width="563"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Os dados de validação do documento só poderão ser editados nesta tela se configurados anteriormente. A "Edição" não permite a inclusão de dados para validação.</mark>
+<mark style="color:blue;">Os dados de validação do processo só poderão ser editados nesta tela se configurados anteriormente. A "Edição" não permite a inclusão de dados para validação.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
@@ -92,27 +90,27 @@ Também não haverá a opção "Reenviar" ao abrir o processo pela plataforma Ar
 
 Esta opção só será exibida se o usuário tiver acesso à pasta na qual o documento está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde o documento está armazenado.
 
-<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (396).png" alt="" width="445"><figcaption></figcaption></figure>
 
 #### **Alterar Proprietário**
 
-Ao clicar nesta opção o usuário poderá alterar o proprietário do documento. Ao executar essa ação não será possível realizar outras atividades de gestão do documento.
+Ao clicar nesta opção, o usuário poderá alterar o responsável pelo processo. Após a execução dessa ação, não será possível realizar outras atividades de gestão relacionadas ao processo em questão.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só podem ser selecionados como novo proprietário usuários cadastrados na mesma conta do responsável.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/enviados06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 #### **Baixar Arquivo**
 
-Quando processo possuir um documento ou é um compartilhamento de apenas um documento do processo, **o sistema faz&#x20;**_**download**_ do documento do **processo e do registro de assinaturas** em uma pasta.zip.
-
-A pasta zip é nomeada com o nome do processo e o arquivo de registro de assinatura é nomeado como **NomeDocumento\_Registro** de assinatura.
+Quando o processo **possuir apenas um documento**, ou quando for realizado o compartilhamento de um único documento do processo, o sistema fará o download do arquivo em uma pasta `.zip`.\
+Essa pasta será nomeada com o nome do processo, e o arquivo de registro de assinaturas será nomeado como `NomeDocumento_Registro de assinatura`.
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Quando o processo **possuir mais de um documento**, o sistema exibe modal com os documentos do processo para o usuário selecionar quais documentos deseja baixar. Caso seja um compartilhamento, deve-se listar apenas os documentos que foram compartilhados.
+Quando o processo **possuir mais de um documento**, o sistema exibirá uma modal com a lista dos documentos vinculados ao processo, permitindo que o usuário selecione quais deseja baixar.\
+Nos casos de compartilhamento, serão listados apenas os documentos efetivamente compartilhados, respeitando os critérios definidos no ato do envio.
 
 <figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -124,27 +122,29 @@ O Registro de Assinaturas exibe todas as informações sobre as assinaturas elet
 
 #### **Cancelar**
 
-Ao clicar nesta opção o documento é cancelado e o processo de assinaturas é interrompido.
+Ao clicar nesta opção, o processo é cancelado e as assinaturas em andamento são imediatamente interrompidas.
 
 <figure><img src="../.gitbook/assets/enviados07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Histórico**
 
-Utilizado para visualizar informações sobre o documento e o histórico dos eventos relacionados a ele. Também é possível fazer o download dos arquivos originais do processo, antes das assinaturas concluídas. Essa opção só estará disponível para documentos com o status “Concluído”.
+Utilizado para visualizar informações detalhadas sobre o processo e o histórico de eventos relacionados. Também permite o download dos arquivos originais enviados, antes da conclusão das assinaturas. Esta opção estará disponível apenas para processos com o status “Concluído”.
 
 Com o botão de **eventos posicionado para a direita**, observamos os dados do processo na tela.
 
 <figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Com o botão de **eventos posicionado para a esquerda**, é possível visualizar os Id's e Hash's dos documentos, no caso de um **processo com mais de um documento não agrupados**.
+Com o botão de **eventos posicionado à esquerda**, é possível visualizar os IDs e os hashes dos documentos, nos casos em que o **processo possui mais de um documento não agrupado.**
 
 <figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Alterar Renovação**
 
-Esta opção só estará disponível caso o documento possua status “Concluído”. Ao clicar nesta opção é possível incluir ou alterar a data de renovação do documento, determinada anteriormente no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos. Para incluir ou alterar a quantidade de meses de intervalo entre as renovações edite o campo “Quantidade Meses Renovação”.
+Esta opção estará disponível apenas para processos com status “Concluído”. Ao acioná-la, é possível incluir ou alterar a data de renovação do processo, conforme definida previamente no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas”, localizado na etapa Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos.
 
-<figure><img src="../.gitbook/assets/renovacoes07.png" alt=""><figcaption></figcaption></figure>
+Para modificar o intervalo entre renovações, edite o campo Quantidade Meses Renovação.
+
+<figure><img src="../.gitbook/assets/renovacoes07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Corrigir**
 
@@ -152,13 +152,13 @@ Será exibido esse botão quando a informação de contato (e-mail ou telefone) 
 
 #### **Excluir**
 
-Utilizado para excluir o fluxo. Os fluxos excluídos irão para a caixa [Excluídos](excluidos.md).
+Utilizado para excluir o processo. Os processos excluídos irão para a caixa [Excluídos](excluidos.md).
 
-<figure><img src="../.gitbook/assets/caixa_entrada15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (398).png" alt="" width="283"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Renomear**
 
-Esta opção só será exibida se o usuário além de signatário for também o remetente do documento.&#x20;
+Esta opção só será exibida se o usuário além de signatário for também o remetente do processo.&#x20;
 
 Quando o processo possui apenas um documento, o sistema permite alterar o nome do processo:
 
@@ -204,7 +204,8 @@ Adicione no campo indicado todos os e-mails que devem receber a documentação c
 
 #### Visualização de documentos compartilhados
 
-Quando realizado o compartilhamento de apenas um documento de um processo com mais de um documento não agrupado, ao abrir o documento, será apresentado somente o documento compartilhado com o usuário.
+Quando for realizado o compartilhamento de **apenas um documento** de um processo que contém **mais de um documento não agrupado**, o sistema exibirá **somente o documento compartilhado** ao usuário que acessá-lo.\
+Os demais documentos do processo não serão visíveis, preservando o acesso restrito ao conteúdo compartilhado.
 
 Observe que são apresentados na lista apenas os dados dos signatários:
 
@@ -218,25 +219,29 @@ Quando realizado o compartilhamento de mais documentos do processo, é apresenta
 
 ## Ações em lote - Enviados
 
-É possível selecionar mais de um documento marcando o _checkbox_ ao lado do nome do arquivo e selecionando um dos ícones de execução de ações em lote.
+É possível selecionar mais de um processo marcando o _checkbox_ ao lado do nome do arquivo e selecionando um dos ícones de execução de ações em lote.
 
 <figure><img src="../.gitbook/assets/enviados05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Mover Processo (s)**
 
-Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. Não será possível executar essa ação em documentos com o status “Em andamento”.   &#x20;
+Ao clicar neste ícone será possível alterar a pasta onde os processos selecionados estão armazenados. Não será possível executar essa ação em processos com o status “Em andamento”.
 
-<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (399).png" alt="" width="443"><figcaption></figcaption></figure>
 
 #### **Alterar Proprietário**
 
-&#x20;Ao clicar neste ícone será possível alterar a propriedade dos documentos selecionados, ou seja, as funções de administração do documento serão de outro usuário. Essa ação só poderá ser desfeita se o usuário que for definido como novo proprietário devolver a propriedade do documento ao proprietário original ou repassar para outro usuário. A alteração de proprietário de um documento em lote tem o prazo de 24 horas para ser realizada e para acompanhar o andamento o usuário deve acessar o menu [Meu Perfil > Aba Solicitações](../menu-superior/meu-perfil.md#aba-solicitacoes).&#x20;
+Ao clicar neste ícone, será possível **alterar a propriedade dos processos selecionados**, transferindo as funções de administração para outro usuário.\
+Essa ação **só poderá ser revertida** caso o novo proprietário devolva a titularidade ao proprietário original ou a repasse para outro usuário.
+
+A **alteração de proprietário em lote** possui um **prazo de até 24 horas** para ser concluída.\
+O acompanhamento da solicitação pode ser feito acessando o menu **Meu Perfil > Aba Solicitações**.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/enviados06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 #### **Visualizar Documento**
 
@@ -244,7 +249,7 @@ Ao clicar neste ícone será possível alterar a pasta onde os documentos seleci
 
 #### **Reenviar**
 
-Ao clicar neste ícone será possível reenviar os documentos selecionados para os destinatários que ainda não assinaram. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
+Ao clicar neste ícone será possível reenviar os processos selecionados para os destinatários que ainda não assinaram. Só será possível executar essa ação em processos que não estejam com o status “Concluído”.
 
 <figure><img src="../.gitbook/assets/caixa_entrada06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -256,7 +261,8 @@ Ao clicar neste ícone será possível reenviar os documentos selecionados para 
 
 #### **Cancelar Envio**
 
-Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
+Ao clicar neste ícone, será possível **cancelar o envio dos processos selecionados**, interrompendo os respectivos fluxos de assinatura.\
+Essa ação **só poderá ser realizada em processos que não estejam com o status “Concluído”**.
 
 <figure><img src="../.gitbook/assets/caixa_entrada07.png" alt=""><figcaption></figcaption></figure>
 
@@ -264,9 +270,9 @@ Ao clicar neste ícone será possível cancelar o envio dos documentos seleciona
 
 #### **Excluir**
 
-Ao clicar neste ícone será possível excluir os documentos selecionados. Só será possível executar essa ação em documentos com o status “Concluído” ou “Cancelado”.
+Ao clicar neste ícone será possível excluir os processos selecionados. Só será possível executar essa ação em documentos com o status “Concluído” ou “Cancelado”.
 
-<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (401).png" alt="" width="287"><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 #### Falhas na entrega de emails
 
