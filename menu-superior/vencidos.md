@@ -2,7 +2,7 @@
 
 No menu Vencidos são apresentados todos os processos enviados pelo usuário para assinatura, mas que não foram concluídos dentro do prazo estipulado no campo “**Tempo para expiração do documento após o envio**”, na tela [#configuracoes-avancadas](novo-processo.md#configuracoes-avancadas "mention")&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 

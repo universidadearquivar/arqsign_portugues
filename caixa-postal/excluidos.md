@@ -24,17 +24,17 @@ No menu Excluídos são apresentados todos os processos excluídos pelo usuário
 
 **Coluna Tamanho:** Nesta coluna é exibido o tamanho do(s) arquivo(s) presentes no processo.  &#x20;
 
-**Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde o documento está armazenado. Caso o usuário não tenha permissão de acesso à pasta, será exibido “Sem pasta”.&#x20;
+**Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde o processo está armazenado. Caso o usuário não tenha permissão de acesso à pasta, será exibido “Sem pasta”.&#x20;
 
 **Coluna Concluído:** Informações sobre a data e hora em que o processo de assinatura do documento foi concluído. Caso ainda não tenha sido concluído esta coluna ficará em branco.&#x20;
 
-**Coluna Excluído:** Informações sobre a data e hora em que o documento foi excluído.&#x20;
+**Coluna Excluído:** Informações sobre a data e hora em que o processo foi excluído.&#x20;
 
-**Coluna Ações:** Esta coluna exibe botões de ação sobre o documento. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do documento.&#x20;
+**Coluna Ações:** Esta coluna exibe botões de ação sobre o processo. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do processo.&#x20;
 
-**Barra de filtro:** É possível localizar um ou mais documentos utilizando-se os filtros disponíveis para busca. Na tela Excluídos a busca pode ser feita pelo nome do documento, pelo nome do responsável, pelos nomes dos signatários, pelo status do documento, pela pasta onde o documento está hospedado ou pela data de exclusão do documento.  &#x20;
+**Barra de filtro:** É possível localizar um ou mais processos utilizando-se os filtros disponíveis para busca. Na tela Excluídos a busca pode ser feita pelo nome do processo, pelo nome do responsável, pelos nomes dos signatários, pelo status do processo, pela pasta onde o processo está hospedado ou pela data de exclusão do processo.  &#x20;
 
-<figure><img src="../.gitbook/assets/excluidos04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -44,23 +44,22 @@ No menu Excluídos são apresentados todos os processos excluídos pelo usuário
 
 #### **Restaurar**
 
-Ao clicar nesta opção o documento retorna para a caixa postal na qual estava anteriormente à exclusão. Só podem ser restaurados documentos excluídos há menos de um ano.&#x20;
+Ao clicar nesta opção o processo retorna para a caixa postal na qual estava anteriormente à exclusão. Só podem ser restaurados processo excluídos há menos de um ano.&#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**Documentos com o status “Concluído” retornarão para a Caixa de Entrada se o usuário for apenas participante do processo de assinatura ou para a caixa Enviados se ele for proprietário do documento.**</mark>  &#x20;
+<mark style="color:blue;">**Processos com o status “Concluído” serão direcionados para a Caixa de Entrada quando o usuário for apenas participante da assinatura. Caso o usuário seja o proprietário do processo, ele será exibido na caixa Enviados.**</mark>&#x20;
 
-<mark style="color:blue;">**Documentos com o status “Cancelado” sempre retornarão para a caixa Enviados, já que são de propriedade do usuário.**</mark>&#x20;
+<mark style="color:blue;">**Já os processos com o status “Cancelado” sempre serão exibidos na caixa Enviados, pois são de propriedade do usuário que realizou o envio.**</mark>
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">**Documentos com o status “Criado” não podem ser restaurados.**</mark>
+<mark style="color:red;">**Processos com o status “Criado” não podem ser restaurados.**</mark>
 {% endhint %}
 
 #### **Baixar Arquivo**
 
-Quando processo possuir um documento ou é um compartilhamento de apenas um documento do processo, **o sistema faz&#x20;**_**download**_ do documento do **processo e do registro de assinaturas** em uma pasta.zip.
-
-A pasta zip é nomeada com o nome do processo e o arquivo de registro de assinatura é nomeado como **NomeDocumento\_Registro** de assinatura.
+Quando o processo possuir apenas um documento, ou quando for realizado o compartilhamento de um único documento do processo, o sistema fará o download do arquivo em uma pasta `.zip`.\
+Essa pasta será nomeada com o nome do processo, e o arquivo de registro de assinaturas será nomeado como `NomeDocumento_Registro de assinatura`.
 
 <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -76,7 +75,7 @@ O Registro de Assinaturas exibe todas as informações sobre as assinaturas elet
 
 #### **Histórico**
 
-&#x20;Aqui é possível visualizar o histórico do processo de assinatura e seus documentos. Selecione o botão de eventos para visualizar detalhadamente os dados. Nesta tela também é possível baixar os arquivos originais do processo.
+Aqui é possível visualizar o histórico do processo de assinatura e seus documentos. Selecione o botão de eventos para visualizar detalhadamente os dados. Nesta tela também é possível baixar os arquivos originais do processo.
 
 Com o botão de eventos posicionado para a direita, observamos os dados do processo na tela.
 
@@ -90,18 +89,18 @@ Com o botão de eventos posicionado para a esquerda, é possível visualizar os 
 
 ## Ações em lote - Excluídos
 
-É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
+É possível selecionar mais de um processo marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
 
-**Restaurar:** Na tela Excluídos a única ação em lote possível é a de restaurar documentos, retornando-os para a caixa postal na qual estavam anteriormente à exclusão. Só podem ser restaurados documentos excluídos há menos de um ano.&#x20;
+**Restaurar:** Na tela Excluídos a única ação em lote possível é a de restaurar processos, retornando-os para a caixa postal na qual estavam anteriormente à exclusão. Só podem ser restaurados processos excluídos há menos de um ano.&#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**Documentos com o status “Concluído” retornarão para a Caixa de Entrada se o usuário for apenas participante do processo de assinatura ou para a caixa Enviados se ele for proprietário do documento.**</mark>  &#x20;
+<mark style="color:blue;">**Processos com o status “Concluído” retornarão para a Caixa de Entrada se o usuário for apenas participante do processo de assinatura ou para a caixa Enviados se ele for proprietário do processo.**</mark>  &#x20;
 
-<mark style="color:blue;">**Documentos com o status “Cancelado” sempre retornarão para a caixa Enviados, já que são de propriedade do usuário.**</mark>&#x20;
+<mark style="color:blue;">**Processos com o status “Cancelado” sempre retornarão para a caixa Enviados, já que são de propriedade do usuário.**</mark>&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">**Documentos com o status “Criado” não podem ser restaurados.**</mark>
+<mark style="color:red;">**Processos com o status “Criado” não podem ser restaurados.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/excluidos05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
