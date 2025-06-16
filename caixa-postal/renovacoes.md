@@ -1,20 +1,20 @@
 # 🗓️ Renovações
 
-No menu Renovações são apresentados todos os documentos que foram cadastrados e enviados para assinatura com a opção “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos). Só podem ser exibidos nesta tela documentos com o status “Concluído”.
+No menu Renovações são apresentados todos os processos que foram cadastrados e enviados para assinatura com a opção “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos). Só podem ser exibidos nesta tela processos com o status “Concluído”.
 
-<figure><img src="../.gitbook/assets/renovacoes01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (411).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Colunas da tela principal - Renovações
 
-<figure><img src="../.gitbook/assets/renovacoes02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (412).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Nome do Documento:** Nesta coluna são exibidos o nome do documento e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.&#x20;
+**Coluna Nome do Processo:** Nesta coluna são exibidos o nome do processo e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.&#x20;
 
-**Coluna Responsável:** Nesta coluna são apresentados o nome e e-mail de quem enviou o documento (remetente). Na tela Renovações o único nome e e-mail apresentados serão os do próprio usuário.&#x20;
+**Coluna Responsável:** Nesta coluna são apresentados o nome e e-mail de quem enviou o processo (remetente). Na tela Renovações o único nome e e-mail apresentados serão os do próprio usuário.&#x20;
 
-**Coluna Status:** Na tela Renovações o único status possível para um documento é “Concluído” (todos os participantes já assinaram o documento). Ao passar o mouse sobre o status são exibidas informações sobre os signatários. Também é exibido o código de segurança enviado para os destinatários (se houver).&#x20;
+**Coluna Status:** Na tela Renovações o único status possível para um processo é “Concluído” (todos os participantes já assinaram). Ao passar o mouse sobre o status são exibidas informações sobre os signatários. Também é exibido o código de segurança enviado para os destinatários (se houver).&#x20;
 
 <figure><img src="../.gitbook/assets/renovacoes03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
