@@ -18,19 +18,19 @@ No menu Renovações são apresentados todos os processos que foram cadastrados 
 
 <figure><img src="../.gitbook/assets/renovacoes03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Tamanho:** Nesta coluna é exibido o tamanho do arquivo do documento.  &#x20;
+**Coluna Tamanho:** Nesta coluna é exibido o tamanho do(s) arquivo(s) presentes no processo.  &#x20;
 
-**Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde o documento está armazenado. &#x20;
+**Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde os documentos do processo estão armazenados. &#x20;
 
 **Coluna Concluído:** Informações sobre a data e hora em que o processo de assinatura do documento foi concluído. &#x20;
 
-**Coluna Renovação:** Esta coluna exibe a data e hora em que o documento deverá ser renovado, de acordo com a informação inserida no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos). São exibidos tanto documentos que têm data futura de renovação quanto aqueles que já passaram do prazo, mas ainda não foram renovados.&#x20;
+**Coluna Renovação:** Esta coluna exibe a data e hora em que o processo deverá ser renovado, de acordo com a informação inserida no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos). São exibidos tanto processos que têm data futura de renovação quanto aqueles que já passaram do prazo, mas ainda não foram renovados.&#x20;
 
-**Coluna Ações:** Esta coluna exibe botões de ação sobre o documento. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do documento.&#x20;
+**Coluna Ações:** Esta coluna exibe botões de ação sobre o processo. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do processo.&#x20;
 
-**Barra de filtro:** É possível localizar um ou mais documentos utilizando-se os filtros disponíveis para busca. Na tela Renovações a busca pode ser feita pelo nome do documento, pelo nome do responsável, pelos nomes dos signatários, pelo status do documento, pela pasta onde o documento está hospedado ou pela data de exclusão do documento.  &#x20;
+**Barra de filtro:** É possível localizar um ou mais processos utilizando-se os filtros disponíveis para busca. Na tela Renovações a busca pode ser feita pelo nome do processo, pelo nome do responsável, pelos nomes dos signatários, pelo status do processo, pela pasta onde o processo está hospedado ou pela data de exclusão do processo.  &#x20;
 
-<figure><img src="../.gitbook/assets/renovacoes04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
