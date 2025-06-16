@@ -1,28 +1,28 @@
 # 🗑️ Excluídos
 
-No menu Excluídos são apresentados todos os documentos excluídos pelo usuário. Podem ser excluídos documentos já concluídos, cancelados ou apenas criados.
+No menu Excluídos são apresentados todos os processos excluídos pelo usuário. Podem ser excluídos processos já concluídos, cancelados ou apenas criados.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Não é possível visualizar o documento na tela Excluídos. Para ver o arquivo é necessário restaurar o documento e acessá-lo na sua caixa postal de origem, que pode ser a**</mark> [<mark style="color:blue;">**Caixa de Entrada**</mark>](caixa-de-entrada.md) <mark style="color:orange;">**ou a**</mark> [<mark style="color:blue;">**caixa Enviados**</mark>](enviados.md).
+<mark style="color:orange;">**Não é possível visualizar o(s) documento(s) na tela Excluídos. Para ver o arquivo é necessário restaurar o processo e acessá-lo na sua caixa postal de origem, que pode ser a**</mark> [<mark style="color:blue;">**Caixa de Entrada**</mark>](caixa-de-entrada.md) <mark style="color:orange;">**ou a**</mark> [<mark style="color:blue;">**caixa Enviados**</mark>](enviados.md).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/excluidos01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (409).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Colunas da tela principal - Excluídos
 
-<figure><img src="../.gitbook/assets/excluidos02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (410).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Nome do Documento:** Nesta coluna são exibidos o nome do documento e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.&#x20;
+**Coluna Nome do Processo:** Nesta coluna são exibidos o nome do processo e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.&#x20;
 
-**Coluna Responsável:** Nesta coluna são apresentados o nome e e-mail de quem enviou o documento (remetente). &#x20;
+**Coluna Responsável:** Nesta coluna são apresentados o nome e e-mail de quem enviou o processo (remetente). &#x20;
 
-**Coluna Status:** Os status possíveis para um documento são: “Concluído” (todos os participantes já assinaram o documento), “Cancelado” (o documento teve o envio cancelado e o processo de assinatura foi interrompido) e “Criado” (o documento foi criado na plataforma, mas sua configuração e envio aos destinatários ainda não foram concluídos). Ao passar o mouse sobre o status são exibidas informações sobre quais signatários ainda estão com assinatura pendente e quais já concluíram, além dos dados desses signatários. Também é exibido o código de segurança enviado para os destinatários (se houver).&#x20;
+**Coluna Status:** Os status possíveis para um processo são: “**Criado**”, quando o processo foi cadastrado na plataforma, mas sua configuração e envio aos destinatários ainda não foram concluídos; “**Concluído**”, quando todos os participantes já assinaram os documentos vinculados ao processo, encerrando o ciclo de assinaturas; e “**Cancelado**”, quando o envio é interrompido e o processo de assinatura é encerrado antes da conclusão. Ao passar o cursor sobre o status, são exibidas informações detalhadas, como quais signatários ainda estão com assinatura pendente, quais já assinaram, os dados dos signatários e o código de segurança enviado para os destinatários, se houver.&#x20;
 
 <figure><img src="../.gitbook/assets/excluidos03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Tamanho:** Nesta coluna é exibido o tamanho do arquivo do documento.  &#x20;
+**Coluna Tamanho:** Nesta coluna é exibido o tamanho do(s) arquivo(s) presentes no processo.  &#x20;
 
 **Coluna Pasta:** Nesta coluna é exibida a pasta do diretório onde o documento está armazenado. Caso o usuário não tenha permissão de acesso à pasta, será exibido “Sem pasta”.&#x20;
 
