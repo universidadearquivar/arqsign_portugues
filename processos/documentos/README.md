@@ -1,10 +1,10 @@
 # 📁 Pastas
 
-No menu Documentos ficam armazenados todos os documentos da conta do usuário que já foram concluídos, ou seja, foram enviados pelo usuário ou por algum dos membros que fazem parte da conta e já foram assinados por todos os signatários envolvidos no processo de assinatura. Neste menu é possível realizar o gerenciamento da armazenagem desses documentos.&#x20;
+No menu Pastas ficam armazenados todos os documentos dos processos da conta do usuário que já foram concluídos, ou seja, foram enviados pelo usuário ou por algum dos membros que fazem parte da conta e já foram assinados por todos os signatários envolvidos no processo de assinatura. Neste menu é possível realizar o gerenciamento da armazenagem desses documentos.&#x20;
 
-Ao clicar no menu é exibida a pasta raiz do diretório, na qual todos os documentos da conta serão hospedados. &#x20;
+Ao clicar no menu é exibida a pasta raiz do diretório, na qual todos os documentos da conta serão hospedados.
 
-<figure><img src="../../.gitbook/assets/documentos1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (420).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ## Pasta Raiz de Diretórios&#x20;
 
@@ -14,14 +14,14 @@ A pasta raiz é criada automaticamente no momento da criação da conta do usuá
 
 ### Acesso à pasta raiz de Diretórios&#x20;
 
-O acesso à pasta raiz do diretório é concedido a usuários que tenham sido designados como administradores globais no menu [Administração > Usuários](../../administracao/administracao/usuarios.md). O acesso a outros usuários com perfil de remetente de documentos deve ser feito por grupo, ou seja, é preciso criar um [Grupo de Usuários](../../administracao/administracao/grupo-de-usuarios.md) e conceder o acesso ao grupo. Para isso, na coluna “Ações” clique em “Editar Permissões”. &#x20;
+O acesso à pasta raiz do diretório é concedido a usuários que tenham sido designados como administradores globais no menu [Administração > Usuários](../../administracao/administracao/usuarios.md). O acesso a outros usuários com perfil de remetente de processos deve ser feito por grupo, ou seja, é preciso criar um [Grupo de Usuários](../../administracao/administracao/grupo-de-usuarios.md) e conceder o acesso ao grupo. Para isso, na coluna “Ações” clique em “Editar Permissões”. &#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**ADMINISTRADOR GLOBAL X REMETENTE DE DOCUMENTOS**</mark>
+<mark style="color:blue;">**ADMINISTRADOR GLOBAL X REMETENTE DE PROCESSOS**</mark>
 
 <mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**administrador globa**</mark><mark style="color:blue;">l, além de ter todas as permissões de um administrador de diretório, possui permissão de acesso a todas as funcionalidades da plataforma, inclusive gestão de usuários. É ele quem define quem serão os administradores de diretórios da conta. Geralmente o administrador global é o proprietário da conta e aqueles usuários que ele designar que poderão ter acesso total.</mark>
 
-<mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**remetente de documentos**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é um usuário sem permissão de acesso às funcionalidades de gestão da plataforma.</mark>
+<mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**remetente de processos**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é um usuário sem permissão de acesso às funcionalidades de gestão da plataforma.</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/documentos2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
