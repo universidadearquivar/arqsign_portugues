@@ -30,7 +30,7 @@ Na tela “Editar Permissões” clique no ícone “Incluir”. &#x20;
 
 <figure><img src="../../.gitbook/assets/documentos3.png" alt=""><figcaption></figcaption></figure>
 
-No campo “Grupo” selecione o grupo ao qual será concedido o acesso e habilite permissão de leitura para todos no menu [Documentos > Ações > Editar permissões](./#acoes-individuais-subdiretorios).
+No campo “Grupo” selecione o grupo ao qual será concedido o acesso e habilite permissão de leitura para todos no menu [Pastas > Ações > Editar permissões](./#acoes-individuais-subdiretorios).
 
 No campo “Perfil” selecione o perfil que designa a permissão de acesso do usuário ou grupo a Diretórios. Os perfis de diretório podem ser:
 
@@ -44,9 +44,9 @@ No campo “Perfil” selecione o perfil que designa a permissão de acesso do u
 
 ## Subdiretórios&#x20;
 
-Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, subpastas criadas para organizar os documentos de acordo com a necessidade do usuário. Também podem ser apresentados documentos que não estão armazenados em nenhum desses subdiretórios.&#x20;
+Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, _subpastas_ criadas para organizar os documentos de acordo com a necessidade do usuário. Também podem ser apresentados documentos que não estão armazenados em nenhum desses subdiretórios.&#x20;
 
-<figure><img src="../../.gitbook/assets/documentos5.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (421).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Colunas da tela principal – Subdiretórios&#x20;
 
@@ -54,7 +54,7 @@ Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, subpastas cria
 
 **Coluna Responsável:** Em caso de documentos avulsos serão apresentados o nome e e-mail do responsável pelo envio. No caso de pastas, o campo ficará em branco, já que uma pasta é composta por documentos que podem ter diferentes responsáveis.&#x20;
 
-**Coluna Data Conclusão:** Apresenta a data e hora de conclusão do documento. No caso de pastas, o campo ficará em branco, já que uma pasta é composta por documentos que podem ter diferentes datas de conclusão.&#x20;
+**Coluna Data Conclusão:** Apresenta a data e hora de conclusão do processo ao qual o documento está ligado. No caso de pastas, o campo ficará em branco, já que uma pasta é composta por documentos que podem ter diferentes datas de conclusão.&#x20;
 
 **Coluna Tamanho:** Apresenta o tamanho do documento. No caso de pastas, o campo ficará em branco, já que uma pasta é composta por documentos que podem ter diferentes tamanhos.&#x20;
 
@@ -63,7 +63,7 @@ Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, subpastas cria
 
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Na aba Diretórios, processos enviados via ArqGED-ArqFlow estarão identificados com a marcação "Enviado via ArqFlow".**</mark>
+<mark style="color:orange;">**Na aba Pastas, processos enviados via ArqGED-ArqFlow estarão identificados com a marcação "Enviado via ArqFlow".**</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
