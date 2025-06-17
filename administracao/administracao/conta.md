@@ -132,7 +132,7 @@ Os valores definidos aqui serão adotados como padrão para a configuração de 
 
 ### Papel do Signatário
 
-Nesta aba são criados os papéis de signatários. Os papéis de signatários serão apresentados ao usuário no momento da configuração dos destinatários / signatários na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](../../menu-superior/novo-processo.md#b.-destinatarios)
+Nesta aba são criados os papéis de signatários. Os papéis de signatários serão apresentados ao usuário no momento da configuração dos destinatários / signatários na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](../../menu-superior/novo-processo.md#b.-destinatarios)
 
 {% hint style="info" %}
 <mark style="color:blue;">O papel do signatário é a função dele no contrato, seja como parte, pessoa contratada ou contratante, testemunha, representante legal etc.</mark>
@@ -149,7 +149,7 @@ Para editar esses papéis, basta selecionar aquele que deseja editar e clicar no
 Será possível alterar o nome do papel e defini-lo como papel padrão.&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Papel padrão é aquele que será atribuído ao signatário caso o remetente do documento não defina um papel específico para ele no momento do cadastro do documento. Por default o sistema determina o papel "Parte" como padrão, mas essa escolha pode ser alterada pelo usuário remetente. Não é obrigatório determinar um papel padrão, mas caso seja preciso, somente um dos papéis pode ser o padrão.**</mark>
+<mark style="color:orange;">**Papel padrão é aquele que será atribuído ao signatário caso o remetente do processo não defina um papel específico para ele no momento do cadastro do documento. Por default o sistema determina o papel "Parte" como padrão, mas essa escolha pode ser alterada pelo usuário remetente. Não é obrigatório determinar um papel padrão, mas caso seja preciso, somente um dos papéis pode ser o padrão.**</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/conta16.png" alt=""><figcaption></figcaption></figure>
@@ -182,9 +182,9 @@ Se habilitado o campo “**Notificações Personalizadas - Personalização com 
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Atente-se à dimensão padrão da imagem para o banner. Imagens fora dos tamanhos especificados não serão aceitas.**</mark>
-
-<img src="../../.gitbook/assets/conta23.png" alt="" data-size="original">
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/conta23.png" alt=""><figcaption></figcaption></figure>
 
 Clicando no ícone “Excluir imagem” o banner será excluído.
 
@@ -233,3 +233,127 @@ Nesta aba são apresentadas todos os Aceites ao Termo de Assinatura Eletrônica 
 <figure><img src="../../.gitbook/assets/conta29.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/conta30.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+## 🗪 Perguntas e Respostas Frequentes
+
+<details>
+
+<summary>Como personalizar a plataforma ArqSign com as cores e logomarca do cliente?</summary>
+
+Na plataforma ArqSign, as notificações (e-mails e mensagens de WhatsApp) para os remetentes e destinatários podem ter os seguintes layouts:&#x20;
+
+1. Layout Padrão da Plataforma ArqSign ou&#x20;
+2. Layout com suas cores e logomarca.&#x20;
+
+Os itens disponíveis para personalização são:&#x20;
+
+* Cabeçalho&#x20;
+* Cor do texto superior&#x20;
+* Cor do botão do e-mail ou mensagem de WhatsApp&#x20;
+
+Para personalizar as notificações da Plataforma ArqSign, basta que o Administrador da conta acesse: Administração > Conta > Configurações > Outros e seguir os seguintes passos:&#x20;
+
+1. No canto inferior direito clique em editar;&#x20;
+2. Em “Notificações Personalizas”, altere para Ativado;&#x20;
+3. Em “Notificações por E-mail”, execute as seguintes etapas:&#x20;
+
+* insira uma imagem para o cabeçalho das mensagens com as dimensões descritas no campo;&#x20;
+* escolha a cor de destaque para o texto do e-mail.&#x20;
+
+&#x20;     4\. Em “Notificações por WhatsApp”, execute a seguinte etapa:&#x20;
+
+* Insira uma imagem para cabeçalho das mensagens com as dimensões descritas no campo.&#x20;
+
+&#x20;     5\. Se quiser visualizar as notificações com as mudanças que você fez clique em “Visualizar Notificação”;&#x20;
+
+&#x20;     6\. Quando todos os ajustes estiverem ok, clique em “Salvar”.&#x20;
+
+![](<../../.gitbook/assets/image (134).png>)
+
+Notificação padrão:
+
+![](<../../.gitbook/assets/image (135).png>)
+
+Exemplo de notificação personalizada simulação:
+
+![](<../../.gitbook/assets/image (136).png>)
+
+</details>
+
+<details>
+
+<summary>Como alterar o cartão de crédito para faturamento e compra na plataforma ArqSign?</summary>
+
+Você pode alterar o seu cartão de crédito para faturamento e compras na Plataforma ArqSign, seguindo o seguinte passo a passo:
+
+1\) Vá até o menu “Administração”;
+
+2\) Clique em “Conta”;
+
+3\) Clique em “Faturamento e Uso”;
+
+4\) Clique em “Alterar a forma de pagamento”.
+
+</details>
+
+<details>
+
+<summary>Como personalizar as configurações para Processo de Assinatura, Disponibilidade do link para documento assinado, lembretes e notificações da plataforma?</summary>
+
+Você pode personalizar as configurações padronizadas e, se precisar, ajustar lembretes e notificações durante a criação de seus Processos.
+
+Para personalizar as configurações padronizadas siga o passo a passo:&#x20;
+
+1. Acesse o menu de Administração > Conta > Configurações;&#x20;
+2. Clique em Editar;&#x20;
+3. Faça os ajustes conforme sua necessidade;&#x20;
+4. Clique em Salvar.&#x20;
+
+Entenda em detalhes cada um dos itens personalizáveis:&#x20;
+
+* Configurações sobre o Processo de assinatura.
+* Tempo padrão em dias para expiração do Processo a partir da data de envio.&#x20;
+* Tempo padrão em dias para aviso antes da expiração.
+* Habilitar, desabilitar e definir periodicidade de lembretes para assinatura aos signatários pendentes.&#x20;
+* Configurações de disponibilidade do link para o documento assinado.
+* Configure o tempo padrão para expiração do link de acesso ao documento após a assinatura.&#x20;
+* Habilite, desabilite a opção de anexar arquivo menor que 20MB ao e-mail enviado na finalização das assinaturas.&#x20;
+* Configurações sobre lembretes para vencimento, renovação, reajuste.
+* Configure a recorrência de lembretes para vencimento, renovação, reajuste de documentos, Processos.&#x20;
+* Em Outros, configure notificações em relação à conta.
+* Notificação para percentual de uso dos itens da conta.&#x20;
+* Notificação para lembrete de vencimento da assinatura.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como habilitar e desabilitar a renovação automática do plano?</summary>
+
+Durante a vigência do plano o cliente pode habilitar ou desabilitar a renovação automática do plano. Para isso acesse: [Administração > Conta > Faturamento e Uso > Renovação Automática](conta.md#aba-faturamento-e-uso).&#x20;
+
+</details>
+
+<details>
+
+<summary>Como verificar plano, vencimento, renovação automática e consumo?</summary>
+
+Acesse o menu de [Administração > Conta > Faturamento e Uso](conta.md#aba-faturamento-e-uso).&#x20;
+
+Consulte o plano contratado, período do plano, data de assinatura, data de vencimento, renovação automática, itens consumidos e disponíveis, período de renovação e Histórico de compras.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como personalizar o Termo de Aceite para assinatura eletrônica?</summary>
+
+A funcionalidade Termo de Aceite para assinatura eletrônica, formaliza e registra o histórico de aceite dos signatários para assinatura no formato eletrônico o que é um pré-requisito legal para a validade jurídica da assinatura. Você pode utilizar a nossa sugestão de Termo de Aceite ou personalizar o seu. Para personalizar siga os seguintes passos:&#x20;
+
+1. Clique em [Administração > Conta > Termo de Aceite](conta.md#aba-termo-de-aceite);&#x20;
+2. Clique em editar e personalize o seu termo;&#x20;
+3. Clique em publicar.
+
+[Clique aqui](https://youtu.be/MBJB6RW7y7E) e assista ao passo a passo.
+
+</details>
