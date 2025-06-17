@@ -92,3 +92,132 @@ Se for escolhida a opção “Transferir” será preciso informar quem será o 
 
 <figure><img src="../../.gitbook/assets/Screenshot_7.png" alt=""><figcaption></figcaption></figure>
 
+## 🗪 Perguntas e Respostas Frequentes
+
+<details>
+
+<summary>Como inativar um usuário e alterar a propriedade de seus Processos?</summary>
+
+Ao inativar um usuário, pode ser necessário alterar a propriedade dos Processos deste usuário para que outra pessoa siga com a gestão dos mesmos.&#x20;
+
+Você poderá executar esta ação se for Administrador Global.&#x20;
+
+Para isso siga os seguintes passos:&#x20;
+
+1. Acesse o menu “Administração” -> Usuários;&#x20;
+2. Selecione o usuário que deseja inativar;&#x20;
+3. Clique em Ações;&#x20;
+4. Clique em inativar;&#x20;
+5. Se o usuário que está sendo inativado não possuir solicitação de transferência de Processos com status “Solicitado” ou “Em Processo” e tiver enviado algum Processo que esteja com status “Aguardando” ou “Em Processo” ou “Concluído” o sistema apresentará mensagem informando que o usuário que está sendo inativado possui Processos como proprietário, solicitando a confirmação de alterar a propriedade dos Processos do usuário, em questão;&#x20;
+6. Escolha a opção “Transferir”;&#x20;
+7. Selecione um novo proprietário;&#x20;
+8. Selecione quais Processos devem ser transferidos;&#x20;
+9. Clique em Alterar;&#x20;
+10. A transferência será executada em até 24 horas;&#x20;
+11. Para consultar o andamento das solicitações de transferências acesse: “Meu perfil”-> “Solicitações”.
+
+</details>
+
+<details>
+
+<summary>O que é um usuário?</summary>
+
+Usuário é a pessoa que utiliza a Plataforma ArqSign para enviar, acompanhar fluxo, coletar assinaturas, acessar e gerir Processos. Um usuário tem que estar atrelado à uma conta ou quando ele também tem que assinar um documento ele se torna um signatário.
+
+Na plataforma ArqSign um usuário pode ter os seguintes Perfis:
+
+a) Remetente de Processos – Usuário sem permissão de acesso às funcionalidades de gestão da plataforma. Seu acesso é focado no envio e gestão de seus Processos.
+
+b) Administrador Global – Usuários com permissão de acesso a todas as funcionalidades da plataforma inclusive gestão de pastas e usuários.
+
+</details>
+
+<details>
+
+<summary>Como cadastrar um usuário?</summary>
+
+Acesse o menu de [Administração > Usuários](usuarios.md) e clique no botão com sinal de +.
+
+Insira o e-mail do novo usuário;
+
+Defina o perfil do usuário escolhendo entre:
+
+a) Administrador Global (acesso a todas as funcionalidades – envio, recebimento, assinatura de documentos, criação e definição de acesso para usuários e diretórios, compra de adicionais, alteração de plano)
+
+ou
+
+b) Remetente de Processos (apenas envia e assina Processos).
+
+Clique em Salvar.
+
+Ao incluir o usuário, será enviado uma mensagem de confirmação no e-mail informado para conclusão do cadastro.
+
+Ao criar um usuário com o perfil Remetente de Processos, o ideal é já definir a que grupo de usuários esse usuário pertence. Saiba mais sobre Grupo de Usuários [clicando aqui.](grupo-de-usuarios.md)
+
+</details>
+
+<details>
+
+<summary>Como trocar o e-mail/usuário responsável pelos envios na plataforma ArqSign?</summary>
+
+Se deseja alterar o e-mail do usuário que realiza os envios, será necessário cadastrar um novo usuário com o e-mail desejado. Siga os passos abaixo:&#x20;
+
+**1) Cadastrar um novo usuário**&#x20;
+
+Siga as instruções detalhadas neste link: [Como cadastrar um usuário](https://manual.arquivar.com/manual-arqsign/perguntas-frequentes/como-usar#como-cadastrar-um-usuario).&#x20;
+
+**2) Transferir Processos do usuário antigo (opcional)**&#x20;
+
+Se precisar transferir os Processos do usuário do e-mail antigo para o novo, siga este procedimento:&#x20;
+
+1. Faça login com um usuário que tenha perfil de **Administrador Global**.&#x20;
+2. Acesse: **Administração > Usuários.**&#x20;
+3. Encontre o usuário atual que deseja substituir.&#x20;
+4. Na caixa **AÇÕES**, clique na seta para baixo e selecione **Inativar**.&#x20;
+5. Na janela de confirmação, escolha uma das opções:&#x20;
+
+* **Transferir**: Os Processos do usuário antigo serão movidos para o novo usuário.&#x20;
+* **Inativar sem transferir**: O usuário será inativado, mas seus Processos permanecerão na conta.&#x20;
+* **Cancelar**: Interrompe a ação sem realizar alterações.
+
+<img src="../../.gitbook/assets/image (351).png" alt="" data-size="original">
+
+Se você **não possui integração com o parceiro Clínica nas Nuvens**, o processo termina aqui. Caso contrário, continue com as instruções abaixo.
+
+**3) Atualizar ID do usuário na integração com Clínica nas Nuvens**
+
+Se sua conta está integrada com o **Clínica nas Nuvens**, será necessário atualizar o ID do usuário. Siga os passos:
+
+1. Acesse **Menu Integrações > API > Download de IDs de Usuário**s.
+
+2) Baixe a planilha e copie o ID do novo usuário.
+
+3. No **Clínica nas Nuvens**, vá até **Configurações > Minha Empresa > Integrações > Assinatura Digital.**
+
+4) No campo **ID usuário**, substitua o ID antigo pelo novo ID copiado.
+
+5. Clique em **SALVAR**.
+
+Agora, o novo **usuário/e-mail** está configurado para enviar e receber mensagens via **Clínica nas Nuvens**.
+
+</details>
+
+<details>
+
+<summary>Como transferir Processos de um usuário para outro?</summary>
+
+Se precisar transferir os Processos de um usuário para outro, siga os seguintes passos:
+
+1. Faça login com um usuário que tenha perfil de **Administrador Global**.
+2. Acesse: **Administração > Usuários.**
+3. Encontre o usuário proprietário dos Processos que deseja transferir.
+4. Na caixa **AÇÕES**, clique na seta para baixo e selecione **Inativar**.
+5. Na janela de confirmação, escolha uma das opções:
+6.
+   * **Transferir**: Os Processos do usuário antigo serão movidos para o novo usuário.
+   * **Inativar sem transferir**: O usuário será inativado, mas seus Processos permanecerão na conta.
+   * **Cancelar**: Interrompe a ação sem realizar alterações.
+
+<img src="../../.gitbook/assets/image (351).png" alt="" data-size="original">
+
+</details>
