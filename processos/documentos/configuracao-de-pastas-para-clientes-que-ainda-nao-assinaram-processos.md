@@ -1,4 +1,4 @@
-# 🟪 Configuração de pastas para clientes que ainda não assinaram documentos
+# 🟪 Configuração de pastas para clientes que ainda não assinaram processos
 
 ## Criação da estrutura de pastas
 
@@ -6,7 +6,7 @@
 
 1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de processos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Pastas](./) acesse a pasta raiz e clique no ícone “Incluir Pasta”.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Informe o nome do setor e clique em Salvar.
 
@@ -14,7 +14,7 @@
 
 3\. Repita o processo até concluir a criação de todas as pastas necessárias.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**O Administrador Global deve realizar todas as configurações, ajustes de permissão, liberação de usuários e etc., antes do início de envio de processos para assinatura.**</mark>
@@ -42,7 +42,7 @@ Crie grupos de usuários separando-os por setores, funções ou mesclando entre 
 
 Os grupos criados na etapa anterior, devem ser inseridos na [pasta raiz](./#pasta-raiz-de-diretorios) com permissão de "Leitor". Para isso, na pasta raiz clique em Ações > Editar Permissões.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clique no ícone “Incluir”.
 
