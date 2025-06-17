@@ -70,27 +70,27 @@ Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, _subpastas_ cr
 
 ### Ações individuais – Subdiretórios&#x20;
 
-**Editar Permissões:** Essa opção só estará disponível para pastas de documentos. As permissões dos subdiretórios são herdadas da pasta raiz de Diretórios, portanto não é possível editá-las. O usuário pode apenas alterar as configurações de permissões da pasta raiz ou retirar a herança de permissões desta pasta.&#x20;
+**Editar Permissões:** Essa opção só estará disponível para pastas de documentos. As permissões dos subdiretórios são herdadas da pasta raiz, portanto não é possível editá-las. O usuário pode apenas alterar as configurações de permissões da pasta raiz ou retirar a herança de permissões desta pasta.&#x20;
 
 <figure><img src="../../.gitbook/assets/documentos7.png" alt=""><figcaption></figcaption></figure>
 
 **Alterar Proprietário:** Essa opção só estará disponível para documentos avulsos e se o usuário for o remetente do documento. Clicando nesta opção será possível atribuir um novo proprietário para o documento. Para isso, selecione o novo usuário proprietário e clique em “Alterar”. &#x20;
 
-<figure><img src="../../.gitbook/assets/documentos8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/documentos8.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Baixar Arquivo:** Essa opção só estará disponível para documentos avulsos. Clique nesta opção para fazer o download do documento assinado.&#x20;
 
 **Compartilhar:** Essa opção só estará disponível para documentos avulsos. Essa opção permite que o usuário crie um link de acesso ao documento que poderá ser compartilhado com outras pessoas que não sejam participantes do processo de assinatura. Esse link pode ter prazo de validade determinado ou indeterminado e o usuário pode definir se deseja permitir que as pessoas que acessarem visualizem também os anexos enviados pelos signatários.&#x20;
 
-<figure><img src="../../.gitbook/assets/documentos9.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (422).png" alt="" width="563"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Mover:** Essa opção só estará disponível para documentos avulsos. Ao clicar nesta opção será possível alterar a pasta onde os documentos selecionados estão armazenados. Selecione a pasta para a qual os documentos serão movidos e clique em “Mover”.   &#x20;
+**Mover:** Essa opção só estará disponível para documentos avulsos. Ao clicar nesta opção será possível alterar a pasta onde os documentos/processos selecionados estão armazenados. Selecione a pasta para a qual os documentos serão movidos e clique em “Mover”.
 
-<figure><img src="../../.gitbook/assets/documentos10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (423).png" alt="" width="448"><figcaption></figcaption></figure>
 
-**Renomear:** Opção disponível para documentos avulsos e pastas. Utilizada para renomear o documento ou pasta.&#x20;
+**Renomear:** Opção disponível para documentos avulsos e pastas. Utilizada para renomear o documento/processo ou pasta.&#x20;
 
-<figure><img src="../../.gitbook/assets/documentos11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (424).png" alt=""><figcaption></figcaption></figure>
 
 ### Ações em lote - Subdiretórios&#x20;
 
@@ -98,17 +98,17 @@ Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, _subpastas_ cr
 
 **Incluir Pasta:** Utilizado para a criação de novas pastas no diretório. Ao clicar neste ícone, em “Incluir em” selecione a pasta “pai” da pasta que está sendo criada e informe o nome da pasta. &#x20;
 
-**Mover Documentos:** Selecione os documentos que deseja movimentar e clique no ícone “Mover Documentos”. Depois, selecione a pasta para a qual os documentos serão movidos e clique em “Mover”.   &#x20;
+**Mover Processos:** Selecione os documentos/processos que deseja movimentar e clique no ícone “Mover Processos”. Depois, selecione a pasta para a qual os documentos serão movidos e clique em “Mover”.   &#x20;
 
-**Excluir:** Utilizado para excluir documentos do diretório. Essa ação só pode ser realizada por administradores globais ou pelo proprietário do documento.&#x20;
+**Excluir:** Utilizado para excluir documentos do diretório. Essa ação só pode ser realizada por administradores globais ou pelo proprietário do processo ao qual o documento está ligado.&#x20;
 
-**Alterar Proprietário:** Essa opção só estará disponível para documentos avulsos e se o usuário for o remetente do documento. Clicando nesta opção será possível atribuir um novo proprietário para o documento. Para isso, selecione o novo usuário proprietário e clique em “Alterar”. &#x20;
+**Alterar Proprietário:** Essa opção só estará disponível para documentos avulsos e se o usuário for o remetente do processo/documento. Clicando nesta opção será possível atribuir um novo proprietário para o documento/processo. Para isso, selecione o novo usuário proprietário e clique em “Alterar”. &#x20;
 
 ### **Barra de Pesquisa**
 
 A Barra de Pesquisa permite que você busque documentos ou pastas de forma prática e rápida, utilizando diferentes critérios. É possível pesquisar pelo nome do documento ou pasta, nome, telefone e e-mail do destinatário, nome e e-mail do responsável, além de data e período de envio e conclusão. A pesquisa pode ser feita utilizando os campos na parte superior.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (425).png" alt=""><figcaption></figcaption></figure>
 
 > **Campos de texto (nome, e-mail e telefone):**\
 > Estes campos são campos de texto padrão. Para realizar uma busca, basta digitar o dado desejado. Você pode preencher mais de um campo para realizar uma pesquisa combinada, se necessário.
