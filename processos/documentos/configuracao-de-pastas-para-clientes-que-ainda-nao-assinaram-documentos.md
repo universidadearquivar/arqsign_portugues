@@ -1,12 +1,12 @@
-# 🟪 Configuração de diretórios para clientes que ainda não assinaram documentos
+# 🟪 Configuração de pastas para clientes que ainda não assinaram documentos
 
-## Criação da estrutura de diretórios
+## Criação da estrutura de pastas
 
-### ETAPA 1 - Estruturação de diretórios
+### ETAPA 1 - Estruturação de pastas
 
-1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de documentos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Documentos](./) acesse a pasta raiz e clique no ícone “Incluir Pasta”.
+1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de processos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Pastas](./) acesse a pasta raiz e clique no ícone “Incluir Pasta”.
 
-<figure><img src="../../.gitbook/assets/diretorios01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 2\. Informe o nome do setor e clique em Salvar.
 
@@ -14,10 +14,10 @@
 
 3\. Repita o processo até concluir a criação de todas as pastas necessárias.
 
-<figure><img src="../../.gitbook/assets/diretorios03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**O Administrador Global deve realizar todas as configurações, ajustes de permissão, liberação de usuários e etc., antes do início de envio de documentos para assinatura.**</mark>
+<mark style="color:orange;">**O Administrador Global deve realizar todas as configurações, ajustes de permissão, liberação de usuários e etc., antes do início de envio de processos para assinatura.**</mark>
 {% endhint %}
 
 ***
@@ -40,9 +40,9 @@ Crie grupos de usuários separando-os por setores, funções ou mesclando entre 
 
 ### ETAPA 3 - Inserção dos grupos criados na pasta raiz
 
-Os grupos criados na etapa anterior, devem ser inseridos na [pasta raiz de Diretórios](./#pasta-raiz-de-diretorios) com permissão de "Leitor". Para isso, na pasta raiz clique em Ações > Editar Permissões.
+Os grupos criados na etapa anterior, devem ser inseridos na [pasta raiz](./#pasta-raiz-de-diretorios) com permissão de "Leitor". Para isso, na pasta raiz clique em Ações > Editar Permissões.
 
-<figure><img src="../../.gitbook/assets/diretorios05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clique no ícone “Incluir”.
 
@@ -74,9 +74,9 @@ As permissões das pastas setoriais devem ser ajustadas para que o acesso seja r
 
 **4. Na coluna “Perfil”:** Defina se aquele grupo continuará apenas como “Leitor de Documentos” ou se será “Administrador de Documentos e Pastas” ou “Colaborador de Documentos”.
 
-* _Administrador de Documentos e Pastas:_ Um usuário ou grupo de usuários com este perfil de diretórios pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos, excluir ou incluir novas pastas, além de poder mudar permissões de acesso.
-* _Colaborador de Documentos:_ Um usuário ou grupo de usuários com este perfil de diretórios pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos à pasta a que tem este perfil.  &#x20;
-* _Leitor de Documentos:_ Um usuário ou grupo de usuários com este perfil de diretórios pode apenas consulta e baixar o conteúdo da pasta e documentos.
+* _Administrador de Documentos e Pastas:_ Um usuário ou grupo de usuários com este perfil de pastas pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos, excluir ou incluir novas pastas, além de poder mudar permissões de acesso.
+* _Colaborador de Documentos:_ Um usuário ou grupo de usuários com este perfil de pastas pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos à pasta a que tem este perfil.  &#x20;
+* _Leitor de Documentos:_ Um usuário ou grupo de usuários com este perfil de pastas pode apenas consulta e baixar o conteúdo da pasta e documentos.
 
 <figure><img src="../../.gitbook/assets/diretorios12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -86,9 +86,9 @@ As permissões das pastas setoriais devem ser ajustadas para que o acesso seja r
 
 ***
 
-## Permissões para Diretórios
+## Permissões para Pastas
 
-Somente o Administrador Global da conta terá acesso ao menu de diretórios e por este motivo é tão importante cuidar para que somente pessoas sem restrições de acesso estejam com este perfil. Veja abaixo as diferenças entre as permissões concedidas a cada perfil:
+Somente o Administrador Global da conta terá acesso ao menu de Pastas e por este motivo é tão importante cuidar para que somente pessoas sem restrições de acesso estejam com este perfil. Veja abaixo as diferenças entre as permissões concedidas a cada perfil:
 
 <figure><img src="../../.gitbook/assets/diretorios13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -100,7 +100,7 @@ Somente o Administrador Global da conta terá acesso ao menu de diretórios e po
 
 ## Criação/Manutenção de Permissões por usuário
 
-Criada a estrutura de diretórios e aplicadas as permissões, a manutenção na Plataforma se resume em incluir ou excluir usuários dos grupos para que acessem ou deixem de acessar determinada pasta.
+Criada a estrutura de pastas e aplicadas as permissões, a manutenção na Plataforma se resume em incluir ou excluir usuários dos grupos para que acessem ou deixem de acessar determinada pasta.
 
 Esta manutenção pode ser realizada na edição do usuário ou na edição de um grupo específico.
 
@@ -119,7 +119,7 @@ _Edição do usuário:_ Acesse a tela [Administração > Usuários](../../admini
 1. Toda conta ao ser criada, automaticamente terá uma pasta raiz associada.
 2. A pasta raiz criada automaticamente pela plataforma recebe o nome da conta e pode ser renomeada posteriormente por seu Administrador Global.
 3. &#x20;Para cada conta é permitida uma única pasta raiz. As demais pastas devem ser criadas obrigatoriamente dentro da pasta raiz.
-4. Os documentos exibidos em "Diretórios", são somente aqueles com status "Concluído" e que não esteja "Excluído", ou seja, se o documento estiver em processo de assinatura ele não vai aparecer no diretório.
+4. Os documentos exibidos em "Pastas", são somente aqueles com status "Concluído" e que não esteja "Excluído", ou seja, se o documento estiver em processo de assinatura ele não vai aparecer no diretório.
 
 </details>
 
@@ -128,6 +128,6 @@ _Edição do usuário:_ Acesse a tela [Administração > Usuários](../../admini
 <summary>Perfil de Usuários</summary>
 
 1. O perfil do usuário Administrador Global tem acesso total ao diretório de documentos, caso o plano da conta possua acesso à funcionalidade de diretórios.
-2. O perfil de usuário Remetente de Documentos terá acesso à navegação nas pastas caso faça parte de algum grupo que possua permissão de pelo menos leitura.
+2. O perfil de usuário Remetente de Processos terá acesso à navegação nas pastas caso faça parte de algum grupo que possua permissão de pelo menos leitura.
 
 </details>

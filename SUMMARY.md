@@ -33,7 +33,7 @@
 ## PROCESSOS
 
 * [📁 Pastas](processos/documentos/README.md)
-  * [🟪 Configuração de diretórios para clientes que ainda não assinaram documentos](processos/documentos/configuracao-de-diretorios-para-clientes-que-ainda-nao-assinaram-documentos.md)
+  * [🟪 Configuração de pastas para clientes que ainda não assinaram documentos](processos/documentos/configuracao-de-pastas-para-clientes-que-ainda-nao-assinaram-documentos.md)
   * [🟪 Configuração de diretórios para clientes que já assinaram documentos](processos/documentos/configuracao-de-diretorios-para-clientes-que-ja-assinaram-documentos.md)
 
 ## ADMINISTRAÇÃO
