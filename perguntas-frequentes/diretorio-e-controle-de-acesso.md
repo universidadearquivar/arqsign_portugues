@@ -6,8 +6,8 @@
 
 Para organizar os documentos você pode acessar um dos tutoriais abaixo:&#x20;
 
-* [Estrutura de diretórios para clientes que ainda não assinaram documentos](../processos/documentos/configuracao-de-pastas-para-clientes-que-ainda-nao-assinaram-documentos.md)
-* [Estrutura de diretórios para clientes que já assinaram documentos](../processos/documentos/configuracao-de-diretorios-para-clientes-que-ja-assinaram-documentos.md)
+* [Estrutura de diretórios para clientes que ainda não assinaram documentos](../processos/documentos/configuracao-de-diretorios-para-clientes-que-ainda-nao-assinaram-documentos.md)
+* [Estrutura de diretórios para clientes que já assinaram documentos](../processos/documentos/configuracao-de-pastas-para-clientes-que-ja-assinaram-processos.md)
 
 ou seguir o passo a passo descrito abaixo:
 
