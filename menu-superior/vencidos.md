@@ -2,17 +2,17 @@
 
 No menu Vencidos são apresentados todos os processos enviados pelo usuário para assinatura, mas que não foram concluídos dentro do prazo estipulado no campo “**Tempo para expiração do documento após o envio**”, na tela [#configuracoes-avancadas](novo-processo.md#configuracoes-avancadas "mention")&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Colunas da tela principal - Vencidos&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nome do processo:** Nesta coluna são exibidos o nome do processo e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar. Todos os processos listados exibirão a mensagem “Vencido antes da conclusão das assinaturas”. &#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Coluna Responsável:** Nesta coluna são apresentados o nome e e-mail de quem enviou o processo (remetente). Na tela Vencidos sempre será exibido o nome do próprio usuário. &#x20;
 

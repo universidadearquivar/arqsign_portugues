@@ -2,7 +2,7 @@
 
 No menu Conta encontram-se as informações sobre a conta do usuário.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ Na aba Dados Fiscais são apresentadas as informações ficais e financeiras do 
 
 Caso a conta do usuário seja de um plano gratuito, as informações estarão em branco, mas poderão ser editadas clicando-se no botão “Editar”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nesta aba são apresentadas as seguintes informações do usuário:
 
@@ -32,7 +32,7 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 * **Estado:** Estado do usuário ou empresa.
 * **Cidade:** Cidade do usuário ou empresa.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -60,12 +60,12 @@ Ao clicar em “**Detalhes do Plano**” serão exibidos detalhes do plano atual
 
 <figure><img src="../../.gitbook/assets/conta05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Nesta tela é possível visualizar também a quantidade de créditos restantes o usuário ainda possui para envio de documentos. Em “**Uso Acumulado do Plano**” o usuário pode visualizar a quantidade de envios de documentos à qual ele tem direito no plano contratado.
+Nesta tela é possível visualizar também a quantidade de créditos restantes o usuário ainda possui para envio de processos. Em “**Uso Acumulado do Plano**” o usuário pode visualizar a quantidade de envios de processos à qual ele tem direito no plano contratado.
 
-Em “**Créditos Restantes da Assinatura do Plano**” são apresentados os créditos que o usuário ainda possui no plano assinado. O usuário pode visualizar a quantidade de créditos que possui para envio de documentos via Whatsapp e e-mail e códigos de segurança via SMS.
+Em “**Créditos Restantes da Assinatura do Plano**” são apresentados os créditos que o usuário ainda possui no plano assinado. O usuário pode visualizar a quantidade de créditos que possui para envio de processos via Whatsapp e e-mail e códigos de segurança via SMS.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Não é possível enviar documentos via SMS. Os créditos adquiridos para envio via SMS só podem ser usados para disparo de códigos de segurança. O código de segurança ou token é uma senha usada para dar acesso aos documentos enviados via e-mail ou Whatsapp e pode ser utilizada para acrescentar uma camada extra de segurança ao processo de assinatura eletrônica de documentos.**</mark>
+<mark style="color:orange;">**Não é possível enviar processos via SMS. Os créditos adquiridos para envio via SMS só podem ser usados para disparo de códigos de segurança. O código de segurança ou token é uma senha usada para dar acesso aos processos enviados via e-mail ou Whatsapp e pode ser utilizada para acrescentar uma camada extra de segurança ao processo de assinatura eletrônica de documentos.**</mark>
 {% endhint %}
 
 Se o usuário tiver comprado créditos além daqueles já inclusos no plano clicando em “**Datas de expiração dos créditos extra**” será possível visualizar as datas em que os créditos comprados à parte do plano irão expirar.
@@ -94,19 +94,19 @@ Ao clicar em “**Detalhes do plano**” é apresentada a descrição e quantida
 
 ## Aba Configurações
 
-### Documentos
+### Processos
 
 Por default algumas configurações dessa aba são preenchidas automaticamente, mas é possível alterá-las clicando-se no botão “Editar”.
 
-<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de documentos e processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada documento durante a sua criação na tela [Novo Documento > Adicionar Documentos e Destinatários > Configurações Avançadas. ](../../menu-superior/novo-processo.md#configuracoes-avancadas)
+Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada processos durante a sua criação na tela [Novo Processo > Adicionar Documentos e Destinatários > Configurações Avançadas. ](../../menu-superior/novo-processo.md#configuracoes-avancadas)
 
-**Tempo padrão de \_\_\_\_ dias para expiração do documento, quando não assinado por um ou mais destinatários a partir da data de envio:** Nesse campo é definido o tempo padrão (em dias) que os usuários terão para assinar um documento até que ele expire e fique indisponível.
+**Tempo padrão de \_\_\_\_ dias para expiração do processo, quando não assinado por um ou mais destinatários a partir da data de envio:** Nesse campo é definido o tempo padrão (em dias) que os usuários terão para assinar um processo até que ele expire e fique indisponível.
 
-**Tempo padrão de \_\_\_\_ dias para aviso antes da data de expiração:** Nesse campo é definido quantos dias antes de um documento expirar os destinatários que ainda não tiverem assinado o documento deverão ser notificados sobre a sua expiração.
+**Tempo padrão de \_\_\_\_ dias para aviso antes da data de expiração:** Nesse campo é definido quantos dias antes de um processo expirar os destinatários que ainda não tiverem assinado deverão ser notificados sobre a sua expiração.
 
-**Configuração padrão para lembretes recorrentes a serem enviados aos destinatários após a data de envio:** Ao marcar essa opção, a partir do momento do envio do documento até a data de seu vencimento, serão enviados lembretes aos destinatários a cada período de tempo determinado no campo “Tempo padrão de \_\_\_\_\_ dias para recorrência de lembrete aos destinatários sobre alguma ação pendente no documento”. Se a opção for desabilitada, o campo abaixo também será desabilitado automaticamente.
+**Configuração padrão para lembretes recorrentes a serem enviados aos destinatários após a data de envio:** Ao marcar essa opção, a partir do momento do envio do processo até a data de seu vencimento, serão enviados lembretes aos destinatários a cada período de tempo determinado no campo “Tempo padrão de \_\_\_\_\_ dias para recorrência de lembrete aos destinatários sobre alguma ação pendente no processo”. Se a opção for desabilitada, o campo abaixo também será desabilitado automaticamente.
 
 **Agrupar os documentos do processo em arquivo único:** Configuração de agrupamento dos documentos do processo em arquivo único. Essa opção estará, por padrão, desmarcada.
 

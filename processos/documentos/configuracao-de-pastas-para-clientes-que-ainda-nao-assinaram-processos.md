@@ -14,7 +14,7 @@
 
 3\. Repita o processo até concluir a criação de todas as pastas necessárias.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**O Administrador Global deve realizar todas as configurações, ajustes de permissão, liberação de usuários e etc., antes do início de envio de processos para assinatura.**</mark>

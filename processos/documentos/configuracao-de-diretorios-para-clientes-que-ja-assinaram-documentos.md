@@ -8,7 +8,7 @@ O importante nesta etapa é garantir que somente usuários que podem ter acesso 
 
 Para isso acesse a tela [Administração > Usuários ](../../administracao/administracao/usuarios.md)e revise os perfis de usuários associados à conta, garantindo que estejam com o perfil de Remetente de Documentos (exceto o gestor da conta que deve possuir o perfil Administrador Global).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Somente usuários com perfil de Administrador Global poderão acessar todas as pastas do diretório.**</mark>
@@ -20,7 +20,7 @@ Para isso acesse a tela [Administração > Usuários ](../../administracao/admin
 
 1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de processos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Pastas](./) acesse a [pasta raiz](./#pasta-raiz-de-diretorios) e clique no ícone “Incluir Pasta”.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2\. Informe o nome do setor e clique em Salvar.
 
@@ -40,11 +40,11 @@ Para isso acesse a tela [Administração > Usuários ](../../administracao/admin
 
 Acesse a [pasta raiz de Diretórios](./#pasta-raiz-de-diretorios), selecione todos os documentos que deseja mover para uma determinada pasta e clique no ícone “Mover”.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Selecione na lista a pasta para a qual deseja mover os documentos selecionados e clique em “Mover”.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="449"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="449"><figcaption></figcaption></figure>
 
 Repita o processo com todos os documentos avulsos que ainda estiverem na pasta raiz. O ideal é que todos os documentos sejam armazenados em alguma das pastas criadas, evitando a permanência de documentos avulsos na pasta raiz.
 

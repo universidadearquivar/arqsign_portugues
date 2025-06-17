@@ -8,7 +8,7 @@ O signatário de um processo de assinatura pode ser também o remetente do proce
 <mark style="color:orange;">**Não serão exibidos na Caixa de Entrada processos que já tenham expirado, ou seja, cujo prazo para assinatura já tenha terminado.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar em um processo, será aberta a tela de visualização, que apresenta os documentos enviado, seus status e data de vencimento. No canto direito da tela são apresentadas informações dos signatários como dados pessoais, papel de signatário e status da assinatura.
 
@@ -18,7 +18,7 @@ Ao clicar em um processo, será aberta a tela de visualização, que apresenta o
 
 ## Colunas da tela principal - Caixa de Entrada
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nome do Processo:** Nesta coluna são exibidos o nome do processo e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.&#x20;
 
@@ -40,7 +40,7 @@ Ao clicar em um processo, será aberta a tela de visualização, que apresenta o
 
 **Barra de filtro:** É possível localizar um ou mais processos utilizando-se os filtros disponíveis para busca. A busca pode ser feita pelo nome ou e-mail do responsável pelo envio, pelo nome de um dos signatários, pelo status do processo (na Caixa de Entrada só serão exibidos os processos com status “Concluído”, Aguardando” e “Em processo”), pela pasta onde o processo está armazenado ou pela data de conclusão das assinaturas.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
