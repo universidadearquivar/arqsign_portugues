@@ -118,7 +118,7 @@ As permissões das pastas setoriais devem ser ajustadas para que o acesso seja r
 
 Somente o Administrador Global da conta terá acesso ao menu de diretórios e por este motivo é tão importante cuidar para que somente pessoas sem restrições de acesso estejam com este perfil. Veja abaixo as diferenças entre as permissões concedidas a cada perfil:
 
-<figure><img src="../../.gitbook/assets/diretorios13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Actions (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Todos os usuários devem ser associados a um grupo de permissão. Desta forma a plataforma deverá obrigar o usuário a salvar o documento em uma pasta setorial, evitando que os documentos sejam armazenados na pasta raiz.**</mark>
