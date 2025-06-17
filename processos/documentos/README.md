@@ -66,7 +66,7 @@ Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, _subpastas_ cr
 <mark style="color:orange;">**Na aba Pastas, processos enviados via ArqGED-ArqFlow estarão identificados com a marcação "Enviado via ArqFlow".**</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
 ### Ações individuais – Subdiretórios&#x20;
 
