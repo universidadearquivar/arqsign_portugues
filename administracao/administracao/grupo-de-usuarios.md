@@ -1,10 +1,10 @@
 # 🟪 Grupo de Usuários
 
-A função do "Grupo de Usuários" é reunir os usuários que fazem parte de uma conta para facilitar a definição de quem pode acessar quais pastas e subpastas no menu [Diretórios > Documentos](broken-reference). As permissões de acesso para esses diretórios são definidas para grupos, e cada pessoa na conta é adicionada a um pelos administradores globais.
+A função do "Grupo de Usuários" é reunir os usuários que fazem parte de uma conta para facilitar a definição de quem pode acessar quais pastas e subpastas no menu [Processos > Pastas](broken-reference). As permissões de acesso para esses diretórios são definidas para grupos, e cada pessoa na conta é adicionada a um pelos administradores globais.
 
 &#x20;Na tela principal de Grupo de Usuários é apresentado o nome do grupo e a data e hora de criação do grupo.
 
-<figure><img src="../../.gitbook/assets/usuarios15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para criar um grupo, clique no ícone “Novo”.
 
