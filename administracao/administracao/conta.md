@@ -2,7 +2,7 @@
 
 No menu Conta encontram-se as informações sobre a conta do usuário.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ Na aba Dados Fiscais são apresentadas as informações ficais e financeiras do 
 
 Caso a conta do usuário seja de um plano gratuito, as informações estarão em branco, mas poderão ser editadas clicando-se no botão “Editar”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nesta aba são apresentadas as seguintes informações do usuário:
 
@@ -32,7 +32,7 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 * **Estado:** Estado do usuário ou empresa.
 * **Cidade:** Cidade do usuário ou empresa.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -98,7 +98,7 @@ Ao clicar em “**Detalhes do plano**” é apresentada a descrição e quantida
 
 Por default algumas configurações dessa aba são preenchidas automaticamente, mas é possível alterá-las clicando-se no botão “Editar”.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada processos durante a sua criação na tela [Novo Processo > Adicionar Documentos e Destinatários > Configurações Avançadas. ](../../menu-superior/novo-processo.md#configuracoes-avancadas)
 

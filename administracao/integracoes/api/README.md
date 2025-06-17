@@ -2,7 +2,7 @@
 
 No menu API o cliente tem acesso as chaves necessárias para o gerenciamento e controle das requisições realizadas via API de integração.
 
-<figure><img src="../../../.gitbook/assets/image (256).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### **AppKey**
 
@@ -34,7 +34,7 @@ Ao clicar em "Gerar Par de Chaves", é exibida uma mensagem na tela de validaç�
 
 Para **regerar o par de chaves**, utilize o botão **"Gerar Par de Chaves".** Para **regerar apenas uma das chaves, utilize o** ícone de **"Regerar Chave"** considerando a chave 1 ou a 2.
 
-<figure><img src="../../../.gitbook/assets/image (258).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Como passar a AppKey e a SubscriptionKey
 
@@ -46,7 +46,7 @@ Considerando a rota: [https://api-rest.arqsign.com/](https://api-rest.arqsign.co
 
 ### Serviços de Integração ArqSign
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar neste link, a aplicação irá abrir a página [**developers.arqsign.com**](https://developers.arqsign.com/?_ga=2.164255991.919308982.1733860166-872117669.1732909328) com os métodos disponíveis até o momento.
 
@@ -54,7 +54,7 @@ Ao clicar neste link, a aplicação irá abrir a página [**developers.arqsign.c
 
 ### Documentação API
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar neste link, a aplicação irá abrir a página [**de detalhamento da API.**](../)
 
@@ -62,7 +62,7 @@ Ao clicar neste link, a aplicação irá abrir a página [**de detalhamento da A
 
 ### Download lista de Id's usuários
 
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar neste link a aplicação irá fazer o download de um arquivo .csv com a lista de todos os usuários ativos na conta e seu respectivo ID.
 
@@ -74,10 +74,55 @@ Ao clicar neste link a aplicação irá fazer o download de um arquivo .csv com 
 
 ### Download lista de Id's pastas
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar neste link a aplicação irá fazer o download de um arquivo .csv com a lista de todas as pastas não excluídas da conta e seu respectivo ID.
 
 {% hint style="success" %}
 <mark style="color:green;">A busca pelas pastas não excluídas da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método:</mark> [<mark style="color:green;">POST/api/v1/diretorio/buscar-pastas</mark>](https://arquivar.gitbook.io/manual-arqsign/~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/2.-diretorios/2.1.post-api-v1-diretorio-buscar-pastas)
 {% endhint %}
+
+## 🗪 Perguntas e Respostas Frequentes
+
+<details>
+
+<summary>Como posso testar a API de integração ArqSign?</summary>
+
+Para testar a API de integração ArqSign, você pode [criar uma conta teste grátis](https://arquivar.com.br/arqsign-conta-teste-gratis/) em nosso site e testar através da ferramenta Postman (não usar o Swagger).
+
+Em sua conta teste grátis, você terá acesso ao Menu “Integrações” onde obterá as informações necessárias para o teste.
+
+Agora é só seguir as instruções da documentação disponível [clicando aqui.](../)
+
+</details>
+
+<details>
+
+<summary>Quais métodos estão disponíveis na API ArqSign?</summary>
+
+A API de integração da plataforma ArqSign está pronta para que outros softwares construam sua integração à nossa solução de assinatura.
+
+Clique [aqui](metodos-disponiveis-na-api/) e confira todos os métodos disponíveis.
+
+</details>
+
+<details>
+
+<summary>O Que é API de integração ArqSign?</summary>
+
+API é a abreviatura de Application Programming Interface, ou, em português, Interface de Programação de Aplicativos.
+
+Ou seja, é uma forma de comunicação entre sistemas que permite a integração entre eles.
+
+Por meio da integração de sistemas é possível:
+
+* Troca de informações entre os sistemas integrados;
+* Automatização de ações entre os sistemas integrados.
+
+Por meio da API de integração ArqSign é possível que se integre facilmente a Assinatura Eletrônica da ArqSign às demais soluções de sua empresa.
+
+Dessa maneira, você melhora a experiência do usuário, aumenta a produtividade e segurança, reduz riscos operacionais e tarefas repetitivas já que a muitos dados já validados são utilizados nos processos.
+
+[Clique aqui](https://youtu.be/oSHOBNiawgY) e assista ao vídeo explicativo.
+
+</details>

@@ -80,11 +80,11 @@ No ícone “Editar”, é possível realizar a edição das informações do de
 <mark style="color:orange;">**Dessa forma, na coluna Ações, não haverá a opção "Reenviar"**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 Também não haverá a opção "Reenviar" ao abrir o processo pela plataforma ArqSign.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 #### **Alterar Pasta**
 
@@ -257,7 +257,7 @@ Ao clicar neste ícone será possível reenviar os processos selecionados para o
 <mark style="color:orange;">**Para ação de reenvio em lote o sistema não habilita o ícone de reenviar se ao menos um processo selecionado estiver marcado como "Enviado via ArqFlow".**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 #### **Cancelar Envio**
 
@@ -280,7 +280,7 @@ Quando houver falha de envio do processo, o sistema sinaliza o processo com a fa
 
 Quando houver falha de envio do código de segurança para algum destinatário do processo, o sistema sinaliza o destinatário com a falha de envio do código de segurança.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 
 

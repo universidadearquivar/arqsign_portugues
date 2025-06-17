@@ -8,7 +8,7 @@ O signatário de um processo de assinatura pode ser também o remetente do proce
 <mark style="color:orange;">**Não serão exibidos na Caixa de Entrada processos que já tenham expirado, ou seja, cujo prazo para assinatura já tenha terminado.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar em um processo, será aberta a tela de visualização, que apresenta os documentos enviado, seus status e data de vencimento. No canto direito da tela são apresentadas informações dos signatários como dados pessoais, papel de signatário e status da assinatura.
 
@@ -18,7 +18,7 @@ Ao clicar em um processo, será aberta a tela de visualização, que apresenta o
 
 ## Colunas da tela principal - Caixa de Entrada
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nome do Processo:** Nesta coluna são exibidos o nome do processo e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.&#x20;
 
@@ -40,7 +40,7 @@ Ao clicar em um processo, será aberta a tela de visualização, que apresenta o
 
 **Barra de filtro:** É possível localizar um ou mais processos utilizando-se os filtros disponíveis para busca. A busca pode ser feita pelo nome ou e-mail do responsável pelo envio, pelo nome de um dos signatários, pelo status do processo (na Caixa de Entrada só serão exibidos os processos com status “Concluído”, Aguardando” e “Em processo”), pela pasta onde o processo está armazenado ou pela data de conclusão das assinaturas.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -68,7 +68,7 @@ Com o botão de eventos posicionado para a esquerda, é possível visualizar os 
 
 Esta opção só será exibida se o usuário tiver acesso à conta na qual o processo está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde o processo está armazenado.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="372"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="372"><figcaption></figcaption></figure>
 
 #### **Alterar Proprietário**
 
@@ -80,7 +80,7 @@ Esta opção só será exibida se o usuário além de signatário for também o 
 <mark style="color:orange;">**O Administrador Global que não for o remetente do processo, poderá alterar a propriedade de processos concluídos que estão listados na funcionalidade**</mark> [<mark style="color:orange;">**Diretórios**</mark>](broken-reference) <mark style="color:orange;">**ou quando for inativar usuário que possui processos em sua propriedade.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="274"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="274"><figcaption></figcaption></figure>
 
 #### **Baixar Arquivo**
 
@@ -160,7 +160,7 @@ Disponível somente se o processo ainda não tiver sido assinado pelo signatári
 
 Esta opção só será exibida se o usuário além de signatário for também o remetente do processo e se o processo estiver vencido, ou seja, o prazo de assinatura terminou antes que todos os signatários tenham assinado. Ao clicar neste botão serão exibidas as informações de ordem de envio para os destinatários, e-mail ou telefone para onde o processo foi enviado, código de segurança para acesso ao processo (se houver) e ícone “Editar”, que permite a edição das informações do destinatário.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Renomear**
 
@@ -182,7 +182,7 @@ O usuário tem a possibilidade de mover os documentos, alterando a ordenação d
 
 **Excluir:** Utilizado para excluir o arquivo, que irá para a caixa [Excluídos](excluidos.md) .
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="361"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="361"><figcaption></figcaption></figure>
 
 ***
 
@@ -196,7 +196,7 @@ O usuário tem a possibilidade de mover os documentos, alterando a ordenação d
 
 Ao clicar neste ícone será possível alterar a pasta onde os processos selecionados estão armazenados. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do processo.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### **Reenviar**
 

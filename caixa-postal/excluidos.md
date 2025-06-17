@@ -34,7 +34,7 @@ No menu Excluídos são apresentados todos os processos excluídos pelo usuário
 
 **Barra de filtro:** É possível localizar um ou mais processos utilizando-se os filtros disponíveis para busca. Na tela Excluídos a busca pode ser feita pelo nome do processo, pelo nome do responsável, pelos nomes dos signatários, pelo status do processo, pela pasta onde o processo está hospedado ou pela data de exclusão do processo.  &#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -116,13 +116,13 @@ A Barra de Pesquisa permite que você busque documentos ou pastas de forma prát
 > **Campos de data:**\
 > Os campos de data têm um funcionamento específico. Eles apresentam períodos pré-definidos (conforme a imagem abaixo), mas também oferecem a opção de buscar por um **período personalizado**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Uso do período personalizado**
 >
 > Ao selecionar a opção "Personalizado", aparecerá uma nova opção abaixo com um ícone de calendário.
 >
-> ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+> ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 >
 > Ao clicar no ícone, o usuário pode escolher o período desejado, arrastando o mouse entre os dias do mês selecionado. Também é possível alterar a pesquisa para um ano específico.
 
