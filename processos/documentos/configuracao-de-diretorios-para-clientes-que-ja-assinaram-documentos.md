@@ -1,4 +1,4 @@
-# 🟪 Configuração de diretórios para clientes que já assinaram documentos
+# 🟪 Configuração de pastas para clientes que já assinaram processos
 
 ## Criação da estrutura de diretórios
 
