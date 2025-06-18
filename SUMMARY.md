@@ -49,7 +49,7 @@
     * [🔳 Métodos disponíveis na API](administracao/integracoes/api/metodos-disponiveis-na-api/README.md)
       * [🗃️ 1. Processo](administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/README.md)
         * [✔️ 1.1.POST/api/v2/processo/enviar-documento-para-assinar](administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar.md)
-        * [✔️ 1.2.GET/api/v2/processo/{idProcesso}?arquivoTipo =1](administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso-arquivotipo-1.md)
+        * [✔️ 1.2.GET/api/v2/processo/{idProcesso}?arquivoTipo =1](administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso.md)
         * [✔️ 1.3.PATCH/api/v2/processo/{idProcesso}/reenviar-processo](administracao/integracoes/api/metodos-disponiveis-na-api/patch-api-v2-processo-idprocesso-reenviar-processo.md)
         * [✔️ 1.4.GET/api/v1/processo/{idProcesso}/status-do-processo](administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo.md)
         * [✔️ 1.5.GET/api/v1/processo/{idprocesso}/dados-signatarios](administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.5.get-api-v1-processo-idprocesso-dados-signatarios.md)
