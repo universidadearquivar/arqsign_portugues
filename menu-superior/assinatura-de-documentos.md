@@ -52,11 +52,7 @@ Depois de conectado à conta, o usuário deve clicar no menu [Caixa Postal > Cai
 
 ## Assinando um documento
 
-```html
-<div style="position: relative; box-sizing: content-box; max-height: 80vh; max-height: 80svh; width: 100%; aspect-ratio: 2.0146904512067154; padding: 40px 0 40px 0;"><iframe src="https://app.supademo.com/embed/cm9tx1xdd0yye11m7ba626ov0?embed_v=2" loading="lazy" title="ASSINANDO UM DOCUMENTO" allow="clipboard-write" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-```
-
-Etapa 1 - Acessando o documento&#x20;
+## Etapa 1 - Acessando o documento&#x20;
 
 Se o remetente tiver definido um código de segurança para abertura do documento, será solicitado que o signatário informe o código, que deve ter sido recebido anteriormente por e-mail, WhatsApp, SMS ou pelo próprio remetente. Caso não possua o código o usuário deve clicar em “Não Recebi o Código”.&#x20;
 
