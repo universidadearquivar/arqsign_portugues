@@ -10,7 +10,7 @@
 
 Este menu permite ao cliente configurar Webhooks para acompanhar o andamento dos seus processos de assinaturas de documentos.
 
-<figure><img src="../../.gitbook/assets/image (295).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure>
 
 Conforme a configuração de Webhook realizada, o cliente recebe os dados de execução dos processos de assinatura por meio dos eventos/gatilhos.
 
