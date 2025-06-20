@@ -1,5 +1,7 @@
 # 👤 Meu Perfil
 
+{% embed url="https://app.supademo.com/demo/cm9sloyx50jvqdtm7gykornnb" %}
+
 No menu Meu Perfil são apresentadas as informações do usuário autenticado. &#x20;
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
