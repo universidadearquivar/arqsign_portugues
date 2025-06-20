@@ -1,5 +1,7 @@
 # 🗓️ Renovações
 
+{% embed url="https://app.supademo.com/demo/cm9tvtwmm0xzp11m7w9tlbdmf" %}
+
 No menu Renovações são apresentados todos os processos que foram cadastrados e enviados para assinatura com a opção “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-processo.md#a.-adicionar-documentos). Só podem ser exibidos nesta tela processos com o status “Concluído”.
 
 <figure><img src="../.gitbook/assets/image (411).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
