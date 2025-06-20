@@ -26,6 +26,8 @@ O acesso à pasta raiz do diretório é concedido a usuários que tenham sido de
 
 <figure><img src="../../.gitbook/assets/documentos2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% embed url="https://app.supademo.com/demo/cm9swgm2v09rs11m7f3s7rjoc" %}
+
 Na tela “Editar Permissões” clique no ícone “Incluir”. &#x20;
 
 <figure><img src="../../.gitbook/assets/documentos3.png" alt=""><figcaption></figcaption></figure>
