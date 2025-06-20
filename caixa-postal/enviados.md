@@ -6,6 +6,8 @@ Na caixa Enviados são apresentados todos os processos enviados pelo usuário pa
 
 <figure><img src="../.gitbook/assets/image (390).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% embed url="https://app.supademo.com/demo/cm9twgsqo0ykg11m7gzay0qbv" %}
+
 Ao clicar em um processo, será aberta a tela de visualização, que apresenta os arquivos enviados para assinatura, o status geral do processo e a data de vencimento. No canto direito da tela, são exibidas informações detalhadas dos signatários, como dados pessoais, papel atribuído no processo e status da assinatura.
 
 <figure><img src="../.gitbook/assets/alteracao2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
