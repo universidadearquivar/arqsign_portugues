@@ -580,8 +580,7 @@ Não. Ao final do período de testes, você mantém o acesso aos Processos com t
 
 <summary>Como funciona o teste grátis na ArqSign?</summary>
 
-Nós da ArqSign entendemos que para uma maior segurança e confiabilidade no produto, é de extrema importância realizar testes antes da compra. \
-Disponibilizamos avaliação gratuita durante 30 dias com 10 envios para os clientes se familiarizarem com a plataforma.
+Nós da ArqSign entendemos que para garantir maior segurança e confiabilidade no produto, é fundamental que nossos clientes possam testá-lo antes da compra. Por isso, disponibilizamos um **teste gratuito de 15 dias com envios ilimitados**, para que você possa se familiarizar totalmente com a plataforma.
 
 [Clique aqui](https://youtu.be/7X9ISarg45o) e assista ao vídeo explicativo.
 
