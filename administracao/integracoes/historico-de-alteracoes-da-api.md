@@ -8,6 +8,50 @@ icon: rectangle-history
 
 <details>
 
+<summary>2.19.0 - 02/07/2025</summary>
+
+**V1**
+
+[<mark style="color:blue;">**API de integração:**</mark> <mark style="color:blue;">**Método GET api/v1/processo/{idProcesso}/status-do-processo**</mark>](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo)
+
+Descrição: Buscar status do processo de assinaturas V1.
+
+Objetivo do Método: Este serviço permite aos Clientes, via API, buscar o status de um processo, não excluído logicamente.
+
+Alteração:
+
+* Retornar também o parâmetro `idStatus.`
+
+**V2**
+
+[<mark style="color:blue;">**API de integração: Método GET api/v2/processo/{idProcesso}?arquivoTipo =1\&retornarRegistroAssinatura=true**</mark>](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso-arquivotipo-1-and-retornarregistroassinatura-true#objetivo-do-metodo)
+
+Descrição: Buscar informações completas do processo de assinaturas V2 (metadados, signatários e documentos).
+
+Objetivo do Método: Este serviço permite aos Clientes, via API, buscar um processo (não excluído) com todos os seus dados, incluindo signatários e documentos associados.
+
+Alterações:
+
+* Adição do parâmetro `arquivoTipo` (1=Base64, 2=link de download).
+* Adição do parâmetro `retornarRegistroAssinatura` (inclui ou não o registro de assinatura).
+* Expansão do retorno com novos campos de processo, lembretes, dados completos de signatários e documentos.
+
+**V3**
+
+[<mark style="color:blue;">**API de integração: Método POST /api/v3/processo/enviar-documento-para-assinar**</mark>](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.1.post-api-v3-processo-enviar-documento-para-assinar)
+
+Descrição: Enviar processo e documentos para assinatura V3.
+
+Objetivo do Método: Este serviço permite aos Clientes, via API, enviar um ou mais documentos para assinatura, especificando responsáveis e destinatários.
+
+Alteração única em relação à V2:
+
+* Inclusão da opção `linkDocumento` — se informada, o documento será referenciado via link do repositório do cliente e **não** será enviado em Base64; caso **não** seja enviada essa tag, mantém-se o envio em Base64 como na V2.
+
+</details>
+
+<details>
+
 <summary>2.16.0 - 02/06/2025</summary>
 
 O foco desta versão está no retorno de dados dos endpoints abaixo:&#x20;
