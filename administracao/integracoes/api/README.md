@@ -2,7 +2,7 @@
 
 No menu API o cliente tem acesso as chaves necessárias para o gerenciamento e controle das requisições realizadas via API de integração.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **AppKey**
 
@@ -34,7 +34,7 @@ Ao clicar em "Gerar Par de Chaves", é exibida uma mensagem na tela de validaç�
 
 Para **regerar o par de chaves**, utilize o botão **"Gerar Par de Chaves".** Para **regerar apenas uma das chaves, utilize o** ícone de **"Regerar Chave"** considerando a chave 1 ou a 2.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Como passar a AppKey e a SubscriptionKey
 

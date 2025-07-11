@@ -20,7 +20,7 @@ Para isso acesse a tela [Administração > Usuários ](../../administracao/admin
 
 1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de processos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Pastas](./) acesse a [pasta raiz](./#pasta-raiz-de-diretorios) e clique no ícone “Incluir Pasta”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2\. Informe o nome do setor e clique em Salvar.
 

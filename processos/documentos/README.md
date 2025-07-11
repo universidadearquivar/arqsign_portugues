@@ -118,7 +118,7 @@ A Barra de Pesquisa permite que você busque documentos ou pastas de forma prát
 > **Campos de data:**\
 > Os campos de data têm um funcionamento específico. Eles apresentam períodos pré-definidos (conforme a imagem abaixo), mas também oferecem a opção de buscar por um **período personalizado**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Uso do período personalizado**
 >
@@ -181,7 +181,7 @@ c) Comercial – Outras funções com função de leitura (Perfil de Diretóri
 
 4\. Crie ou edite usuários e ajuste permissões de acesso conforme tabela abaixo. Clique na imagem para ampliar.
 
-<img src="../../.gitbook/assets/diretorios13.png" alt="" data-size="original">
+<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Permissões para Diretórios:**
 
